@@ -1,0 +1,3081 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "jsonName": "dev-404-page-5f9",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "7e0bd884fa74ec45fa16ed132eae50be",
+        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5": {
+      "resolve": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "d630b5b7bd60517408b2bf0604dd2302",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1fc32581-893a-55e8-8927-bcd667e2b700": {
+      "resolve": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "id": "1fc32581-893a-55e8-8927-bcd667e2b700",
+      "name": "load-babel-config",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "packageJson": {
+        "name": "load-babel-config",
+        "description": "Internal plugin that handles loading Babel configs",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "fd5ccd6dcbf3e2e3a6ee570fe5a198a3",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "a5079d69-ba80-53dc-82f9-0f440bd5448c": {
+      "resolve": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "a5079d69-ba80-53dc-82f9-0f440bd5448c",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "daf6d645c79b9b541973c3ce5d26ac61",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "f795702c-a3b8-5a88-88ee-5d06019d44fa": {
+      "resolve": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "12a8027c782cd1f793972338b9a37ab1",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84dad27f-1d44-51fc-ac56-4db2e5222995": {
+      "resolve": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "84dad27f-1d44-51fc-ac56-4db2e5222995",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "e6aa4e9d45e1b2e348015ebdce10e166",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "6f4b2fa9-66b5-5205-a03f-140005a2cfe5": {
+      "resolve": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "id": "6f4b2fa9-66b5-5205-a03f-140005a2cfe5",
+      "name": "webpack-theme-component-shadowing",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "packageJson": {
+        "name": "webpack-theme-component-shadowing",
+        "description": "An internal Gatsby plugin which handles configuring webpack to ensure theme components fall back from the user's site to theme modules.",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Chris Biscardi <chris@christopherbiscardi.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "a645ec74a1e7659c6275cd8d930c63a9",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "61517ec6-ba8e-5ee0-8e79-87c7d58e1112": {
+      "resolve": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/babel-preset-gatsby",
+      "id": "61517ec6-ba8e-5ee0-8e79-87c7d58e1112",
+      "name": "babel-preset-gatsby",
+      "version": "0.1.10",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/babel-preset-gatsby",
+      "packageJson": {
+        "name": "babel-preset-gatsby",
+        "description": "Gatsby uses the phenomenal project [Babel](https://babeljs.io/) to enable support for writing modern JavaScript — while still supporting older browsers. This package contains the default Babel setup for all Gatsby projects.",
+        "version": "0.1.10",
+        "main": "index.js",
+        "author": {
+          "name": "Philipp Spiess",
+          "email": "hello@philippspiess.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/plugin-proposal-class-properties",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/plugin-syntax-dynamic-import",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/plugin-transform-runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/preset-env",
+            "version": "^7.4.1"
+          },
+          {
+            "name": "@babel/preset-react",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-plugin-macros",
+            "version": "^2.4.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "400dfe8dafe9af4a397bf264c581ab5d",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1943ff2f-9c0c-558d-8d0c-006603e8106a": {
+      "resolve": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby-plugin-react-helmet",
+      "id": "1943ff2f-9c0c-558d-8d0c-006603e8106a",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "3.0.11",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
+        "version": "3.0.11",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "react-helmet",
+          "seo",
+          "document",
+          "head",
+          "title",
+          "meta",
+          "link",
+          "script",
+          "base",
+          "noscript",
+          "style"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "matthews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.1.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "247da9b4309fb7d4cfbb8cef834e7ed4",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "c36753d0-c9d0-51c3-bc78-cc044fcf1b0b": {
+      "resolve": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby-source-filesystem",
+      "id": "c36753d0-c9d0-51c3-bc78-cc044fcf1b0b",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.28",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "images",
+        "path": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/images"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.28",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "2.1.2"
+          },
+          {
+            "name": "file-type",
+            "version": "^10.2.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "read-chunk",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "4ffaa27f743e5e2d7db444bde10d459d",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "3caf6aa3-e15b-5493-a6b0-58d146a4eb73": {
+      "resolve": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby-source-filesystem",
+      "id": "3caf6aa3-e15b-5493-a6b0-58d146a4eb73",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.28",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "posts",
+        "path": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.28",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "2.1.2"
+          },
+          {
+            "name": "file-type",
+            "version": "^10.2.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "read-chunk",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "709de868491568d1dd2e45edb5080fb5",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "56b682e9-a352-52ee-a9b2-0f3caf06e4fc": {
+      "resolve": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby-source-filesystem",
+      "id": "56b682e9-a352-52ee-a9b2-0f3caf06e4fc",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.28",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "pages",
+        "path": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.28",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "2.1.2"
+          },
+          {
+            "name": "file-type",
+            "version": "^10.2.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "read-chunk",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "3fd962fce1ed980f4f02d324febf79cf",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "cee838e5-5039-5841-bcb7-eea4dd3b3ca6": {
+      "resolve": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby-plugin-postcss",
+      "id": "cee838e5-5039-5841-bcb7-eea4dd3b3ca6",
+      "name": "gatsby-plugin-postcss",
+      "version": "2.0.7",
+      "pluginOptions": {
+        "plugins": [],
+        "postCssPlugins": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "nodeAPIs": [
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby-plugin-postcss",
+      "packageJson": {
+        "name": "gatsby-plugin-postcss",
+        "description": "Gatsby plugin to handle PostCSS",
+        "version": "2.0.7",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "postcss"
+        ],
+        "author": {
+          "name": "Marat Dreizin",
+          "email": "marat.dreizin@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "postcss-loader",
+            "version": "^3.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "552d7eb4d5a1e267feebe7ff002a624b",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9": {
+      "resolve": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby-transformer-sharp",
+      "id": "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9",
+      "name": "gatsby-transformer-sharp",
+      "version": "2.1.17",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType",
+        "onPreExtractQueries"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby-transformer-sharp",
+      "packageJson": {
+        "name": "gatsby-transformer-sharp",
+        "description": "Gatsby transformer plugin for images using Sharp",
+        "version": "2.1.17",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.33"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.0-beta.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "a8609c664b293799a16a8df38210cc29",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84d6154d-4241-556c-a679-cc8339cac100": {
+      "resolve": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby-plugin-sharp",
+      "id": "84d6154d-4241-556c-a679-cc8339cac100",
+      "name": "gatsby-plugin-sharp",
+      "version": "2.0.32",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "2.0.32",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "imagemin",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-mozjpeg",
+            "version": "^8.0.0"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mini-svg-data-uri",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.3"
+          },
+          {
+            "name": "svgo",
+            "version": "^1.2.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "82ea138b8d4ed56a636a50a0e50bd8ea",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "2f384540-4043-5ea0-b981-d80b8de4f79b": {
+      "resolve": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby-transformer-remark",
+      "id": "2f384540-4043-5ea0-b981-d80b8de4f79b",
+      "name": "gatsby-transformer-remark",
+      "version": "2.3.8",
+      "pluginOptions": {
+        "plugins": [
+          {
+            "resolve": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby-remark-embed-video",
+            "id": "c29288cd-4665-5d32-a9f8-a48e32be2147",
+            "name": "gatsby-remark-embed-video",
+            "version": "1.7.1",
+            "pluginOptions": {
+              "plugins": [],
+              "related": false,
+              "noIframeBorder": true
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby-remark-embed-video"
+          },
+          {
+            "resolve": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby-remark-images",
+            "id": "d5c410e9-e500-58b3-8156-4b593a8b499c",
+            "name": "gatsby-remark-images",
+            "version": "3.0.10",
+            "pluginOptions": {
+              "plugins": [],
+              "maxWidth": 800,
+              "quality": 100,
+              "wrapperStyle": "",
+              "backgroundColor": "white",
+              "linkImagesToOriginal": true,
+              "showCaptions": false,
+              "pathPrefix": "",
+              "withWebp": false,
+              "tracedSVG": false
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [
+              "onRouteUpdate"
+            ],
+            "ssrAPIs": [],
+            "pluginFilepath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby-remark-images"
+          },
+          {
+            "resolve": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby-remark-prismjs",
+            "id": "d13151dc-fd64-50b0-b768-6beaa40f02ac",
+            "name": "gatsby-remark-prismjs",
+            "version": "3.2.6",
+            "pluginOptions": {
+              "plugins": [],
+              "classPrefix": "language-",
+              "inlineCodeMarker": null,
+              "aliases": {},
+              "showLineNumbers": false,
+              "noInlineHighlight": false
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby-remark-prismjs"
+          }
+        ]
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "2.3.8",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "hast-util-raw",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "mdast-util-to-string",
+            "version": "^1.0.5"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^9.0.0"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.18.2"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.5"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-remove-position",
+            "version": "^1.1.2"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.88"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "feccc5fde597023b47d25b604d0fc55c",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "c29288cd-4665-5d32-a9f8-a48e32be2147": {
+      "resolve": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby-remark-embed-video",
+      "id": "c29288cd-4665-5d32-a9f8-a48e32be2147",
+      "name": "gatsby-remark-embed-video",
+      "version": "1.7.1",
+      "pluginOptions": {
+        "plugins": [],
+        "related": false,
+        "noIframeBorder": true
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby-remark-embed-video",
+      "packageJson": {
+        "name": "gatsby-remark-embed-video",
+        "description": "Embed Videos (Youtube, Vimeo, VideoPress) in Gatsby via Markdown",
+        "version": "1.7.1",
+        "main": "dist/index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "remark"
+        ],
+        "author": {
+          "name": "Neal Bürger",
+          "email": "info@nealbuerger.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@types/node",
+            "version": "^11.11.3"
+          },
+          {
+            "name": "get-video-id",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.4.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "cross-env",
+            "version": "^5.2.0"
+          },
+          {
+            "name": "cz-conventional-changelog",
+            "version": "^2.1.0"
+          },
+          {
+            "name": "typescript",
+            "version": "^3.3.3333"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "ea21d4f3f919ef4f42f81b7d939169f9",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "d5c410e9-e500-58b3-8156-4b593a8b499c": {
+      "resolve": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby-remark-images",
+      "id": "d5c410e9-e500-58b3-8156-4b593a8b499c",
+      "name": "gatsby-remark-images",
+      "version": "3.0.10",
+      "pluginOptions": {
+        "plugins": [],
+        "maxWidth": 800,
+        "quality": 100,
+        "wrapperStyle": "",
+        "backgroundColor": "white",
+        "linkImagesToOriginal": true,
+        "showCaptions": false,
+        "pathPrefix": "",
+        "withWebp": false,
+        "tracedSVG": false
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [
+        "onRouteUpdate"
+      ],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby-remark-images",
+      "packageJson": {
+        "name": "gatsby-remark-images",
+        "description": "Processes images in markdown so they can be used in the production build.",
+        "version": "3.0.10",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "markdown",
+          "remark",
+          "responsive images"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mdast-util-definitions",
+            "version": "^1.2.0"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "query-string",
+            "version": "^6.1.0"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit-parents",
+            "version": "^2.0.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.0-beta.5"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "22e3a801fb429d63ba6f55088c5c6562",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "d13151dc-fd64-50b0-b768-6beaa40f02ac": {
+      "resolve": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby-remark-prismjs",
+      "id": "d13151dc-fd64-50b0-b768-6beaa40f02ac",
+      "name": "gatsby-remark-prismjs",
+      "version": "3.2.6",
+      "pluginOptions": {
+        "plugins": [],
+        "classPrefix": "language-",
+        "inlineCodeMarker": null,
+        "aliases": {},
+        "showLineNumbers": false,
+        "noInlineHighlight": false
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby-remark-prismjs",
+      "packageJson": {
+        "name": "gatsby-remark-prismjs",
+        "description": "Adds syntax highlighting to code blocks at build time using PrismJS",
+        "version": "3.2.6",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "prismjs",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "parse-numeric-range",
+            "version": "^0.0.2"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          },
+          {
+            "name": "prismjs",
+            "version": "^1.15.0"
+          },
+          {
+            "name": "remark",
+            "version": "^9.0.0"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "prismjs",
+            "version": "^1.15.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "4017bc2e0f6502ebf0928a6020fc2def",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "2dd3a0e9-ef63-53c9-8d59-7c5fcf2fea21": {
+      "resolve": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby-plugin-manifest",
+      "id": "2dd3a0e9-ef63-53c9-8d59-7c5fcf2fea21",
+      "name": "gatsby-plugin-manifest",
+      "version": "2.0.25",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "gatsby-starter-hello-friend",
+        "short_name": "hello-friend",
+        "start_url": "/",
+        "background_color": "#292a2d",
+        "theme_color": "#292a2d",
+        "display": "minimal-ui",
+        "icon": "src/images/hello-icon.png"
+      },
+      "nodeAPIs": [
+        "onPostBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby-plugin-manifest",
+      "packageJson": {
+        "name": "gatsby-plugin-manifest",
+        "description": "Gatsby plugin which adds a manifest.webmanifest to make sites progressive web apps",
+        "version": "2.0.25",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "icons",
+          "manifest.webmanifest",
+          "progressive-web-app",
+          "pwa"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.15"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "38b96fa9efc88391169cbdc3556dc5e6",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "7374ebf2-d961-52ee-92a2-c25e7cb387a9": {
+      "resolve": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io",
+      "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "name": "default-site-plugin",
+      "version": "731e5cc127d1931fc87a94695ea34662",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages",
+        "sourceNodes"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io",
+      "packageJson": {
+        "name": "gatsby-starter-hello-friend",
+        "description": "A simple starter for Gatsby. That's it.",
+        "version": "0.2.0",
+        "keywords": [
+          "gatsby",
+          "minimal",
+          "starter",
+          "blog",
+          "theme",
+          "dark",
+          "light",
+          "personal site"
+        ],
+        "author": "Radek Kozieł <radoslaw.koziel@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.76"
+          },
+          {
+            "name": "gatsby-awesome-pagination",
+            "version": "^0.3.3"
+          },
+          {
+            "name": "gatsby-image",
+            "version": "^2.0.20"
+          },
+          {
+            "name": "gatsby-plugin-manifest",
+            "version": "^2.0.9"
+          },
+          {
+            "name": "gatsby-plugin-offline",
+            "version": "^2.0.16"
+          },
+          {
+            "name": "gatsby-plugin-postcss",
+            "version": "^2.0.2"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^3.0.2"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.17"
+          },
+          {
+            "name": "gatsby-remark-images",
+            "version": "^3.0.1"
+          },
+          {
+            "name": "gatsby-remark-prismjs",
+            "version": "^3.2.0"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^2.0.8"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^2.1.19"
+          },
+          {
+            "name": "gatsby-transformer-sharp",
+            "version": "^2.1.8"
+          },
+          {
+            "name": "prismjs",
+            "version": "^1.15.0"
+          },
+          {
+            "name": "prop-types",
+            "version": "^15.6.2"
+          },
+          {
+            "name": "react",
+            "version": "^16.8.0"
+          },
+          {
+            "name": "react-dom",
+            "version": "^16.8.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/plugin-proposal-nullish-coalescing-operator",
+            "version": "^7.2.0"
+          },
+          {
+            "name": "@babel/plugin-proposal-optional-chaining",
+            "version": "^7.2.0"
+          },
+          {
+            "name": "babel-eslint",
+            "version": "^10.0.1"
+          },
+          {
+            "name": "babel-preset-gatsby",
+            "version": "^0.1.6"
+          },
+          {
+            "name": "cssnano",
+            "version": "^4.1.8"
+          },
+          {
+            "name": "eslint",
+            "version": "^5.12.0"
+          },
+          {
+            "name": "eslint-config-airbnb",
+            "version": "^17.1.0"
+          },
+          {
+            "name": "eslint-config-prettier",
+            "version": "^3.3.0"
+          },
+          {
+            "name": "eslint-plugin-import",
+            "version": "^2.14.0"
+          },
+          {
+            "name": "eslint-plugin-jsx-a11y",
+            "version": "^6.1.2"
+          },
+          {
+            "name": "eslint-plugin-react",
+            "version": "^7.12.3"
+          },
+          {
+            "name": "eslint-plugin-react-hooks",
+            "version": "^1.4.0"
+          },
+          {
+            "name": "gatsby-remark-embed-video",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "postcss-import",
+            "version": "^12.0.1"
+          },
+          {
+            "name": "postcss-loader",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "postcss-mixins",
+            "version": "^6.2.1"
+          },
+          {
+            "name": "postcss-nested",
+            "version": "^4.1.1"
+          },
+          {
+            "name": "postcss-preset-env",
+            "version": "^6.5.0"
+          },
+          {
+            "name": "postcss-url",
+            "version": "^8.0.0"
+          },
+          {
+            "name": "prettier",
+            "version": "^1.15.2"
+          },
+          {
+            "name": "rambdax",
+            "version": "^1.8.0"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "b618334a4be2f41797a8f85f2859680b",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "d3a8ae0e-f225-5f55-a752-afb0fa8d4e1e": {
+      "resolve": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby-plugin-page-creator",
+      "id": "d3a8ae0e-f225-5f55-a752-afb0fa8d4e1e",
+      "name": "gatsby-plugin-page-creator",
+      "version": "2.1.46",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages",
+        "pathCheck": false
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby-plugin-page-creator",
+      "packageJson": {
+        "name": "gatsby-plugin-page-creator",
+        "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
+        "version": "2.1.46",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.7.2"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "gatsby-page-utils",
+            "version": "^0.0.45"
+          },
+          {
+            "name": "glob",
+            "version": "^7.1.6"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.15"
+          },
+          {
+            "name": "micromatch",
+            "version": "^3.1.10"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.8.4"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.8.7"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.2.18"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.2.1"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "c75afa26a15fc04b3ad63c43b0d8925b",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "Hello Friend",
+        "description": "A simple starter for Gatsby. That's it.",
+        "copyrights": "",
+        "author": "@panr",
+        "logo": {
+          "src": "",
+          "alt": ""
+        },
+        "logoText": "hello friend",
+        "defaultTheme": "dark",
+        "postsPerPage": 5,
+        "showMenuItems": 2,
+        "menuMoreText": "Show more",
+        "mainMenu": [
+          {
+            "title": "About",
+            "path": "/about"
+          },
+          {
+            "title": "Showcase",
+            "path": "/showcase"
+          },
+          {
+            "title": "Example",
+            "path": "/example"
+          }
+        ]
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2020-03-18T14:48:03.465Z",
+      "id": "Site",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "1c75f124cfa0e6acda98c5139b9b3885",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "e47132b7-f986-5d53-8273-c84f9e5d1d12": {
+      "id": "e47132b7-f986-5d53-8273-c84f9e5d1d12",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "36e413be7316fbc88ea7ba48695e1a29",
+        "type": "Directory",
+        "description": "Directory \"src/images\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/images",
+      "relativePath": "",
+      "extension": "",
+      "size": 128,
+      "prettySize": "128 B",
+      "modifiedTime": "2020-03-10T12:15:13.354Z",
+      "accessTime": "2020-03-18T14:48:10.537Z",
+      "changeTime": "2020-03-18T14:43:11.525Z",
+      "birthTime": "2020-03-10T12:15:13.352Z",
+      "root": "/",
+      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "..",
+      "dev": 16777221,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 23497142,
+      "blocks": 0,
+      "atimeMs": 1584542890536.8855,
+      "mtimeMs": 1583842513354.4395,
+      "ctimeMs": 1584542591524.5603,
+      "birthtimeMs": 1583842513352.2805,
+      "atime": "2020-03-18T14:48:10.537Z",
+      "mtime": "2020-03-10T12:15:13.354Z",
+      "ctime": "2020-03-18T14:43:11.525Z",
+      "birthtime": "2020-03-10T12:15:13.352Z"
+    },
+    "b9ff85b0-48b8-5c93-9d2a-6526ba08f73a": {
+      "id": "b9ff85b0-48b8-5c93-9d2a-6526ba08f73a",
+      "children": [
+        "93ac1f1a-65de-5610-9868-e6ffd384e9d8"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "20d2ef53a71d2dd13985c679b0f8e708",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/hello-icon.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/images/hello-icon.png",
+      "relativePath": "hello-icon.png",
+      "extension": "png",
+      "size": 8622,
+      "prettySize": "8.62 kB",
+      "modifiedTime": "2020-03-10T12:15:13.354Z",
+      "accessTime": "2020-03-18T14:48:10.537Z",
+      "changeTime": "2020-03-18T14:43:11.524Z",
+      "birthTime": "2020-03-10T12:15:13.353Z",
+      "root": "/",
+      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/images",
+      "base": "hello-icon.png",
+      "ext": ".png",
+      "name": "hello-icon",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 23497144,
+      "blocks": 24,
+      "atimeMs": 1584542890537.0442,
+      "mtimeMs": 1583842513353.8252,
+      "ctimeMs": 1584542591524.4731,
+      "birthtimeMs": 1583842513353.0342,
+      "atime": "2020-03-18T14:48:10.537Z",
+      "mtime": "2020-03-10T12:15:13.354Z",
+      "ctime": "2020-03-18T14:43:11.524Z",
+      "birthtime": "2020-03-10T12:15:13.353Z"
+    },
+    "93ac1f1a-65de-5610-9868-e6ffd384e9d8": {
+      "id": "93ac1f1a-65de-5610-9868-e6ffd384e9d8",
+      "children": [],
+      "parent": "b9ff85b0-48b8-5c93-9d2a-6526ba08f73a",
+      "internal": {
+        "contentDigest": "20d2ef53a71d2dd13985c679b0f8e708",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "f11fc279-a310-57f8-816d-04975c1ee5ef": {
+      "id": "f11fc279-a310-57f8-816d-04975c1ee5ef",
+      "children": [
+        "75e47675-a295-5916-ae49-b139de6f4663"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "6871f6b27b75646eb567bc25cd7d7d24",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"src/images/hello.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/images/hello.jpg",
+      "relativePath": "hello.jpg",
+      "extension": "jpg",
+      "size": 77622,
+      "prettySize": "77.6 kB",
+      "modifiedTime": "2020-03-10T12:15:13.356Z",
+      "accessTime": "2020-03-18T14:48:10.537Z",
+      "changeTime": "2020-03-18T14:43:11.524Z",
+      "birthTime": "2020-03-10T12:15:13.354Z",
+      "root": "/",
+      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/images",
+      "base": "hello.jpg",
+      "ext": ".jpg",
+      "name": "hello",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 23497143,
+      "blocks": 152,
+      "atimeMs": 1584542890537.0566,
+      "mtimeMs": 1583842513355.7498,
+      "ctimeMs": 1584542591524.033,
+      "birthtimeMs": 1583842513354.4292,
+      "atime": "2020-03-18T14:48:10.537Z",
+      "mtime": "2020-03-10T12:15:13.356Z",
+      "ctime": "2020-03-18T14:43:11.524Z",
+      "birthtime": "2020-03-10T12:15:13.354Z"
+    },
+    "75e47675-a295-5916-ae49-b139de6f4663": {
+      "id": "75e47675-a295-5916-ae49-b139de6f4663",
+      "children": [],
+      "parent": "f11fc279-a310-57f8-816d-04975c1ee5ef",
+      "internal": {
+        "contentDigest": "6871f6b27b75646eb567bc25cd7d7d24",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "ce8abe93-5cc2-5977-a45d-fee31bcb21c3": {
+      "id": "ce8abe93-5cc2-5977-a45d-fee31bcb21c3",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "bd89d8dfae26dc660c2fbc61a71bca14",
+        "type": "Directory",
+        "description": "Directory \"src/posts\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts",
+      "relativePath": "",
+      "extension": "",
+      "size": 128,
+      "prettySize": "128 B",
+      "modifiedTime": "2020-03-10T12:15:13.358Z",
+      "accessTime": "2020-03-18T14:48:10.550Z",
+      "changeTime": "2020-03-18T14:43:11.523Z",
+      "birthTime": "2020-03-10T12:15:13.358Z",
+      "root": "/",
+      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src",
+      "base": "posts",
+      "ext": "",
+      "name": "posts",
+      "relativeDirectory": "..",
+      "dev": 16777221,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 23497139,
+      "blocks": 0,
+      "atimeMs": 1584542890549.7349,
+      "mtimeMs": 1583842513358.0452,
+      "ctimeMs": 1584542591523.3687,
+      "birthtimeMs": 1583842513357.7473,
+      "atime": "2020-03-18T14:48:10.550Z",
+      "mtime": "2020-03-10T12:15:13.358Z",
+      "ctime": "2020-03-18T14:43:11.523Z",
+      "birthtime": "2020-03-10T12:15:13.358Z"
+    },
+    "677d53b6-10a0-5256-877c-13757aa4001f": {
+      "id": "677d53b6-10a0-5256-877c-13757aa4001f",
+      "children": [
+        "8864d128-c7cb-575d-98f5-a01b99790431"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "24f5531fb425b5e7b535c5e9aa0f1dbd",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/posts/hello.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/hello.md",
+      "relativePath": "hello.md",
+      "extension": "md",
+      "size": 488,
+      "prettySize": "488 B",
+      "modifiedTime": "2020-03-10T12:15:13.358Z",
+      "accessTime": "2020-03-18T14:46:24.756Z",
+      "changeTime": "2020-03-18T14:43:11.523Z",
+      "birthTime": "2020-03-10T12:15:13.358Z",
+      "root": "/",
+      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts",
+      "base": "hello.md",
+      "ext": ".md",
+      "name": "hello",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 23497141,
+      "blocks": 8,
+      "atimeMs": 1584542784755.868,
+      "mtimeMs": 1583842513358.2175,
+      "ctimeMs": 1584542591523.281,
+      "birthtimeMs": 1583842513358.0396,
+      "atime": "2020-03-18T14:46:24.756Z",
+      "mtime": "2020-03-10T12:15:13.358Z",
+      "ctime": "2020-03-18T14:43:11.523Z",
+      "birthtime": "2020-03-10T12:15:13.358Z"
+    },
+    "0610ca7f-4378-5886-9b35-18fc42aac76a": {
+      "id": "0610ca7f-4378-5886-9b35-18fc42aac76a",
+      "children": [
+        "acb3c1bd-803a-5a55-8236-eafaba648440"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "5f54eb45873d30fdaa9920393b1d6112",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/posts/example.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/example.md",
+      "relativePath": "example.md",
+      "extension": "md",
+      "size": 1999,
+      "prettySize": "2 kB",
+      "modifiedTime": "2020-03-10T12:15:13.358Z",
+      "accessTime": "2020-03-18T14:46:23.829Z",
+      "changeTime": "2020-03-18T14:43:11.523Z",
+      "birthTime": "2020-03-10T12:15:13.358Z",
+      "root": "/",
+      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts",
+      "base": "example.md",
+      "ext": ".md",
+      "name": "example",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 23497140,
+      "blocks": 8,
+      "atimeMs": 1584542783828.937,
+      "mtimeMs": 1583842513357.9744,
+      "ctimeMs": 1584542591522.8184,
+      "birthtimeMs": 1583842513357.8389,
+      "atime": "2020-03-18T14:46:23.829Z",
+      "mtime": "2020-03-10T12:15:13.358Z",
+      "ctime": "2020-03-18T14:43:11.523Z",
+      "birthtime": "2020-03-10T12:15:13.358Z"
+    },
+    "8864d128-c7cb-575d-98f5-a01b99790431": {
+      "id": "8864d128-c7cb-575d-98f5-a01b99790431",
+      "children": [],
+      "parent": "677d53b6-10a0-5256-877c-13757aa4001f",
+      "internal": {
+        "content": "\n> \"Hello, friend?\" That's lame. Maybe I should give you a name...\\\n> But that's a slippery slope.\\\n> You're only in my head.\\\n> We have to remember that...\\\n> Shit.\\\n> It's actually happened.\\\n> I'm talking to an imaginary person.\n>\n> **— Mr. Robot S01E01**\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "da80846e68cd2f662c3304fa711d29db",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Hello Friend",
+        "path": "/hello",
+        "date": "2019-01-17",
+        "coverImage": "../images/hello.jpg",
+        "author": "Elliot",
+        "excerpt": "\"Hello, friend?\" That's lame. Maybe I should give you a name...",
+        "tags": [
+          "rob____ot",
+          "hello friend"
+        ]
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n> \"Hello, friend?\" That's lame. Maybe I should give you a name...\\\n> But that's a slippery slope.\\\n> You're only in my head.\\\n> We have to remember that...\\\n> Shit.\\\n> It's actually happened.\\\n> I'm talking to an imaginary person.\n>\n> **— Mr. Robot S01E01**\n",
+      "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/hello.md"
+    },
+    "acb3c1bd-803a-5a55-8236-eafaba648440": {
+      "id": "acb3c1bd-803a-5a55-8236-eafaba648440",
+      "children": [],
+      "parent": "0610ca7f-4378-5886-9b35-18fc42aac76a",
+      "internal": {
+        "content": "\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante.\n\n| Tables        |      Are      |   Cool |\n| ------------- | :-----------: | -----: |\n| col 3 is      | right-aligned | \\$1600 |\n| col 2 is      |   centered    |   \\$12 |\n| zebra stripes |   are neat    |    \\$1 |\n\n**Donec quis dolor nec nunc mollis interdum vel in purus**. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.\n\n> Fusce pharetra suscipit orci nec tempor. Quisque vitae sem sit amet sem mollis consequat. Sed at imperdiet lorem. Vestibulum pharetra faucibus odio, ac feugiat tellus sollicitudin at. Pellentesque varius tristique mi imperdiet dapibus. Duis orci odio, sodales lacinia venenatis sit amet, feugiat et diam.\n\nSed a leo id risus venenatis vulputate non quis nulla. Aenean nisl quam, lacinia pulvinar orci sit amet, eleifend eleifend dui. Nulla tempor ligula leo, eu vehicula quam condimentum a. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla gravida tristique nunc sed semper. Morbi nec felis odio.\n\n- Sed efficitur, lacus ac scelerisque pellentesque, lectus risus dignissim nisl, fermentum semper lectus diam eget lacus.\n- Nunc ornare purus enim, id eleifend mauris vestibulum volutpat.\n- Aenean facilisis ut ipsum condimentum ultrices.\n- Fusce sed metus vulputate, lobortis purus et, finibus purus. Suspendisse quis posuere lorem. Vivamus vulputate nec risus in pulvinar.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "77ee4541214a8e588c8e41d134dc727d",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Example",
+        "date": "2017-01-02",
+        "path": "/example",
+        "author": "Lorem Ipsum",
+        "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante."
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante.\n\n| Tables        |      Are      |   Cool |\n| ------------- | :-----------: | -----: |\n| col 3 is      | right-aligned | \\$1600 |\n| col 2 is      |   centered    |   \\$12 |\n| zebra stripes |   are neat    |    \\$1 |\n\n**Donec quis dolor nec nunc mollis interdum vel in purus**. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.\n\n> Fusce pharetra suscipit orci nec tempor. Quisque vitae sem sit amet sem mollis consequat. Sed at imperdiet lorem. Vestibulum pharetra faucibus odio, ac feugiat tellus sollicitudin at. Pellentesque varius tristique mi imperdiet dapibus. Duis orci odio, sodales lacinia venenatis sit amet, feugiat et diam.\n\nSed a leo id risus venenatis vulputate non quis nulla. Aenean nisl quam, lacinia pulvinar orci sit amet, eleifend eleifend dui. Nulla tempor ligula leo, eu vehicula quam condimentum a. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla gravida tristique nunc sed semper. Morbi nec felis odio.\n\n- Sed efficitur, lacus ac scelerisque pellentesque, lectus risus dignissim nisl, fermentum semper lectus diam eget lacus.\n- Nunc ornare purus enim, id eleifend mauris vestibulum volutpat.\n- Aenean facilisis ut ipsum condimentum ultrices.\n- Fusce sed metus vulputate, lobortis purus et, finibus purus. Suspendisse quis posuere lorem. Vivamus vulputate nec risus in pulvinar.\n",
+      "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/example.md"
+    },
+    "03add71b-a87d-57a2-a85a-0d062e494d24": {
+      "id": "03add71b-a87d-57a2-a85a-0d062e494d24",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "1362b6602d78b19ae445032f721c7df0",
+        "type": "Directory",
+        "description": "Directory \"src/pages\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages",
+      "relativePath": "",
+      "extension": "",
+      "size": 160,
+      "prettySize": "160 B",
+      "modifiedTime": "2020-03-10T12:15:13.358Z",
+      "accessTime": "2020-03-18T14:48:10.590Z",
+      "changeTime": "2020-03-18T14:43:11.536Z",
+      "birthTime": "2020-03-10T12:15:13.357Z",
+      "root": "/",
+      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src",
+      "base": "pages",
+      "ext": "",
+      "name": "pages",
+      "relativeDirectory": "..",
+      "dev": 16777221,
+      "mode": 16877,
+      "nlink": 5,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 23497169,
+      "blocks": 0,
+      "atimeMs": 1584542890590.4575,
+      "mtimeMs": 1583842513357.5461,
+      "ctimeMs": 1584542591535.5718,
+      "birthtimeMs": 1583842513356.7083,
+      "atime": "2020-03-18T14:48:10.590Z",
+      "mtime": "2020-03-10T12:15:13.358Z",
+      "ctime": "2020-03-18T14:43:11.536Z",
+      "birthtime": "2020-03-10T12:15:13.357Z"
+    },
+    "2a841927-8eee-5ab1-8e09-90df6a1a4cc6": {
+      "id": "2a841927-8eee-5ab1-8e09-90df6a1a4cc6",
+      "children": [
+        "e58fc77a-21af-5819-a464-2eda9b87edd1"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "a6383c1092245078b5e7a5f2dd210193",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/showcase.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/showcase.md",
+      "relativePath": "showcase.md",
+      "extension": "md",
+      "size": 3613,
+      "prettySize": "3.61 kB",
+      "modifiedTime": "2020-03-10T12:15:13.358Z",
+      "accessTime": "2020-03-18T14:46:28.670Z",
+      "changeTime": "2020-03-18T14:43:11.534Z",
+      "birthTime": "2020-03-10T12:15:13.358Z",
+      "root": "/",
+      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages",
+      "base": "showcase.md",
+      "ext": ".md",
+      "name": "showcase",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 23497170,
+      "blocks": 8,
+      "atimeMs": 1584542788670.1536,
+      "mtimeMs": 1583842513357.671,
+      "ctimeMs": 1584542591533.7532,
+      "birthtimeMs": 1583842513357.5403,
+      "atime": "2020-03-18T14:46:28.670Z",
+      "mtime": "2020-03-10T12:15:13.358Z",
+      "ctime": "2020-03-18T14:43:11.534Z",
+      "birthtime": "2020-03-10T12:15:13.358Z"
+    },
+    "fb3fc354-1d0c-55fe-84d5-98b57d118ed8": {
+      "id": "fb3fc354-1d0c-55fe-84d5-98b57d118ed8",
+      "children": [
+        "66b77a2e-a497-5fbb-91b5-82c6b7d7454b"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "f4e25e3ad0018a1f576a6f215117ebf1",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/about.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/about.md",
+      "relativePath": "about.md",
+      "extension": "md",
+      "size": 1649,
+      "prettySize": "1.65 kB",
+      "modifiedTime": "2020-03-18T14:58:40.674Z",
+      "accessTime": "2020-03-18T14:58:40.673Z",
+      "changeTime": "2020-03-18T14:58:40.674Z",
+      "birthTime": "2020-03-10T12:15:13.357Z",
+      "root": "/",
+      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages",
+      "base": "about.md",
+      "ext": ".md",
+      "name": "about",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 23497172,
+      "blocks": 8,
+      "atimeMs": 1584543520673.1758,
+      "mtimeMs": 1584543520673.978,
+      "ctimeMs": 1584543520673.978,
+      "birthtimeMs": 1583842513357.155,
+      "atime": "2020-03-18T14:58:40.673Z",
+      "mtime": "2020-03-18T14:58:40.674Z",
+      "ctime": "2020-03-18T14:58:40.674Z",
+      "birthtime": "2020-03-10T12:15:13.357Z"
+    },
+    "50894b6d-17c8-5508-8578-534b48b3d696": {
+      "id": "50894b6d-17c8-5508-8578-534b48b3d696",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "dd70ab2f27f14ef3afbbb2450e1f0254",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/pages/404.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/404.js",
+      "relativePath": "404.js",
+      "extension": "js",
+      "size": 318,
+      "prettySize": "318 B",
+      "modifiedTime": "2020-03-10T12:15:13.357Z",
+      "accessTime": "2020-03-18T14:44:54.284Z",
+      "changeTime": "2020-03-18T14:43:11.534Z",
+      "birthTime": "2020-03-10T12:15:13.357Z",
+      "root": "/",
+      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages",
+      "base": "404.js",
+      "ext": ".js",
+      "name": "404",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 23497171,
+      "blocks": 8,
+      "atimeMs": 1584542694283.8318,
+      "mtimeMs": 1583842513357.032,
+      "ctimeMs": 1584542591534.4924,
+      "birthtimeMs": 1583842513356.8452,
+      "atime": "2020-03-18T14:44:54.284Z",
+      "mtime": "2020-03-10T12:15:13.357Z",
+      "ctime": "2020-03-18T14:43:11.534Z",
+      "birthtime": "2020-03-10T12:15:13.357Z"
+    },
+    "e58fc77a-21af-5819-a464-2eda9b87edd1": {
+      "id": "e58fc77a-21af-5819-a464-2eda9b87edd1",
+      "children": [],
+      "parent": "2a841927-8eee-5ab1-8e09-90df6a1a4cc6",
+      "internal": {
+        "content": "\n## Header 2\n\nBackup two-step verification breach, anonymous terminal traffic worm virus reboot fsociety dat file. Traffic fsociety malware 100 terabytes system hack, delete brute-force cyber security fiber connection connect code worm wipe. Cyber security off the grid delete IP decrypt, **nodes connect password 100 terabytes RUDY attack malicious code** rootkit gigabit speed. Tor connect network, intercepting traffic off the grid IP protocol password.\n\n> Backup DDoS attack rootkit nodes disconnect website. Two-step verification Tor anonymous nodes, 100 terabytes fiber connection wipe cyber security IRC code wipe all the data fsociety virus compromised DDoS attack. Sys admin data center gigabit speed breach, worm DDoS attack AFK nodes.\n\n### Header 3\n\nBrute-force intercepting traffic fiber connection system boot up fsociety reboot AFK sys admin. Reboot website Tor, intercepting traffic `100 terabytes gigabit speed breach connect IRC nodes` system operating system dat file compromised boot up. Data center decrypt password network disconnect. Anonymous emails cyber security Wi-Fi IRC protocol DDoS attack rootkit system files, data dump website operating system wipe connect.\n\n```css\n/* PostCSS code by PrismJS */\n\npre {\n  background: #1a1a1d;\n  padding: 20px;\n  border-radius: 8px;\n  font-size: 1rem;\n  overflow: auto;\n\n  @media (--phone) {\n    white-space: pre-wrap;\n    word-wrap: break-word;\n  }\n\n  code {\n    background: none !important;\n    color: #ccc;\n    padding: 0;\n    font-size: inherit;\n\n    .dark-theme & {\n      color: inherit;\n    }\n  }\n}\n```\n\n```js\n// JS code by PrismJS\n\nconst menuTrigger = document.querySelector('.menu-trigger')\nconst menu = document.querySelector('.menu')\nconst mobileQuery = getComputedStyle(document.body).getPropertyValue('--phoneWidth')\nconst isMobile = () => window.matchMedia(mobileQuery).matches\nconst isMobileMenu = () => {\n  menuTrigger.classList.toggle('hidden', !isMobile())\n  menu.classList.toggle('hidden', isMobile())\n}\n\nisMobileMenu()\n\nmenuTrigger.addEventListener('click', () => menu.classList.toggle('hidden'))\n\nwindow.addEventListener('resize', isMobileMenu)\n```\n\n```html\n<section id=\"main\">\n  <div>\n   <h1 id=\"title\">{{ .Title }}</h1>\n    {{ range .Pages }}\n        {{ .Render \"summary\"}}\n    {{ end }}\n  </div>\n</section>\n```\n\n#### Header 4\n\nTraffic RUDY attack nodes anonymous IP network code two-step verification system files data center bonsoir terminal. Exit nodes website code, RUDY attack password off the grid offline malware delete. Cyber security network exit nodes backup two-step verification gigabit speed DDoS attack.\n\n- Fsociety delete malicious code nodes.\n- IP cyber security wipe all the data sys admin virus compromised dat file malicious code computer.\n- Decrypt two-step verification Tor wipe, password cyber security data dump malicious code dat file routing protocol operating system.\n- Anonymous boot up website AFK.\n  - Timing out IP DNS, log file offline terminal brute-force system files connect server farm.\n  - Reboot sys admin worm log file wipe.\n\n`youtube: xIBiJ_SzJTA`\n\nTor boot up backup anonymous bonsoir IRC website. Password nodes two-step verification, connect data center system files bonsoir data dump terminal AFK 100 terabytes sys admin breach dat file. Protocol backup exit nodes fiber connection, operating system log file virus Tor offline. Password data center two-step verification disconnect IRC terminal. Tor IRC cyber security AFK protocol traffic disconnect. Code exit nodes IRC cyber security nodes worm.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "302b68c0bff2cd55f7685c46b5aaf41a",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Showcase",
+        "date": "2018-07-17",
+        "author": "Hello Robot",
+        "path": "/showcase"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n## Header 2\n\nBackup two-step verification breach, anonymous terminal traffic worm virus reboot fsociety dat file. Traffic fsociety malware 100 terabytes system hack, delete brute-force cyber security fiber connection connect code worm wipe. Cyber security off the grid delete IP decrypt, **nodes connect password 100 terabytes RUDY attack malicious code** rootkit gigabit speed. Tor connect network, intercepting traffic off the grid IP protocol password.\n\n> Backup DDoS attack rootkit nodes disconnect website. Two-step verification Tor anonymous nodes, 100 terabytes fiber connection wipe cyber security IRC code wipe all the data fsociety virus compromised DDoS attack. Sys admin data center gigabit speed breach, worm DDoS attack AFK nodes.\n\n### Header 3\n\nBrute-force intercepting traffic fiber connection system boot up fsociety reboot AFK sys admin. Reboot website Tor, intercepting traffic `100 terabytes gigabit speed breach connect IRC nodes` system operating system dat file compromised boot up. Data center decrypt password network disconnect. Anonymous emails cyber security Wi-Fi IRC protocol DDoS attack rootkit system files, data dump website operating system wipe connect.\n\n```css\n/* PostCSS code by PrismJS */\n\npre {\n  background: #1a1a1d;\n  padding: 20px;\n  border-radius: 8px;\n  font-size: 1rem;\n  overflow: auto;\n\n  @media (--phone) {\n    white-space: pre-wrap;\n    word-wrap: break-word;\n  }\n\n  code {\n    background: none !important;\n    color: #ccc;\n    padding: 0;\n    font-size: inherit;\n\n    .dark-theme & {\n      color: inherit;\n    }\n  }\n}\n```\n\n```js\n// JS code by PrismJS\n\nconst menuTrigger = document.querySelector('.menu-trigger')\nconst menu = document.querySelector('.menu')\nconst mobileQuery = getComputedStyle(document.body).getPropertyValue('--phoneWidth')\nconst isMobile = () => window.matchMedia(mobileQuery).matches\nconst isMobileMenu = () => {\n  menuTrigger.classList.toggle('hidden', !isMobile())\n  menu.classList.toggle('hidden', isMobile())\n}\n\nisMobileMenu()\n\nmenuTrigger.addEventListener('click', () => menu.classList.toggle('hidden'))\n\nwindow.addEventListener('resize', isMobileMenu)\n```\n\n```html\n<section id=\"main\">\n  <div>\n   <h1 id=\"title\">{{ .Title }}</h1>\n    {{ range .Pages }}\n        {{ .Render \"summary\"}}\n    {{ end }}\n  </div>\n</section>\n```\n\n#### Header 4\n\nTraffic RUDY attack nodes anonymous IP network code two-step verification system files data center bonsoir terminal. Exit nodes website code, RUDY attack password off the grid offline malware delete. Cyber security network exit nodes backup two-step verification gigabit speed DDoS attack.\n\n- Fsociety delete malicious code nodes.\n- IP cyber security wipe all the data sys admin virus compromised dat file malicious code computer.\n- Decrypt two-step verification Tor wipe, password cyber security data dump malicious code dat file routing protocol operating system.\n- Anonymous boot up website AFK.\n  - Timing out IP DNS, log file offline terminal brute-force system files connect server farm.\n  - Reboot sys admin worm log file wipe.\n\n`youtube: xIBiJ_SzJTA`\n\nTor boot up backup anonymous bonsoir IRC website. Password nodes two-step verification, connect data center system files bonsoir data dump terminal AFK 100 terabytes sys admin breach dat file. Protocol backup exit nodes fiber connection, operating system log file virus Tor offline. Password data center two-step verification disconnect IRC terminal. Tor IRC cyber security AFK protocol traffic disconnect. Code exit nodes IRC cyber security nodes worm.\n",
+      "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/showcase.md"
+    },
+    "SitePage /": {
+      "jsonName": "index",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/index.js",
+      "componentChunkName": "component---src-templates-index-js",
+      "isCreatedByStatefulCreatePages": false,
+      "context": {
+        "pageNumber": 0,
+        "humanPageNumber": 1,
+        "skip": 0,
+        "limit": 5,
+        "numberOfPages": 1,
+        "previousPagePath": "",
+        "nextPagePath": ""
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/index.js",
+      "id": "SitePage /",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e25a14528998544bedc15686f8163398",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /about": {
+      "jsonName": "about-771",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about",
+      "component": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/page.js",
+      "componentChunkName": "component---src-templates-page-js",
+      "isCreatedByStatefulCreatePages": false,
+      "context": {
+        "type": "pages",
+        "next": {
+          "frontmatter": {
+            "path": "/showcase",
+            "title": "Showcase",
+            "tags": null
+          },
+          "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/showcase.md"
+        },
+        "previous": null
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/page.js",
+      "id": "SitePage /about",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f2e5314e450176e0111b0fc8bdb99f56",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /showcase": {
+      "jsonName": "showcase-d23",
+      "internalComponentName": "ComponentShowcase",
+      "path": "/showcase",
+      "component": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/page.js",
+      "componentChunkName": "component---src-templates-page-js",
+      "isCreatedByStatefulCreatePages": false,
+      "context": {
+        "type": "pages",
+        "next": null,
+        "previous": {
+          "frontmatter": {
+            "path": "/about",
+            "title": "My Introduction",
+            "tags": null
+          },
+          "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/about.md"
+        }
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/page.js",
+      "id": "SitePage /showcase",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f28bbadbb5a9ff39feab983585b60dba",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /hello": {
+      "jsonName": "hello-3ed",
+      "internalComponentName": "ComponentHello",
+      "path": "/hello",
+      "component": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/page.js",
+      "componentChunkName": "component---src-templates-page-js",
+      "isCreatedByStatefulCreatePages": false,
+      "context": {
+        "type": "posts",
+        "next": {
+          "frontmatter": {
+            "path": "/example",
+            "title": "Example",
+            "tags": null
+          },
+          "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/example.md"
+        },
+        "previous": null
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/page.js",
+      "id": "SitePage /hello",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "6c8b2a62400c383e7532326d84884dc9",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /example": {
+      "jsonName": "example-d5b",
+      "internalComponentName": "ComponentExample",
+      "path": "/example",
+      "component": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/page.js",
+      "componentChunkName": "component---src-templates-page-js",
+      "isCreatedByStatefulCreatePages": false,
+      "context": {
+        "type": "posts",
+        "next": null,
+        "previous": {
+          "frontmatter": {
+            "path": "/hello",
+            "title": "Hello Friend",
+            "tags": [
+              "rob____ot",
+              "hello friend"
+            ]
+          },
+          "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/hello.md"
+        }
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/page.js",
+      "id": "SitePage /example",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "3d10640b1439d9d8dc403427f38d4ba1",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tag/rob-ot": {
+      "jsonName": "tag-rob-ot-348",
+      "internalComponentName": "ComponentTagRobOt",
+      "path": "/tag/rob-ot",
+      "component": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "isCreatedByStatefulCreatePages": false,
+      "context": {
+        "tag": "rob____ot",
+        "pageNumber": 0,
+        "humanPageNumber": 1,
+        "skip": 0,
+        "limit": 5,
+        "numberOfPages": 1,
+        "previousPagePath": "",
+        "nextPagePath": ""
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/tags.js",
+      "id": "SitePage /tag/rob-ot",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "19dcad27d092a86938aae3daef16bf6e",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tag/hello-friend": {
+      "jsonName": "tag-hello-friend-69a",
+      "internalComponentName": "ComponentTagHelloFriend",
+      "path": "/tag/hello-friend",
+      "component": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "isCreatedByStatefulCreatePages": false,
+      "context": {
+        "tag": "hello friend",
+        "pageNumber": 0,
+        "humanPageNumber": 1,
+        "skip": 0,
+        "limit": 5,
+        "numberOfPages": 1,
+        "previousPagePath": "",
+        "nextPagePath": ""
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/tags.js",
+      "id": "SitePage /tag/hello-friend",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "db3a79f1184f33e3c9a0ca01505d7d3c",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "jsonName": "404-22d",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "d3a8ae0e-f225-5f55-a752-afb0fa8d4e1e",
+      "pluginCreatorId": "d3a8ae0e-f225-5f55-a752-afb0fa8d4e1e",
+      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "5058993140950c30529dfde379e9fd6a",
+        "description": "d3a8ae0e-f225-5f55-a752-afb0fa8d4e1e",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "jsonName": "404-html-516",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "pluginCreatorId": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "64d53e6bcfdaa223e849243d3115dd6e",
+        "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "3ae16bab-f3ea-578b-ae2b-ba8c8e7139aa": {
+      "id": "3ae16bab-f3ea-578b-ae2b-ba8c8e7139aa",
+      "children": [
+        "c2639869-3fde-5bbc-9625-800dcd8939ed"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "d8f58db2bf33b02d816c03418e6d9cca",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"src/images/apachecon.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/images/apachecon.jpg",
+      "relativePath": "apachecon.jpg",
+      "extension": "jpg",
+      "size": 94527,
+      "prettySize": "94.5 kB",
+      "modifiedTime": "2020-03-18T14:53:11.384Z",
+      "accessTime": "2020-03-18T14:53:18.290Z",
+      "changeTime": "2020-03-18T14:53:41.097Z",
+      "birthTime": "2020-03-18T14:53:11.372Z",
+      "root": "/",
+      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/images",
+      "base": "apachecon.jpg",
+      "ext": ".jpg",
+      "name": "apachecon",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 23648092,
+      "blocks": 192,
+      "atimeMs": 1584543198290.184,
+      "mtimeMs": 1584543191383.6418,
+      "ctimeMs": 1584543221097.4646,
+      "birthtimeMs": 1584543191371.8367,
+      "atime": "2020-03-18T14:53:18.290Z",
+      "mtime": "2020-03-18T14:53:11.384Z",
+      "ctime": "2020-03-18T14:53:41.097Z",
+      "birthtime": "2020-03-18T14:53:11.372Z"
+    },
+    "c2639869-3fde-5bbc-9625-800dcd8939ed": {
+      "id": "c2639869-3fde-5bbc-9625-800dcd8939ed",
+      "children": [],
+      "parent": "3ae16bab-f3ea-578b-ae2b-ba8c8e7139aa",
+      "internal": {
+        "contentDigest": "d8f58db2bf33b02d816c03418e6d9cca",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "c86b68db-8ed2-5604-86cf-b79d2d36a72e": {
+      "id": "c86b68db-8ed2-5604-86cf-b79d2d36a72e",
+      "children": [
+        "7bb0d38c-6c9a-527b-aeee-d9ba8466e675"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "b610f31de5f71bd5db7eb92b298ab334",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"src/images/inkubator_banner_kernasevic_kumar.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/images/inkubator_banner_kernasevic_kumar.jpg",
+      "relativePath": "inkubator_banner_kernasevic_kumar.jpg",
+      "extension": "jpg",
+      "size": 784297,
+      "prettySize": "784 kB",
+      "modifiedTime": "2020-03-18T14:49:13.856Z",
+      "accessTime": "2020-03-18T14:54:10.951Z",
+      "changeTime": "2020-03-18T14:54:21.821Z",
+      "birthTime": "2020-03-18T14:49:13.828Z",
+      "root": "/",
+      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/images",
+      "base": "inkubator_banner_kernasevic_kumar.jpg",
+      "ext": ".jpg",
+      "name": "inkubator_banner_kernasevic_kumar",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 23648336,
+      "blocks": 1536,
+      "atimeMs": 1584543250951.127,
+      "mtimeMs": 1584542953856.0396,
+      "ctimeMs": 1584543261821.3186,
+      "birthtimeMs": 1584542953827.972,
+      "atime": "2020-03-18T14:54:10.951Z",
+      "mtime": "2020-03-18T14:49:13.856Z",
+      "ctime": "2020-03-18T14:54:21.821Z",
+      "birthtime": "2020-03-18T14:49:13.828Z"
+    },
+    "7bb0d38c-6c9a-527b-aeee-d9ba8466e675": {
+      "id": "7bb0d38c-6c9a-527b-aeee-d9ba8466e675",
+      "children": [],
+      "parent": "c86b68db-8ed2-5604-86cf-b79d2d36a72e",
+      "internal": {
+        "contentDigest": "b610f31de5f71bd5db7eb92b298ab334",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "66b77a2e-a497-5fbb-91b5-82c6b7d7454b": {
+      "id": "66b77a2e-a497-5fbb-91b5-82c6b7d7454b",
+      "children": [],
+      "parent": "fb3fc354-1d0c-55fe-84d5-98b57d118ed8",
+      "internal": {
+        "content": "\n## Hi there\n\nMy name is Darshan Kumar / DK and I'm an entrepreneur by passion. I am a Technical consultant, Cloud Architect, Startup enthusiast, Apache PMC, DevOps Engineer, Full stack engineer, Big data and AI. \n\nI am a Founder of [**Mozayc**](https://mozayc.net), [**KernAdler**](https://kernadler.net). CTO of TRIPA, [**Frogfish**](https://frogfish.io), Appcandy.\n\ncheck me out on [**GITHUB**](https://github.com/darshankumar89) [**Twitter**](https://twitter.com/darshaneldorado) [**Linkedin**](https://www.linkedin.com/in/darshankumar/) \n\nMy expertise are with technologies like JS ♥️ ReactJS, Nodejs, AngularJS, Apache hadoop, AWS Devops, Java spring framework, python. \n\nEntrepreneur, Innovator, Growth hacker and Apache Atlas PMC, Apache Hadoop committer, AI enthusiasts,\n\nBeing a Entrepreneur building innovative products with latest technologies like AI, Analytics and Machine learning to solve the real time problems. \n\nAs a Apache PMC, I have contributed to open source repository. \n\nComapnies I woked with :\n \n- [**Belgian Post Group**](https://en.wikipedia.org/wiki/Bpost)\n\n\n- **light/dark mode**, depending on your preferences\n- great reading experience thanks to [**Inter UI font**](https://rsms.me/inter/), made by [Rasmus Andersson](https://rsms.me/about/)\n- nice code highlighting thanks to [**PrismJS**](https://prismjs.com)\n- responsive youtube/vimeo etc. videos thanks to [**gatsby-remark-embed-video**](https://github.com/borgfriend/gatsby-remark-embed-video)\n\nSo, there you have it... enjoy!\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "04537489b927e0c3b85a051c837b6db8",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "My Introduction",
+        "date": "2020-03-18",
+        "author": "Darshan Kumar",
+        "coverImage": "../images/apachecon.jpg",
+        "path": "/about"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n## Hi there\n\nMy name is Darshan Kumar / DK and I'm an entrepreneur by passion. I am a Technical consultant, Cloud Architect, Startup enthusiast, Apache PMC, DevOps Engineer, Full stack engineer, Big data and AI. \n\nI am a Founder of [**Mozayc**](https://mozayc.net), [**KernAdler**](https://kernadler.net). CTO of TRIPA, [**Frogfish**](https://frogfish.io), Appcandy.\n\ncheck me out on [**GITHUB**](https://github.com/darshankumar89) [**Twitter**](https://twitter.com/darshaneldorado) [**Linkedin**](https://www.linkedin.com/in/darshankumar/) \n\nMy expertise are with technologies like JS ♥️ ReactJS, Nodejs, AngularJS, Apache hadoop, AWS Devops, Java spring framework, python. \n\nEntrepreneur, Innovator, Growth hacker and Apache Atlas PMC, Apache Hadoop committer, AI enthusiasts,\n\nBeing a Entrepreneur building innovative products with latest technologies like AI, Analytics and Machine learning to solve the real time problems. \n\nAs a Apache PMC, I have contributed to open source repository. \n\nComapnies I woked with :\n \n- [**Belgian Post Group**](https://en.wikipedia.org/wiki/Bpost)\n\n\n- **light/dark mode**, depending on your preferences\n- great reading experience thanks to [**Inter UI font**](https://rsms.me/inter/), made by [Rasmus Andersson](https://rsms.me/about/)\n- nice code highlighting thanks to [**PrismJS**](https://prismjs.com)\n- responsive youtube/vimeo etc. videos thanks to [**gatsby-remark-embed-video**](https://github.com/borgfriend/gatsby-remark-embed-video)\n\nSo, there you have it... enjoy!\n",
+      "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/about.md"
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "e9c0161bdd53859008dfb54444dea78f"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "Site": [
+        "sq--src-components-layout-js",
+        "sq--src-components-seo-js"
+      ],
+      "75e47675-a295-5916-ae49-b139de6f4663": [
+        "/",
+        "/hello",
+        "/tag/rob-ot",
+        "/tag/hello-friend",
+        "/about"
+      ],
+      "f11fc279-a310-57f8-816d-04975c1ee5ef": [
+        "/",
+        "/hello",
+        "/tag/rob-ot",
+        "/tag/hello-friend",
+        "/about"
+      ],
+      "66b77a2e-a497-5fbb-91b5-82c6b7d7454b": [
+        "/about"
+      ],
+      "e58fc77a-21af-5819-a464-2eda9b87edd1": [
+        "/showcase"
+      ],
+      "8864d128-c7cb-575d-98f5-a01b99790431": [
+        "/hello"
+      ],
+      "acb3c1bd-803a-5a55-8236-eafaba648440": [
+        "/example"
+      ],
+      "c2639869-3fde-5bbc-9625-800dcd8939ed": [
+        "/about"
+      ],
+      "3ae16bab-f3ea-578b-ae2b-ba8c8e7139aa": [
+        "/about"
+      ]
+    },
+    "connections": {
+      "MarkdownRemark": [
+        "/",
+        "/tag/rob-ot",
+        "/tag/hello-friend"
+      ]
+    }
+  },
+  "jsonDataPaths": {
+    "sq--src-components-layout-js": 2892404432,
+    "sq--src-components-seo-js": 1582510487,
+    "sq--src-components-image-js": 492526033,
+    "about-771": "525/path---about-771-2fe-QRvATsQwWeXnCJdeD3dMNt0JwU",
+    "showcase-d23": "312/path---showcase-d-23-738-uG5HMW7bsfBeFqPsD6H2fclM6os",
+    "index": "387/path---index-6a9-WVvVMh9tjhX0AxbCdDYh8ftwXcw",
+    "tag-rob-ot-348": "560/path---tag-rob-ot-348-285-ADlDUJqyQnjyLowBU2CvzKumtE",
+    "example-d5b": "704/path---example-d-5-b-455-4OYQWui0U2rks6p22WMlP0BOyFc",
+    "dev-404-page-5f9": "386/path---dev-404-page-5-f-9-fab-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "404-22d": "820/path---404-22-d-bce-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "tag-hello-friend-69a": "625/path---tag-hello-friend-69-a-f65-bf4EH9SbAc2HZ01vyjAHOVBEg",
+    "404-html-516": "285/path---404-html-516-62a-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "hello-3ed": "154/path---hello-3-ed-283-xWu1o0NRG5LKl9MK3YKCWGSoU"
+  },
+  "components": {
+    "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/index.js": {
+      "query": "query usersDarshankumarDgodDarshankumarComDarshankumarIoSrcTemplatesIndexJs157487334(\n  $limit: Int!\n  $skip: Int!\n) {\n  allMarkdownRemark(filter: {fileAbsolutePath: {regex: \"//posts//\"}}, sort: {fields: [frontmatter___date], order: DESC}, limit: $limit, skip: $skip) {\n    edges {\n      node {\n        id\n        excerpt\n        frontmatter {\n          title\n          date(formatString: \"DD MMMM YYYY\")\n          path\n          author\n          excerpt\n          tags\n          coverImage {\n            childImageSharp {\n              fluid(maxWidth: 800) {\n                ...GatsbyImageSharpFluid\n              }\n            }\n          }\n        }\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
+      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/index.js",
+      "pages": [
+        "/"
+      ],
+      "isInBootstrap": false
+    },
+    "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/page.js": {
+      "query": "query usersDarshankumarDgodDarshankumarComDarshankumarIoSrcTemplatesPageJs2649831006(\n  $path: String\n) {\n  markdownRemark(frontmatter: {path: {eq: $path}}) {\n    frontmatter {\n      title\n      date(formatString: \"DD MMMM YYYY\")\n      path\n      author\n      excerpt\n      tags\n      coverImage {\n        childImageSharp {\n          fluid(maxWidth: 800) {\n            ...GatsbyImageSharpFluid\n          }\n        }\n      }\n    }\n    id\n    html\n    excerpt\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
+      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/page.js",
+      "pages": [
+        "/about",
+        "/showcase",
+        "/hello",
+        "/example"
+      ],
+      "isInBootstrap": false
+    },
+    "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/tags.js": {
+      "query": "query usersDarshankumarDgodDarshankumarComDarshankumarIoSrcTemplatesTagsJs808086567(\n  $limit: Int!\n  $skip: Int!\n  $tag: String!\n) {\n  allMarkdownRemark(filter: {frontmatter: {tags: {in: [$tag]}}}, sort: {fields: [frontmatter___date], order: DESC}, limit: $limit, skip: $skip) {\n    edges {\n      node {\n        id\n        excerpt\n        frontmatter {\n          title\n          date(formatString: \"DD MMMM YYYY\")\n          path\n          author\n          excerpt\n          tags\n          coverImage {\n            childImageSharp {\n              fluid(maxWidth: 800) {\n                ...GatsbyImageSharpFluid\n              }\n            }\n          }\n        }\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
+      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/tags.js",
+      "pages": [
+        "/tag/rob-ot",
+        "/tag/hello-friend"
+      ],
+      "isInBootstrap": false
+    },
+    "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/.cache/dev-404-page.js": {
+      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/.cache/dev-404-page.js",
+      "query": "",
+      "pages": [
+        "/dev-404-page/"
+      ],
+      "isInBootstrap": true
+    },
+    "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/404.js": {
+      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/404.js",
+      "query": "",
+      "pages": [
+        "/404/",
+        "/404.html"
+      ],
+      "isInBootstrap": true
+    }
+  },
+  "staticQueryComponents": {
+    "sq--src-components-image-js": {
+      "name": "usersDarshankumarDgodDarshankumarComDarshankumarIoSrcComponentsImageJs492526033",
+      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/components/image.js",
+      "id": "sq--src-components-image-js",
+      "jsonName": "sq--src-components-image-js",
+      "query": "query usersDarshankumarDgodDarshankumarComDarshankumarIoSrcComponentsImageJs492526033 {\n  placeholderImage: file(relativePath: {eq: \"images\"}) {\n    childImageSharp {\n      fluid(maxWidth: 800) {\n        ...GatsbyImageSharpFluid\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
+      "hash": 492526033
+    },
+    "sq--src-components-layout-js": {
+      "name": "SiteTitleQuery",
+      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/components/layout.js",
+      "id": "sq--src-components-layout-js",
+      "jsonName": "sq--src-components-layout-js",
+      "query": "query SiteTitleQuery {\n  site {\n    siteMetadata {\n      title\n      logo {\n        src\n        alt\n      }\n      logoText\n      defaultTheme\n      copyrights\n      mainMenu {\n        title\n        path\n      }\n      showMenuItems\n      menuMoreText\n    }\n  }\n}\n",
+      "hash": 2892404432
+    },
+    "sq--src-components-seo-js": {
+      "name": "DefaultSEOQuery",
+      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/components/seo.js",
+      "id": "sq--src-components-seo-js",
+      "jsonName": "sq--src-components-seo-js",
+      "query": "query DefaultSEOQuery {\n  site {\n    siteMetadata {\n      title\n      description\n      author\n    }\n  }\n}\n",
+      "hash": 1582510487
+    }
+  }
+}

@@ -1,0 +1,35 @@
+---
+title: "My Introduction"
+date: "2020-03-18"
+author: "Darshan Kumar"
+coverImage: "../images/apachecon.jpg"
+path: "/about"
+---
+
+## Hi there
+
+My name is Darshan Kumar / DK and I'm an entrepreneur by passion. I am a Technical consultant, Cloud Architect, Startup enthusiast, Apache PMC, DevOps Engineer, Full stack engineer, Big data and AI. 
+
+I am a Founder of [**Mozayc**](https://mozayc.net), [**KernAdler**](https://kernadler.net). CTO of TRIPA, [**Frogfish**](https://frogfish.io), Appcandy.
+
+check me out on [**GITHUB**](https://github.com/darshankumar89) [**Twitter**](https://twitter.com/darshaneldorado) [**Linkedin**](https://www.linkedin.com/in/darshankumar/) 
+
+My expertise are with technologies like JS ♥️ ReactJS, Nodejs, AngularJS, Apache hadoop, AWS Devops, Java spring framework, python. 
+
+Entrepreneur, Innovator, Growth hacker and Apache Atlas PMC, Apache Hadoop committer, AI enthusiasts,
+
+Being a Entrepreneur building innovative products with latest technologies like AI, Analytics and Machine learning to solve the real time problems. 
+
+As a Apache PMC, I have contributed to open source repository. 
+
+Comapnies I woked with :
+ 
+- [**Belgian Post Group**](https://en.wikipedia.org/wiki/Bpost)
+
+
+- **light/dark mode**, depending on your preferences
+- great reading experience thanks to [**Inter UI font**](https://rsms.me/inter/), made by [Rasmus Andersson](https://rsms.me/about/)
+- nice code highlighting thanks to [**PrismJS**](https://prismjs.com)
+- responsive youtube/vimeo etc. videos thanks to [**gatsby-remark-embed-video**](https://github.com/borgfriend/gatsby-remark-embed-video)
+
+So, there you have it... enjoy!
