@@ -1653,11 +1653,95 @@
         "owner": "internal-data-bridge"
       }
     },
+    "2026fd70-b8fa-504c-8403-d736e3da47b7": {
+      "resolve": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby-plugin-whatshelp",
+      "id": "2026fd70-b8fa-504c-8403-d736e3da47b7",
+      "name": "gatsby-plugin-whatshelp",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": [],
+        "facebook": "darshankumar89",
+        "whatsapp": "+32 465183127",
+        "email": "darshankumar38@gmail.com",
+        "call": "+32 465183127",
+        "company_logo_url": "//storage.whatshelp.io/widget/xx/xxxx/xxxxxx/logo.jpg",
+        "greeting_message": "Hello",
+        "call_to_action": "Call to Action",
+        "button_color": "#b02030",
+        "position": "right",
+        "order": "facebook,whatsapp,call,email",
+        "ga": true,
+        "branding": false,
+        "mobile": true,
+        "desktop": true,
+        "greeting": true,
+        "shift_vertical": 0,
+        "shift_horizontal": 0,
+        "domain": "https://darshankumar.netlify.com",
+        "key": "xxx"
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby-plugin-whatshelp",
+      "packageJson": {
+        "name": "gatsby-plugin-whatshelp",
+        "description": "Gatsby plugin for whatshelp.io.",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "drift",
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Michelangelo Partipilo",
+          "email": "michelangelo.partipilo@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-preset-es2015",
+            "version": "^6.24.1"
+          },
+          {
+            "name": "babel-preset-react",
+            "version": "^6.24.1"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "326176eae08dce231927f93e3dbc40db",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
     "7374ebf2-d961-52ee-92a2-c25e7cb387a9": {
       "resolve": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io",
       "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "name": "default-site-plugin",
-      "version": "731e5cc127d1931fc87a94695ea34662",
+      "version": "7732696c8f95451200f5287e0f2eadc2",
       "pluginOptions": {
         "plugins": []
       },
@@ -1716,6 +1800,10 @@
           {
             "name": "gatsby-plugin-sharp",
             "version": "^2.0.17"
+          },
+          {
+            "name": "gatsby-plugin-whatshelp",
+            "version": "^1.0.0"
           },
           {
             "name": "gatsby-remark-images",
@@ -1851,7 +1939,7 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "b618334a4be2f41797a8f85f2859680b",
+        "contentDigest": "5bef7b0f154895ac135bde0d6f2bdfe4",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -1953,15 +2041,15 @@
     },
     "Site": {
       "siteMetadata": {
-        "title": "Hello Friend",
-        "description": "A simple starter for Gatsby. That's it.",
+        "title": "Darshan Kumar",
+        "description": "full stack developer",
         "copyrights": "",
         "author": "@panr",
         "logo": {
           "src": "",
           "alt": ""
         },
-        "logoText": "hello friend",
+        "logoText": "Darshan Kumar",
         "defaultTheme": "dark",
         "postsPerPage": 5,
         "showMenuItems": 2,
@@ -1985,12 +2073,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2020-03-18T14:48:03.465Z",
+      "buildTime": "2020-03-19T22:26:22.842Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "1c75f124cfa0e6acda98c5139b9b3885",
+        "contentDigest": "c998727e08c28fda97a3be068c0c96e5",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -2000,7 +2088,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "36e413be7316fbc88ea7ba48695e1a29",
+        "contentDigest": "8327d3c11ffd0ed28b16a774a00ee316",
         "type": "Directory",
         "description": "Directory \"src/images\"",
         "owner": "gatsby-source-filesystem"
@@ -2009,11 +2097,11 @@
       "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/images",
       "relativePath": "",
       "extension": "",
-      "size": 128,
-      "prettySize": "128 B",
-      "modifiedTime": "2020-03-10T12:15:13.354Z",
-      "accessTime": "2020-03-18T14:48:10.537Z",
-      "changeTime": "2020-03-18T14:43:11.525Z",
+      "size": 192,
+      "prettySize": "192 B",
+      "modifiedTime": "2020-03-18T14:54:21.819Z",
+      "accessTime": "2020-03-19T22:26:30.451Z",
+      "changeTime": "2020-03-18T14:54:21.819Z",
       "birthTime": "2020-03-10T12:15:13.352Z",
       "root": "/",
       "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src",
@@ -2023,20 +2111,20 @@
       "relativeDirectory": "..",
       "dev": 16777221,
       "mode": 16877,
-      "nlink": 4,
+      "nlink": 6,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
       "ino": 23497142,
       "blocks": 0,
-      "atimeMs": 1584542890536.8855,
-      "mtimeMs": 1583842513354.4395,
-      "ctimeMs": 1584542591524.5603,
+      "atimeMs": 1584656790450.9172,
+      "mtimeMs": 1584543261818.6897,
+      "ctimeMs": 1584543261818.6897,
       "birthtimeMs": 1583842513352.2805,
-      "atime": "2020-03-18T14:48:10.537Z",
-      "mtime": "2020-03-10T12:15:13.354Z",
-      "ctime": "2020-03-18T14:43:11.525Z",
+      "atime": "2020-03-19T22:26:30.451Z",
+      "mtime": "2020-03-18T14:54:21.819Z",
+      "ctime": "2020-03-18T14:54:21.819Z",
       "birthtime": "2020-03-10T12:15:13.352Z"
     },
     "b9ff85b0-48b8-5c93-9d2a-6526ba08f73a": {
@@ -2059,7 +2147,7 @@
       "size": 8622,
       "prettySize": "8.62 kB",
       "modifiedTime": "2020-03-10T12:15:13.354Z",
-      "accessTime": "2020-03-18T14:48:10.537Z",
+      "accessTime": "2020-03-18T15:13:50.873Z",
       "changeTime": "2020-03-18T14:43:11.524Z",
       "birthTime": "2020-03-10T12:15:13.353Z",
       "root": "/",
@@ -2077,11 +2165,11 @@
       "blksize": 4096,
       "ino": 23497144,
       "blocks": 24,
-      "atimeMs": 1584542890537.0442,
+      "atimeMs": 1584544430872.6685,
       "mtimeMs": 1583842513353.8252,
       "ctimeMs": 1584542591524.4731,
       "birthtimeMs": 1583842513353.0342,
-      "atime": "2020-03-18T14:48:10.537Z",
+      "atime": "2020-03-18T15:13:50.873Z",
       "mtime": "2020-03-10T12:15:13.354Z",
       "ctime": "2020-03-18T14:43:11.524Z",
       "birthtime": "2020-03-10T12:15:13.353Z"
@@ -2095,6 +2183,53 @@
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
+    },
+    "3ae16bab-f3ea-578b-ae2b-ba8c8e7139aa": {
+      "id": "3ae16bab-f3ea-578b-ae2b-ba8c8e7139aa",
+      "children": [
+        "c2639869-3fde-5bbc-9625-800dcd8939ed"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "d8f58db2bf33b02d816c03418e6d9cca",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"src/images/apachecon.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/images/apachecon.jpg",
+      "relativePath": "apachecon.jpg",
+      "extension": "jpg",
+      "size": 94527,
+      "prettySize": "94.5 kB",
+      "modifiedTime": "2020-03-18T14:53:11.384Z",
+      "accessTime": "2020-03-18T15:46:27.668Z",
+      "changeTime": "2020-03-18T14:53:41.097Z",
+      "birthTime": "2020-03-18T14:53:11.372Z",
+      "root": "/",
+      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/images",
+      "base": "apachecon.jpg",
+      "ext": ".jpg",
+      "name": "apachecon",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 23648092,
+      "blocks": 192,
+      "atimeMs": 1584546387667.5305,
+      "mtimeMs": 1584543191383.6418,
+      "ctimeMs": 1584543221097.4646,
+      "birthtimeMs": 1584543191371.8367,
+      "atime": "2020-03-18T15:46:27.668Z",
+      "mtime": "2020-03-18T14:53:11.384Z",
+      "ctime": "2020-03-18T14:53:41.097Z",
+      "birthtime": "2020-03-18T14:53:11.372Z"
     },
     "f11fc279-a310-57f8-816d-04975c1ee5ef": {
       "id": "f11fc279-a310-57f8-816d-04975c1ee5ef",
@@ -2116,7 +2251,7 @@
       "size": 77622,
       "prettySize": "77.6 kB",
       "modifiedTime": "2020-03-10T12:15:13.356Z",
-      "accessTime": "2020-03-18T14:48:10.537Z",
+      "accessTime": "2020-03-18T15:13:50.873Z",
       "changeTime": "2020-03-18T14:43:11.524Z",
       "birthTime": "2020-03-10T12:15:13.354Z",
       "root": "/",
@@ -2134,14 +2269,24 @@
       "blksize": 4096,
       "ino": 23497143,
       "blocks": 152,
-      "atimeMs": 1584542890537.0566,
+      "atimeMs": 1584544430872.688,
       "mtimeMs": 1583842513355.7498,
       "ctimeMs": 1584542591524.033,
       "birthtimeMs": 1583842513354.4292,
-      "atime": "2020-03-18T14:48:10.537Z",
+      "atime": "2020-03-18T15:13:50.873Z",
       "mtime": "2020-03-10T12:15:13.356Z",
       "ctime": "2020-03-18T14:43:11.524Z",
       "birthtime": "2020-03-10T12:15:13.354Z"
+    },
+    "c2639869-3fde-5bbc-9625-800dcd8939ed": {
+      "id": "c2639869-3fde-5bbc-9625-800dcd8939ed",
+      "children": [],
+      "parent": "3ae16bab-f3ea-578b-ae2b-ba8c8e7139aa",
+      "internal": {
+        "contentDigest": "d8f58db2bf33b02d816c03418e6d9cca",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
     },
     "75e47675-a295-5916-ae49-b139de6f4663": {
       "id": "75e47675-a295-5916-ae49-b139de6f4663",
@@ -2153,12 +2298,69 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
+    "c86b68db-8ed2-5604-86cf-b79d2d36a72e": {
+      "id": "c86b68db-8ed2-5604-86cf-b79d2d36a72e",
+      "children": [
+        "7bb0d38c-6c9a-527b-aeee-d9ba8466e675"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "b610f31de5f71bd5db7eb92b298ab334",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"src/images/inkubator_banner_kernasevic_kumar.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/images/inkubator_banner_kernasevic_kumar.jpg",
+      "relativePath": "inkubator_banner_kernasevic_kumar.jpg",
+      "extension": "jpg",
+      "size": 784297,
+      "prettySize": "784 kB",
+      "modifiedTime": "2020-03-18T14:49:13.856Z",
+      "accessTime": "2020-03-18T15:46:26.936Z",
+      "changeTime": "2020-03-18T14:54:21.821Z",
+      "birthTime": "2020-03-18T14:49:13.828Z",
+      "root": "/",
+      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/images",
+      "base": "inkubator_banner_kernasevic_kumar.jpg",
+      "ext": ".jpg",
+      "name": "inkubator_banner_kernasevic_kumar",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 23648336,
+      "blocks": 1536,
+      "atimeMs": 1584546386936.0625,
+      "mtimeMs": 1584542953856.0396,
+      "ctimeMs": 1584543261821.3186,
+      "birthtimeMs": 1584542953827.972,
+      "atime": "2020-03-18T15:46:26.936Z",
+      "mtime": "2020-03-18T14:49:13.856Z",
+      "ctime": "2020-03-18T14:54:21.821Z",
+      "birthtime": "2020-03-18T14:49:13.828Z"
+    },
+    "7bb0d38c-6c9a-527b-aeee-d9ba8466e675": {
+      "id": "7bb0d38c-6c9a-527b-aeee-d9ba8466e675",
+      "children": [],
+      "parent": "c86b68db-8ed2-5604-86cf-b79d2d36a72e",
+      "internal": {
+        "contentDigest": "b610f31de5f71bd5db7eb92b298ab334",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
     "ce8abe93-5cc2-5977-a45d-fee31bcb21c3": {
       "id": "ce8abe93-5cc2-5977-a45d-fee31bcb21c3",
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "bd89d8dfae26dc660c2fbc61a71bca14",
+        "contentDigest": "ab9c68a5ebe8194530898e51bb89b501",
         "type": "Directory",
         "description": "Directory \"src/posts\"",
         "owner": "gatsby-source-filesystem"
@@ -2170,7 +2372,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2020-03-10T12:15:13.358Z",
-      "accessTime": "2020-03-18T14:48:10.550Z",
+      "accessTime": "2020-03-19T22:26:30.467Z",
       "changeTime": "2020-03-18T14:43:11.523Z",
       "birthTime": "2020-03-10T12:15:13.358Z",
       "root": "/",
@@ -2188,58 +2390,11 @@
       "blksize": 4096,
       "ino": 23497139,
       "blocks": 0,
-      "atimeMs": 1584542890549.7349,
+      "atimeMs": 1584656790466.8918,
       "mtimeMs": 1583842513358.0452,
       "ctimeMs": 1584542591523.3687,
       "birthtimeMs": 1583842513357.7473,
-      "atime": "2020-03-18T14:48:10.550Z",
-      "mtime": "2020-03-10T12:15:13.358Z",
-      "ctime": "2020-03-18T14:43:11.523Z",
-      "birthtime": "2020-03-10T12:15:13.358Z"
-    },
-    "677d53b6-10a0-5256-877c-13757aa4001f": {
-      "id": "677d53b6-10a0-5256-877c-13757aa4001f",
-      "children": [
-        "8864d128-c7cb-575d-98f5-a01b99790431"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "24f5531fb425b5e7b535c5e9aa0f1dbd",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/posts/hello.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "posts",
-      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/hello.md",
-      "relativePath": "hello.md",
-      "extension": "md",
-      "size": 488,
-      "prettySize": "488 B",
-      "modifiedTime": "2020-03-10T12:15:13.358Z",
-      "accessTime": "2020-03-18T14:46:24.756Z",
-      "changeTime": "2020-03-18T14:43:11.523Z",
-      "birthTime": "2020-03-10T12:15:13.358Z",
-      "root": "/",
-      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts",
-      "base": "hello.md",
-      "ext": ".md",
-      "name": "hello",
-      "relativeDirectory": "",
-      "dev": 16777221,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 23497141,
-      "blocks": 8,
-      "atimeMs": 1584542784755.868,
-      "mtimeMs": 1583842513358.2175,
-      "ctimeMs": 1584542591523.281,
-      "birthtimeMs": 1583842513358.0396,
-      "atime": "2020-03-18T14:46:24.756Z",
+      "atime": "2020-03-19T22:26:30.467Z",
       "mtime": "2020-03-10T12:15:13.358Z",
       "ctime": "2020-03-18T14:43:11.523Z",
       "birthtime": "2020-03-10T12:15:13.358Z"
@@ -2264,7 +2419,7 @@
       "size": 1999,
       "prettySize": "2 kB",
       "modifiedTime": "2020-03-10T12:15:13.358Z",
-      "accessTime": "2020-03-18T14:46:23.829Z",
+      "accessTime": "2020-03-18T15:13:50.873Z",
       "changeTime": "2020-03-18T14:43:11.523Z",
       "birthTime": "2020-03-10T12:15:13.358Z",
       "root": "/",
@@ -2282,14 +2437,82 @@
       "blksize": 4096,
       "ino": 23497140,
       "blocks": 8,
-      "atimeMs": 1584542783828.937,
+      "atimeMs": 1584544430872.8755,
       "mtimeMs": 1583842513357.9744,
       "ctimeMs": 1584542591522.8184,
       "birthtimeMs": 1583842513357.8389,
-      "atime": "2020-03-18T14:46:23.829Z",
+      "atime": "2020-03-18T15:13:50.873Z",
       "mtime": "2020-03-10T12:15:13.358Z",
       "ctime": "2020-03-18T14:43:11.523Z",
       "birthtime": "2020-03-10T12:15:13.358Z"
+    },
+    "677d53b6-10a0-5256-877c-13757aa4001f": {
+      "id": "677d53b6-10a0-5256-877c-13757aa4001f",
+      "children": [
+        "8864d128-c7cb-575d-98f5-a01b99790431"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "24f5531fb425b5e7b535c5e9aa0f1dbd",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/posts/hello.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/hello.md",
+      "relativePath": "hello.md",
+      "extension": "md",
+      "size": 488,
+      "prettySize": "488 B",
+      "modifiedTime": "2020-03-10T12:15:13.358Z",
+      "accessTime": "2020-03-18T15:13:50.873Z",
+      "changeTime": "2020-03-18T14:43:11.523Z",
+      "birthTime": "2020-03-10T12:15:13.358Z",
+      "root": "/",
+      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts",
+      "base": "hello.md",
+      "ext": ".md",
+      "name": "hello",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 23497141,
+      "blocks": 8,
+      "atimeMs": 1584544430872.9043,
+      "mtimeMs": 1583842513358.2175,
+      "ctimeMs": 1584542591523.281,
+      "birthtimeMs": 1583842513358.0396,
+      "atime": "2020-03-18T15:13:50.873Z",
+      "mtime": "2020-03-10T12:15:13.358Z",
+      "ctime": "2020-03-18T14:43:11.523Z",
+      "birthtime": "2020-03-10T12:15:13.358Z"
+    },
+    "acb3c1bd-803a-5a55-8236-eafaba648440": {
+      "id": "acb3c1bd-803a-5a55-8236-eafaba648440",
+      "children": [],
+      "parent": "0610ca7f-4378-5886-9b35-18fc42aac76a",
+      "internal": {
+        "content": "\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante.\n\n| Tables        |      Are      |   Cool |\n| ------------- | :-----------: | -----: |\n| col 3 is      | right-aligned | \\$1600 |\n| col 2 is      |   centered    |   \\$12 |\n| zebra stripes |   are neat    |    \\$1 |\n\n**Donec quis dolor nec nunc mollis interdum vel in purus**. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.\n\n> Fusce pharetra suscipit orci nec tempor. Quisque vitae sem sit amet sem mollis consequat. Sed at imperdiet lorem. Vestibulum pharetra faucibus odio, ac feugiat tellus sollicitudin at. Pellentesque varius tristique mi imperdiet dapibus. Duis orci odio, sodales lacinia venenatis sit amet, feugiat et diam.\n\nSed a leo id risus venenatis vulputate non quis nulla. Aenean nisl quam, lacinia pulvinar orci sit amet, eleifend eleifend dui. Nulla tempor ligula leo, eu vehicula quam condimentum a. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla gravida tristique nunc sed semper. Morbi nec felis odio.\n\n- Sed efficitur, lacus ac scelerisque pellentesque, lectus risus dignissim nisl, fermentum semper lectus diam eget lacus.\n- Nunc ornare purus enim, id eleifend mauris vestibulum volutpat.\n- Aenean facilisis ut ipsum condimentum ultrices.\n- Fusce sed metus vulputate, lobortis purus et, finibus purus. Suspendisse quis posuere lorem. Vivamus vulputate nec risus in pulvinar.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "77ee4541214a8e588c8e41d134dc727d",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Example",
+        "date": "2017-01-02",
+        "path": "/example",
+        "author": "Lorem Ipsum",
+        "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante."
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante.\n\n| Tables        |      Are      |   Cool |\n| ------------- | :-----------: | -----: |\n| col 3 is      | right-aligned | \\$1600 |\n| col 2 is      |   centered    |   \\$12 |\n| zebra stripes |   are neat    |    \\$1 |\n\n**Donec quis dolor nec nunc mollis interdum vel in purus**. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.\n\n> Fusce pharetra suscipit orci nec tempor. Quisque vitae sem sit amet sem mollis consequat. Sed at imperdiet lorem. Vestibulum pharetra faucibus odio, ac feugiat tellus sollicitudin at. Pellentesque varius tristique mi imperdiet dapibus. Duis orci odio, sodales lacinia venenatis sit amet, feugiat et diam.\n\nSed a leo id risus venenatis vulputate non quis nulla. Aenean nisl quam, lacinia pulvinar orci sit amet, eleifend eleifend dui. Nulla tempor ligula leo, eu vehicula quam condimentum a. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla gravida tristique nunc sed semper. Morbi nec felis odio.\n\n- Sed efficitur, lacus ac scelerisque pellentesque, lectus risus dignissim nisl, fermentum semper lectus diam eget lacus.\n- Nunc ornare purus enim, id eleifend mauris vestibulum volutpat.\n- Aenean facilisis ut ipsum condimentum ultrices.\n- Fusce sed metus vulputate, lobortis purus et, finibus purus. Suspendisse quis posuere lorem. Vivamus vulputate nec risus in pulvinar.\n",
+      "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/example.md"
     },
     "8864d128-c7cb-575d-98f5-a01b99790431": {
       "id": "8864d128-c7cb-575d-98f5-a01b99790431",
@@ -2317,33 +2540,12 @@
       "rawMarkdownBody": "\n> \"Hello, friend?\" That's lame. Maybe I should give you a name...\\\n> But that's a slippery slope.\\\n> You're only in my head.\\\n> We have to remember that...\\\n> Shit.\\\n> It's actually happened.\\\n> I'm talking to an imaginary person.\n>\n> **— Mr. Robot S01E01**\n",
       "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/hello.md"
     },
-    "acb3c1bd-803a-5a55-8236-eafaba648440": {
-      "id": "acb3c1bd-803a-5a55-8236-eafaba648440",
-      "children": [],
-      "parent": "0610ca7f-4378-5886-9b35-18fc42aac76a",
-      "internal": {
-        "content": "\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante.\n\n| Tables        |      Are      |   Cool |\n| ------------- | :-----------: | -----: |\n| col 3 is      | right-aligned | \\$1600 |\n| col 2 is      |   centered    |   \\$12 |\n| zebra stripes |   are neat    |    \\$1 |\n\n**Donec quis dolor nec nunc mollis interdum vel in purus**. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.\n\n> Fusce pharetra suscipit orci nec tempor. Quisque vitae sem sit amet sem mollis consequat. Sed at imperdiet lorem. Vestibulum pharetra faucibus odio, ac feugiat tellus sollicitudin at. Pellentesque varius tristique mi imperdiet dapibus. Duis orci odio, sodales lacinia venenatis sit amet, feugiat et diam.\n\nSed a leo id risus venenatis vulputate non quis nulla. Aenean nisl quam, lacinia pulvinar orci sit amet, eleifend eleifend dui. Nulla tempor ligula leo, eu vehicula quam condimentum a. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla gravida tristique nunc sed semper. Morbi nec felis odio.\n\n- Sed efficitur, lacus ac scelerisque pellentesque, lectus risus dignissim nisl, fermentum semper lectus diam eget lacus.\n- Nunc ornare purus enim, id eleifend mauris vestibulum volutpat.\n- Aenean facilisis ut ipsum condimentum ultrices.\n- Fusce sed metus vulputate, lobortis purus et, finibus purus. Suspendisse quis posuere lorem. Vivamus vulputate nec risus in pulvinar.\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "77ee4541214a8e588c8e41d134dc727d",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "Example",
-        "date": "2017-01-02",
-        "path": "/example",
-        "author": "Lorem Ipsum",
-        "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante."
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante.\n\n| Tables        |      Are      |   Cool |\n| ------------- | :-----------: | -----: |\n| col 3 is      | right-aligned | \\$1600 |\n| col 2 is      |   centered    |   \\$12 |\n| zebra stripes |   are neat    |    \\$1 |\n\n**Donec quis dolor nec nunc mollis interdum vel in purus**. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.\n\n> Fusce pharetra suscipit orci nec tempor. Quisque vitae sem sit amet sem mollis consequat. Sed at imperdiet lorem. Vestibulum pharetra faucibus odio, ac feugiat tellus sollicitudin at. Pellentesque varius tristique mi imperdiet dapibus. Duis orci odio, sodales lacinia venenatis sit amet, feugiat et diam.\n\nSed a leo id risus venenatis vulputate non quis nulla. Aenean nisl quam, lacinia pulvinar orci sit amet, eleifend eleifend dui. Nulla tempor ligula leo, eu vehicula quam condimentum a. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla gravida tristique nunc sed semper. Morbi nec felis odio.\n\n- Sed efficitur, lacus ac scelerisque pellentesque, lectus risus dignissim nisl, fermentum semper lectus diam eget lacus.\n- Nunc ornare purus enim, id eleifend mauris vestibulum volutpat.\n- Aenean facilisis ut ipsum condimentum ultrices.\n- Fusce sed metus vulputate, lobortis purus et, finibus purus. Suspendisse quis posuere lorem. Vivamus vulputate nec risus in pulvinar.\n",
-      "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/example.md"
-    },
     "03add71b-a87d-57a2-a85a-0d062e494d24": {
       "id": "03add71b-a87d-57a2-a85a-0d062e494d24",
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "1362b6602d78b19ae445032f721c7df0",
+        "contentDigest": "1821d20b6e40f1670944678b3e3acc95",
         "type": "Directory",
         "description": "Directory \"src/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -2355,7 +2557,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2020-03-10T12:15:13.358Z",
-      "accessTime": "2020-03-18T14:48:10.590Z",
+      "accessTime": "2020-03-19T22:26:30.471Z",
       "changeTime": "2020-03-18T14:43:11.536Z",
       "birthTime": "2020-03-10T12:15:13.357Z",
       "root": "/",
@@ -2373,13 +2575,105 @@
       "blksize": 4096,
       "ino": 23497169,
       "blocks": 0,
-      "atimeMs": 1584542890590.4575,
+      "atimeMs": 1584656790471.022,
       "mtimeMs": 1583842513357.5461,
       "ctimeMs": 1584542591535.5718,
       "birthtimeMs": 1583842513356.7083,
-      "atime": "2020-03-18T14:48:10.590Z",
+      "atime": "2020-03-19T22:26:30.471Z",
       "mtime": "2020-03-10T12:15:13.358Z",
       "ctime": "2020-03-18T14:43:11.536Z",
+      "birthtime": "2020-03-10T12:15:13.357Z"
+    },
+    "50894b6d-17c8-5508-8578-534b48b3d696": {
+      "id": "50894b6d-17c8-5508-8578-534b48b3d696",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "dd70ab2f27f14ef3afbbb2450e1f0254",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/pages/404.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/404.js",
+      "relativePath": "404.js",
+      "extension": "js",
+      "size": 318,
+      "prettySize": "318 B",
+      "modifiedTime": "2020-03-10T12:15:13.357Z",
+      "accessTime": "2020-03-18T15:13:50.873Z",
+      "changeTime": "2020-03-18T14:43:11.534Z",
+      "birthTime": "2020-03-10T12:15:13.357Z",
+      "root": "/",
+      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages",
+      "base": "404.js",
+      "ext": ".js",
+      "name": "404",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 23497171,
+      "blocks": 8,
+      "atimeMs": 1584544430872.7725,
+      "mtimeMs": 1583842513357.032,
+      "ctimeMs": 1584542591534.4924,
+      "birthtimeMs": 1583842513356.8452,
+      "atime": "2020-03-18T15:13:50.873Z",
+      "mtime": "2020-03-10T12:15:13.357Z",
+      "ctime": "2020-03-18T14:43:11.534Z",
+      "birthtime": "2020-03-10T12:15:13.357Z"
+    },
+    "fb3fc354-1d0c-55fe-84d5-98b57d118ed8": {
+      "id": "fb3fc354-1d0c-55fe-84d5-98b57d118ed8",
+      "children": [
+        "66b77a2e-a497-5fbb-91b5-82c6b7d7454b"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "5bc2af13ee5c7ed7455e48a92d715da5",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/about.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/about.md",
+      "relativePath": "about.md",
+      "extension": "md",
+      "size": 1690,
+      "prettySize": "1.69 kB",
+      "modifiedTime": "2020-03-19T22:26:16.556Z",
+      "accessTime": "2020-03-19T22:26:16.911Z",
+      "changeTime": "2020-03-19T22:26:16.556Z",
+      "birthTime": "2020-03-10T12:15:13.357Z",
+      "root": "/",
+      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages",
+      "base": "about.md",
+      "ext": ".md",
+      "name": "about",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 23497172,
+      "blocks": 8,
+      "atimeMs": 1584656776910.9912,
+      "mtimeMs": 1584656776556.055,
+      "ctimeMs": 1584656776556.055,
+      "birthtimeMs": 1583842513357.155,
+      "atime": "2020-03-19T22:26:16.911Z",
+      "mtime": "2020-03-19T22:26:16.556Z",
+      "ctime": "2020-03-19T22:26:16.556Z",
       "birthtime": "2020-03-10T12:15:13.357Z"
     },
     "2a841927-8eee-5ab1-8e09-90df6a1a4cc6": {
@@ -2402,7 +2696,7 @@
       "size": 3613,
       "prettySize": "3.61 kB",
       "modifiedTime": "2020-03-10T12:15:13.358Z",
-      "accessTime": "2020-03-18T14:46:28.670Z",
+      "accessTime": "2020-03-18T15:13:50.873Z",
       "changeTime": "2020-03-18T14:43:11.534Z",
       "birthTime": "2020-03-10T12:15:13.358Z",
       "root": "/",
@@ -2420,106 +2714,14 @@
       "blksize": 4096,
       "ino": 23497170,
       "blocks": 8,
-      "atimeMs": 1584542788670.1536,
+      "atimeMs": 1584544430872.834,
       "mtimeMs": 1583842513357.671,
       "ctimeMs": 1584542591533.7532,
       "birthtimeMs": 1583842513357.5403,
-      "atime": "2020-03-18T14:46:28.670Z",
+      "atime": "2020-03-18T15:13:50.873Z",
       "mtime": "2020-03-10T12:15:13.358Z",
       "ctime": "2020-03-18T14:43:11.534Z",
       "birthtime": "2020-03-10T12:15:13.358Z"
-    },
-    "fb3fc354-1d0c-55fe-84d5-98b57d118ed8": {
-      "id": "fb3fc354-1d0c-55fe-84d5-98b57d118ed8",
-      "children": [
-        "66b77a2e-a497-5fbb-91b5-82c6b7d7454b"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "f4e25e3ad0018a1f576a6f215117ebf1",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/pages/about.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/about.md",
-      "relativePath": "about.md",
-      "extension": "md",
-      "size": 1649,
-      "prettySize": "1.65 kB",
-      "modifiedTime": "2020-03-18T14:58:40.674Z",
-      "accessTime": "2020-03-18T14:58:40.673Z",
-      "changeTime": "2020-03-18T14:58:40.674Z",
-      "birthTime": "2020-03-10T12:15:13.357Z",
-      "root": "/",
-      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages",
-      "base": "about.md",
-      "ext": ".md",
-      "name": "about",
-      "relativeDirectory": "",
-      "dev": 16777221,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 23497172,
-      "blocks": 8,
-      "atimeMs": 1584543520673.1758,
-      "mtimeMs": 1584543520673.978,
-      "ctimeMs": 1584543520673.978,
-      "birthtimeMs": 1583842513357.155,
-      "atime": "2020-03-18T14:58:40.673Z",
-      "mtime": "2020-03-18T14:58:40.674Z",
-      "ctime": "2020-03-18T14:58:40.674Z",
-      "birthtime": "2020-03-10T12:15:13.357Z"
-    },
-    "50894b6d-17c8-5508-8578-534b48b3d696": {
-      "id": "50894b6d-17c8-5508-8578-534b48b3d696",
-      "children": [],
-      "parent": null,
-      "internal": {
-        "contentDigest": "dd70ab2f27f14ef3afbbb2450e1f0254",
-        "type": "File",
-        "mediaType": "application/javascript",
-        "description": "File \"src/pages/404.js\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/404.js",
-      "relativePath": "404.js",
-      "extension": "js",
-      "size": 318,
-      "prettySize": "318 B",
-      "modifiedTime": "2020-03-10T12:15:13.357Z",
-      "accessTime": "2020-03-18T14:44:54.284Z",
-      "changeTime": "2020-03-18T14:43:11.534Z",
-      "birthTime": "2020-03-10T12:15:13.357Z",
-      "root": "/",
-      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages",
-      "base": "404.js",
-      "ext": ".js",
-      "name": "404",
-      "relativeDirectory": "",
-      "dev": 16777221,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 23497171,
-      "blocks": 8,
-      "atimeMs": 1584542694283.8318,
-      "mtimeMs": 1583842513357.032,
-      "ctimeMs": 1584542591534.4924,
-      "birthtimeMs": 1583842513356.8452,
-      "atime": "2020-03-18T14:44:54.284Z",
-      "mtime": "2020-03-10T12:15:13.357Z",
-      "ctime": "2020-03-18T14:43:11.534Z",
-      "birthtime": "2020-03-10T12:15:13.357Z"
     },
     "e58fc77a-21af-5819-a464-2eda9b87edd1": {
       "id": "e58fc77a-21af-5819-a464-2eda9b87edd1",
@@ -2540,6 +2742,27 @@
       "excerpt": "",
       "rawMarkdownBody": "\n## Header 2\n\nBackup two-step verification breach, anonymous terminal traffic worm virus reboot fsociety dat file. Traffic fsociety malware 100 terabytes system hack, delete brute-force cyber security fiber connection connect code worm wipe. Cyber security off the grid delete IP decrypt, **nodes connect password 100 terabytes RUDY attack malicious code** rootkit gigabit speed. Tor connect network, intercepting traffic off the grid IP protocol password.\n\n> Backup DDoS attack rootkit nodes disconnect website. Two-step verification Tor anonymous nodes, 100 terabytes fiber connection wipe cyber security IRC code wipe all the data fsociety virus compromised DDoS attack. Sys admin data center gigabit speed breach, worm DDoS attack AFK nodes.\n\n### Header 3\n\nBrute-force intercepting traffic fiber connection system boot up fsociety reboot AFK sys admin. Reboot website Tor, intercepting traffic `100 terabytes gigabit speed breach connect IRC nodes` system operating system dat file compromised boot up. Data center decrypt password network disconnect. Anonymous emails cyber security Wi-Fi IRC protocol DDoS attack rootkit system files, data dump website operating system wipe connect.\n\n```css\n/* PostCSS code by PrismJS */\n\npre {\n  background: #1a1a1d;\n  padding: 20px;\n  border-radius: 8px;\n  font-size: 1rem;\n  overflow: auto;\n\n  @media (--phone) {\n    white-space: pre-wrap;\n    word-wrap: break-word;\n  }\n\n  code {\n    background: none !important;\n    color: #ccc;\n    padding: 0;\n    font-size: inherit;\n\n    .dark-theme & {\n      color: inherit;\n    }\n  }\n}\n```\n\n```js\n// JS code by PrismJS\n\nconst menuTrigger = document.querySelector('.menu-trigger')\nconst menu = document.querySelector('.menu')\nconst mobileQuery = getComputedStyle(document.body).getPropertyValue('--phoneWidth')\nconst isMobile = () => window.matchMedia(mobileQuery).matches\nconst isMobileMenu = () => {\n  menuTrigger.classList.toggle('hidden', !isMobile())\n  menu.classList.toggle('hidden', isMobile())\n}\n\nisMobileMenu()\n\nmenuTrigger.addEventListener('click', () => menu.classList.toggle('hidden'))\n\nwindow.addEventListener('resize', isMobileMenu)\n```\n\n```html\n<section id=\"main\">\n  <div>\n   <h1 id=\"title\">{{ .Title }}</h1>\n    {{ range .Pages }}\n        {{ .Render \"summary\"}}\n    {{ end }}\n  </div>\n</section>\n```\n\n#### Header 4\n\nTraffic RUDY attack nodes anonymous IP network code two-step verification system files data center bonsoir terminal. Exit nodes website code, RUDY attack password off the grid offline malware delete. Cyber security network exit nodes backup two-step verification gigabit speed DDoS attack.\n\n- Fsociety delete malicious code nodes.\n- IP cyber security wipe all the data sys admin virus compromised dat file malicious code computer.\n- Decrypt two-step verification Tor wipe, password cyber security data dump malicious code dat file routing protocol operating system.\n- Anonymous boot up website AFK.\n  - Timing out IP DNS, log file offline terminal brute-force system files connect server farm.\n  - Reboot sys admin worm log file wipe.\n\n`youtube: xIBiJ_SzJTA`\n\nTor boot up backup anonymous bonsoir IRC website. Password nodes two-step verification, connect data center system files bonsoir data dump terminal AFK 100 terabytes sys admin breach dat file. Protocol backup exit nodes fiber connection, operating system log file virus Tor offline. Password data center two-step verification disconnect IRC terminal. Tor IRC cyber security AFK protocol traffic disconnect. Code exit nodes IRC cyber security nodes worm.\n",
       "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/showcase.md"
+    },
+    "66b77a2e-a497-5fbb-91b5-82c6b7d7454b": {
+      "id": "66b77a2e-a497-5fbb-91b5-82c6b7d7454b",
+      "children": [],
+      "parent": "fb3fc354-1d0c-55fe-84d5-98b57d118ed8",
+      "internal": {
+        "content": "\n## Hi there\n\nMy name is Darshan Kumar / DK and I'm an entrepreneur by passion. I am a Technical consultant, Cloud Architect, Startup enthusiast, Apache PMC, DevOps Engineer, Full stack engineer, Big data and AI. \n\nI am a Founder of [**Mozayc**](https://mozayc.net) Blockchain Based E-commerce platform, [**KernAdler**](https://kernadler.net). CTO of TRIPA, [**Frogfish**](https://frogfish.io), Appcandy.\n\ncheck me out on [**GITHUB**](https://github.com/darshankumar89) [**Twitter**](https://twitter.com/darshaneldorado) [**Linkedin**](https://www.linkedin.com/in/darshankumar/) \n\nMy expertise are with technologies like JS ♥️ ReactJS, Nodejs, AngularJS, Apache hadoop, AWS Devops, Java spring framework, python. \n\nEntrepreneur, Innovator, Growth hacker and Apache Atlas PMC, Apache Hadoop committer, AI enthusiasts,\n\nBeing a Entrepreneur building innovative products with latest technologies like AI, Analytics and Machine learning to solve the real time problems. \n\nAs a Apache PMC, I have contributed to open source repository. \n\n**Comapnies I woked with** :\n \n- [**Belgian Post Group**](https://en.wikipedia.org/wiki/Bpost)\n\n\n- **light/dark mode**, depending on your preferences\n- great reading experience thanks to [**Inter UI font**](https://rsms.me/inter/), made by [Rasmus Andersson](https://rsms.me/about/)\n- nice code highlighting thanks to [**PrismJS**](https://prismjs.com)\n- responsive youtube/vimeo etc. videos thanks to [**gatsby-remark-embed-video**](https://github.com/borgfriend/gatsby-remark-embed-video)\n\nSo, there you have it... enjoy!\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "fbefba74f82716435b848668b04e1e5f",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "My Introduction",
+        "date": "2020-03-18",
+        "author": "Darshan Kumar",
+        "coverImage": "../images/apachecon.jpg",
+        "path": "/about"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n## Hi there\n\nMy name is Darshan Kumar / DK and I'm an entrepreneur by passion. I am a Technical consultant, Cloud Architect, Startup enthusiast, Apache PMC, DevOps Engineer, Full stack engineer, Big data and AI. \n\nI am a Founder of [**Mozayc**](https://mozayc.net) Blockchain Based E-commerce platform, [**KernAdler**](https://kernadler.net). CTO of TRIPA, [**Frogfish**](https://frogfish.io), Appcandy.\n\ncheck me out on [**GITHUB**](https://github.com/darshankumar89) [**Twitter**](https://twitter.com/darshaneldorado) [**Linkedin**](https://www.linkedin.com/in/darshankumar/) \n\nMy expertise are with technologies like JS ♥️ ReactJS, Nodejs, AngularJS, Apache hadoop, AWS Devops, Java spring framework, python. \n\nEntrepreneur, Innovator, Growth hacker and Apache Atlas PMC, Apache Hadoop committer, AI enthusiasts,\n\nBeing a Entrepreneur building innovative products with latest technologies like AI, Analytics and Machine learning to solve the real time problems. \n\nAs a Apache PMC, I have contributed to open source repository. \n\n**Comapnies I woked with** :\n \n- [**Belgian Post Group**](https://en.wikipedia.org/wiki/Bpost)\n\n\n- **light/dark mode**, depending on your preferences\n- great reading experience thanks to [**Inter UI font**](https://rsms.me/inter/), made by [Rasmus Andersson](https://rsms.me/about/)\n- nice code highlighting thanks to [**PrismJS**](https://prismjs.com)\n- responsive youtube/vimeo etc. videos thanks to [**gatsby-remark-embed-video**](https://github.com/borgfriend/gatsby-remark-embed-video)\n\nSo, there you have it... enjoy!\n",
+      "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/about.md"
     },
     "SitePage /": {
       "jsonName": "index",
@@ -2802,146 +3025,11 @@
         "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
         "owner": "internal-data-bridge"
       }
-    },
-    "3ae16bab-f3ea-578b-ae2b-ba8c8e7139aa": {
-      "id": "3ae16bab-f3ea-578b-ae2b-ba8c8e7139aa",
-      "children": [
-        "c2639869-3fde-5bbc-9625-800dcd8939ed"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "d8f58db2bf33b02d816c03418e6d9cca",
-        "type": "File",
-        "mediaType": "image/jpeg",
-        "description": "File \"src/images/apachecon.jpg\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/images/apachecon.jpg",
-      "relativePath": "apachecon.jpg",
-      "extension": "jpg",
-      "size": 94527,
-      "prettySize": "94.5 kB",
-      "modifiedTime": "2020-03-18T14:53:11.384Z",
-      "accessTime": "2020-03-18T14:53:18.290Z",
-      "changeTime": "2020-03-18T14:53:41.097Z",
-      "birthTime": "2020-03-18T14:53:11.372Z",
-      "root": "/",
-      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/images",
-      "base": "apachecon.jpg",
-      "ext": ".jpg",
-      "name": "apachecon",
-      "relativeDirectory": "",
-      "dev": 16777221,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 23648092,
-      "blocks": 192,
-      "atimeMs": 1584543198290.184,
-      "mtimeMs": 1584543191383.6418,
-      "ctimeMs": 1584543221097.4646,
-      "birthtimeMs": 1584543191371.8367,
-      "atime": "2020-03-18T14:53:18.290Z",
-      "mtime": "2020-03-18T14:53:11.384Z",
-      "ctime": "2020-03-18T14:53:41.097Z",
-      "birthtime": "2020-03-18T14:53:11.372Z"
-    },
-    "c2639869-3fde-5bbc-9625-800dcd8939ed": {
-      "id": "c2639869-3fde-5bbc-9625-800dcd8939ed",
-      "children": [],
-      "parent": "3ae16bab-f3ea-578b-ae2b-ba8c8e7139aa",
-      "internal": {
-        "contentDigest": "d8f58db2bf33b02d816c03418e6d9cca",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "c86b68db-8ed2-5604-86cf-b79d2d36a72e": {
-      "id": "c86b68db-8ed2-5604-86cf-b79d2d36a72e",
-      "children": [
-        "7bb0d38c-6c9a-527b-aeee-d9ba8466e675"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "b610f31de5f71bd5db7eb92b298ab334",
-        "type": "File",
-        "mediaType": "image/jpeg",
-        "description": "File \"src/images/inkubator_banner_kernasevic_kumar.jpg\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/images/inkubator_banner_kernasevic_kumar.jpg",
-      "relativePath": "inkubator_banner_kernasevic_kumar.jpg",
-      "extension": "jpg",
-      "size": 784297,
-      "prettySize": "784 kB",
-      "modifiedTime": "2020-03-18T14:49:13.856Z",
-      "accessTime": "2020-03-18T14:54:10.951Z",
-      "changeTime": "2020-03-18T14:54:21.821Z",
-      "birthTime": "2020-03-18T14:49:13.828Z",
-      "root": "/",
-      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/images",
-      "base": "inkubator_banner_kernasevic_kumar.jpg",
-      "ext": ".jpg",
-      "name": "inkubator_banner_kernasevic_kumar",
-      "relativeDirectory": "",
-      "dev": 16777221,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 23648336,
-      "blocks": 1536,
-      "atimeMs": 1584543250951.127,
-      "mtimeMs": 1584542953856.0396,
-      "ctimeMs": 1584543261821.3186,
-      "birthtimeMs": 1584542953827.972,
-      "atime": "2020-03-18T14:54:10.951Z",
-      "mtime": "2020-03-18T14:49:13.856Z",
-      "ctime": "2020-03-18T14:54:21.821Z",
-      "birthtime": "2020-03-18T14:49:13.828Z"
-    },
-    "7bb0d38c-6c9a-527b-aeee-d9ba8466e675": {
-      "id": "7bb0d38c-6c9a-527b-aeee-d9ba8466e675",
-      "children": [],
-      "parent": "c86b68db-8ed2-5604-86cf-b79d2d36a72e",
-      "internal": {
-        "contentDigest": "b610f31de5f71bd5db7eb92b298ab334",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "66b77a2e-a497-5fbb-91b5-82c6b7d7454b": {
-      "id": "66b77a2e-a497-5fbb-91b5-82c6b7d7454b",
-      "children": [],
-      "parent": "fb3fc354-1d0c-55fe-84d5-98b57d118ed8",
-      "internal": {
-        "content": "\n## Hi there\n\nMy name is Darshan Kumar / DK and I'm an entrepreneur by passion. I am a Technical consultant, Cloud Architect, Startup enthusiast, Apache PMC, DevOps Engineer, Full stack engineer, Big data and AI. \n\nI am a Founder of [**Mozayc**](https://mozayc.net), [**KernAdler**](https://kernadler.net). CTO of TRIPA, [**Frogfish**](https://frogfish.io), Appcandy.\n\ncheck me out on [**GITHUB**](https://github.com/darshankumar89) [**Twitter**](https://twitter.com/darshaneldorado) [**Linkedin**](https://www.linkedin.com/in/darshankumar/) \n\nMy expertise are with technologies like JS ♥️ ReactJS, Nodejs, AngularJS, Apache hadoop, AWS Devops, Java spring framework, python. \n\nEntrepreneur, Innovator, Growth hacker and Apache Atlas PMC, Apache Hadoop committer, AI enthusiasts,\n\nBeing a Entrepreneur building innovative products with latest technologies like AI, Analytics and Machine learning to solve the real time problems. \n\nAs a Apache PMC, I have contributed to open source repository. \n\nComapnies I woked with :\n \n- [**Belgian Post Group**](https://en.wikipedia.org/wiki/Bpost)\n\n\n- **light/dark mode**, depending on your preferences\n- great reading experience thanks to [**Inter UI font**](https://rsms.me/inter/), made by [Rasmus Andersson](https://rsms.me/about/)\n- nice code highlighting thanks to [**PrismJS**](https://prismjs.com)\n- responsive youtube/vimeo etc. videos thanks to [**gatsby-remark-embed-video**](https://github.com/borgfriend/gatsby-remark-embed-video)\n\nSo, there you have it... enjoy!\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "04537489b927e0c3b85a051c837b6db8",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "My Introduction",
-        "date": "2020-03-18",
-        "author": "Darshan Kumar",
-        "coverImage": "../images/apachecon.jpg",
-        "path": "/about"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\n## Hi there\n\nMy name is Darshan Kumar / DK and I'm an entrepreneur by passion. I am a Technical consultant, Cloud Architect, Startup enthusiast, Apache PMC, DevOps Engineer, Full stack engineer, Big data and AI. \n\nI am a Founder of [**Mozayc**](https://mozayc.net), [**KernAdler**](https://kernadler.net). CTO of TRIPA, [**Frogfish**](https://frogfish.io), Appcandy.\n\ncheck me out on [**GITHUB**](https://github.com/darshankumar89) [**Twitter**](https://twitter.com/darshaneldorado) [**Linkedin**](https://www.linkedin.com/in/darshankumar/) \n\nMy expertise are with technologies like JS ♥️ ReactJS, Nodejs, AngularJS, Apache hadoop, AWS Devops, Java spring framework, python. \n\nEntrepreneur, Innovator, Growth hacker and Apache Atlas PMC, Apache Hadoop committer, AI enthusiasts,\n\nBeing a Entrepreneur building innovative products with latest technologies like AI, Analytics and Machine learning to solve the real time problems. \n\nAs a Apache PMC, I have contributed to open source repository. \n\nComapnies I woked with :\n \n- [**Belgian Post Group**](https://en.wikipedia.org/wiki/Bpost)\n\n\n- **light/dark mode**, depending on your preferences\n- great reading experience thanks to [**Inter UI font**](https://rsms.me/inter/), made by [Rasmus Andersson](https://rsms.me/about/)\n- nice code highlighting thanks to [**PrismJS**](https://prismjs.com)\n- responsive youtube/vimeo etc. videos thanks to [**gatsby-remark-embed-video**](https://github.com/borgfriend/gatsby-remark-embed-video)\n\nSo, there you have it... enjoy!\n",
-      "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/about.md"
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "e9c0161bdd53859008dfb54444dea78f"
+    "PLUGINS_HASH": "ee29ce8183c414cf7cc01e6b44c868b6"
   },
   "componentDataDependencies": {
     "nodes": {
@@ -2953,15 +3041,13 @@
         "/",
         "/hello",
         "/tag/rob-ot",
-        "/tag/hello-friend",
-        "/about"
+        "/tag/hello-friend"
       ],
       "f11fc279-a310-57f8-816d-04975c1ee5ef": [
         "/",
         "/hello",
         "/tag/rob-ot",
-        "/tag/hello-friend",
-        "/about"
+        "/tag/hello-friend"
       ],
       "66b77a2e-a497-5fbb-91b5-82c6b7d7454b": [
         "/about"
@@ -2972,14 +3058,14 @@
       "8864d128-c7cb-575d-98f5-a01b99790431": [
         "/hello"
       ],
-      "acb3c1bd-803a-5a55-8236-eafaba648440": [
-        "/example"
-      ],
       "c2639869-3fde-5bbc-9625-800dcd8939ed": [
         "/about"
       ],
       "3ae16bab-f3ea-578b-ae2b-ba8c8e7139aa": [
         "/about"
+      ],
+      "acb3c1bd-803a-5a55-8236-eafaba648440": [
+        "/example"
       ]
     },
     "connections": {
@@ -2994,7 +3080,7 @@
     "sq--src-components-layout-js": 2892404432,
     "sq--src-components-seo-js": 1582510487,
     "sq--src-components-image-js": 492526033,
-    "about-771": "525/path---about-771-2fe-QRvATsQwWeXnCJdeD3dMNt0JwU",
+    "about-771": "430/path---about-771-2fe-1fSuPXMRdaoYwT7GTW1OPHr8qU8",
     "showcase-d23": "312/path---showcase-d-23-738-uG5HMW7bsfBeFqPsD6H2fclM6os",
     "index": "387/path---index-6a9-WVvVMh9tjhX0AxbCdDYh8ftwXcw",
     "tag-rob-ot-348": "560/path---tag-rob-ot-348-285-ADlDUJqyQnjyLowBU2CvzKumtE",
@@ -3007,32 +3093,32 @@
   },
   "components": {
     "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/index.js": {
-      "query": "query usersDarshankumarDgodDarshankumarComDarshankumarIoSrcTemplatesIndexJs157487334(\n  $limit: Int!\n  $skip: Int!\n) {\n  allMarkdownRemark(filter: {fileAbsolutePath: {regex: \"//posts//\"}}, sort: {fields: [frontmatter___date], order: DESC}, limit: $limit, skip: $skip) {\n    edges {\n      node {\n        id\n        excerpt\n        frontmatter {\n          title\n          date(formatString: \"DD MMMM YYYY\")\n          path\n          author\n          excerpt\n          tags\n          coverImage {\n            childImageSharp {\n              fluid(maxWidth: 800) {\n                ...GatsbyImageSharpFluid\n              }\n            }\n          }\n        }\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
       "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/index.js",
+      "query": "query usersDarshankumarDgodDarshankumarComDarshankumarIoSrcTemplatesIndexJs157487334(\n  $limit: Int!\n  $skip: Int!\n) {\n  allMarkdownRemark(filter: {fileAbsolutePath: {regex: \"//posts//\"}}, sort: {fields: [frontmatter___date], order: DESC}, limit: $limit, skip: $skip) {\n    edges {\n      node {\n        id\n        excerpt\n        frontmatter {\n          title\n          date(formatString: \"DD MMMM YYYY\")\n          path\n          author\n          excerpt\n          tags\n          coverImage {\n            childImageSharp {\n              fluid(maxWidth: 800) {\n                ...GatsbyImageSharpFluid\n              }\n            }\n          }\n        }\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
       "pages": [
         "/"
       ],
-      "isInBootstrap": false
+      "isInBootstrap": true
     },
     "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/page.js": {
-      "query": "query usersDarshankumarDgodDarshankumarComDarshankumarIoSrcTemplatesPageJs2649831006(\n  $path: String\n) {\n  markdownRemark(frontmatter: {path: {eq: $path}}) {\n    frontmatter {\n      title\n      date(formatString: \"DD MMMM YYYY\")\n      path\n      author\n      excerpt\n      tags\n      coverImage {\n        childImageSharp {\n          fluid(maxWidth: 800) {\n            ...GatsbyImageSharpFluid\n          }\n        }\n      }\n    }\n    id\n    html\n    excerpt\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
       "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/page.js",
+      "query": "query usersDarshankumarDgodDarshankumarComDarshankumarIoSrcTemplatesPageJs2649831006(\n  $path: String\n) {\n  markdownRemark(frontmatter: {path: {eq: $path}}) {\n    frontmatter {\n      title\n      date(formatString: \"DD MMMM YYYY\")\n      path\n      author\n      excerpt\n      tags\n      coverImage {\n        childImageSharp {\n          fluid(maxWidth: 800) {\n            ...GatsbyImageSharpFluid\n          }\n        }\n      }\n    }\n    id\n    html\n    excerpt\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
       "pages": [
         "/about",
         "/showcase",
         "/hello",
         "/example"
       ],
-      "isInBootstrap": false
+      "isInBootstrap": true
     },
     "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/tags.js": {
-      "query": "query usersDarshankumarDgodDarshankumarComDarshankumarIoSrcTemplatesTagsJs808086567(\n  $limit: Int!\n  $skip: Int!\n  $tag: String!\n) {\n  allMarkdownRemark(filter: {frontmatter: {tags: {in: [$tag]}}}, sort: {fields: [frontmatter___date], order: DESC}, limit: $limit, skip: $skip) {\n    edges {\n      node {\n        id\n        excerpt\n        frontmatter {\n          title\n          date(formatString: \"DD MMMM YYYY\")\n          path\n          author\n          excerpt\n          tags\n          coverImage {\n            childImageSharp {\n              fluid(maxWidth: 800) {\n                ...GatsbyImageSharpFluid\n              }\n            }\n          }\n        }\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
       "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/tags.js",
+      "query": "query usersDarshankumarDgodDarshankumarComDarshankumarIoSrcTemplatesTagsJs808086567(\n  $limit: Int!\n  $skip: Int!\n  $tag: String!\n) {\n  allMarkdownRemark(filter: {frontmatter: {tags: {in: [$tag]}}}, sort: {fields: [frontmatter___date], order: DESC}, limit: $limit, skip: $skip) {\n    edges {\n      node {\n        id\n        excerpt\n        frontmatter {\n          title\n          date(formatString: \"DD MMMM YYYY\")\n          path\n          author\n          excerpt\n          tags\n          coverImage {\n            childImageSharp {\n              fluid(maxWidth: 800) {\n                ...GatsbyImageSharpFluid\n              }\n            }\n          }\n        }\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
       "pages": [
         "/tag/rob-ot",
         "/tag/hello-friend"
       ],
-      "isInBootstrap": false
+      "isInBootstrap": true
     },
     "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/.cache/dev-404-page.js": {
       "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/.cache/dev-404-page.js",

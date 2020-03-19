@@ -7,21 +7,20 @@ const postCSSMixins = require('postcss-mixins')
 
 module.exports = {
   siteMetadata: {
-    title: `Hello Friend`,
-    description: `A simple starter for Gatsby. That's it.`,
+    title: `Darshan Kumar`,
+    description: `full stack developer`,
     copyrights: '',
     author: `@panr`,
     logo: {
       src: '',
       alt: '',
     },
-    logoText: 'hello friend',
+    logoText: 'Darshan Kumar',
     defaultTheme: 'dark',
     postsPerPage: 5,
     showMenuItems: 2,
     menuMoreText: 'Show more',
-    mainMenu: [
-      {
+    mainMenu: [{
         title: 'About',
         path: '/about',
       },
@@ -83,8 +82,7 @@ module.exports = {
     {
       resolve: `gatsby-transformer-remark`,
       options: {
-        plugins: [
-          {
+        plugins: [{
             resolve: 'gatsby-remark-embed-video',
             options: {
               related: false,
@@ -122,6 +120,30 @@ module.exports = {
         display: `minimal-ui`,
         icon: `src/images/hello-icon.png`,
       },
+    },
+    {
+      resolve: 'gatsby-plugin-whatshelp',
+      options: {
+        facebook: "darshankumar89", // Facebook page ID
+        whatsapp: "+32 465183127", // WhatsApp number
+        email: "darshankumar38@gmail.com", // Email
+        call: "+32 465183127", // Call phone number
+        company_logo_url: "//storage.whatshelp.io/widget/xx/xxxx/xxxxxx/logo.jpg", // URL of company logo (png, jpg, gif)
+        greeting_message: "Hello", // Text of greeting message
+        call_to_action: "Call to Action", // Call to action
+        button_color: "#b02030", // Color of button
+        position: "right", // Position may be 'right' or 'left'
+        order: "facebook,whatsapp,call,email", // Order of buttons
+        ga: true, // Google Analytics enabled
+        branding: false, // Show branding string
+        mobile: true, // Mobile version enabled
+        desktop: true, // Desktop version enabled
+        greeting: true, // Greeting message enabled
+        shift_vertical: 0, // Vertical position, px
+        shift_horizontal: 0, // Horizontal position, px
+        domain: "https://darshankumar.netlify.com", // site domain
+        key: "xxx" // pro-widget key
+      }
     },
   ],
 }

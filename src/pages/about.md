@@ -10,7 +10,7 @@ path: "/about"
 
 My name is Darshan Kumar / DK and I'm an entrepreneur by passion. I am a Technical consultant, Cloud Architect, Startup enthusiast, Apache PMC, DevOps Engineer, Full stack engineer, Big data and AI. 
 
-I am a Founder of [**Mozayc**](https://mozayc.net), [**KernAdler**](https://kernadler.net). CTO of TRIPA, [**Frogfish**](https://frogfish.io), Appcandy.
+I am a Founder of [**Mozayc**](https://mozayc.net) Blockchain Based E-commerce platform, [**KernAdler**](https://kernadler.net). CTO of TRIPA, [**Frogfish**](https://frogfish.io), Appcandy.
 
 check me out on [**GITHUB**](https://github.com/darshankumar89) [**Twitter**](https://twitter.com/darshaneldorado) [**Linkedin**](https://www.linkedin.com/in/darshankumar/) 
 
@@ -22,7 +22,7 @@ Being a Entrepreneur building innovative products with latest technologies like 
 
 As a Apache PMC, I have contributed to open source repository. 
 
-Comapnies I woked with :
+**Comapnies I woked with** :
  
 - [**Belgian Post Group**](https://en.wikipedia.org/wiki/Bpost)
 
