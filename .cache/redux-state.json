@@ -2043,7 +2043,7 @@
       "siteMetadata": {
         "title": "Darshan Kumar",
         "description": "full stack developer",
-        "copyrights": "",
+        "copyrights": "2020",
         "author": "@panr",
         "logo": {
           "src": "",
@@ -2071,14 +2071,12 @@
       },
       "port": "8000",
       "host": "localhost",
-      "pathPrefix": "",
-      "polyfill": true,
       "buildTime": "2020-03-19T22:26:22.842Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "c998727e08c28fda97a3be068c0c96e5",
+        "contentDigest": "dd53a4567fec9642ad54bd04fb3f5bfe",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -2636,7 +2634,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "5bc2af13ee5c7ed7455e48a92d715da5",
+        "contentDigest": "76e64854beac7beab168fb40798a6116",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"src/pages/about.md\"",
@@ -2646,11 +2644,11 @@
       "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/about.md",
       "relativePath": "about.md",
       "extension": "md",
-      "size": 1690,
-      "prettySize": "1.69 kB",
-      "modifiedTime": "2020-03-19T22:26:16.556Z",
-      "accessTime": "2020-03-19T22:26:16.911Z",
-      "changeTime": "2020-03-19T22:26:16.556Z",
+      "size": 1277,
+      "prettySize": "1.28 kB",
+      "modifiedTime": "2020-03-19T22:28:09.720Z",
+      "accessTime": "2020-03-19T22:28:09.781Z",
+      "changeTime": "2020-03-19T22:28:09.720Z",
       "birthTime": "2020-03-10T12:15:13.357Z",
       "root": "/",
       "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages",
@@ -2667,13 +2665,13 @@
       "blksize": 4096,
       "ino": 23497172,
       "blocks": 8,
-      "atimeMs": 1584656776910.9912,
-      "mtimeMs": 1584656776556.055,
-      "ctimeMs": 1584656776556.055,
+      "atimeMs": 1584656889781.271,
+      "mtimeMs": 1584656889720.3933,
+      "ctimeMs": 1584656889720.3933,
       "birthtimeMs": 1583842513357.155,
-      "atime": "2020-03-19T22:26:16.911Z",
-      "mtime": "2020-03-19T22:26:16.556Z",
-      "ctime": "2020-03-19T22:26:16.556Z",
+      "atime": "2020-03-19T22:28:09.781Z",
+      "mtime": "2020-03-19T22:28:09.720Z",
+      "ctime": "2020-03-19T22:28:09.720Z",
       "birthtime": "2020-03-10T12:15:13.357Z"
     },
     "2a841927-8eee-5ab1-8e09-90df6a1a4cc6": {
@@ -2742,27 +2740,6 @@
       "excerpt": "",
       "rawMarkdownBody": "\n## Header 2\n\nBackup two-step verification breach, anonymous terminal traffic worm virus reboot fsociety dat file. Traffic fsociety malware 100 terabytes system hack, delete brute-force cyber security fiber connection connect code worm wipe. Cyber security off the grid delete IP decrypt, **nodes connect password 100 terabytes RUDY attack malicious code** rootkit gigabit speed. Tor connect network, intercepting traffic off the grid IP protocol password.\n\n> Backup DDoS attack rootkit nodes disconnect website. Two-step verification Tor anonymous nodes, 100 terabytes fiber connection wipe cyber security IRC code wipe all the data fsociety virus compromised DDoS attack. Sys admin data center gigabit speed breach, worm DDoS attack AFK nodes.\n\n### Header 3\n\nBrute-force intercepting traffic fiber connection system boot up fsociety reboot AFK sys admin. Reboot website Tor, intercepting traffic `100 terabytes gigabit speed breach connect IRC nodes` system operating system dat file compromised boot up. Data center decrypt password network disconnect. Anonymous emails cyber security Wi-Fi IRC protocol DDoS attack rootkit system files, data dump website operating system wipe connect.\n\n```css\n/* PostCSS code by PrismJS */\n\npre {\n  background: #1a1a1d;\n  padding: 20px;\n  border-radius: 8px;\n  font-size: 1rem;\n  overflow: auto;\n\n  @media (--phone) {\n    white-space: pre-wrap;\n    word-wrap: break-word;\n  }\n\n  code {\n    background: none !important;\n    color: #ccc;\n    padding: 0;\n    font-size: inherit;\n\n    .dark-theme & {\n      color: inherit;\n    }\n  }\n}\n```\n\n```js\n// JS code by PrismJS\n\nconst menuTrigger = document.querySelector('.menu-trigger')\nconst menu = document.querySelector('.menu')\nconst mobileQuery = getComputedStyle(document.body).getPropertyValue('--phoneWidth')\nconst isMobile = () => window.matchMedia(mobileQuery).matches\nconst isMobileMenu = () => {\n  menuTrigger.classList.toggle('hidden', !isMobile())\n  menu.classList.toggle('hidden', isMobile())\n}\n\nisMobileMenu()\n\nmenuTrigger.addEventListener('click', () => menu.classList.toggle('hidden'))\n\nwindow.addEventListener('resize', isMobileMenu)\n```\n\n```html\n<section id=\"main\">\n  <div>\n   <h1 id=\"title\">{{ .Title }}</h1>\n    {{ range .Pages }}\n        {{ .Render \"summary\"}}\n    {{ end }}\n  </div>\n</section>\n```\n\n#### Header 4\n\nTraffic RUDY attack nodes anonymous IP network code two-step verification system files data center bonsoir terminal. Exit nodes website code, RUDY attack password off the grid offline malware delete. Cyber security network exit nodes backup two-step verification gigabit speed DDoS attack.\n\n- Fsociety delete malicious code nodes.\n- IP cyber security wipe all the data sys admin virus compromised dat file malicious code computer.\n- Decrypt two-step verification Tor wipe, password cyber security data dump malicious code dat file routing protocol operating system.\n- Anonymous boot up website AFK.\n  - Timing out IP DNS, log file offline terminal brute-force system files connect server farm.\n  - Reboot sys admin worm log file wipe.\n\n`youtube: xIBiJ_SzJTA`\n\nTor boot up backup anonymous bonsoir IRC website. Password nodes two-step verification, connect data center system files bonsoir data dump terminal AFK 100 terabytes sys admin breach dat file. Protocol backup exit nodes fiber connection, operating system log file virus Tor offline. Password data center two-step verification disconnect IRC terminal. Tor IRC cyber security AFK protocol traffic disconnect. Code exit nodes IRC cyber security nodes worm.\n",
       "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/showcase.md"
-    },
-    "66b77a2e-a497-5fbb-91b5-82c6b7d7454b": {
-      "id": "66b77a2e-a497-5fbb-91b5-82c6b7d7454b",
-      "children": [],
-      "parent": "fb3fc354-1d0c-55fe-84d5-98b57d118ed8",
-      "internal": {
-        "content": "\n## Hi there\n\nMy name is Darshan Kumar / DK and I'm an entrepreneur by passion. I am a Technical consultant, Cloud Architect, Startup enthusiast, Apache PMC, DevOps Engineer, Full stack engineer, Big data and AI. \n\nI am a Founder of [**Mozayc**](https://mozayc.net) Blockchain Based E-commerce platform, [**KernAdler**](https://kernadler.net). CTO of TRIPA, [**Frogfish**](https://frogfish.io), Appcandy.\n\ncheck me out on [**GITHUB**](https://github.com/darshankumar89) [**Twitter**](https://twitter.com/darshaneldorado) [**Linkedin**](https://www.linkedin.com/in/darshankumar/) \n\nMy expertise are with technologies like JS ♥️ ReactJS, Nodejs, AngularJS, Apache hadoop, AWS Devops, Java spring framework, python. \n\nEntrepreneur, Innovator, Growth hacker and Apache Atlas PMC, Apache Hadoop committer, AI enthusiasts,\n\nBeing a Entrepreneur building innovative products with latest technologies like AI, Analytics and Machine learning to solve the real time problems. \n\nAs a Apache PMC, I have contributed to open source repository. \n\n**Comapnies I woked with** :\n \n- [**Belgian Post Group**](https://en.wikipedia.org/wiki/Bpost)\n\n\n- **light/dark mode**, depending on your preferences\n- great reading experience thanks to [**Inter UI font**](https://rsms.me/inter/), made by [Rasmus Andersson](https://rsms.me/about/)\n- nice code highlighting thanks to [**PrismJS**](https://prismjs.com)\n- responsive youtube/vimeo etc. videos thanks to [**gatsby-remark-embed-video**](https://github.com/borgfriend/gatsby-remark-embed-video)\n\nSo, there you have it... enjoy!\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "fbefba74f82716435b848668b04e1e5f",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "My Introduction",
-        "date": "2020-03-18",
-        "author": "Darshan Kumar",
-        "coverImage": "../images/apachecon.jpg",
-        "path": "/about"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\n## Hi there\n\nMy name is Darshan Kumar / DK and I'm an entrepreneur by passion. I am a Technical consultant, Cloud Architect, Startup enthusiast, Apache PMC, DevOps Engineer, Full stack engineer, Big data and AI. \n\nI am a Founder of [**Mozayc**](https://mozayc.net) Blockchain Based E-commerce platform, [**KernAdler**](https://kernadler.net). CTO of TRIPA, [**Frogfish**](https://frogfish.io), Appcandy.\n\ncheck me out on [**GITHUB**](https://github.com/darshankumar89) [**Twitter**](https://twitter.com/darshaneldorado) [**Linkedin**](https://www.linkedin.com/in/darshankumar/) \n\nMy expertise are with technologies like JS ♥️ ReactJS, Nodejs, AngularJS, Apache hadoop, AWS Devops, Java spring framework, python. \n\nEntrepreneur, Innovator, Growth hacker and Apache Atlas PMC, Apache Hadoop committer, AI enthusiasts,\n\nBeing a Entrepreneur building innovative products with latest technologies like AI, Analytics and Machine learning to solve the real time problems. \n\nAs a Apache PMC, I have contributed to open source repository. \n\n**Comapnies I woked with** :\n \n- [**Belgian Post Group**](https://en.wikipedia.org/wiki/Bpost)\n\n\n- **light/dark mode**, depending on your preferences\n- great reading experience thanks to [**Inter UI font**](https://rsms.me/inter/), made by [Rasmus Andersson](https://rsms.me/about/)\n- nice code highlighting thanks to [**PrismJS**](https://prismjs.com)\n- responsive youtube/vimeo etc. videos thanks to [**gatsby-remark-embed-video**](https://github.com/borgfriend/gatsby-remark-embed-video)\n\nSo, there you have it... enjoy!\n",
-      "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/about.md"
     },
     "SitePage /": {
       "jsonName": "index",
@@ -3025,6 +3002,27 @@
         "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
         "owner": "internal-data-bridge"
       }
+    },
+    "66b77a2e-a497-5fbb-91b5-82c6b7d7454b": {
+      "id": "66b77a2e-a497-5fbb-91b5-82c6b7d7454b",
+      "children": [],
+      "parent": "fb3fc354-1d0c-55fe-84d5-98b57d118ed8",
+      "internal": {
+        "content": "\n## Hi there\n\nMy name is Darshan Kumar / DK and I'm an entrepreneur by passion. I am a Technical consultant, Cloud Architect, Startup enthusiast, Apache PMC, DevOps Engineer, Full stack engineer, Big data and AI. \n\nI am a Founder of [**Mozayc**](https://mozayc.net) Blockchain Based E-commerce platform, [**KernAdler**](https://kernadler.net). CTO of TRIPA, [**Frogfish**](https://frogfish.io), Appcandy.\n\ncheck me out on [**GITHUB**](https://github.com/darshankumar89) [**Twitter**](https://twitter.com/darshaneldorado) [**Linkedin**](https://www.linkedin.com/in/darshankumar/) \n\nMy expertise are with technologies like JS ♥️ ReactJS, Nodejs, AngularJS, Apache hadoop, AWS Devops, Java spring framework, python. \n\nEntrepreneur, Innovator, Growth hacker and Apache Atlas PMC, Apache Hadoop committer, AI enthusiasts,\n\nBeing a Entrepreneur building innovative products with latest technologies like AI, Analytics and Machine learning to solve the real time problems. \n\nAs a Apache PMC, I have contributed to open source repository. \n\n**Comapnies I woked with** :\n \n- [**Belgian Post Group**](https://en.wikipedia.org/wiki/Bpost)\n- Hortonworks \n\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "1ceea1699c365f6202313150428d9c19",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "My Introduction",
+        "date": "2020-03-18",
+        "author": "Darshan Kumar",
+        "coverImage": "../images/apachecon.jpg",
+        "path": "/about"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n## Hi there\n\nMy name is Darshan Kumar / DK and I'm an entrepreneur by passion. I am a Technical consultant, Cloud Architect, Startup enthusiast, Apache PMC, DevOps Engineer, Full stack engineer, Big data and AI. \n\nI am a Founder of [**Mozayc**](https://mozayc.net) Blockchain Based E-commerce platform, [**KernAdler**](https://kernadler.net). CTO of TRIPA, [**Frogfish**](https://frogfish.io), Appcandy.\n\ncheck me out on [**GITHUB**](https://github.com/darshankumar89) [**Twitter**](https://twitter.com/darshaneldorado) [**Linkedin**](https://www.linkedin.com/in/darshankumar/) \n\nMy expertise are with technologies like JS ♥️ ReactJS, Nodejs, AngularJS, Apache hadoop, AWS Devops, Java spring framework, python. \n\nEntrepreneur, Innovator, Growth hacker and Apache Atlas PMC, Apache Hadoop committer, AI enthusiasts,\n\nBeing a Entrepreneur building innovative products with latest technologies like AI, Analytics and Machine learning to solve the real time problems. \n\nAs a Apache PMC, I have contributed to open source repository. \n\n**Comapnies I woked with** :\n \n- [**Belgian Post Group**](https://en.wikipedia.org/wiki/Bpost)\n- Hortonworks \n\n",
+      "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/about.md"
     }
   },
   "status": {
@@ -3080,7 +3078,7 @@
     "sq--src-components-layout-js": 2892404432,
     "sq--src-components-seo-js": 1582510487,
     "sq--src-components-image-js": 492526033,
-    "about-771": "430/path---about-771-2fe-1fSuPXMRdaoYwT7GTW1OPHr8qU8",
+    "about-771": "413/path---about-771-2fe-Lkb9hMXO65JyTONgRmkuMZuX0",
     "showcase-d23": "312/path---showcase-d-23-738-uG5HMW7bsfBeFqPsD6H2fclM6os",
     "index": "387/path---index-6a9-WVvVMh9tjhX0AxbCdDYh8ftwXcw",
     "tag-rob-ot-348": "560/path---tag-rob-ot-348-285-ADlDUJqyQnjyLowBU2CvzKumtE",
@@ -3093,32 +3091,32 @@
   },
   "components": {
     "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/index.js": {
-      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/index.js",
       "query": "query usersDarshankumarDgodDarshankumarComDarshankumarIoSrcTemplatesIndexJs157487334(\n  $limit: Int!\n  $skip: Int!\n) {\n  allMarkdownRemark(filter: {fileAbsolutePath: {regex: \"//posts//\"}}, sort: {fields: [frontmatter___date], order: DESC}, limit: $limit, skip: $skip) {\n    edges {\n      node {\n        id\n        excerpt\n        frontmatter {\n          title\n          date(formatString: \"DD MMMM YYYY\")\n          path\n          author\n          excerpt\n          tags\n          coverImage {\n            childImageSharp {\n              fluid(maxWidth: 800) {\n                ...GatsbyImageSharpFluid\n              }\n            }\n          }\n        }\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
+      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/index.js",
       "pages": [
         "/"
       ],
-      "isInBootstrap": true
+      "isInBootstrap": false
     },
     "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/page.js": {
-      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/page.js",
       "query": "query usersDarshankumarDgodDarshankumarComDarshankumarIoSrcTemplatesPageJs2649831006(\n  $path: String\n) {\n  markdownRemark(frontmatter: {path: {eq: $path}}) {\n    frontmatter {\n      title\n      date(formatString: \"DD MMMM YYYY\")\n      path\n      author\n      excerpt\n      tags\n      coverImage {\n        childImageSharp {\n          fluid(maxWidth: 800) {\n            ...GatsbyImageSharpFluid\n          }\n        }\n      }\n    }\n    id\n    html\n    excerpt\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
+      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/page.js",
       "pages": [
         "/about",
         "/showcase",
         "/hello",
         "/example"
       ],
-      "isInBootstrap": true
+      "isInBootstrap": false
     },
     "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/tags.js": {
-      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/tags.js",
       "query": "query usersDarshankumarDgodDarshankumarComDarshankumarIoSrcTemplatesTagsJs808086567(\n  $limit: Int!\n  $skip: Int!\n  $tag: String!\n) {\n  allMarkdownRemark(filter: {frontmatter: {tags: {in: [$tag]}}}, sort: {fields: [frontmatter___date], order: DESC}, limit: $limit, skip: $skip) {\n    edges {\n      node {\n        id\n        excerpt\n        frontmatter {\n          title\n          date(formatString: \"DD MMMM YYYY\")\n          path\n          author\n          excerpt\n          tags\n          coverImage {\n            childImageSharp {\n              fluid(maxWidth: 800) {\n                ...GatsbyImageSharpFluid\n              }\n            }\n          }\n        }\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
+      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/tags.js",
       "pages": [
         "/tag/rob-ot",
         "/tag/hello-friend"
       ],
-      "isInBootstrap": true
+      "isInBootstrap": false
     },
     "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/.cache/dev-404-page.js": {
       "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/.cache/dev-404-page.js",
