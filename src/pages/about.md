@@ -22,8 +22,32 @@ Being a Entrepreneur building innovative products with latest technologies like 
 
 As a Apache PMC, I have contributed to open source repository. 
 
-**Comapnies I woked with** :
+**Comapnies I associated with** :
  
 - [**Belgian Post Group**](https://en.wikipedia.org/wiki/Bpost)
-- Hortonworks 
+- [**Hortonworks parent company**] (https://www.cloudera.com/)
+- TCS 
+- SHEM.sk
+- 01 people 
+- Jingle Chat Bots
+- Sycamore 
+- ephicacy 
+- Hashtaag
+- paperboy
+- Apache 
+- MPR global Solutions 
+- Sourceasy
+- Isolcell Italia
+- Larsen & Turbo technology services 
+- AmazingH
+- raiffeisen bank
+
+**Take pride of beign a part of product development team**
+
+- paperboy
+- Sycamore
+- apache atlas 
+- apache falcon 
+- Bpost retail 
+
 

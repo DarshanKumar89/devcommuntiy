@@ -1737,11 +1737,112 @@
         "owner": "internal-data-bridge"
       }
     },
+    "24cda963-84cc-58ae-a163-2a323974f8bf": {
+      "resolve": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby-plugin-google-analytics",
+      "id": "24cda963-84cc-58ae-a163-2a323974f8bf",
+      "name": "gatsby-plugin-google-analytics",
+      "version": "2.2.0",
+      "pluginOptions": {
+        "plugins": [],
+        "trackingId": "UA-133460649-2",
+        "head": true,
+        "anonymize": true,
+        "respectDNT": true,
+        "exclude": [
+          "/preview/**",
+          "/do-not-track/me/too/"
+        ],
+        "pageTransitionDelay": 0,
+        "optimizeId": "YOUR_GOOGLE_OPTIMIZE_TRACKING_ID",
+        "experimentId": "YOUR_GOOGLE_EXPERIMENT_ID",
+        "variationId": "YOUR_GOOGLE_OPTIMIZE_VARIATION_ID",
+        "sampleRate": 5,
+        "siteSpeedSampleRate": 10,
+        "cookieDomain": "darshankumar.netlify.com"
+      },
+      "nodeAPIs": [
+        "onPreInit"
+      ],
+      "browserAPIs": [
+        "onRouteUpdate"
+      ],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby-plugin-google-analytics",
+      "packageJson": {
+        "name": "gatsby-plugin-google-analytics",
+        "description": "Gatsby plugin to add google analytics onto a site",
+        "version": "2.2.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "google analytics"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.8.7"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.8.4"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.8.7"
+          },
+          {
+            "name": "@testing-library/react",
+            "version": "^9.5.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.3.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.2.1"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "react",
+            "version": "^16.4.2"
+          },
+          {
+            "name": "react-dom",
+            "version": "^16.4.2"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "6c851e4e9d380f3ec8f4ebeac0e07bd9",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
     "7374ebf2-d961-52ee-92a2-c25e7cb387a9": {
       "resolve": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io",
       "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "name": "default-site-plugin",
-      "version": "7732696c8f95451200f5287e0f2eadc2",
+      "version": "68386f7def858904c1bf999ce0273e45",
       "pluginOptions": {
         "plugins": []
       },
@@ -1780,6 +1881,10 @@
           {
             "name": "gatsby-image",
             "version": "^2.0.20"
+          },
+          {
+            "name": "gatsby-plugin-google-analytics",
+            "version": "^2.2.0"
           },
           {
             "name": "gatsby-plugin-manifest",
@@ -1939,7 +2044,7 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "5bef7b0f154895ac135bde0d6f2bdfe4",
+        "contentDigest": "58828202b3e5213ac214211e1b70f2a2",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -2071,12 +2176,14 @@
       },
       "port": "8000",
       "host": "localhost",
-      "buildTime": "2020-03-19T22:26:22.842Z",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2020-03-23T14:32:58.959Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "dd53a4567fec9642ad54bd04fb3f5bfe",
+        "contentDigest": "a96f3bdc3822d88b105fd4141a0e9b40",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -2086,7 +2193,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "8327d3c11ffd0ed28b16a774a00ee316",
+        "contentDigest": "d169d1fe7e157b550deb89c6fea9b4b0",
         "type": "Directory",
         "description": "Directory \"src/images\"",
         "owner": "gatsby-source-filesystem"
@@ -2098,7 +2205,7 @@
       "size": 192,
       "prettySize": "192 B",
       "modifiedTime": "2020-03-18T14:54:21.819Z",
-      "accessTime": "2020-03-19T22:26:30.451Z",
+      "accessTime": "2020-03-23T14:33:08.072Z",
       "changeTime": "2020-03-18T14:54:21.819Z",
       "birthTime": "2020-03-10T12:15:13.352Z",
       "root": "/",
@@ -2116,11 +2223,11 @@
       "blksize": 4096,
       "ino": 23497142,
       "blocks": 0,
-      "atimeMs": 1584656790450.9172,
+      "atimeMs": 1584973988072.256,
       "mtimeMs": 1584543261818.6897,
       "ctimeMs": 1584543261818.6897,
       "birthtimeMs": 1583842513352.2805,
-      "atime": "2020-03-19T22:26:30.451Z",
+      "atime": "2020-03-23T14:33:08.072Z",
       "mtime": "2020-03-18T14:54:21.819Z",
       "ctime": "2020-03-18T14:54:21.819Z",
       "birthtime": "2020-03-10T12:15:13.352Z"
@@ -2182,53 +2289,6 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "3ae16bab-f3ea-578b-ae2b-ba8c8e7139aa": {
-      "id": "3ae16bab-f3ea-578b-ae2b-ba8c8e7139aa",
-      "children": [
-        "c2639869-3fde-5bbc-9625-800dcd8939ed"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "d8f58db2bf33b02d816c03418e6d9cca",
-        "type": "File",
-        "mediaType": "image/jpeg",
-        "description": "File \"src/images/apachecon.jpg\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/images/apachecon.jpg",
-      "relativePath": "apachecon.jpg",
-      "extension": "jpg",
-      "size": 94527,
-      "prettySize": "94.5 kB",
-      "modifiedTime": "2020-03-18T14:53:11.384Z",
-      "accessTime": "2020-03-18T15:46:27.668Z",
-      "changeTime": "2020-03-18T14:53:41.097Z",
-      "birthTime": "2020-03-18T14:53:11.372Z",
-      "root": "/",
-      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/images",
-      "base": "apachecon.jpg",
-      "ext": ".jpg",
-      "name": "apachecon",
-      "relativeDirectory": "",
-      "dev": 16777221,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 23648092,
-      "blocks": 192,
-      "atimeMs": 1584546387667.5305,
-      "mtimeMs": 1584543191383.6418,
-      "ctimeMs": 1584543221097.4646,
-      "birthtimeMs": 1584543191371.8367,
-      "atime": "2020-03-18T15:46:27.668Z",
-      "mtime": "2020-03-18T14:53:11.384Z",
-      "ctime": "2020-03-18T14:53:41.097Z",
-      "birthtime": "2020-03-18T14:53:11.372Z"
-    },
     "f11fc279-a310-57f8-816d-04975c1ee5ef": {
       "id": "f11fc279-a310-57f8-816d-04975c1ee5ef",
       "children": [
@@ -2276,22 +2336,69 @@
       "ctime": "2020-03-18T14:43:11.524Z",
       "birthtime": "2020-03-10T12:15:13.354Z"
     },
-    "c2639869-3fde-5bbc-9625-800dcd8939ed": {
-      "id": "c2639869-3fde-5bbc-9625-800dcd8939ed",
-      "children": [],
-      "parent": "3ae16bab-f3ea-578b-ae2b-ba8c8e7139aa",
-      "internal": {
-        "contentDigest": "d8f58db2bf33b02d816c03418e6d9cca",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
     "75e47675-a295-5916-ae49-b139de6f4663": {
       "id": "75e47675-a295-5916-ae49-b139de6f4663",
       "children": [],
       "parent": "f11fc279-a310-57f8-816d-04975c1ee5ef",
       "internal": {
         "contentDigest": "6871f6b27b75646eb567bc25cd7d7d24",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "3ae16bab-f3ea-578b-ae2b-ba8c8e7139aa": {
+      "id": "3ae16bab-f3ea-578b-ae2b-ba8c8e7139aa",
+      "children": [
+        "c2639869-3fde-5bbc-9625-800dcd8939ed"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "d8f58db2bf33b02d816c03418e6d9cca",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"src/images/apachecon.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/images/apachecon.jpg",
+      "relativePath": "apachecon.jpg",
+      "extension": "jpg",
+      "size": 94527,
+      "prettySize": "94.5 kB",
+      "modifiedTime": "2020-03-18T14:53:11.384Z",
+      "accessTime": "2020-03-18T15:46:27.668Z",
+      "changeTime": "2020-03-18T14:53:41.097Z",
+      "birthTime": "2020-03-18T14:53:11.372Z",
+      "root": "/",
+      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/images",
+      "base": "apachecon.jpg",
+      "ext": ".jpg",
+      "name": "apachecon",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 23648092,
+      "blocks": 192,
+      "atimeMs": 1584546387667.5305,
+      "mtimeMs": 1584543191383.6418,
+      "ctimeMs": 1584543221097.4646,
+      "birthtimeMs": 1584543191371.8367,
+      "atime": "2020-03-18T15:46:27.668Z",
+      "mtime": "2020-03-18T14:53:11.384Z",
+      "ctime": "2020-03-18T14:53:41.097Z",
+      "birthtime": "2020-03-18T14:53:11.372Z"
+    },
+    "c2639869-3fde-5bbc-9625-800dcd8939ed": {
+      "id": "c2639869-3fde-5bbc-9625-800dcd8939ed",
+      "children": [],
+      "parent": "3ae16bab-f3ea-578b-ae2b-ba8c8e7139aa",
+      "internal": {
+        "contentDigest": "d8f58db2bf33b02d816c03418e6d9cca",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
@@ -2358,7 +2465,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "ab9c68a5ebe8194530898e51bb89b501",
+        "contentDigest": "3ab809fb3c68a925c3489eacd73e267a",
         "type": "Directory",
         "description": "Directory \"src/posts\"",
         "owner": "gatsby-source-filesystem"
@@ -2370,7 +2477,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2020-03-10T12:15:13.358Z",
-      "accessTime": "2020-03-19T22:26:30.467Z",
+      "accessTime": "2020-03-23T14:33:08.093Z",
       "changeTime": "2020-03-18T14:43:11.523Z",
       "birthTime": "2020-03-10T12:15:13.358Z",
       "root": "/",
@@ -2388,11 +2495,11 @@
       "blksize": 4096,
       "ino": 23497139,
       "blocks": 0,
-      "atimeMs": 1584656790466.8918,
+      "atimeMs": 1584973988092.9219,
       "mtimeMs": 1583842513358.0452,
       "ctimeMs": 1584542591523.3687,
       "birthtimeMs": 1583842513357.7473,
-      "atime": "2020-03-19T22:26:30.467Z",
+      "atime": "2020-03-23T14:33:08.093Z",
       "mtime": "2020-03-10T12:15:13.358Z",
       "ctime": "2020-03-18T14:43:11.523Z",
       "birthtime": "2020-03-10T12:15:13.358Z"
@@ -2404,7 +2511,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "5f54eb45873d30fdaa9920393b1d6112",
+        "contentDigest": "bdc6ebafe9fbd4406703163397fb22cf",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"src/posts/example.md\"",
@@ -2414,11 +2521,11 @@
       "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/example.md",
       "relativePath": "example.md",
       "extension": "md",
-      "size": 1999,
-      "prettySize": "2 kB",
-      "modifiedTime": "2020-03-10T12:15:13.358Z",
-      "accessTime": "2020-03-18T15:13:50.873Z",
-      "changeTime": "2020-03-18T14:43:11.523Z",
+      "size": 1559,
+      "prettySize": "1.56 kB",
+      "modifiedTime": "2020-03-23T15:18:04.286Z",
+      "accessTime": "2020-03-23T15:18:04.285Z",
+      "changeTime": "2020-03-23T15:18:04.286Z",
       "birthTime": "2020-03-10T12:15:13.358Z",
       "root": "/",
       "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts",
@@ -2435,13 +2542,13 @@
       "blksize": 4096,
       "ino": 23497140,
       "blocks": 8,
-      "atimeMs": 1584544430872.8755,
-      "mtimeMs": 1583842513357.9744,
-      "ctimeMs": 1584542591522.8184,
+      "atimeMs": 1584976684285.489,
+      "mtimeMs": 1584976684286.206,
+      "ctimeMs": 1584976684286.206,
       "birthtimeMs": 1583842513357.8389,
-      "atime": "2020-03-18T15:13:50.873Z",
-      "mtime": "2020-03-10T12:15:13.358Z",
-      "ctime": "2020-03-18T14:43:11.523Z",
+      "atime": "2020-03-23T15:18:04.285Z",
+      "mtime": "2020-03-23T15:18:04.286Z",
+      "ctime": "2020-03-23T15:18:04.286Z",
       "birthtime": "2020-03-10T12:15:13.358Z"
     },
     "677d53b6-10a0-5256-877c-13757aa4001f": {
@@ -2451,7 +2558,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "24f5531fb425b5e7b535c5e9aa0f1dbd",
+        "contentDigest": "1e9ab45ae9daba924bf521da7ce3a2a3",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"src/posts/hello.md\"",
@@ -2461,11 +2568,11 @@
       "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/hello.md",
       "relativePath": "hello.md",
       "extension": "md",
-      "size": 488,
-      "prettySize": "488 B",
-      "modifiedTime": "2020-03-10T12:15:13.358Z",
-      "accessTime": "2020-03-18T15:13:50.873Z",
-      "changeTime": "2020-03-18T14:43:11.523Z",
+      "size": 709,
+      "prettySize": "709 B",
+      "modifiedTime": "2020-03-23T15:12:10.086Z",
+      "accessTime": "2020-03-23T15:12:10.126Z",
+      "changeTime": "2020-03-23T15:12:10.086Z",
       "birthTime": "2020-03-10T12:15:13.358Z",
       "root": "/",
       "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts",
@@ -2482,68 +2589,21 @@
       "blksize": 4096,
       "ino": 23497141,
       "blocks": 8,
-      "atimeMs": 1584544430872.9043,
-      "mtimeMs": 1583842513358.2175,
-      "ctimeMs": 1584542591523.281,
+      "atimeMs": 1584976330126.4124,
+      "mtimeMs": 1584976330086.2773,
+      "ctimeMs": 1584976330086.2773,
       "birthtimeMs": 1583842513358.0396,
-      "atime": "2020-03-18T15:13:50.873Z",
-      "mtime": "2020-03-10T12:15:13.358Z",
-      "ctime": "2020-03-18T14:43:11.523Z",
+      "atime": "2020-03-23T15:12:10.126Z",
+      "mtime": "2020-03-23T15:12:10.086Z",
+      "ctime": "2020-03-23T15:12:10.086Z",
       "birthtime": "2020-03-10T12:15:13.358Z"
-    },
-    "acb3c1bd-803a-5a55-8236-eafaba648440": {
-      "id": "acb3c1bd-803a-5a55-8236-eafaba648440",
-      "children": [],
-      "parent": "0610ca7f-4378-5886-9b35-18fc42aac76a",
-      "internal": {
-        "content": "\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante.\n\n| Tables        |      Are      |   Cool |\n| ------------- | :-----------: | -----: |\n| col 3 is      | right-aligned | \\$1600 |\n| col 2 is      |   centered    |   \\$12 |\n| zebra stripes |   are neat    |    \\$1 |\n\n**Donec quis dolor nec nunc mollis interdum vel in purus**. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.\n\n> Fusce pharetra suscipit orci nec tempor. Quisque vitae sem sit amet sem mollis consequat. Sed at imperdiet lorem. Vestibulum pharetra faucibus odio, ac feugiat tellus sollicitudin at. Pellentesque varius tristique mi imperdiet dapibus. Duis orci odio, sodales lacinia venenatis sit amet, feugiat et diam.\n\nSed a leo id risus venenatis vulputate non quis nulla. Aenean nisl quam, lacinia pulvinar orci sit amet, eleifend eleifend dui. Nulla tempor ligula leo, eu vehicula quam condimentum a. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla gravida tristique nunc sed semper. Morbi nec felis odio.\n\n- Sed efficitur, lacus ac scelerisque pellentesque, lectus risus dignissim nisl, fermentum semper lectus diam eget lacus.\n- Nunc ornare purus enim, id eleifend mauris vestibulum volutpat.\n- Aenean facilisis ut ipsum condimentum ultrices.\n- Fusce sed metus vulputate, lobortis purus et, finibus purus. Suspendisse quis posuere lorem. Vivamus vulputate nec risus in pulvinar.\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "77ee4541214a8e588c8e41d134dc727d",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "Example",
-        "date": "2017-01-02",
-        "path": "/example",
-        "author": "Lorem Ipsum",
-        "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante."
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante.\n\n| Tables        |      Are      |   Cool |\n| ------------- | :-----------: | -----: |\n| col 3 is      | right-aligned | \\$1600 |\n| col 2 is      |   centered    |   \\$12 |\n| zebra stripes |   are neat    |    \\$1 |\n\n**Donec quis dolor nec nunc mollis interdum vel in purus**. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.\n\n> Fusce pharetra suscipit orci nec tempor. Quisque vitae sem sit amet sem mollis consequat. Sed at imperdiet lorem. Vestibulum pharetra faucibus odio, ac feugiat tellus sollicitudin at. Pellentesque varius tristique mi imperdiet dapibus. Duis orci odio, sodales lacinia venenatis sit amet, feugiat et diam.\n\nSed a leo id risus venenatis vulputate non quis nulla. Aenean nisl quam, lacinia pulvinar orci sit amet, eleifend eleifend dui. Nulla tempor ligula leo, eu vehicula quam condimentum a. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla gravida tristique nunc sed semper. Morbi nec felis odio.\n\n- Sed efficitur, lacus ac scelerisque pellentesque, lectus risus dignissim nisl, fermentum semper lectus diam eget lacus.\n- Nunc ornare purus enim, id eleifend mauris vestibulum volutpat.\n- Aenean facilisis ut ipsum condimentum ultrices.\n- Fusce sed metus vulputate, lobortis purus et, finibus purus. Suspendisse quis posuere lorem. Vivamus vulputate nec risus in pulvinar.\n",
-      "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/example.md"
-    },
-    "8864d128-c7cb-575d-98f5-a01b99790431": {
-      "id": "8864d128-c7cb-575d-98f5-a01b99790431",
-      "children": [],
-      "parent": "677d53b6-10a0-5256-877c-13757aa4001f",
-      "internal": {
-        "content": "\n> \"Hello, friend?\" That's lame. Maybe I should give you a name...\\\n> But that's a slippery slope.\\\n> You're only in my head.\\\n> We have to remember that...\\\n> Shit.\\\n> It's actually happened.\\\n> I'm talking to an imaginary person.\n>\n> **— Mr. Robot S01E01**\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "da80846e68cd2f662c3304fa711d29db",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "Hello Friend",
-        "path": "/hello",
-        "date": "2019-01-17",
-        "coverImage": "../images/hello.jpg",
-        "author": "Elliot",
-        "excerpt": "\"Hello, friend?\" That's lame. Maybe I should give you a name...",
-        "tags": [
-          "rob____ot",
-          "hello friend"
-        ]
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\n> \"Hello, friend?\" That's lame. Maybe I should give you a name...\\\n> But that's a slippery slope.\\\n> You're only in my head.\\\n> We have to remember that...\\\n> Shit.\\\n> It's actually happened.\\\n> I'm talking to an imaginary person.\n>\n> **— Mr. Robot S01E01**\n",
-      "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/hello.md"
     },
     "03add71b-a87d-57a2-a85a-0d062e494d24": {
       "id": "03add71b-a87d-57a2-a85a-0d062e494d24",
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "1821d20b6e40f1670944678b3e3acc95",
+        "contentDigest": "a1a8be04dc8a58d4f749fde9a51e1913",
         "type": "Directory",
         "description": "Directory \"src/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -2555,7 +2615,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2020-03-10T12:15:13.358Z",
-      "accessTime": "2020-03-19T22:26:30.471Z",
+      "accessTime": "2020-03-23T14:33:08.145Z",
       "changeTime": "2020-03-18T14:43:11.536Z",
       "birthTime": "2020-03-10T12:15:13.357Z",
       "root": "/",
@@ -2573,13 +2633,107 @@
       "blksize": 4096,
       "ino": 23497169,
       "blocks": 0,
-      "atimeMs": 1584656790471.022,
+      "atimeMs": 1584973988145.2307,
       "mtimeMs": 1583842513357.5461,
       "ctimeMs": 1584542591535.5718,
       "birthtimeMs": 1583842513356.7083,
-      "atime": "2020-03-19T22:26:30.471Z",
+      "atime": "2020-03-23T14:33:08.145Z",
       "mtime": "2020-03-10T12:15:13.358Z",
       "ctime": "2020-03-18T14:43:11.536Z",
+      "birthtime": "2020-03-10T12:15:13.357Z"
+    },
+    "2a841927-8eee-5ab1-8e09-90df6a1a4cc6": {
+      "id": "2a841927-8eee-5ab1-8e09-90df6a1a4cc6",
+      "children": [
+        "e58fc77a-21af-5819-a464-2eda9b87edd1"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "85d351bd1d3a2a082d91e105bfe18831",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/showcase.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/showcase.md",
+      "relativePath": "showcase.md",
+      "extension": "md",
+      "size": 19477,
+      "prettySize": "19.5 kB",
+      "modifiedTime": "2020-03-23T15:05:29.836Z",
+      "accessTime": "2020-03-23T15:05:29.948Z",
+      "changeTime": "2020-03-23T15:05:29.836Z",
+      "birthTime": "2020-03-10T12:15:13.358Z",
+      "root": "/",
+      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages",
+      "base": "showcase.md",
+      "ext": ".md",
+      "name": "showcase",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 23497170,
+      "blocks": 40,
+      "atimeMs": 1584975929947.6267,
+      "mtimeMs": 1584975929836.0525,
+      "ctimeMs": 1584975929836.0525,
+      "birthtimeMs": 1583842513357.5403,
+      "atime": "2020-03-23T15:05:29.948Z",
+      "mtime": "2020-03-23T15:05:29.836Z",
+      "ctime": "2020-03-23T15:05:29.836Z",
+      "birthtime": "2020-03-10T12:15:13.358Z"
+    },
+    "fb3fc354-1d0c-55fe-84d5-98b57d118ed8": {
+      "id": "fb3fc354-1d0c-55fe-84d5-98b57d118ed8",
+      "children": [
+        "66b77a2e-a497-5fbb-91b5-82c6b7d7454b"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "a460324d0cea82ab2ac598d03318d687",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/about.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/about.md",
+      "relativePath": "about.md",
+      "extension": "md",
+      "size": 1689,
+      "prettySize": "1.69 kB",
+      "modifiedTime": "2020-03-23T14:40:57.809Z",
+      "accessTime": "2020-03-23T14:40:58.088Z",
+      "changeTime": "2020-03-23T14:40:57.809Z",
+      "birthTime": "2020-03-10T12:15:13.357Z",
+      "root": "/",
+      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages",
+      "base": "about.md",
+      "ext": ".md",
+      "name": "about",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 23497172,
+      "blocks": 8,
+      "atimeMs": 1584974458088.1062,
+      "mtimeMs": 1584974457808.932,
+      "ctimeMs": 1584974457808.932,
+      "birthtimeMs": 1583842513357.155,
+      "atime": "2020-03-23T14:40:58.088Z",
+      "mtime": "2020-03-23T14:40:57.809Z",
+      "ctime": "2020-03-23T14:40:57.809Z",
       "birthtime": "2020-03-10T12:15:13.357Z"
     },
     "50894b6d-17c8-5508-8578-534b48b3d696": {
@@ -2627,120 +2781,6 @@
       "ctime": "2020-03-18T14:43:11.534Z",
       "birthtime": "2020-03-10T12:15:13.357Z"
     },
-    "fb3fc354-1d0c-55fe-84d5-98b57d118ed8": {
-      "id": "fb3fc354-1d0c-55fe-84d5-98b57d118ed8",
-      "children": [
-        "66b77a2e-a497-5fbb-91b5-82c6b7d7454b"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "76e64854beac7beab168fb40798a6116",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/pages/about.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/about.md",
-      "relativePath": "about.md",
-      "extension": "md",
-      "size": 1277,
-      "prettySize": "1.28 kB",
-      "modifiedTime": "2020-03-19T22:28:09.720Z",
-      "accessTime": "2020-03-19T22:28:09.781Z",
-      "changeTime": "2020-03-19T22:28:09.720Z",
-      "birthTime": "2020-03-10T12:15:13.357Z",
-      "root": "/",
-      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages",
-      "base": "about.md",
-      "ext": ".md",
-      "name": "about",
-      "relativeDirectory": "",
-      "dev": 16777221,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 23497172,
-      "blocks": 8,
-      "atimeMs": 1584656889781.271,
-      "mtimeMs": 1584656889720.3933,
-      "ctimeMs": 1584656889720.3933,
-      "birthtimeMs": 1583842513357.155,
-      "atime": "2020-03-19T22:28:09.781Z",
-      "mtime": "2020-03-19T22:28:09.720Z",
-      "ctime": "2020-03-19T22:28:09.720Z",
-      "birthtime": "2020-03-10T12:15:13.357Z"
-    },
-    "2a841927-8eee-5ab1-8e09-90df6a1a4cc6": {
-      "id": "2a841927-8eee-5ab1-8e09-90df6a1a4cc6",
-      "children": [
-        "e58fc77a-21af-5819-a464-2eda9b87edd1"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "a6383c1092245078b5e7a5f2dd210193",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/pages/showcase.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/showcase.md",
-      "relativePath": "showcase.md",
-      "extension": "md",
-      "size": 3613,
-      "prettySize": "3.61 kB",
-      "modifiedTime": "2020-03-10T12:15:13.358Z",
-      "accessTime": "2020-03-18T15:13:50.873Z",
-      "changeTime": "2020-03-18T14:43:11.534Z",
-      "birthTime": "2020-03-10T12:15:13.358Z",
-      "root": "/",
-      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages",
-      "base": "showcase.md",
-      "ext": ".md",
-      "name": "showcase",
-      "relativeDirectory": "",
-      "dev": 16777221,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 23497170,
-      "blocks": 8,
-      "atimeMs": 1584544430872.834,
-      "mtimeMs": 1583842513357.671,
-      "ctimeMs": 1584542591533.7532,
-      "birthtimeMs": 1583842513357.5403,
-      "atime": "2020-03-18T15:13:50.873Z",
-      "mtime": "2020-03-10T12:15:13.358Z",
-      "ctime": "2020-03-18T14:43:11.534Z",
-      "birthtime": "2020-03-10T12:15:13.358Z"
-    },
-    "e58fc77a-21af-5819-a464-2eda9b87edd1": {
-      "id": "e58fc77a-21af-5819-a464-2eda9b87edd1",
-      "children": [],
-      "parent": "2a841927-8eee-5ab1-8e09-90df6a1a4cc6",
-      "internal": {
-        "content": "\n## Header 2\n\nBackup two-step verification breach, anonymous terminal traffic worm virus reboot fsociety dat file. Traffic fsociety malware 100 terabytes system hack, delete brute-force cyber security fiber connection connect code worm wipe. Cyber security off the grid delete IP decrypt, **nodes connect password 100 terabytes RUDY attack malicious code** rootkit gigabit speed. Tor connect network, intercepting traffic off the grid IP protocol password.\n\n> Backup DDoS attack rootkit nodes disconnect website. Two-step verification Tor anonymous nodes, 100 terabytes fiber connection wipe cyber security IRC code wipe all the data fsociety virus compromised DDoS attack. Sys admin data center gigabit speed breach, worm DDoS attack AFK nodes.\n\n### Header 3\n\nBrute-force intercepting traffic fiber connection system boot up fsociety reboot AFK sys admin. Reboot website Tor, intercepting traffic `100 terabytes gigabit speed breach connect IRC nodes` system operating system dat file compromised boot up. Data center decrypt password network disconnect. Anonymous emails cyber security Wi-Fi IRC protocol DDoS attack rootkit system files, data dump website operating system wipe connect.\n\n```css\n/* PostCSS code by PrismJS */\n\npre {\n  background: #1a1a1d;\n  padding: 20px;\n  border-radius: 8px;\n  font-size: 1rem;\n  overflow: auto;\n\n  @media (--phone) {\n    white-space: pre-wrap;\n    word-wrap: break-word;\n  }\n\n  code {\n    background: none !important;\n    color: #ccc;\n    padding: 0;\n    font-size: inherit;\n\n    .dark-theme & {\n      color: inherit;\n    }\n  }\n}\n```\n\n```js\n// JS code by PrismJS\n\nconst menuTrigger = document.querySelector('.menu-trigger')\nconst menu = document.querySelector('.menu')\nconst mobileQuery = getComputedStyle(document.body).getPropertyValue('--phoneWidth')\nconst isMobile = () => window.matchMedia(mobileQuery).matches\nconst isMobileMenu = () => {\n  menuTrigger.classList.toggle('hidden', !isMobile())\n  menu.classList.toggle('hidden', isMobile())\n}\n\nisMobileMenu()\n\nmenuTrigger.addEventListener('click', () => menu.classList.toggle('hidden'))\n\nwindow.addEventListener('resize', isMobileMenu)\n```\n\n```html\n<section id=\"main\">\n  <div>\n   <h1 id=\"title\">{{ .Title }}</h1>\n    {{ range .Pages }}\n        {{ .Render \"summary\"}}\n    {{ end }}\n  </div>\n</section>\n```\n\n#### Header 4\n\nTraffic RUDY attack nodes anonymous IP network code two-step verification system files data center bonsoir terminal. Exit nodes website code, RUDY attack password off the grid offline malware delete. Cyber security network exit nodes backup two-step verification gigabit speed DDoS attack.\n\n- Fsociety delete malicious code nodes.\n- IP cyber security wipe all the data sys admin virus compromised dat file malicious code computer.\n- Decrypt two-step verification Tor wipe, password cyber security data dump malicious code dat file routing protocol operating system.\n- Anonymous boot up website AFK.\n  - Timing out IP DNS, log file offline terminal brute-force system files connect server farm.\n  - Reboot sys admin worm log file wipe.\n\n`youtube: xIBiJ_SzJTA`\n\nTor boot up backup anonymous bonsoir IRC website. Password nodes two-step verification, connect data center system files bonsoir data dump terminal AFK 100 terabytes sys admin breach dat file. Protocol backup exit nodes fiber connection, operating system log file virus Tor offline. Password data center two-step verification disconnect IRC terminal. Tor IRC cyber security AFK protocol traffic disconnect. Code exit nodes IRC cyber security nodes worm.\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "302b68c0bff2cd55f7685c46b5aaf41a",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "Showcase",
-        "date": "2018-07-17",
-        "author": "Hello Robot",
-        "path": "/showcase"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\n## Header 2\n\nBackup two-step verification breach, anonymous terminal traffic worm virus reboot fsociety dat file. Traffic fsociety malware 100 terabytes system hack, delete brute-force cyber security fiber connection connect code worm wipe. Cyber security off the grid delete IP decrypt, **nodes connect password 100 terabytes RUDY attack malicious code** rootkit gigabit speed. Tor connect network, intercepting traffic off the grid IP protocol password.\n\n> Backup DDoS attack rootkit nodes disconnect website. Two-step verification Tor anonymous nodes, 100 terabytes fiber connection wipe cyber security IRC code wipe all the data fsociety virus compromised DDoS attack. Sys admin data center gigabit speed breach, worm DDoS attack AFK nodes.\n\n### Header 3\n\nBrute-force intercepting traffic fiber connection system boot up fsociety reboot AFK sys admin. Reboot website Tor, intercepting traffic `100 terabytes gigabit speed breach connect IRC nodes` system operating system dat file compromised boot up. Data center decrypt password network disconnect. Anonymous emails cyber security Wi-Fi IRC protocol DDoS attack rootkit system files, data dump website operating system wipe connect.\n\n```css\n/* PostCSS code by PrismJS */\n\npre {\n  background: #1a1a1d;\n  padding: 20px;\n  border-radius: 8px;\n  font-size: 1rem;\n  overflow: auto;\n\n  @media (--phone) {\n    white-space: pre-wrap;\n    word-wrap: break-word;\n  }\n\n  code {\n    background: none !important;\n    color: #ccc;\n    padding: 0;\n    font-size: inherit;\n\n    .dark-theme & {\n      color: inherit;\n    }\n  }\n}\n```\n\n```js\n// JS code by PrismJS\n\nconst menuTrigger = document.querySelector('.menu-trigger')\nconst menu = document.querySelector('.menu')\nconst mobileQuery = getComputedStyle(document.body).getPropertyValue('--phoneWidth')\nconst isMobile = () => window.matchMedia(mobileQuery).matches\nconst isMobileMenu = () => {\n  menuTrigger.classList.toggle('hidden', !isMobile())\n  menu.classList.toggle('hidden', isMobile())\n}\n\nisMobileMenu()\n\nmenuTrigger.addEventListener('click', () => menu.classList.toggle('hidden'))\n\nwindow.addEventListener('resize', isMobileMenu)\n```\n\n```html\n<section id=\"main\">\n  <div>\n   <h1 id=\"title\">{{ .Title }}</h1>\n    {{ range .Pages }}\n        {{ .Render \"summary\"}}\n    {{ end }}\n  </div>\n</section>\n```\n\n#### Header 4\n\nTraffic RUDY attack nodes anonymous IP network code two-step verification system files data center bonsoir terminal. Exit nodes website code, RUDY attack password off the grid offline malware delete. Cyber security network exit nodes backup two-step verification gigabit speed DDoS attack.\n\n- Fsociety delete malicious code nodes.\n- IP cyber security wipe all the data sys admin virus compromised dat file malicious code computer.\n- Decrypt two-step verification Tor wipe, password cyber security data dump malicious code dat file routing protocol operating system.\n- Anonymous boot up website AFK.\n  - Timing out IP DNS, log file offline terminal brute-force system files connect server farm.\n  - Reboot sys admin worm log file wipe.\n\n`youtube: xIBiJ_SzJTA`\n\nTor boot up backup anonymous bonsoir IRC website. Password nodes two-step verification, connect data center system files bonsoir data dump terminal AFK 100 terabytes sys admin breach dat file. Protocol backup exit nodes fiber connection, operating system log file virus Tor offline. Password data center two-step verification disconnect IRC terminal. Tor IRC cyber security AFK protocol traffic disconnect. Code exit nodes IRC cyber security nodes worm.\n",
-      "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/showcase.md"
-    },
     "SitePage /": {
       "jsonName": "index",
       "internalComponentName": "ComponentIndex",
@@ -2779,15 +2819,15 @@
       "isCreatedByStatefulCreatePages": false,
       "context": {
         "type": "pages",
-        "next": {
+        "next": null,
+        "previous": {
           "frontmatter": {
             "path": "/showcase",
             "title": "Showcase",
             "tags": null
           },
           "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/showcase.md"
-        },
-        "previous": null
+        }
       },
       "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
@@ -2797,7 +2837,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f2e5314e450176e0111b0fc8bdb99f56",
+        "contentDigest": "fa1f8104041ad86d6deabce7dd83552e",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -2811,15 +2851,15 @@
       "isCreatedByStatefulCreatePages": false,
       "context": {
         "type": "pages",
-        "next": null,
-        "previous": {
+        "next": {
           "frontmatter": {
             "path": "/about",
             "title": "My Introduction",
             "tags": null
           },
           "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/about.md"
-        }
+        },
+        "previous": null
       },
       "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
@@ -2829,7 +2869,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f28bbadbb5a9ff39feab983585b60dba",
+        "contentDigest": "d362e314d90d8b09cb3199b9507a0232",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -2843,15 +2883,15 @@
       "isCreatedByStatefulCreatePages": false,
       "context": {
         "type": "posts",
-        "next": {
+        "next": null,
+        "previous": {
           "frontmatter": {
             "path": "/example",
-            "title": "Example",
+            "title": "Darshan with entrepreneurship mindset",
             "tags": null
           },
           "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/example.md"
-        },
-        "previous": null
+        }
       },
       "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
@@ -2861,102 +2901,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6c8b2a62400c383e7532326d84884dc9",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /example": {
-      "jsonName": "example-d5b",
-      "internalComponentName": "ComponentExample",
-      "path": "/example",
-      "component": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/page.js",
-      "componentChunkName": "component---src-templates-page-js",
-      "isCreatedByStatefulCreatePages": false,
-      "context": {
-        "type": "posts",
-        "next": null,
-        "previous": {
-          "frontmatter": {
-            "path": "/hello",
-            "title": "Hello Friend",
-            "tags": [
-              "rob____ot",
-              "hello friend"
-            ]
-          },
-          "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/hello.md"
-        }
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/page.js",
-      "id": "SitePage /example",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "3d10640b1439d9d8dc403427f38d4ba1",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tag/rob-ot": {
-      "jsonName": "tag-rob-ot-348",
-      "internalComponentName": "ComponentTagRobOt",
-      "path": "/tag/rob-ot",
-      "component": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "isCreatedByStatefulCreatePages": false,
-      "context": {
-        "tag": "rob____ot",
-        "pageNumber": 0,
-        "humanPageNumber": 1,
-        "skip": 0,
-        "limit": 5,
-        "numberOfPages": 1,
-        "previousPagePath": "",
-        "nextPagePath": ""
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/tags.js",
-      "id": "SitePage /tag/rob-ot",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "19dcad27d092a86938aae3daef16bf6e",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tag/hello-friend": {
-      "jsonName": "tag-hello-friend-69a",
-      "internalComponentName": "ComponentTagHelloFriend",
-      "path": "/tag/hello-friend",
-      "component": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "isCreatedByStatefulCreatePages": false,
-      "context": {
-        "tag": "hello friend",
-        "pageNumber": 0,
-        "humanPageNumber": 1,
-        "skip": 0,
-        "limit": 5,
-        "numberOfPages": 1,
-        "previousPagePath": "",
-        "nextPagePath": ""
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/tags.js",
-      "id": "SitePage /tag/hello-friend",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "db3a79f1184f33e3c9a0ca01505d7d3c",
+        "contentDigest": "013c78bea17e5586392157450af6ba11",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -3008,9 +2953,9 @@
       "children": [],
       "parent": "fb3fc354-1d0c-55fe-84d5-98b57d118ed8",
       "internal": {
-        "content": "\n## Hi there\n\nMy name is Darshan Kumar / DK and I'm an entrepreneur by passion. I am a Technical consultant, Cloud Architect, Startup enthusiast, Apache PMC, DevOps Engineer, Full stack engineer, Big data and AI. \n\nI am a Founder of [**Mozayc**](https://mozayc.net) Blockchain Based E-commerce platform, [**KernAdler**](https://kernadler.net). CTO of TRIPA, [**Frogfish**](https://frogfish.io), Appcandy.\n\ncheck me out on [**GITHUB**](https://github.com/darshankumar89) [**Twitter**](https://twitter.com/darshaneldorado) [**Linkedin**](https://www.linkedin.com/in/darshankumar/) \n\nMy expertise are with technologies like JS ♥️ ReactJS, Nodejs, AngularJS, Apache hadoop, AWS Devops, Java spring framework, python. \n\nEntrepreneur, Innovator, Growth hacker and Apache Atlas PMC, Apache Hadoop committer, AI enthusiasts,\n\nBeing a Entrepreneur building innovative products with latest technologies like AI, Analytics and Machine learning to solve the real time problems. \n\nAs a Apache PMC, I have contributed to open source repository. \n\n**Comapnies I woked with** :\n \n- [**Belgian Post Group**](https://en.wikipedia.org/wiki/Bpost)\n- Hortonworks \n\n",
+        "content": "\n## Hi there\n\nMy name is Darshan Kumar / DK and I'm an entrepreneur by passion. I am a Technical consultant, Cloud Architect, Startup enthusiast, Apache PMC, DevOps Engineer, Full stack engineer, Big data and AI. \n\nI am a Founder of [**Mozayc**](https://mozayc.net) Blockchain Based E-commerce platform, [**KernAdler**](https://kernadler.net). CTO of TRIPA, [**Frogfish**](https://frogfish.io), Appcandy.\n\ncheck me out on [**GITHUB**](https://github.com/darshankumar89) [**Twitter**](https://twitter.com/darshaneldorado) [**Linkedin**](https://www.linkedin.com/in/darshankumar/) \n\nMy expertise are with technologies like JS ♥️ ReactJS, Nodejs, AngularJS, Apache hadoop, AWS Devops, Java spring framework, python. \n\nEntrepreneur, Innovator, Growth hacker and Apache Atlas PMC, Apache Hadoop committer, AI enthusiasts,\n\nBeing a Entrepreneur building innovative products with latest technologies like AI, Analytics and Machine learning to solve the real time problems. \n\nAs a Apache PMC, I have contributed to open source repository. \n\n**Comapnies I associated with** :\n \n- [**Belgian Post Group**](https://en.wikipedia.org/wiki/Bpost)\n- [**Hortonworks parent company**] (https://www.cloudera.com/)\n- TCS \n- SHEM.sk\n- 01 people \n- Jingle Chat Bots\n- Sycamore \n- ephicacy \n- Hashtaag\n- paperboy\n- Apache \n- MPR global Solutions \n- Sourceasy\n- Isolcell Italia\n- Larsen & Turbo technology services \n- AmazingH\n- raiffeisen bank\n\n**Take pride of beign a part of product development team**\n\n- paperboy\n- Sycamore\n- apache atlas \n- apache falcon \n- Bpost retail \n\n\n",
         "type": "MarkdownRemark",
-        "contentDigest": "1ceea1699c365f6202313150428d9c19",
+        "contentDigest": "70f21d1ad2120bf2877290c13cc1aa06",
         "owner": "gatsby-transformer-remark"
       },
       "frontmatter": {
@@ -3021,13 +2966,399 @@
         "path": "/about"
       },
       "excerpt": "",
-      "rawMarkdownBody": "\n## Hi there\n\nMy name is Darshan Kumar / DK and I'm an entrepreneur by passion. I am a Technical consultant, Cloud Architect, Startup enthusiast, Apache PMC, DevOps Engineer, Full stack engineer, Big data and AI. \n\nI am a Founder of [**Mozayc**](https://mozayc.net) Blockchain Based E-commerce platform, [**KernAdler**](https://kernadler.net). CTO of TRIPA, [**Frogfish**](https://frogfish.io), Appcandy.\n\ncheck me out on [**GITHUB**](https://github.com/darshankumar89) [**Twitter**](https://twitter.com/darshaneldorado) [**Linkedin**](https://www.linkedin.com/in/darshankumar/) \n\nMy expertise are with technologies like JS ♥️ ReactJS, Nodejs, AngularJS, Apache hadoop, AWS Devops, Java spring framework, python. \n\nEntrepreneur, Innovator, Growth hacker and Apache Atlas PMC, Apache Hadoop committer, AI enthusiasts,\n\nBeing a Entrepreneur building innovative products with latest technologies like AI, Analytics and Machine learning to solve the real time problems. \n\nAs a Apache PMC, I have contributed to open source repository. \n\n**Comapnies I woked with** :\n \n- [**Belgian Post Group**](https://en.wikipedia.org/wiki/Bpost)\n- Hortonworks \n\n",
+      "rawMarkdownBody": "\n## Hi there\n\nMy name is Darshan Kumar / DK and I'm an entrepreneur by passion. I am a Technical consultant, Cloud Architect, Startup enthusiast, Apache PMC, DevOps Engineer, Full stack engineer, Big data and AI. \n\nI am a Founder of [**Mozayc**](https://mozayc.net) Blockchain Based E-commerce platform, [**KernAdler**](https://kernadler.net). CTO of TRIPA, [**Frogfish**](https://frogfish.io), Appcandy.\n\ncheck me out on [**GITHUB**](https://github.com/darshankumar89) [**Twitter**](https://twitter.com/darshaneldorado) [**Linkedin**](https://www.linkedin.com/in/darshankumar/) \n\nMy expertise are with technologies like JS ♥️ ReactJS, Nodejs, AngularJS, Apache hadoop, AWS Devops, Java spring framework, python. \n\nEntrepreneur, Innovator, Growth hacker and Apache Atlas PMC, Apache Hadoop committer, AI enthusiasts,\n\nBeing a Entrepreneur building innovative products with latest technologies like AI, Analytics and Machine learning to solve the real time problems. \n\nAs a Apache PMC, I have contributed to open source repository. \n\n**Comapnies I associated with** :\n \n- [**Belgian Post Group**](https://en.wikipedia.org/wiki/Bpost)\n- [**Hortonworks parent company**] (https://www.cloudera.com/)\n- TCS \n- SHEM.sk\n- 01 people \n- Jingle Chat Bots\n- Sycamore \n- ephicacy \n- Hashtaag\n- paperboy\n- Apache \n- MPR global Solutions \n- Sourceasy\n- Isolcell Italia\n- Larsen & Turbo technology services \n- AmazingH\n- raiffeisen bank\n\n**Take pride of beign a part of product development team**\n\n- paperboy\n- Sycamore\n- apache atlas \n- apache falcon \n- Bpost retail \n\n\n",
       "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/about.md"
+    },
+    "SitePage /example": {
+      "jsonName": "example-d5b",
+      "internalComponentName": "ComponentExample",
+      "path": "/example",
+      "component": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/page.js",
+      "componentChunkName": "component---src-templates-page-js",
+      "isCreatedByStatefulCreatePages": false,
+      "context": {
+        "type": "posts",
+        "next": {
+          "frontmatter": {
+            "path": "/hello",
+            "title": "Hello Friend",
+            "tags": [
+              "full stack development",
+              "DevOps",
+              "Solution Designer",
+              "Technical Architect",
+              "Co-founder",
+              "Startup",
+              "ReactJS",
+              "AngularJS",
+              "NodeJS"
+            ]
+          },
+          "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/hello.md"
+        },
+        "previous": null
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/page.js",
+      "id": "SitePage /example",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e6131bffad85921e36e6b591410d6285",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "e58fc77a-21af-5819-a464-2eda9b87edd1": {
+      "id": "e58fc77a-21af-5819-a464-2eda9b87edd1",
+      "children": [],
+      "parent": "2a841927-8eee-5ab1-8e09-90df6a1a4cc6",
+      "internal": {
+        "content": "\n## Achievement : \n- Apache Big Data committer since 2015 contributing to projects like atlas, falcon, Kona. \n- Startup mentor for technology companies like TRIPA, Gify studio, pavilion foods D&F various startups globally.\n- Member of Slovak Business Agency helping startups to grow and build MVP for startups.\n- Successfully build MVP for Belgium Post for the automation of post office with retail team.\n- Part of ReactEurope and Apache conference in Europe.\n\n## Professional Experience \n\n1. ####Client:  TCS(end client : Bpost)  (April 2019 -December 2019)\n    ####Project : NERO\n    ####Role: Solution Designer | Technical Architect \n   \n  >  Working the product of Client for handling the couriers, parcel and letters in the post office in an automated as a part of cloud solution. It is more of focusing on Nodejs and AWS cloud services. There major components that technically handle the automation for managing the customers who send/receive letters, parcel and make some financial transactions. \n\n    Responsibilities:\n      •\tManaging the Sprints - agile Scrum and planning story and work with product owners \n      •\tTechnical specification and planning architecture of Backend and frontend\n      •\tDB schema and cloud solution architecture and its implementations and building micro service \t\t\tarchitecture .\n      I manage the AWS cloud formation,S3,ECS, EC2, Cluster , ECR, Lamda, Cloudwatch and            many more AWS components                       \n      \n    Environment:\n      •\tAngularjs, Webpack, NodeJS, AWS,  Mirco service architecture\n\n2. ####Client:  Shem (Jan 2018 -December 2018)\n    ###Role: Solution Designer\n   > Shem is an e-commerce based shop selling authentic designer jewellery. For now selling online, managing the B2c and B2b market with managing the orders, inventory, stocks, logistics and payment gateway integration and also crept wallets with admin panel and consumer UI with components of vue.js for re-using those managing components and stitched to build the UI structure and integrating API for those vue js components. \n\n\n    Responsibilities:\n      •\tManaging the Sprints - agile Scrum and planning story and work with product owners \n      •\tTechnical specification and planning architecture of Backend and frontend\n      •\tDB schema and cloud solution architecture and its implementations and building micro service \t\t\tarchitecture .\n      •\tmongo DB transactions\n      \n    Environment:\n      •\tReactJS, Webpack, NodeJS, AWS, mongoDB, Mirco service architecture\n\n3. ####Client:Delicious and Fresh (Jan 2017 -December 2018)\n    #####Role: Technical Architect\n    >D&F is an e-commerce solution like a food delivery application from different restaurants. selling online and also at big market place where you can buy in stores and also managing the B2c and B2b market. The Application manages orders, inventory, stocks, logistics with dispatcher management and managing the delivery of hot food at right time in and around UAE / middle east. Also cryptocurrency wallets with admin panel. Consumer UI with components of ReactJS for re-using those managing components and stitched to build the UI structure.\n\n\n    Responsibilities:\n      •\tBuilding and motivating team to build the product and guide them to solve complexities in the project implementation \n      •\tAgile Scrum manager / Technical lead to delegate task and help in development stages \n      •\tDB schema and cloud solution architecture and its implementations and building micro service architecture .\n\t\n    Environment:\n      •\tReactJS, Webpack, NodeJS, AWS, mongoDB, postgres, apache hadoop, Micro service architecture\n\n\n4. ####Client: 01 people (December 2018 -March 2019)\n      #####Role: Blockchain Consultant \n\n      >01Younited is betting platform using crypto currency is build etherium and using a trading platform.We YOUnite all players within the truly fair, decentralised betting and gaming platform. Our unique Solution based on native blockchain technology is completely changing the betting and gaming industry. YOUnited players always bet and play against each other with no house or any third-party interaction. This means that 100% prize pool is distributed to the winner(s). Our ultimate solution provides 100% return to player (RTP), zero house edge, and no house fees.\n\n      Responsibilities :\n        •\tUsing ReactJS to build the front end and API integration\n        •\tBackend is building using Node\n        •\tPostrges SQL DB transactions\n        \n      Environment:\n        •\tBootstrap, ReactJS, Webpack, Postgres, NodeJS, AWS, GCP\n\n5. ####Client:  Jingle Chat Bots (Feb 2018 -December 2018)\n    #####Role: UI Lead\n\n    >Jingle Bot based chatting system for users to look for local shopping and restaurants. The project is  about asking bot for searching some product or nearby shops user is looking for. Bot internally analyses the chats and does pattern matching on details and used google AI based systems and some google analytics, to analyse the chat messages and making the bot more intelligent.\n\n\n    Responsibilities:\n      •\tBuilding and motivating team to build the product and guide them to solve complexities  \t      \n      •\tAgile Scrum manager / Technical lead to delegate task and help in development stages \n      •\tDB schema and cloud solution architecture and its implementations and building micro service \t\t\tarchitecture. Also solve if any hurdles in the project implementation with the team.\n      \n    Environment:\n      •\tBootstrap, React-JS, Webpack, Postgres, Java-SPRING, NodeJS, AWS, GCP , Micro service architecture\n\n\n\n6. ####Client: Sycamore - MDR, SSD  (April 2017 -June 2018)\n    #####Role:Senior UI Developer\n\n    >The project is about health care solution, it has features to maintain data for drugs manufacture like phases of drug compositions, from clinical research , site analysis for drug validations, so the complete software handles verification and validation of drug which is required for FDA drug approvals.\n\n\n    Responsibilities:\n      •\tUsing React JS to build the front end and API integration\n      •\tBackend is building using ROR\n      •\tBlockchain technology for health care domain\n      •\tAPI based connecting to banking structure \n\n    Environment:\n      •\tBootstrap, React-JS, Webpack, Postgres, Ruby, Micro service architecture\n\n\n7. ####Client: Hashtaag (April 2016 -April 2018)\n    #####Project : Krazy meals \n    #####Role: Technical Architect\n\n    >The project is about a e-commerce solution, it has features like add to cart, product description, product management, product ordering and tracking of product shipping and integrated payment gateway for checkout process and the admin panel to manage vendors and also product uploading.\n\n    Responsibilities:\n      •\tUsing React - Redux JS to build the front end and API integration\n      •\tBackend is building using NodeJS and MongoDB\n      •\tPayment Gateway integration like paypal, payumoney, payatm, direct-payEU, g2pay\n      •\tBlock chain technology for payment gateways through bitcoins \n\n    Environment:\n      •\tBootstrap, ReactJS, Webpack, NodeJS, Mongo DB\n\n\n8. ####Client: Hashtaag (April 2016 -April 2018)\n    #####Project : PaperBoy\n    #####Role: Full Stack Developer\n\n    >The project is about managing the news papers online and upon location and language we can select paper, there is an option to select papers and provide subscription of papers.The payment gateway is integrated for subscribing and also subscribed users can view the papers.The project is a developing as per iteration of product design changes of the developing concepts of consumer experience.\n\n\n    Responsibilities:\n      •\tAngularJS for rendering API\n      •\tUI designs using React-Bootstrap\n      •\tPayment gateway integration \n\n    Environment:\n      •\tBootstrap, AngularJS, JS, Gulp, NodeJS, Mongo DB, Java\n\n\n\n9. ###Client: Hashtaag (April 2016 -April 2018)\n    #####Client: Doors\n    #####Role: Full Stack Developer\n\n    >The project is about aggregating all the real estate builder details and it has admin panel to manage properties of different levels like broker, owners and property builder and its similar to common floor but its high level aggregator and compete management of properties available, floor plan and complete details.\n\n\n    Responsibilities:\n      •\tAngularJS for rendering API\n      •\tUI designs using React-Bootstrap\n\n    Environment:\n      •\tBootstrap, AngularJS, JS, Gulp\n\n10. ####Client: HortonWorks / Hadoop data platform / Cloudera (Nov 2014 - April 2016)\n    #####Project: Apache Falcon (Big data layer)\n    #####Role: Full Stack Developer\n\n    >Falcon is a data processing and management solution for Hadoop designed for data motion, coordination of data pipelines, lifecycle management, and data discovery. Falcon enables end consumers to quickly onboard their data and its associated processing and management tasks on Hadoop clusters.\n\n    Responsibilities:\n      •\tAngularJS for rendering API\n      •\tD3JS for lineage graph\n      •\tHandling API in Java\n      •\tAngularJS and D3JS developer.\n      •\tGruntJS, NodeJS used for developing schema \n      •\tJava spring framework for building API \n\n    Environment:\n      •\tBootstrap, AngularJS, D3JS, Java spring framework and GruntJS\n\n11. ####Client: HortonWorks / Hadoop data platform / Cloudera (Nov 2014 - April 2016)\n    #####Project: Apache Atlas (Big Data Layer)\n    #####Role: Developer\n\n    >The project is about data governance initiative, DGI will develop an extensible foundation that addresses enterprise requirements for comprehensive data governance. Enterprises adopting modern data architecture must address certain realities when legacy and new data from disparate platforms are brought under management. It will also feature deep integration with Apache Falcon. It focuses on building user interface for the DGI metadata with the visualisation of the data.\n\n    Responsibilities:\n      •\tAngularJS for rendering API\n      •\tD3JS for lineage graph\n      •\tHandling API in Java\n      •\tWorking on metadata for managing API\n      •\tAngularJS and D3JS developer\n\n    Environment:\n      •\tBootstrap, AngularJS, D3JS, Java spring framework and GruntJS, Java\n\n12. ####Client: MPR Global Solutions (Nov 2014 - Jan 2014)\n    #####Project : S4S \n    #####Role: Developer\n\n   > The project is about providing services and its basically startup for services like accounting services,management services,consulting and financial services. Its a app which all users in US based on location you can look for service and each service will have multiple vendors or service providers and on their review and quality of service provided user can choose service .Application provides a platform for all the service of different category and help user to look for service on their requirement. \n\n    Responsibilities:\n      •\tAngularJS for rendering API\n      •\tHandling API using Parse.\n      •\tUsed firebase to store \n      •\tAngular UI Bootstrap for the responsive UI  .\n      •\tAPI based connecting to wallets \n\n    Environment:\n      •\tBootstrap, AngularJS, GruntJS, Firbase\n\n13. ###Client: MPR Global Solutions (Nov 2014 - Jan 2014)\n    #####Project: SeatHero \n    #####Role: Developer\n\n    >The project is about i an exclusive club that provides movie lovers with deep discount seats on last-minute unsold movie tickets. Membership module give the user three month of validity to choose movies.\n\n    Responsibilities:\n      •\tDeveloped using Laravel 5\n      •\tAngular UI Bootstrap for the responsive UI\n\n    Environment:\n      •\tBootstrap, Laravel PHP, MySQL\n\n14. ###Client: Isolcell Italia(Aug 2014 - Jan 2015)\n    #####Project: Isolcell Italia\n    #####Role: Developer\n\n    >The Isolcell project is about controlling the temperature of the rooms. The rooms are equipped with thermometers, the room contains fruits that have to be in a controlled temperature and the web based application used to control the room and handle the cooling and ventilation of the room. The alarms used to alert by measuring the high and low temperature threshold.\n\n    Responsibilities:\n      •\tDeveloped the room diagram using Canvas.JS API\n      •\tImplemented REST API using JavaScript to communicate with the can bus\n      •\tImplemented the JSON playload for loading the data from the device\n      •\tThe room diagram is generic and able to control from GUI and is made as library\n    Environment:\n      •\tBootstrap, Embedded C, JavaScript, REST API, Canvas.JS, JQuery\n\n\n15. ###Client: Cralina\n    #####Role: Developer\n\n    >The Cralina website is build using CMS system using Wordpress framework. The website is about the services and training provided by Cralina. The website is made mobile responsive.\n\n    Responsibilities:\n      •\tFront end developer\n\n    Environment:\n      •\tBootstrap 3.0, Wordpress, Canvas.JS, JQuery\n\n\n16. ###Client: Sourceasy (July 2014 - Oct 2014)\n    #####Role: Developer\n\n    >The Sourceasy is software product that builds an interface between the vendors and clothing manufacturers or clients. This is a web application which maintains the details of customers and handles the trading of clothes and maintains the information of bulk order of clothes with the communication of orders according to vendors.\n\n    Responsibilities:\n      •\tDeveloped the Worker Server using Iron.IO\n      •\tImplemented Pusher API for chat application\n      •\tDeveloped UI using AngularJS\n      •\tDeveloped scheme manager using REST API in Laravel\n      •\tDeveloped the AngularJS REST API client to communicate with API server\n      •\tDeveloped API using Laravel for the for worker server and CRUD operations\n      •\tDeveloped Static website using AngularJS\n      •\tDeveloped Checklist APP\n      •\tImplemented Codeception for API testing\n      •\tImplemented Guzzle implementation for API performance\n\n    Environment:\n      •\tLaravel 4.0, PHP, AngularJS, LAMP, Amazon EC2, Bootstrap 3.0\n\n17. ####Client : Larsen & Turbo technology services (Jan 2014 - Sep 2014)\n    #####Project: Remote control and access of devices\n    #####Role: Developer\n\n    >The remote control and access of devices is operated through cloud services. Mobile application consumes the WCF service, which is hosted on Amazon Cloud. The WCF service will receive data from the device and the EPC Mod parser will parse command and send to the WCF service. The data from device is also updated in RDS database for generating health report or track the previous history of the device.\n\n    Responsibilities:\n      •\tDeveloped asynchronous TCP socket server\n      •\tImplemented WCF REST API for the services\n      •\tDeployed services on cloud\n      •\tWorked on AMAZON EC2 and RDS instance\n      •\tImplemented MSMQ for fetching data\n      •\tDeveloped push notification for Android and iOS\n      •\tFramed the architecture by using Signal-R open source technology\n      •\tFramed WCF services\n\n    Environment:\n      •\tNET 4.0, SQL Server, Amazon Cloud Service\n\n\n18. ####Client: AMCEC College Management (Oct 2013 - Dec 2013)\n    #####Role: Developer\n\n    >The administration & accounting system aims in managing the accounts and also manages the examination sections. My key role in this project is designing and development using PHP and having MySQL as the database. Accounts module involves in managing the admission and fee structure, once the fee is paid, a copy of receipt is sent via E-mail to the student.\n\n    Responsibilities:\n      •\tDesigned the accounts, student information and examination modules\n      •\tDesigned database\n      •\tIntegrated E-mail service for sending fee receipts\n      •\tGenerating reports for academics report\n\n    Environment:\n      •\tPHP5, MySQL, Windows 7\n\n\n## Header 2\n\nBackup two-step verification breach, anonymous terminal traffic worm virus reboot fsociety dat file. Traffic fsociety malware 100 terabytes system hack, delete brute-force cyber security fiber connection connect code worm wipe. Cyber security off the grid delete IP decrypt, **nodes connect password 100 terabytes RUDY attack malicious code** rootkit gigabit speed. Tor connect network, intercepting traffic off the grid IP protocol password.\n\n> Backup DDoS attack rootkit nodes disconnect website. Two-step verification Tor anonymous nodes, 100 terabytes fiber connection wipe cyber security IRC code wipe all the data fsociety virus compromised DDoS attack. Sys admin data center gigabit speed breach, worm DDoS attack AFK nodes.\n\n### Header 3\n\nBrute-force intercepting traffic fiber connection system boot up fsociety reboot AFK sys admin. Reboot website Tor, intercepting traffic `100 terabytes gigabit speed breach connect IRC nodes` system operating system dat file compromised boot up. Data center decrypt password network disconnect. Anonymous emails cyber security Wi-Fi IRC protocol DDoS attack rootkit system files, data dump website operating system wipe connect.\n\n```css\n/* PostCSS code by PrismJS */\n\npre {\n  background: #1a1a1d;\n  padding: 20px;\n  border-radius: 8px;\n  font-size: 1rem;\n  overflow: auto;\n\n  @media (--phone) {\n    white-space: pre-wrap;\n    word-wrap: break-word;\n  }\n\n  code {\n    background: none !important;\n    color: #ccc;\n    padding: 0;\n    font-size: inherit;\n\n    .dark-theme & {\n      color: inherit;\n    }\n  }\n}\n```\n\n```js\n// JS code by PrismJS\n\nconst menuTrigger = document.querySelector('.menu-trigger')\nconst menu = document.querySelector('.menu')\nconst mobileQuery = getComputedStyle(document.body).getPropertyValue('--phoneWidth')\nconst isMobile = () => window.matchMedia(mobileQuery).matches\nconst isMobileMenu = () => {\n  menuTrigger.classList.toggle('hidden', !isMobile())\n  menu.classList.toggle('hidden', isMobile())\n}\n\nisMobileMenu()\n\nmenuTrigger.addEventListener('click', () => menu.classList.toggle('hidden'))\n\nwindow.addEventListener('resize', isMobileMenu)\n```\n\n```html\n<section id=\"main\">\n  <div>\n   <h1 id=\"title\">{{ .Title }}</h1>\n    {{ range .Pages }}\n        {{ .Render \"summary\"}}\n    {{ end }}\n  </div>\n</section>\n```\n\n#### Header 4\n\nTraffic RUDY attack nodes anonymous IP network code two-step verification system files data center bonsoir terminal. Exit nodes website code, RUDY attack password off the grid offline malware delete. Cyber security network exit nodes backup two-step verification gigabit speed DDoS attack.\n\n- Fsociety delete malicious code nodes.\n- IP cyber security wipe all the data sys admin virus compromised dat file malicious code computer.\n- Decrypt two-step verification Tor wipe, password cyber security data dump malicious code dat file routing protocol operating system.\n- Anonymous boot up website AFK.\n  - Timing out IP DNS, log file offline terminal brute-force system files connect server farm.\n  - Reboot sys admin worm log file wipe.\n\n`youtube: xIBiJ_SzJTA`\n\nTor boot up backup anonymous bonsoir IRC website. Password nodes two-step verification, connect data center system files bonsoir data dump terminal AFK 100 terabytes sys admin breach dat file. Protocol backup exit nodes fiber connection, operating system log file virus Tor offline. Password data center two-step verification disconnect IRC terminal. Tor IRC cyber security AFK protocol traffic disconnect. Code exit nodes IRC cyber security nodes worm.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "5986e4a0eea0867bf662b0517a7714a2",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Showcase",
+        "date": "2020-03-23",
+        "author": "Darshan Kumar",
+        "path": "/showcase"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n## Achievement : \n- Apache Big Data committer since 2015 contributing to projects like atlas, falcon, Kona. \n- Startup mentor for technology companies like TRIPA, Gify studio, pavilion foods D&F various startups globally.\n- Member of Slovak Business Agency helping startups to grow and build MVP for startups.\n- Successfully build MVP for Belgium Post for the automation of post office with retail team.\n- Part of ReactEurope and Apache conference in Europe.\n\n## Professional Experience \n\n1. ####Client:  TCS(end client : Bpost)  (April 2019 -December 2019)\n    ####Project : NERO\n    ####Role: Solution Designer | Technical Architect \n   \n  >  Working the product of Client for handling the couriers, parcel and letters in the post office in an automated as a part of cloud solution. It is more of focusing on Nodejs and AWS cloud services. There major components that technically handle the automation for managing the customers who send/receive letters, parcel and make some financial transactions. \n\n    Responsibilities:\n      •\tManaging the Sprints - agile Scrum and planning story and work with product owners \n      •\tTechnical specification and planning architecture of Backend and frontend\n      •\tDB schema and cloud solution architecture and its implementations and building micro service \t\t\tarchitecture .\n      I manage the AWS cloud formation,S3,ECS, EC2, Cluster , ECR, Lamda, Cloudwatch and            many more AWS components                       \n      \n    Environment:\n      •\tAngularjs, Webpack, NodeJS, AWS,  Mirco service architecture\n\n2. ####Client:  Shem (Jan 2018 -December 2018)\n    ###Role: Solution Designer\n   > Shem is an e-commerce based shop selling authentic designer jewellery. For now selling online, managing the B2c and B2b market with managing the orders, inventory, stocks, logistics and payment gateway integration and also crept wallets with admin panel and consumer UI with components of vue.js for re-using those managing components and stitched to build the UI structure and integrating API for those vue js components. \n\n\n    Responsibilities:\n      •\tManaging the Sprints - agile Scrum and planning story and work with product owners \n      •\tTechnical specification and planning architecture of Backend and frontend\n      •\tDB schema and cloud solution architecture and its implementations and building micro service \t\t\tarchitecture .\n      •\tmongo DB transactions\n      \n    Environment:\n      •\tReactJS, Webpack, NodeJS, AWS, mongoDB, Mirco service architecture\n\n3. ####Client:Delicious and Fresh (Jan 2017 -December 2018)\n    #####Role: Technical Architect\n    >D&F is an e-commerce solution like a food delivery application from different restaurants. selling online and also at big market place where you can buy in stores and also managing the B2c and B2b market. The Application manages orders, inventory, stocks, logistics with dispatcher management and managing the delivery of hot food at right time in and around UAE / middle east. Also cryptocurrency wallets with admin panel. Consumer UI with components of ReactJS for re-using those managing components and stitched to build the UI structure.\n\n\n    Responsibilities:\n      •\tBuilding and motivating team to build the product and guide them to solve complexities in the project implementation \n      •\tAgile Scrum manager / Technical lead to delegate task and help in development stages \n      •\tDB schema and cloud solution architecture and its implementations and building micro service architecture .\n\t\n    Environment:\n      •\tReactJS, Webpack, NodeJS, AWS, mongoDB, postgres, apache hadoop, Micro service architecture\n\n\n4. ####Client: 01 people (December 2018 -March 2019)\n      #####Role: Blockchain Consultant \n\n      >01Younited is betting platform using crypto currency is build etherium and using a trading platform.We YOUnite all players within the truly fair, decentralised betting and gaming platform. Our unique Solution based on native blockchain technology is completely changing the betting and gaming industry. YOUnited players always bet and play against each other with no house or any third-party interaction. This means that 100% prize pool is distributed to the winner(s). Our ultimate solution provides 100% return to player (RTP), zero house edge, and no house fees.\n\n      Responsibilities :\n        •\tUsing ReactJS to build the front end and API integration\n        •\tBackend is building using Node\n        •\tPostrges SQL DB transactions\n        \n      Environment:\n        •\tBootstrap, ReactJS, Webpack, Postgres, NodeJS, AWS, GCP\n\n5. ####Client:  Jingle Chat Bots (Feb 2018 -December 2018)\n    #####Role: UI Lead\n\n    >Jingle Bot based chatting system for users to look for local shopping and restaurants. The project is  about asking bot for searching some product or nearby shops user is looking for. Bot internally analyses the chats and does pattern matching on details and used google AI based systems and some google analytics, to analyse the chat messages and making the bot more intelligent.\n\n\n    Responsibilities:\n      •\tBuilding and motivating team to build the product and guide them to solve complexities  \t      \n      •\tAgile Scrum manager / Technical lead to delegate task and help in development stages \n      •\tDB schema and cloud solution architecture and its implementations and building micro service \t\t\tarchitecture. Also solve if any hurdles in the project implementation with the team.\n      \n    Environment:\n      •\tBootstrap, React-JS, Webpack, Postgres, Java-SPRING, NodeJS, AWS, GCP , Micro service architecture\n\n\n\n6. ####Client: Sycamore - MDR, SSD  (April 2017 -June 2018)\n    #####Role:Senior UI Developer\n\n    >The project is about health care solution, it has features to maintain data for drugs manufacture like phases of drug compositions, from clinical research , site analysis for drug validations, so the complete software handles verification and validation of drug which is required for FDA drug approvals.\n\n\n    Responsibilities:\n      •\tUsing React JS to build the front end and API integration\n      •\tBackend is building using ROR\n      •\tBlockchain technology for health care domain\n      •\tAPI based connecting to banking structure \n\n    Environment:\n      •\tBootstrap, React-JS, Webpack, Postgres, Ruby, Micro service architecture\n\n\n7. ####Client: Hashtaag (April 2016 -April 2018)\n    #####Project : Krazy meals \n    #####Role: Technical Architect\n\n    >The project is about a e-commerce solution, it has features like add to cart, product description, product management, product ordering and tracking of product shipping and integrated payment gateway for checkout process and the admin panel to manage vendors and also product uploading.\n\n    Responsibilities:\n      •\tUsing React - Redux JS to build the front end and API integration\n      •\tBackend is building using NodeJS and MongoDB\n      •\tPayment Gateway integration like paypal, payumoney, payatm, direct-payEU, g2pay\n      •\tBlock chain technology for payment gateways through bitcoins \n\n    Environment:\n      •\tBootstrap, ReactJS, Webpack, NodeJS, Mongo DB\n\n\n8. ####Client: Hashtaag (April 2016 -April 2018)\n    #####Project : PaperBoy\n    #####Role: Full Stack Developer\n\n    >The project is about managing the news papers online and upon location and language we can select paper, there is an option to select papers and provide subscription of papers.The payment gateway is integrated for subscribing and also subscribed users can view the papers.The project is a developing as per iteration of product design changes of the developing concepts of consumer experience.\n\n\n    Responsibilities:\n      •\tAngularJS for rendering API\n      •\tUI designs using React-Bootstrap\n      •\tPayment gateway integration \n\n    Environment:\n      •\tBootstrap, AngularJS, JS, Gulp, NodeJS, Mongo DB, Java\n\n\n\n9. ###Client: Hashtaag (April 2016 -April 2018)\n    #####Client: Doors\n    #####Role: Full Stack Developer\n\n    >The project is about aggregating all the real estate builder details and it has admin panel to manage properties of different levels like broker, owners and property builder and its similar to common floor but its high level aggregator and compete management of properties available, floor plan and complete details.\n\n\n    Responsibilities:\n      •\tAngularJS for rendering API\n      •\tUI designs using React-Bootstrap\n\n    Environment:\n      •\tBootstrap, AngularJS, JS, Gulp\n\n10. ####Client: HortonWorks / Hadoop data platform / Cloudera (Nov 2014 - April 2016)\n    #####Project: Apache Falcon (Big data layer)\n    #####Role: Full Stack Developer\n\n    >Falcon is a data processing and management solution for Hadoop designed for data motion, coordination of data pipelines, lifecycle management, and data discovery. Falcon enables end consumers to quickly onboard their data and its associated processing and management tasks on Hadoop clusters.\n\n    Responsibilities:\n      •\tAngularJS for rendering API\n      •\tD3JS for lineage graph\n      •\tHandling API in Java\n      •\tAngularJS and D3JS developer.\n      •\tGruntJS, NodeJS used for developing schema \n      •\tJava spring framework for building API \n\n    Environment:\n      •\tBootstrap, AngularJS, D3JS, Java spring framework and GruntJS\n\n11. ####Client: HortonWorks / Hadoop data platform / Cloudera (Nov 2014 - April 2016)\n    #####Project: Apache Atlas (Big Data Layer)\n    #####Role: Developer\n\n    >The project is about data governance initiative, DGI will develop an extensible foundation that addresses enterprise requirements for comprehensive data governance. Enterprises adopting modern data architecture must address certain realities when legacy and new data from disparate platforms are brought under management. It will also feature deep integration with Apache Falcon. It focuses on building user interface for the DGI metadata with the visualisation of the data.\n\n    Responsibilities:\n      •\tAngularJS for rendering API\n      •\tD3JS for lineage graph\n      •\tHandling API in Java\n      •\tWorking on metadata for managing API\n      •\tAngularJS and D3JS developer\n\n    Environment:\n      •\tBootstrap, AngularJS, D3JS, Java spring framework and GruntJS, Java\n\n12. ####Client: MPR Global Solutions (Nov 2014 - Jan 2014)\n    #####Project : S4S \n    #####Role: Developer\n\n   > The project is about providing services and its basically startup for services like accounting services,management services,consulting and financial services. Its a app which all users in US based on location you can look for service and each service will have multiple vendors or service providers and on their review and quality of service provided user can choose service .Application provides a platform for all the service of different category and help user to look for service on their requirement. \n\n    Responsibilities:\n      •\tAngularJS for rendering API\n      •\tHandling API using Parse.\n      •\tUsed firebase to store \n      •\tAngular UI Bootstrap for the responsive UI  .\n      •\tAPI based connecting to wallets \n\n    Environment:\n      •\tBootstrap, AngularJS, GruntJS, Firbase\n\n13. ###Client: MPR Global Solutions (Nov 2014 - Jan 2014)\n    #####Project: SeatHero \n    #####Role: Developer\n\n    >The project is about i an exclusive club that provides movie lovers with deep discount seats on last-minute unsold movie tickets. Membership module give the user three month of validity to choose movies.\n\n    Responsibilities:\n      •\tDeveloped using Laravel 5\n      •\tAngular UI Bootstrap for the responsive UI\n\n    Environment:\n      •\tBootstrap, Laravel PHP, MySQL\n\n14. ###Client: Isolcell Italia(Aug 2014 - Jan 2015)\n    #####Project: Isolcell Italia\n    #####Role: Developer\n\n    >The Isolcell project is about controlling the temperature of the rooms. The rooms are equipped with thermometers, the room contains fruits that have to be in a controlled temperature and the web based application used to control the room and handle the cooling and ventilation of the room. The alarms used to alert by measuring the high and low temperature threshold.\n\n    Responsibilities:\n      •\tDeveloped the room diagram using Canvas.JS API\n      •\tImplemented REST API using JavaScript to communicate with the can bus\n      •\tImplemented the JSON playload for loading the data from the device\n      •\tThe room diagram is generic and able to control from GUI and is made as library\n    Environment:\n      •\tBootstrap, Embedded C, JavaScript, REST API, Canvas.JS, JQuery\n\n\n15. ###Client: Cralina\n    #####Role: Developer\n\n    >The Cralina website is build using CMS system using Wordpress framework. The website is about the services and training provided by Cralina. The website is made mobile responsive.\n\n    Responsibilities:\n      •\tFront end developer\n\n    Environment:\n      •\tBootstrap 3.0, Wordpress, Canvas.JS, JQuery\n\n\n16. ###Client: Sourceasy (July 2014 - Oct 2014)\n    #####Role: Developer\n\n    >The Sourceasy is software product that builds an interface between the vendors and clothing manufacturers or clients. This is a web application which maintains the details of customers and handles the trading of clothes and maintains the information of bulk order of clothes with the communication of orders according to vendors.\n\n    Responsibilities:\n      •\tDeveloped the Worker Server using Iron.IO\n      •\tImplemented Pusher API for chat application\n      •\tDeveloped UI using AngularJS\n      •\tDeveloped scheme manager using REST API in Laravel\n      •\tDeveloped the AngularJS REST API client to communicate with API server\n      •\tDeveloped API using Laravel for the for worker server and CRUD operations\n      •\tDeveloped Static website using AngularJS\n      •\tDeveloped Checklist APP\n      •\tImplemented Codeception for API testing\n      •\tImplemented Guzzle implementation for API performance\n\n    Environment:\n      •\tLaravel 4.0, PHP, AngularJS, LAMP, Amazon EC2, Bootstrap 3.0\n\n17. ####Client : Larsen & Turbo technology services (Jan 2014 - Sep 2014)\n    #####Project: Remote control and access of devices\n    #####Role: Developer\n\n    >The remote control and access of devices is operated through cloud services. Mobile application consumes the WCF service, which is hosted on Amazon Cloud. The WCF service will receive data from the device and the EPC Mod parser will parse command and send to the WCF service. The data from device is also updated in RDS database for generating health report or track the previous history of the device.\n\n    Responsibilities:\n      •\tDeveloped asynchronous TCP socket server\n      •\tImplemented WCF REST API for the services\n      •\tDeployed services on cloud\n      •\tWorked on AMAZON EC2 and RDS instance\n      •\tImplemented MSMQ for fetching data\n      •\tDeveloped push notification for Android and iOS\n      •\tFramed the architecture by using Signal-R open source technology\n      •\tFramed WCF services\n\n    Environment:\n      •\tNET 4.0, SQL Server, Amazon Cloud Service\n\n\n18. ####Client: AMCEC College Management (Oct 2013 - Dec 2013)\n    #####Role: Developer\n\n    >The administration & accounting system aims in managing the accounts and also manages the examination sections. My key role in this project is designing and development using PHP and having MySQL as the database. Accounts module involves in managing the admission and fee structure, once the fee is paid, a copy of receipt is sent via E-mail to the student.\n\n    Responsibilities:\n      •\tDesigned the accounts, student information and examination modules\n      •\tDesigned database\n      •\tIntegrated E-mail service for sending fee receipts\n      •\tGenerating reports for academics report\n\n    Environment:\n      •\tPHP5, MySQL, Windows 7\n\n\n## Header 2\n\nBackup two-step verification breach, anonymous terminal traffic worm virus reboot fsociety dat file. Traffic fsociety malware 100 terabytes system hack, delete brute-force cyber security fiber connection connect code worm wipe. Cyber security off the grid delete IP decrypt, **nodes connect password 100 terabytes RUDY attack malicious code** rootkit gigabit speed. Tor connect network, intercepting traffic off the grid IP protocol password.\n\n> Backup DDoS attack rootkit nodes disconnect website. Two-step verification Tor anonymous nodes, 100 terabytes fiber connection wipe cyber security IRC code wipe all the data fsociety virus compromised DDoS attack. Sys admin data center gigabit speed breach, worm DDoS attack AFK nodes.\n\n### Header 3\n\nBrute-force intercepting traffic fiber connection system boot up fsociety reboot AFK sys admin. Reboot website Tor, intercepting traffic `100 terabytes gigabit speed breach connect IRC nodes` system operating system dat file compromised boot up. Data center decrypt password network disconnect. Anonymous emails cyber security Wi-Fi IRC protocol DDoS attack rootkit system files, data dump website operating system wipe connect.\n\n```css\n/* PostCSS code by PrismJS */\n\npre {\n  background: #1a1a1d;\n  padding: 20px;\n  border-radius: 8px;\n  font-size: 1rem;\n  overflow: auto;\n\n  @media (--phone) {\n    white-space: pre-wrap;\n    word-wrap: break-word;\n  }\n\n  code {\n    background: none !important;\n    color: #ccc;\n    padding: 0;\n    font-size: inherit;\n\n    .dark-theme & {\n      color: inherit;\n    }\n  }\n}\n```\n\n```js\n// JS code by PrismJS\n\nconst menuTrigger = document.querySelector('.menu-trigger')\nconst menu = document.querySelector('.menu')\nconst mobileQuery = getComputedStyle(document.body).getPropertyValue('--phoneWidth')\nconst isMobile = () => window.matchMedia(mobileQuery).matches\nconst isMobileMenu = () => {\n  menuTrigger.classList.toggle('hidden', !isMobile())\n  menu.classList.toggle('hidden', isMobile())\n}\n\nisMobileMenu()\n\nmenuTrigger.addEventListener('click', () => menu.classList.toggle('hidden'))\n\nwindow.addEventListener('resize', isMobileMenu)\n```\n\n```html\n<section id=\"main\">\n  <div>\n   <h1 id=\"title\">{{ .Title }}</h1>\n    {{ range .Pages }}\n        {{ .Render \"summary\"}}\n    {{ end }}\n  </div>\n</section>\n```\n\n#### Header 4\n\nTraffic RUDY attack nodes anonymous IP network code two-step verification system files data center bonsoir terminal. Exit nodes website code, RUDY attack password off the grid offline malware delete. Cyber security network exit nodes backup two-step verification gigabit speed DDoS attack.\n\n- Fsociety delete malicious code nodes.\n- IP cyber security wipe all the data sys admin virus compromised dat file malicious code computer.\n- Decrypt two-step verification Tor wipe, password cyber security data dump malicious code dat file routing protocol operating system.\n- Anonymous boot up website AFK.\n  - Timing out IP DNS, log file offline terminal brute-force system files connect server farm.\n  - Reboot sys admin worm log file wipe.\n\n`youtube: xIBiJ_SzJTA`\n\nTor boot up backup anonymous bonsoir IRC website. Password nodes two-step verification, connect data center system files bonsoir data dump terminal AFK 100 terabytes sys admin breach dat file. Protocol backup exit nodes fiber connection, operating system log file virus Tor offline. Password data center two-step verification disconnect IRC terminal. Tor IRC cyber security AFK protocol traffic disconnect. Code exit nodes IRC cyber security nodes worm.\n",
+      "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/showcase.md"
+    },
+    "SitePage /tag/full-stack-development": {
+      "jsonName": "tag-full-stack-development-8d6",
+      "internalComponentName": "ComponentTagFullStackDevelopment",
+      "path": "/tag/full-stack-development",
+      "component": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "isCreatedByStatefulCreatePages": false,
+      "context": {
+        "tag": "full stack development",
+        "pageNumber": 0,
+        "humanPageNumber": 1,
+        "skip": 0,
+        "limit": 5,
+        "numberOfPages": 1,
+        "previousPagePath": "",
+        "nextPagePath": ""
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/tags.js",
+      "id": "SitePage /tag/full-stack-development",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "1480cd25a81dde3a50e563b19b07d091",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tag/DevOps": {
+      "jsonName": "tag-dev-ops-ebd",
+      "internalComponentName": "ComponentTagDevOps",
+      "path": "/tag/DevOps",
+      "component": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "isCreatedByStatefulCreatePages": false,
+      "context": {
+        "tag": "DevOps",
+        "pageNumber": 0,
+        "humanPageNumber": 1,
+        "skip": 0,
+        "limit": 5,
+        "numberOfPages": 1,
+        "previousPagePath": "",
+        "nextPagePath": ""
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/tags.js",
+      "id": "SitePage /tag/DevOps",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "50e6a52fb994f598aa0f26f5cc730b8d",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tag/Solution-Designer": {
+      "jsonName": "tag-solution-designer-256",
+      "internalComponentName": "ComponentTagSolutionDesigner",
+      "path": "/tag/Solution-Designer",
+      "component": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "isCreatedByStatefulCreatePages": false,
+      "context": {
+        "tag": "Solution Designer",
+        "pageNumber": 0,
+        "humanPageNumber": 1,
+        "skip": 0,
+        "limit": 5,
+        "numberOfPages": 1,
+        "previousPagePath": "",
+        "nextPagePath": ""
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/tags.js",
+      "id": "SitePage /tag/Solution-Designer",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f09b9cb8eaebccfef9f5cae9c66f3375",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tag/Technical-Architect": {
+      "jsonName": "tag-technical-architect-414",
+      "internalComponentName": "ComponentTagTechnicalArchitect",
+      "path": "/tag/Technical-Architect",
+      "component": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "isCreatedByStatefulCreatePages": false,
+      "context": {
+        "tag": "Technical Architect",
+        "pageNumber": 0,
+        "humanPageNumber": 1,
+        "skip": 0,
+        "limit": 5,
+        "numberOfPages": 1,
+        "previousPagePath": "",
+        "nextPagePath": ""
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/tags.js",
+      "id": "SitePage /tag/Technical-Architect",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0c08e45a75459b9be0e648745a2446ac",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tag/Co-founder": {
+      "jsonName": "tag-co-founder-195",
+      "internalComponentName": "ComponentTagCoFounder",
+      "path": "/tag/Co-founder",
+      "component": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "isCreatedByStatefulCreatePages": false,
+      "context": {
+        "tag": "Co-founder",
+        "pageNumber": 0,
+        "humanPageNumber": 1,
+        "skip": 0,
+        "limit": 5,
+        "numberOfPages": 1,
+        "previousPagePath": "",
+        "nextPagePath": ""
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/tags.js",
+      "id": "SitePage /tag/Co-founder",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "cd7ec79b9a23f211ae904cb457ba1770",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tag/Startup": {
+      "jsonName": "tag-startup-459",
+      "internalComponentName": "ComponentTagStartup",
+      "path": "/tag/Startup",
+      "component": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "isCreatedByStatefulCreatePages": false,
+      "context": {
+        "tag": "Startup",
+        "pageNumber": 0,
+        "humanPageNumber": 1,
+        "skip": 0,
+        "limit": 5,
+        "numberOfPages": 1,
+        "previousPagePath": "",
+        "nextPagePath": ""
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/tags.js",
+      "id": "SitePage /tag/Startup",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "193fea1e5a792948ee70a3e9080d0ee2",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tag/ReactJS": {
+      "jsonName": "tag-react-js-6cc",
+      "internalComponentName": "ComponentTagReactJs",
+      "path": "/tag/ReactJS",
+      "component": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "isCreatedByStatefulCreatePages": false,
+      "context": {
+        "tag": "ReactJS",
+        "pageNumber": 0,
+        "humanPageNumber": 1,
+        "skip": 0,
+        "limit": 5,
+        "numberOfPages": 1,
+        "previousPagePath": "",
+        "nextPagePath": ""
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/tags.js",
+      "id": "SitePage /tag/ReactJS",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "9514db87878b50b78808bb40126da6de",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tag/AngularJS": {
+      "jsonName": "tag-angular-js-b45",
+      "internalComponentName": "ComponentTagAngularJs",
+      "path": "/tag/AngularJS",
+      "component": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "isCreatedByStatefulCreatePages": false,
+      "context": {
+        "tag": "AngularJS",
+        "pageNumber": 0,
+        "humanPageNumber": 1,
+        "skip": 0,
+        "limit": 5,
+        "numberOfPages": 1,
+        "previousPagePath": "",
+        "nextPagePath": ""
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/tags.js",
+      "id": "SitePage /tag/AngularJS",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0772b7043510c6599e864107c4be1d58",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tag/NodeJS": {
+      "jsonName": "tag-node-js-f3f",
+      "internalComponentName": "ComponentTagNodeJs",
+      "path": "/tag/NodeJS",
+      "component": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "isCreatedByStatefulCreatePages": false,
+      "context": {
+        "tag": "NodeJS",
+        "pageNumber": 0,
+        "humanPageNumber": 1,
+        "skip": 0,
+        "limit": 5,
+        "numberOfPages": 1,
+        "previousPagePath": "",
+        "nextPagePath": ""
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/tags.js",
+      "id": "SitePage /tag/NodeJS",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "20fe9c8197cdccb21b369463e3b92176",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "8864d128-c7cb-575d-98f5-a01b99790431": {
+      "id": "8864d128-c7cb-575d-98f5-a01b99790431",
+      "children": [],
+      "parent": "677d53b6-10a0-5256-877c-13757aa4001f",
+      "internal": {
+        "content": "\n> \"Hello, friend?\" I'm Darshan. Gald to meet you...\\\n> I am interested in startup collabration.\\\n> Love to do contract jobs.\\\n> We have to remember that...\\\n> Oh Yeah!!.\\\n> It's actually happened.\\\n> I'm talking to you now :).\n>\n> **— Mr. Darshan S01E01**\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "2809d4bcc42e29fd2476d52ecdc85aff",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Hello Friend",
+        "path": "/hello",
+        "date": "2019-01-17",
+        "coverImage": "../images/hello.jpg",
+        "author": "Elliot",
+        "excerpt": "\"Hello, Folks\" Thank you visiting my site. Please let me know if you like to talk more about our co-operation buzz me +32 465 183127 or tweet me https://twitter.com/darshaneldorado ",
+        "tags": [
+          "full stack development",
+          "DevOps",
+          "Solution Designer",
+          "Technical Architect",
+          "Co-founder",
+          "Startup",
+          "ReactJS",
+          "AngularJS",
+          "NodeJS"
+        ]
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n> \"Hello, friend?\" I'm Darshan. Gald to meet you...\\\n> I am interested in startup collabration.\\\n> Love to do contract jobs.\\\n> We have to remember that...\\\n> Oh Yeah!!.\\\n> It's actually happened.\\\n> I'm talking to you now :).\n>\n> **— Mr. Darshan S01E01**\n",
+      "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/hello.md"
+    },
+    "acb3c1bd-803a-5a55-8236-eafaba648440": {
+      "id": "acb3c1bd-803a-5a55-8236-eafaba648440",
+      "children": [],
+      "parent": "0610ca7f-4378-5886-9b35-18fc42aac76a",
+      "internal": {
+        "content": "\n\n###Executive / Entrepreneurship Experience :\n\n •\tTechnical Product Development\n\n •\tLeadership and Team building \n\n •\tClient outreach \n\n •\tProduct development \n\n •\tResearch and development \n\n •\tCustomer engagement \n\n •\tICT and Business relation for product development \n\n •\tStartup mentor \n\n •\tMVP builder \n\n •\tLifecycle management \n\n •\tTechnical architecture \n\n •\tIt service management and delivery \n\n •\tAgile methodologies \n\n •\tStake holder management \n\n •\tRisk management \n\n •\tSoftware development lifecycle \n\n>As a passionate Co-founder & CTO role in Mozayc, FrogFish, DelRio consulting is to create and innovate product development. Being a technology pioneer responsible for ensuring a company is making great products for their customers. Also the driver behind the commercialization of technology.\n>Develop coherent platforms backed up with useful features on a variety of digital channels. Importance in these companies is rising due to the fact that users are demanding increasingly sophisticated products. A business intuitive and contribute cost-effective solutions with creative architectures.\n\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "5967296db67553d0ebcb862b4338c08a",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Darshan with entrepreneurship mindset",
+        "date": "2020-03-23",
+        "path": "/example",
+        "author": "Darshan Kumar",
+        "excerpt": "As a passionate Co-founder & CTO role in Mozayc, FrogFish, DelRio consulting is to create and innovate product development. Being a technology pioneer responsible for ensuring a company is making great products for their customers. Also the driver behind the commercialization of technology."
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n\n###Executive / Entrepreneurship Experience :\n\n •\tTechnical Product Development\n\n •\tLeadership and Team building \n\n •\tClient outreach \n\n •\tProduct development \n\n •\tResearch and development \n\n •\tCustomer engagement \n\n •\tICT and Business relation for product development \n\n •\tStartup mentor \n\n •\tMVP builder \n\n •\tLifecycle management \n\n •\tTechnical architecture \n\n •\tIt service management and delivery \n\n •\tAgile methodologies \n\n •\tStake holder management \n\n •\tRisk management \n\n •\tSoftware development lifecycle \n\n>As a passionate Co-founder & CTO role in Mozayc, FrogFish, DelRio consulting is to create and innovate product development. Being a technology pioneer responsible for ensuring a company is making great products for their customers. Also the driver behind the commercialization of technology.\n>Develop coherent platforms backed up with useful features on a variety of digital channels. Importance in these companies is rising due to the fact that users are demanding increasingly sophisticated products. A business intuitive and contribute cost-effective solutions with creative architectures.\n\n",
+      "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/example.md"
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "ee29ce8183c414cf7cc01e6b44c868b6"
+    "PLUGINS_HASH": "6fdafb05210fc83e2904fee592b8c9ee"
   },
   "componentDataDependencies": {
     "nodes": {
@@ -3038,14 +3369,28 @@
       "75e47675-a295-5916-ae49-b139de6f4663": [
         "/",
         "/hello",
-        "/tag/rob-ot",
-        "/tag/hello-friend"
+        "/tag/full-stack-development",
+        "/tag/DevOps",
+        "/tag/Solution-Designer",
+        "/tag/Technical-Architect",
+        "/tag/Co-founder",
+        "/tag/Startup",
+        "/tag/ReactJS",
+        "/tag/AngularJS",
+        "/tag/NodeJS"
       ],
       "f11fc279-a310-57f8-816d-04975c1ee5ef": [
         "/",
         "/hello",
-        "/tag/rob-ot",
-        "/tag/hello-friend"
+        "/tag/full-stack-development",
+        "/tag/DevOps",
+        "/tag/Solution-Designer",
+        "/tag/Technical-Architect",
+        "/tag/Co-founder",
+        "/tag/Startup",
+        "/tag/ReactJS",
+        "/tag/AngularJS",
+        "/tag/NodeJS"
       ],
       "66b77a2e-a497-5fbb-91b5-82c6b7d7454b": [
         "/about"
@@ -3070,7 +3415,17 @@
       "MarkdownRemark": [
         "/",
         "/tag/rob-ot",
-        "/tag/hello-friend"
+        "/tag/hello-friend",
+        "/tag/full-stack-development",
+        "/tag/DevOps",
+        "/tag/Solution-Designer",
+        "/tag/Technical-Architect",
+        "/tag/Co-founder",
+        "/tag/Startup-mentor",
+        "/tag/Startup",
+        "/tag/ReactJS",
+        "/tag/AngularJS",
+        "/tag/NodeJS"
       ]
     }
   },
@@ -3078,16 +3433,27 @@
     "sq--src-components-layout-js": 2892404432,
     "sq--src-components-seo-js": 1582510487,
     "sq--src-components-image-js": 492526033,
-    "about-771": "413/path---about-771-2fe-Lkb9hMXO65JyTONgRmkuMZuX0",
-    "showcase-d23": "312/path---showcase-d-23-738-uG5HMW7bsfBeFqPsD6H2fclM6os",
-    "index": "387/path---index-6a9-WVvVMh9tjhX0AxbCdDYh8ftwXcw",
-    "tag-rob-ot-348": "560/path---tag-rob-ot-348-285-ADlDUJqyQnjyLowBU2CvzKumtE",
-    "example-d5b": "704/path---example-d-5-b-455-4OYQWui0U2rks6p22WMlP0BOyFc",
+    "about-771": "542/path---about-771-2fe-tzH9XnqWtsGqzlF91r1pXS9MZQw",
+    "showcase-d23": "349/path---showcase-d-23-738-x4knnOSUA8nBPTjG7b81aY",
+    "index": "161/path---index-6a9-FPb4uI0MU3mz2APLsB7FYgzocz4",
+    "tag-rob-ot-348": "361/path---tag-rob-ot-348-285-EyjKCo7by763e8Oabh1vBxp6LK0",
+    "example-d5b": "680/path---example-d-5-b-455-ohJlCRaH6jXm4JAg4eK9ZLl10",
     "dev-404-page-5f9": "386/path---dev-404-page-5-f-9-fab-0SUcWyAf8ecbYDsMhQkEfPzV8",
     "404-22d": "820/path---404-22-d-bce-0SUcWyAf8ecbYDsMhQkEfPzV8",
-    "tag-hello-friend-69a": "625/path---tag-hello-friend-69-a-f65-bf4EH9SbAc2HZ01vyjAHOVBEg",
+    "tag-hello-friend-69a": "706/path---tag-hello-friend-69-a-f65-xJrVze2c1acUeTgijKjdNPIrtU",
     "404-html-516": "285/path---404-html-516-62a-0SUcWyAf8ecbYDsMhQkEfPzV8",
-    "hello-3ed": "154/path---hello-3-ed-283-xWu1o0NRG5LKl9MK3YKCWGSoU"
+    "hello-3ed": "772/path---hello-3-ed-283-hjSJIn0KayoJEEbzqBcBxc5dEgs",
+    "entrepreneur-a31": "676/path---entrepreneur-a-31-6f4-ANW80Ij7XAc5J5WrADagMZ26vHY",
+    "tag-full-stack-development-8d6": "8/path---tag-full-stack-development-8-d-6-ac8-ZI1FwvvRKdTsJtXJPGqOH3SS4",
+    "tag-dev-ops-ebd": "440/path---tag-dev-ops-ebd-50c-6lK0GpTS4VxYhTnFUmhdIpf01hI",
+    "tag-solution-designer-256": "321/path---tag-solution-designer-256-1c7-e3KrQXVGk18Gt5xydeL3htceb7Q",
+    "tag-technical-architect-414": "970/path---tag-technical-architect-414-31f-cOkMDWqRpeEkFUV3P04KaP5iElE",
+    "tag-co-founder-195": "528/path---tag-co-founder-195-dff-4Z6Ghwepg57dTF9a9JxzJugeCE",
+    "tag-startup-mentor-fc4": "820/path---tag-startup-mentor-fc-4-5c9-kBa1ePnFgIPN0pUhiN90c1dDs",
+    "tag-startup-459": "349/path---tag-startup-459-b76-4sbblaXIgSvJz6XozLLLn0sxA2U",
+    "tag-angular-js-b45": "991/path---tag-angular-js-b-45-1fe-TS1ZgKhwstzZ9Je6Idt3wmTDM",
+    "tag-react-js-6cc": "519/path---tag-react-js-6-cc-af4-NB60XGStmK5JuE4AvzvJFT9VU",
+    "tag-node-js-f3f": "12/path---tag-node-js-f-3-f-7a9-MYAr6JeHcgSZiJSl7Xa7QIfc8"
   },
   "components": {
     "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/index.js": {
@@ -3113,8 +3479,15 @@
       "query": "query usersDarshankumarDgodDarshankumarComDarshankumarIoSrcTemplatesTagsJs808086567(\n  $limit: Int!\n  $skip: Int!\n  $tag: String!\n) {\n  allMarkdownRemark(filter: {frontmatter: {tags: {in: [$tag]}}}, sort: {fields: [frontmatter___date], order: DESC}, limit: $limit, skip: $skip) {\n    edges {\n      node {\n        id\n        excerpt\n        frontmatter {\n          title\n          date(formatString: \"DD MMMM YYYY\")\n          path\n          author\n          excerpt\n          tags\n          coverImage {\n            childImageSharp {\n              fluid(maxWidth: 800) {\n                ...GatsbyImageSharpFluid\n              }\n            }\n          }\n        }\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
       "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/tags.js",
       "pages": [
-        "/tag/rob-ot",
-        "/tag/hello-friend"
+        "/tag/full-stack-development",
+        "/tag/DevOps",
+        "/tag/Solution-Designer",
+        "/tag/Technical-Architect",
+        "/tag/Co-founder",
+        "/tag/Startup",
+        "/tag/ReactJS",
+        "/tag/AngularJS",
+        "/tag/NodeJS"
       ],
       "isInBootstrap": false
     },

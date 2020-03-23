@@ -41,12 +41,47 @@
     },
     {
         "componentChunkName": "component---src-templates-tags-js",
-        "jsonName": "tag-hello-friend-69a",
-        "path": "/tag/hello-friend"
+        "jsonName": "tag-angular-js-b45",
+        "path": "/tag/AngularJS"
     },
     {
         "componentChunkName": "component---src-templates-tags-js",
-        "jsonName": "tag-rob-ot-348",
-        "path": "/tag/rob-ot"
+        "jsonName": "tag-co-founder-195",
+        "path": "/tag/Co-founder"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "jsonName": "tag-dev-ops-ebd",
+        "path": "/tag/DevOps"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "jsonName": "tag-node-js-f3f",
+        "path": "/tag/NodeJS"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "jsonName": "tag-react-js-6cc",
+        "path": "/tag/ReactJS"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "jsonName": "tag-solution-designer-256",
+        "path": "/tag/Solution-Designer"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "jsonName": "tag-startup-459",
+        "path": "/tag/Startup"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "jsonName": "tag-technical-architect-414",
+        "path": "/tag/Technical-Architect"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "jsonName": "tag-full-stack-development-8d6",
+        "path": "/tag/full-stack-development"
     }
 ]
