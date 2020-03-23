@@ -1,9 +1,9 @@
 ---
-title: "Hello Friend"
+title: "Hello Folks"
 path: "/hello"
-date: "2019-01-17"
+date: "2020-03-23"
 coverImage: "../images/hello.jpg"
-author: "Elliot"
+author: "Darshan Kumar"
 excerpt: '"Hello, Folks" Thank you visiting my site. Please let me know if you like to talk more about our co-operation buzz me +32 465 183127 or tweet me https://twitter.com/darshaneldorado '
 tags: ["full stack development", "DevOps", "Solution Designer","Technical Architect","Co-founder","Startup", "ReactJS","AngularJS", "NodeJS"]
 ---

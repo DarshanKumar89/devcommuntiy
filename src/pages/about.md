@@ -42,7 +42,7 @@ As a Apache PMC, I have contributed to open source repository.
 - AmazingH
 - raiffeisen bank
 
-**Take pride of beign a part of product development team**
+**Pride of being a part of product innovation team**
 
 - paperboy
 - Sycamore

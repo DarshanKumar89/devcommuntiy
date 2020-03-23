@@ -2558,7 +2558,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "1e9ab45ae9daba924bf521da7ce3a2a3",
+        "contentDigest": "fa4078802917d27e7efa10a7d34d089a",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"src/posts/hello.md\"",
@@ -2568,11 +2568,11 @@
       "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/hello.md",
       "relativePath": "hello.md",
       "extension": "md",
-      "size": 709,
-      "prettySize": "709 B",
-      "modifiedTime": "2020-03-23T15:12:10.086Z",
-      "accessTime": "2020-03-23T15:12:10.126Z",
-      "changeTime": "2020-03-23T15:12:10.086Z",
+      "size": 715,
+      "prettySize": "715 B",
+      "modifiedTime": "2020-03-23T15:20:23.809Z",
+      "accessTime": "2020-03-23T15:20:23.808Z",
+      "changeTime": "2020-03-23T15:20:23.809Z",
       "birthTime": "2020-03-10T12:15:13.358Z",
       "root": "/",
       "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts",
@@ -2589,13 +2589,13 @@
       "blksize": 4096,
       "ino": 23497141,
       "blocks": 8,
-      "atimeMs": 1584976330126.4124,
-      "mtimeMs": 1584976330086.2773,
-      "ctimeMs": 1584976330086.2773,
+      "atimeMs": 1584976823808.3801,
+      "mtimeMs": 1584976823809.3462,
+      "ctimeMs": 1584976823809.3462,
       "birthtimeMs": 1583842513358.0396,
-      "atime": "2020-03-23T15:12:10.126Z",
-      "mtime": "2020-03-23T15:12:10.086Z",
-      "ctime": "2020-03-23T15:12:10.086Z",
+      "atime": "2020-03-23T15:20:23.808Z",
+      "mtime": "2020-03-23T15:20:23.809Z",
+      "ctime": "2020-03-23T15:20:23.809Z",
       "birthtime": "2020-03-10T12:15:13.358Z"
     },
     "03add71b-a87d-57a2-a85a-0d062e494d24": {
@@ -2696,7 +2696,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "a460324d0cea82ab2ac598d03318d687",
+        "contentDigest": "a85b6b94dfb73fe0790c878ac43b9b61",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"src/pages/about.md\"",
@@ -2706,11 +2706,11 @@
       "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/about.md",
       "relativePath": "about.md",
       "extension": "md",
-      "size": 1689,
-      "prettySize": "1.69 kB",
-      "modifiedTime": "2020-03-23T14:40:57.809Z",
-      "accessTime": "2020-03-23T14:40:58.088Z",
-      "changeTime": "2020-03-23T14:40:57.809Z",
+      "size": 1683,
+      "prettySize": "1.68 kB",
+      "modifiedTime": "2020-03-23T15:21:46.072Z",
+      "accessTime": "2020-03-23T15:21:46.347Z",
+      "changeTime": "2020-03-23T15:21:46.072Z",
       "birthTime": "2020-03-10T12:15:13.357Z",
       "root": "/",
       "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages",
@@ -2727,13 +2727,13 @@
       "blksize": 4096,
       "ino": 23497172,
       "blocks": 8,
-      "atimeMs": 1584974458088.1062,
-      "mtimeMs": 1584974457808.932,
-      "ctimeMs": 1584974457808.932,
+      "atimeMs": 1584976906347.1042,
+      "mtimeMs": 1584976906071.5796,
+      "ctimeMs": 1584976906071.5796,
       "birthtimeMs": 1583842513357.155,
-      "atime": "2020-03-23T14:40:58.088Z",
-      "mtime": "2020-03-23T14:40:57.809Z",
-      "ctime": "2020-03-23T14:40:57.809Z",
+      "atime": "2020-03-23T15:21:46.347Z",
+      "mtime": "2020-03-23T15:21:46.072Z",
+      "ctime": "2020-03-23T15:21:46.072Z",
       "birthtime": "2020-03-10T12:15:13.357Z"
     },
     "50894b6d-17c8-5508-8578-534b48b3d696": {
@@ -2948,27 +2948,6 @@
         "owner": "internal-data-bridge"
       }
     },
-    "66b77a2e-a497-5fbb-91b5-82c6b7d7454b": {
-      "id": "66b77a2e-a497-5fbb-91b5-82c6b7d7454b",
-      "children": [],
-      "parent": "fb3fc354-1d0c-55fe-84d5-98b57d118ed8",
-      "internal": {
-        "content": "\n## Hi there\n\nMy name is Darshan Kumar / DK and I'm an entrepreneur by passion. I am a Technical consultant, Cloud Architect, Startup enthusiast, Apache PMC, DevOps Engineer, Full stack engineer, Big data and AI. \n\nI am a Founder of [**Mozayc**](https://mozayc.net) Blockchain Based E-commerce platform, [**KernAdler**](https://kernadler.net). CTO of TRIPA, [**Frogfish**](https://frogfish.io), Appcandy.\n\ncheck me out on [**GITHUB**](https://github.com/darshankumar89) [**Twitter**](https://twitter.com/darshaneldorado) [**Linkedin**](https://www.linkedin.com/in/darshankumar/) \n\nMy expertise are with technologies like JS ♥️ ReactJS, Nodejs, AngularJS, Apache hadoop, AWS Devops, Java spring framework, python. \n\nEntrepreneur, Innovator, Growth hacker and Apache Atlas PMC, Apache Hadoop committer, AI enthusiasts,\n\nBeing a Entrepreneur building innovative products with latest technologies like AI, Analytics and Machine learning to solve the real time problems. \n\nAs a Apache PMC, I have contributed to open source repository. \n\n**Comapnies I associated with** :\n \n- [**Belgian Post Group**](https://en.wikipedia.org/wiki/Bpost)\n- [**Hortonworks parent company**] (https://www.cloudera.com/)\n- TCS \n- SHEM.sk\n- 01 people \n- Jingle Chat Bots\n- Sycamore \n- ephicacy \n- Hashtaag\n- paperboy\n- Apache \n- MPR global Solutions \n- Sourceasy\n- Isolcell Italia\n- Larsen & Turbo technology services \n- AmazingH\n- raiffeisen bank\n\n**Take pride of beign a part of product development team**\n\n- paperboy\n- Sycamore\n- apache atlas \n- apache falcon \n- Bpost retail \n\n\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "70f21d1ad2120bf2877290c13cc1aa06",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "My Introduction",
-        "date": "2020-03-18",
-        "author": "Darshan Kumar",
-        "coverImage": "../images/apachecon.jpg",
-        "path": "/about"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\n## Hi there\n\nMy name is Darshan Kumar / DK and I'm an entrepreneur by passion. I am a Technical consultant, Cloud Architect, Startup enthusiast, Apache PMC, DevOps Engineer, Full stack engineer, Big data and AI. \n\nI am a Founder of [**Mozayc**](https://mozayc.net) Blockchain Based E-commerce platform, [**KernAdler**](https://kernadler.net). CTO of TRIPA, [**Frogfish**](https://frogfish.io), Appcandy.\n\ncheck me out on [**GITHUB**](https://github.com/darshankumar89) [**Twitter**](https://twitter.com/darshaneldorado) [**Linkedin**](https://www.linkedin.com/in/darshankumar/) \n\nMy expertise are with technologies like JS ♥️ ReactJS, Nodejs, AngularJS, Apache hadoop, AWS Devops, Java spring framework, python. \n\nEntrepreneur, Innovator, Growth hacker and Apache Atlas PMC, Apache Hadoop committer, AI enthusiasts,\n\nBeing a Entrepreneur building innovative products with latest technologies like AI, Analytics and Machine learning to solve the real time problems. \n\nAs a Apache PMC, I have contributed to open source repository. \n\n**Comapnies I associated with** :\n \n- [**Belgian Post Group**](https://en.wikipedia.org/wiki/Bpost)\n- [**Hortonworks parent company**] (https://www.cloudera.com/)\n- TCS \n- SHEM.sk\n- 01 people \n- Jingle Chat Bots\n- Sycamore \n- ephicacy \n- Hashtaag\n- paperboy\n- Apache \n- MPR global Solutions \n- Sourceasy\n- Isolcell Italia\n- Larsen & Turbo technology services \n- AmazingH\n- raiffeisen bank\n\n**Take pride of beign a part of product development team**\n\n- paperboy\n- Sycamore\n- apache atlas \n- apache falcon \n- Bpost retail \n\n\n",
-      "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/about.md"
-    },
     "SitePage /example": {
       "jsonName": "example-d5b",
       "internalComponentName": "ComponentExample",
@@ -2981,7 +2960,7 @@
         "next": {
           "frontmatter": {
             "path": "/hello",
-            "title": "Hello Friend",
+            "title": "Hello Folks",
             "tags": [
               "full stack development",
               "DevOps",
@@ -3006,7 +2985,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e6131bffad85921e36e6b591410d6285",
+        "contentDigest": "b16a5a104fb9507c8384c0001bf6dfb1",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -3301,39 +3280,6 @@
         "owner": "internal-data-bridge"
       }
     },
-    "8864d128-c7cb-575d-98f5-a01b99790431": {
-      "id": "8864d128-c7cb-575d-98f5-a01b99790431",
-      "children": [],
-      "parent": "677d53b6-10a0-5256-877c-13757aa4001f",
-      "internal": {
-        "content": "\n> \"Hello, friend?\" I'm Darshan. Gald to meet you...\\\n> I am interested in startup collabration.\\\n> Love to do contract jobs.\\\n> We have to remember that...\\\n> Oh Yeah!!.\\\n> It's actually happened.\\\n> I'm talking to you now :).\n>\n> **— Mr. Darshan S01E01**\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "2809d4bcc42e29fd2476d52ecdc85aff",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "Hello Friend",
-        "path": "/hello",
-        "date": "2019-01-17",
-        "coverImage": "../images/hello.jpg",
-        "author": "Elliot",
-        "excerpt": "\"Hello, Folks\" Thank you visiting my site. Please let me know if you like to talk more about our co-operation buzz me +32 465 183127 or tweet me https://twitter.com/darshaneldorado ",
-        "tags": [
-          "full stack development",
-          "DevOps",
-          "Solution Designer",
-          "Technical Architect",
-          "Co-founder",
-          "Startup",
-          "ReactJS",
-          "AngularJS",
-          "NodeJS"
-        ]
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\n> \"Hello, friend?\" I'm Darshan. Gald to meet you...\\\n> I am interested in startup collabration.\\\n> Love to do contract jobs.\\\n> We have to remember that...\\\n> Oh Yeah!!.\\\n> It's actually happened.\\\n> I'm talking to you now :).\n>\n> **— Mr. Darshan S01E01**\n",
-      "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/hello.md"
-    },
     "acb3c1bd-803a-5a55-8236-eafaba648440": {
       "id": "acb3c1bd-803a-5a55-8236-eafaba648440",
       "children": [],
@@ -3354,6 +3300,60 @@
       "excerpt": "",
       "rawMarkdownBody": "\n\n###Executive / Entrepreneurship Experience :\n\n •\tTechnical Product Development\n\n •\tLeadership and Team building \n\n •\tClient outreach \n\n •\tProduct development \n\n •\tResearch and development \n\n •\tCustomer engagement \n\n •\tICT and Business relation for product development \n\n •\tStartup mentor \n\n •\tMVP builder \n\n •\tLifecycle management \n\n •\tTechnical architecture \n\n •\tIt service management and delivery \n\n •\tAgile methodologies \n\n •\tStake holder management \n\n •\tRisk management \n\n •\tSoftware development lifecycle \n\n>As a passionate Co-founder & CTO role in Mozayc, FrogFish, DelRio consulting is to create and innovate product development. Being a technology pioneer responsible for ensuring a company is making great products for their customers. Also the driver behind the commercialization of technology.\n>Develop coherent platforms backed up with useful features on a variety of digital channels. Importance in these companies is rising due to the fact that users are demanding increasingly sophisticated products. A business intuitive and contribute cost-effective solutions with creative architectures.\n\n",
       "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/example.md"
+    },
+    "8864d128-c7cb-575d-98f5-a01b99790431": {
+      "id": "8864d128-c7cb-575d-98f5-a01b99790431",
+      "children": [],
+      "parent": "677d53b6-10a0-5256-877c-13757aa4001f",
+      "internal": {
+        "content": "\n> \"Hello, friend?\" I'm Darshan. Gald to meet you...\\\n> I am interested in startup collabration.\\\n> Love to do contract jobs.\\\n> We have to remember that...\\\n> Oh Yeah!!.\\\n> It's actually happened.\\\n> I'm talking to you now :).\n>\n> **— Mr. Darshan S01E01**\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "19d5572a8646822527b8aed1aa7d9928",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Hello Folks",
+        "path": "/hello",
+        "date": "2020-03-23",
+        "coverImage": "../images/hello.jpg",
+        "author": "Darshan Kumar",
+        "excerpt": "\"Hello, Folks\" Thank you visiting my site. Please let me know if you like to talk more about our co-operation buzz me +32 465 183127 or tweet me https://twitter.com/darshaneldorado ",
+        "tags": [
+          "full stack development",
+          "DevOps",
+          "Solution Designer",
+          "Technical Architect",
+          "Co-founder",
+          "Startup",
+          "ReactJS",
+          "AngularJS",
+          "NodeJS"
+        ]
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n> \"Hello, friend?\" I'm Darshan. Gald to meet you...\\\n> I am interested in startup collabration.\\\n> Love to do contract jobs.\\\n> We have to remember that...\\\n> Oh Yeah!!.\\\n> It's actually happened.\\\n> I'm talking to you now :).\n>\n> **— Mr. Darshan S01E01**\n",
+      "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/hello.md"
+    },
+    "66b77a2e-a497-5fbb-91b5-82c6b7d7454b": {
+      "id": "66b77a2e-a497-5fbb-91b5-82c6b7d7454b",
+      "children": [],
+      "parent": "fb3fc354-1d0c-55fe-84d5-98b57d118ed8",
+      "internal": {
+        "content": "\n## Hi there\n\nMy name is Darshan Kumar / DK and I'm an entrepreneur by passion. I am a Technical consultant, Cloud Architect, Startup enthusiast, Apache PMC, DevOps Engineer, Full stack engineer, Big data and AI. \n\nI am a Founder of [**Mozayc**](https://mozayc.net) Blockchain Based E-commerce platform, [**KernAdler**](https://kernadler.net). CTO of TRIPA, [**Frogfish**](https://frogfish.io), Appcandy.\n\ncheck me out on [**GITHUB**](https://github.com/darshankumar89) [**Twitter**](https://twitter.com/darshaneldorado) [**Linkedin**](https://www.linkedin.com/in/darshankumar/) \n\nMy expertise are with technologies like JS ♥️ ReactJS, Nodejs, AngularJS, Apache hadoop, AWS Devops, Java spring framework, python. \n\nEntrepreneur, Innovator, Growth hacker and Apache Atlas PMC, Apache Hadoop committer, AI enthusiasts,\n\nBeing a Entrepreneur building innovative products with latest technologies like AI, Analytics and Machine learning to solve the real time problems. \n\nAs a Apache PMC, I have contributed to open source repository. \n\n**Comapnies I associated with** :\n \n- [**Belgian Post Group**](https://en.wikipedia.org/wiki/Bpost)\n- [**Hortonworks parent company**] (https://www.cloudera.com/)\n- TCS \n- SHEM.sk\n- 01 people \n- Jingle Chat Bots\n- Sycamore \n- ephicacy \n- Hashtaag\n- paperboy\n- Apache \n- MPR global Solutions \n- Sourceasy\n- Isolcell Italia\n- Larsen & Turbo technology services \n- AmazingH\n- raiffeisen bank\n\n**Pride of being a part of product innovation team**\n\n- paperboy\n- Sycamore\n- apache atlas \n- apache falcon \n- Bpost retail \n\n\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "40f260e595f18d54329363ecc4d4762e",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "My Introduction",
+        "date": "2020-03-18",
+        "author": "Darshan Kumar",
+        "coverImage": "../images/apachecon.jpg",
+        "path": "/about"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n## Hi there\n\nMy name is Darshan Kumar / DK and I'm an entrepreneur by passion. I am a Technical consultant, Cloud Architect, Startup enthusiast, Apache PMC, DevOps Engineer, Full stack engineer, Big data and AI. \n\nI am a Founder of [**Mozayc**](https://mozayc.net) Blockchain Based E-commerce platform, [**KernAdler**](https://kernadler.net). CTO of TRIPA, [**Frogfish**](https://frogfish.io), Appcandy.\n\ncheck me out on [**GITHUB**](https://github.com/darshankumar89) [**Twitter**](https://twitter.com/darshaneldorado) [**Linkedin**](https://www.linkedin.com/in/darshankumar/) \n\nMy expertise are with technologies like JS ♥️ ReactJS, Nodejs, AngularJS, Apache hadoop, AWS Devops, Java spring framework, python. \n\nEntrepreneur, Innovator, Growth hacker and Apache Atlas PMC, Apache Hadoop committer, AI enthusiasts,\n\nBeing a Entrepreneur building innovative products with latest technologies like AI, Analytics and Machine learning to solve the real time problems. \n\nAs a Apache PMC, I have contributed to open source repository. \n\n**Comapnies I associated with** :\n \n- [**Belgian Post Group**](https://en.wikipedia.org/wiki/Bpost)\n- [**Hortonworks parent company**] (https://www.cloudera.com/)\n- TCS \n- SHEM.sk\n- 01 people \n- Jingle Chat Bots\n- Sycamore \n- ephicacy \n- Hashtaag\n- paperboy\n- Apache \n- MPR global Solutions \n- Sourceasy\n- Isolcell Italia\n- Larsen & Turbo technology services \n- AmazingH\n- raiffeisen bank\n\n**Pride of being a part of product innovation team**\n\n- paperboy\n- Sycamore\n- apache atlas \n- apache falcon \n- Bpost retail \n\n\n",
+      "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/about.md"
     }
   },
   "status": {
@@ -3433,27 +3433,27 @@
     "sq--src-components-layout-js": 2892404432,
     "sq--src-components-seo-js": 1582510487,
     "sq--src-components-image-js": 492526033,
-    "about-771": "542/path---about-771-2fe-tzH9XnqWtsGqzlF91r1pXS9MZQw",
+    "about-771": "458/path---about-771-2fe-HqeELqw40I5F6O0lB9YmGIUukk",
     "showcase-d23": "349/path---showcase-d-23-738-x4knnOSUA8nBPTjG7b81aY",
-    "index": "161/path---index-6a9-FPb4uI0MU3mz2APLsB7FYgzocz4",
+    "index": "195/path---index-6a9-Ak4ghrRxgAvHhGjZKNRqsZHW7XE",
     "tag-rob-ot-348": "361/path---tag-rob-ot-348-285-EyjKCo7by763e8Oabh1vBxp6LK0",
     "example-d5b": "680/path---example-d-5-b-455-ohJlCRaH6jXm4JAg4eK9ZLl10",
     "dev-404-page-5f9": "386/path---dev-404-page-5-f-9-fab-0SUcWyAf8ecbYDsMhQkEfPzV8",
     "404-22d": "820/path---404-22-d-bce-0SUcWyAf8ecbYDsMhQkEfPzV8",
     "tag-hello-friend-69a": "706/path---tag-hello-friend-69-a-f65-xJrVze2c1acUeTgijKjdNPIrtU",
     "404-html-516": "285/path---404-html-516-62a-0SUcWyAf8ecbYDsMhQkEfPzV8",
-    "hello-3ed": "772/path---hello-3-ed-283-hjSJIn0KayoJEEbzqBcBxc5dEgs",
+    "hello-3ed": "2/path---hello-3-ed-283-uZv9DefTMsN9YhuDEVyNntzcyQ",
     "entrepreneur-a31": "676/path---entrepreneur-a-31-6f4-ANW80Ij7XAc5J5WrADagMZ26vHY",
-    "tag-full-stack-development-8d6": "8/path---tag-full-stack-development-8-d-6-ac8-ZI1FwvvRKdTsJtXJPGqOH3SS4",
-    "tag-dev-ops-ebd": "440/path---tag-dev-ops-ebd-50c-6lK0GpTS4VxYhTnFUmhdIpf01hI",
-    "tag-solution-designer-256": "321/path---tag-solution-designer-256-1c7-e3KrQXVGk18Gt5xydeL3htceb7Q",
-    "tag-technical-architect-414": "970/path---tag-technical-architect-414-31f-cOkMDWqRpeEkFUV3P04KaP5iElE",
-    "tag-co-founder-195": "528/path---tag-co-founder-195-dff-4Z6Ghwepg57dTF9a9JxzJugeCE",
+    "tag-full-stack-development-8d6": "621/path---tag-full-stack-development-8-d-6-ac8-XPsGWG20Y6wfBKIJoyXF23Y8IbM",
+    "tag-dev-ops-ebd": "865/path---tag-dev-ops-ebd-50c-xyA9gsWSqLWvQ1rWKjFEiM0Sdqc",
+    "tag-solution-designer-256": "117/path---tag-solution-designer-256-1c7-hBtuoBvf831iA5xfuICm8LSgrMg",
+    "tag-technical-architect-414": "317/path---tag-technical-architect-414-31f-VGb2R9nFu4UKa5p8244CbzvGfLE",
+    "tag-co-founder-195": "300/path---tag-co-founder-195-dff-ekVbEaWOKMoZuggwYKzAYWDjkw",
     "tag-startup-mentor-fc4": "820/path---tag-startup-mentor-fc-4-5c9-kBa1ePnFgIPN0pUhiN90c1dDs",
-    "tag-startup-459": "349/path---tag-startup-459-b76-4sbblaXIgSvJz6XozLLLn0sxA2U",
-    "tag-angular-js-b45": "991/path---tag-angular-js-b-45-1fe-TS1ZgKhwstzZ9Je6Idt3wmTDM",
-    "tag-react-js-6cc": "519/path---tag-react-js-6-cc-af4-NB60XGStmK5JuE4AvzvJFT9VU",
-    "tag-node-js-f3f": "12/path---tag-node-js-f-3-f-7a9-MYAr6JeHcgSZiJSl7Xa7QIfc8"
+    "tag-startup-459": "7/path---tag-startup-459-b76-rGQ3unwjRPW3p4cZiXT11FKX1Zw",
+    "tag-angular-js-b45": "945/path---tag-angular-js-b-45-1fe-ZaExvalhw2Qg3iVF246LOmb0mtQ",
+    "tag-react-js-6cc": "426/path---tag-react-js-6-cc-af4-uOPVd1IItlzy66bZa56wWml9PQw",
+    "tag-node-js-f3f": "918/path---tag-node-js-f-3-f-7a9-BxD69LFtGHkP61j2vOnwa9Ou2E"
   },
   "components": {
     "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/index.js": {
