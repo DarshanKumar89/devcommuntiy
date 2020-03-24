@@ -60,10 +60,11 @@ As a Apache PMC, I have contributed to open source repository.
 - NPC bratsialva https://www.npc.sk/sk/
 - NTH mobile https://www.nth-mobile.com/
 - Conservation International https://www.conservation.org/
+- Fondy fondy.eu
 
 
 
-**Founder and Co-Founder** 
+**Founder and CTO** 
 - Mozayc mozayc.net
 - FrogFish Frogfish.io
 - TRIPA https://delrio-consulting.com/
