@@ -41,47 +41,97 @@
     },
     {
         "componentChunkName": "component---src-templates-tags-js",
-        "jsonName": "tag-angular-js-b45",
-        "path": "/tag/AngularJS"
+        "jsonName": "tag-angularjs-521",
+        "path": "/tag/angularjs"
     },
     {
         "componentChunkName": "component---src-templates-tags-js",
-        "jsonName": "tag-co-founder-195",
-        "path": "/tag/Co-founder"
+        "jsonName": "tag-architect-21d",
+        "path": "/tag/architect"
     },
     {
         "componentChunkName": "component---src-templates-tags-js",
-        "jsonName": "tag-dev-ops-ebd",
-        "path": "/tag/DevOps"
+        "jsonName": "tag-artificialintelligence-71d",
+        "path": "/tag/artificialintelligence"
     },
     {
         "componentChunkName": "component---src-templates-tags-js",
-        "jsonName": "tag-node-js-f3f",
-        "path": "/tag/NodeJS"
+        "jsonName": "tag-aws-2cc",
+        "path": "/tag/aws"
     },
     {
         "componentChunkName": "component---src-templates-tags-js",
-        "jsonName": "tag-react-js-6cc",
-        "path": "/tag/ReactJS"
+        "jsonName": "tag-bigdata-c65",
+        "path": "/tag/bigdata"
     },
     {
         "componentChunkName": "component---src-templates-tags-js",
-        "jsonName": "tag-solution-designer-256",
-        "path": "/tag/Solution-Designer"
+        "jsonName": "tag-cloudcomputing-f5b",
+        "path": "/tag/cloudcomputing"
     },
     {
         "componentChunkName": "component---src-templates-tags-js",
-        "jsonName": "tag-startup-459",
-        "path": "/tag/Startup"
+        "jsonName": "tag-coding-24a",
+        "path": "/tag/coding"
     },
     {
         "componentChunkName": "component---src-templates-tags-js",
-        "jsonName": "tag-technical-architect-414",
-        "path": "/tag/Technical-Architect"
+        "jsonName": "tag-developer-767",
+        "path": "/tag/developer"
     },
     {
         "componentChunkName": "component---src-templates-tags-js",
-        "jsonName": "tag-full-stack-development-8d6",
-        "path": "/tag/full-stack-development"
+        "jsonName": "tag-developerlife-faa",
+        "path": "/tag/developerlife"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "jsonName": "tag-devops-cf8",
+        "path": "/tag/devops"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "jsonName": "tag-founder-036",
+        "path": "/tag/founder"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "jsonName": "tag-fullstack-679",
+        "path": "/tag/fullstack"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "jsonName": "tag-google-e26",
+        "path": "/tag/google"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "jsonName": "tag-googlecloud-058",
+        "path": "/tag/googlecloud"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "jsonName": "tag-hadoop-148",
+        "path": "/tag/hadoop"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "jsonName": "tag-heroku-547",
+        "path": "/tag/heroku"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "jsonName": "tag-nodejs-0ec",
+        "path": "/tag/nodejs"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "jsonName": "tag-reactjs-09d",
+        "path": "/tag/reactjs"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "jsonName": "tag-startup-555",
+        "path": "/tag/startup"
     }
 ]

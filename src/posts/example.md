@@ -1,9 +1,9 @@
 ---
-title: "Darshan with entrepreneurship mindset"
+title: "Darshan with entrepreneurship mindset and "
 date: "2020-03-23"
 path: "/example"
 author: "Darshan Kumar"
-excerpt: "As a passionate Co-founder & CTO role in Mozayc, FrogFish, DelRio consulting is to create and innovate product development. Being a technology pioneer responsible for ensuring a company is making great products for their customers. Also the driver behind the commercialization of technology."
+excerpt: "As a passionate Co-founder & CTO of Mozayc, FrogFish, DelRio consulting is to create, innovate product development and help startups in building MVP. Being a technology enthusiast i love to work as contractor as solution designer / Full stack developer."
 ---
 
 

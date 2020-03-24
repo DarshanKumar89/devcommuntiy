@@ -25,10 +25,10 @@ As a Apache PMC, I have contributed to open source repository.
 **Comapnies I associated with** :
  
 - [**Belgian Post Group**](https://en.wikipedia.org/wiki/Bpost)
-- [**Hortonworks / Cloudera**](https://www.cloudera.com/)
-- TCS  https://www.tcs.com/
-- SHEM.sk
-- 01 people  https://www.01people.com/
+- [**Hortonworks/Cloudera**](https://www.cloudera.com/)
+- [**TCS**](https://www.tcs.com)
+- [**Shem**](https://shem.sk)
+- [**01 people**](https://www.01people.com)
 - Jingle Chat Bots 
 - Sycamore https://www.sycamoreinformatics.com/
 - ephicacy http://www.ephicacy.com/
@@ -64,7 +64,7 @@ As a Apache PMC, I have contributed to open source repository.
 
 
 
-**Founder and CTO** 
+**Founder & CTO** 
 - Mozayc mozayc.net
 - FrogFish Frogfish.io
 - TRIPA https://delrio-consulting.com/
