@@ -50,4 +50,11 @@ As a Apache PMC, I have contributed to open source repository.
 - apache falcon 
 - Bpost retail 
 
+**Contact Details 
+
+- Slovakia : 33 KPT RASU, Bratislava 84101, Slovakia. Ph: +421 905 288 190
+- Belgium : Avenue de Tervueren 266B, 1150 Woluwe-Saint-Pierre, Brussels. Ph: +32 465183127
+- India : 38, Surya, Subramanyapurapost, bsk 3rd stage, Bangalore 560061. Ph: +91 9900568729
+
+
 
