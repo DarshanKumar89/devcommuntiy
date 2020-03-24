@@ -1,5 +1,5 @@
 ---
-title: Passion of programming
+title: Passion of programming with Entrepreneurship mindset
 date: "2020-03-24"
 path: "/entrepreneur"
 author: "Darshan Kumar"

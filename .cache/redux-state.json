@@ -2943,7 +2943,7 @@
         "previous": {
           "frontmatter": {
             "path": "/entrepreneur",
-            "title": "Passion of programming",
+            "title": "Passion of programming with Entrepreneurship mindset",
             "tags": null
           },
           "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/entrepreneur.md"
@@ -2957,7 +2957,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f733c12bdc23166476ba4255d9e26889",
+        "contentDigest": "db6d3db524cb27f06bfe5df707accfc3",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -3539,7 +3539,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "7b56341d6838e6c25e1350717cf87647",
+        "contentDigest": "fed12501532127fb211460b282b35392",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"src/posts/entrepreneur.md\"",
@@ -3549,11 +3549,11 @@
       "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/entrepreneur.md",
       "relativePath": "entrepreneur.md",
       "extension": "md",
-      "size": 1435,
-      "prettySize": "1.44 kB",
-      "modifiedTime": "2020-03-24T15:03:07.024Z",
-      "accessTime": "2020-03-24T15:03:07.087Z",
-      "changeTime": "2020-03-24T15:03:07.024Z",
+      "size": 1465,
+      "prettySize": "1.47 kB",
+      "modifiedTime": "2020-03-24T15:05:30.114Z",
+      "accessTime": "2020-03-24T15:05:30.175Z",
+      "changeTime": "2020-03-24T15:05:30.114Z",
       "birthTime": "2020-03-10T12:15:13.358Z",
       "root": "/",
       "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts",
@@ -3570,13 +3570,13 @@
       "blksize": 4096,
       "ino": 23497140,
       "blocks": 8,
-      "atimeMs": 1585062187087.096,
-      "mtimeMs": 1585062187023.5332,
-      "ctimeMs": 1585062187023.5332,
+      "atimeMs": 1585062330174.6067,
+      "mtimeMs": 1585062330113.579,
+      "ctimeMs": 1585062330113.579,
       "birthtimeMs": 1583842513357.8389,
-      "atime": "2020-03-24T15:03:07.087Z",
-      "mtime": "2020-03-24T15:03:07.024Z",
-      "ctime": "2020-03-24T15:03:07.024Z",
+      "atime": "2020-03-24T15:05:30.175Z",
+      "mtime": "2020-03-24T15:05:30.114Z",
+      "ctime": "2020-03-24T15:05:30.114Z",
       "birthtime": "2020-03-10T12:15:13.358Z"
     },
     "SitePage /entrepreneur": {
@@ -3659,11 +3659,11 @@
       "internal": {
         "content": "\n\n###Executive / Entrepreneurship Experience :\n\n •\tTechnical Product Development\n\n •\tLeadership and Team building \n\n •\tClient outreach \n\n •\tProduct development \n\n •\tResearch and development \n\n •\tCustomer engagement \n\n •\tICT and Business relation for product development \n\n •\tStartup mentor \n\n •\tMVP builder \n\n •\tLifecycle management \n\n •\tTechnical architecture \n\n •\tIt service management and delivery \n\n •\tAgile methodologies \n\n •\tStake holder management \n\n •\tRisk management \n\n •\tSoftware development lifecycle \n\n>As a passionate Co-founder & CTO role in Mozayc, FrogFish, DelRio consulting is to create and innovate product development. Being a technology pioneer responsible for ensuring a company is making great products for their customers. Also the driver behind the commercialization of technology.\n>Develop coherent platforms backed up with useful features on a variety of digital channels. Importance in these companies is rising due to the fact that users are demanding increasingly sophisticated products. A business intuitive and contribute cost-effective solutions with creative architectures.\n\n",
         "type": "MarkdownRemark",
-        "contentDigest": "d18ff350f9c92fc6af0f2709d1b3613c",
+        "contentDigest": "0d4189d53e624941a47fe0faecf8582b",
         "owner": "gatsby-transformer-remark"
       },
       "frontmatter": {
-        "title": "Passion of programming",
+        "title": "Passion of programming with Entrepreneurship mindset",
         "date": "2020-03-24",
         "path": "/entrepreneur",
         "author": "Darshan Kumar",
@@ -3793,7 +3793,7 @@
     "sq--src-components-image-js": 492526033,
     "about-771": "881/path---about-771-2fe-RbRAVIuzRRtR6JrpGGYAT6N4oE",
     "showcase-d23": "182/path---showcase-d-23-738-PKhSOWidBMMYtdyqISG3tk1wKks",
-    "index": "323/path---index-6a9-DI7FhDDpDT9whIDKL7mcT8EcUOA",
+    "index": "905/path---index-6a9-Rr9Hfs3jTOxw3rv2vvJrj76N5Go",
     "tag-rob-ot-348": "361/path---tag-rob-ot-348-285-EyjKCo7by763e8Oabh1vBxp6LK0",
     "example-d5b": "664/path---example-d-5-b-455-OlVVhCuWHKL3oZCLRNbyNLojMmM",
     "dev-404-page-5f9": "386/path---dev-404-page-5-f-9-fab-0SUcWyAf8ecbYDsMhQkEfPzV8",
@@ -3831,7 +3831,7 @@
     "tag-hadoop-148": "422/path---tag-hadoop-148-0de-i4JAl92td2EhfgjqgcTp4AP5EI",
     "tag-artificialintelligence-71d": "77/path---tag-artificialintelligence-71-d-e44-fSssN7rc6gVgWBptMyEem9m9j4",
     "tag-heroku-547": "594/path---tag-heroku-547-58c-qaOvtjKRHADuddJlLGKHShgNwa0",
-    "entrepreneur-8f3": "301/path---entrepreneur-8-f-3-579-f4lgKFVst0AOckF5YGSKu0bItpI"
+    "entrepreneur-8f3": "581/path---entrepreneur-8-f-3-579-OpjUC88kfWsa9wE0ekRVHI5Iwe8"
   },
   "components": {
     "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/index.js": {
