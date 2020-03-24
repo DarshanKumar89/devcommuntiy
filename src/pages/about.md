@@ -55,13 +55,20 @@ As a Apache PMC, I have contributed to open source repository.
 - Kompact services slovakia 
 
 
-**Partners 
+**Partners** 
 - SBA  http://www.sbagency.sk/
 - NPC bratsialva https://www.npc.sk/sk/
 - NTH mobile https://www.nth-mobile.com/
-- MPR global Solutions mprhost.com
-- KernAdler KernAdler.com
+- Conservation International https://www.conservation.org/
 
+
+
+**Founder and Co-Founder** 
+- Mozayc mozayc.net
+- FrogFish Frogfish.io
+- TRIPA https://delrio-consulting.com/
+- KernAdler KernAdler.com
+- MPR global Solutions mprhost.com
 
 **Pride of being a part of product innovation team**
 
@@ -71,7 +78,7 @@ As a Apache PMC, I have contributed to open source repository.
 - apache falcon https://falcon.apache.org/
 - Bpost retail 
 
-**Contact Details 
+**Contact Details** 
 
 - Slovakia : 33 KPT RASU, Bratislava 84101, Slovakia. Ph: +421 905 288 190
 - Belgium : Avenue de Tervueren 266B, 1150 Woluwe-Saint-Pierre, Brussels. Ph: +32 465183127
