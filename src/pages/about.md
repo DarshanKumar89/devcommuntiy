@@ -25,7 +25,7 @@ As a Apache PMC, I have contributed to open source repository.
 **Comapnies I associated with** :
  
 - [**Belgian Post Group**](https://en.wikipedia.org/wiki/Bpost)
-- [**Hortonworks parent company**] (https://www.cloudera.com/)
+- [**Hortonworks parent company**](https://www.cloudera.com/)
 - TCS 
 - SHEM.sk
 - 01 people 

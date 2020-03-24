@@ -2696,7 +2696,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "198071ef306f63410165d3d0676afa70",
+        "contentDigest": "2e371deb1bff1068befa2c70b8ab751a",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"src/pages/about.md\"",
@@ -2706,11 +2706,11 @@
       "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/about.md",
       "relativePath": "about.md",
       "extension": "md",
-      "size": 1965,
-      "prettySize": "1.97 kB",
-      "modifiedTime": "2020-03-24T11:06:43.370Z",
-      "accessTime": "2020-03-24T11:06:43.520Z",
-      "changeTime": "2020-03-24T11:06:43.370Z",
+      "size": 1964,
+      "prettySize": "1.96 kB",
+      "modifiedTime": "2020-03-24T11:08:20.794Z",
+      "accessTime": "2020-03-24T11:08:20.794Z",
+      "changeTime": "2020-03-24T11:08:20.794Z",
       "birthTime": "2020-03-10T12:15:13.357Z",
       "root": "/",
       "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages",
@@ -2727,13 +2727,13 @@
       "blksize": 4096,
       "ino": 23497172,
       "blocks": 8,
-      "atimeMs": 1585048003520.356,
-      "mtimeMs": 1585048003370.4666,
-      "ctimeMs": 1585048003370.4666,
+      "atimeMs": 1585048100793.7683,
+      "mtimeMs": 1585048100794.3713,
+      "ctimeMs": 1585048100794.3713,
       "birthtimeMs": 1583842513357.155,
-      "atime": "2020-03-24T11:06:43.520Z",
-      "mtime": "2020-03-24T11:06:43.370Z",
-      "ctime": "2020-03-24T11:06:43.370Z",
+      "atime": "2020-03-24T11:08:20.794Z",
+      "mtime": "2020-03-24T11:08:20.794Z",
+      "ctime": "2020-03-24T11:08:20.794Z",
       "birthtime": "2020-03-10T12:15:13.357Z"
     },
     "50894b6d-17c8-5508-8578-534b48b3d696": {
@@ -3339,9 +3339,9 @@
       "children": [],
       "parent": "fb3fc354-1d0c-55fe-84d5-98b57d118ed8",
       "internal": {
-        "content": "\n## Hi there\n\nMy name is Darshan Kumar / DK and I'm an entrepreneur by passion. I am a Technical consultant, Cloud Architect, Startup enthusiast, Apache PMC, DevOps Engineer, Full stack engineer, Big data and AI. \n\nI am a Founder of [**Mozayc**](https://mozayc.net) Blockchain Based E-commerce platform, [**KernAdler**](https://kernadler.net). CTO of TRIPA, [**Frogfish**](https://frogfish.io), Appcandy.\n\ncheck me out on [**GITHUB**](https://github.com/darshankumar89) [**Twitter**](https://twitter.com/darshaneldorado) [**Linkedin**](https://www.linkedin.com/in/darshankumar/) \n\nMy expertise are with technologies like JS ♥️ ReactJS, Nodejs, AngularJS, Apache hadoop, AWS Devops, Java spring framework, python. \n\nEntrepreneur, Innovator, Growth hacker and Apache Atlas PMC, Apache Hadoop committer, AI enthusiasts,\n\nBeing a Entrepreneur building innovative products with latest technologies like AI, Analytics and Machine learning to solve the real time problems. \n\nAs a Apache PMC, I have contributed to open source repository. \n\n**Comapnies I associated with** :\n \n- [**Belgian Post Group**](https://en.wikipedia.org/wiki/Bpost)\n- [**Hortonworks parent company**] (https://www.cloudera.com/)\n- TCS \n- SHEM.sk\n- 01 people \n- Jingle Chat Bots\n- Sycamore \n- ephicacy \n- Hashtaag\n- paperboy\n- Apache \n- MPR global Solutions \n- Sourceasy\n- Isolcell Italia\n- Larsen & Turbo technology services \n- AmazingH\n- raiffeisen bank\n\n**Pride of being a part of product innovation team**\n\n- paperboy\n- Sycamore\n- apache atlas \n- apache falcon \n- Bpost retail \n\n**Contact Details \n\n- Slovakia : 33 KPT RASU, Bratislava 84101, Slovakia. Ph: +421 905 288 190\n- Belgium : Avenue de Tervueren 266B, 1150 Woluwe-Saint-Pierre, Brussels. Ph: +32 465183127\n- India : 38, Surya, Subramanyapurapost, bsk 3rd stage, Bangalore 560061. Ph: +91 9900568729\n\n\n\n",
+        "content": "\n## Hi there\n\nMy name is Darshan Kumar / DK and I'm an entrepreneur by passion. I am a Technical consultant, Cloud Architect, Startup enthusiast, Apache PMC, DevOps Engineer, Full stack engineer, Big data and AI. \n\nI am a Founder of [**Mozayc**](https://mozayc.net) Blockchain Based E-commerce platform, [**KernAdler**](https://kernadler.net). CTO of TRIPA, [**Frogfish**](https://frogfish.io), Appcandy.\n\ncheck me out on [**GITHUB**](https://github.com/darshankumar89) [**Twitter**](https://twitter.com/darshaneldorado) [**Linkedin**](https://www.linkedin.com/in/darshankumar/) \n\nMy expertise are with technologies like JS ♥️ ReactJS, Nodejs, AngularJS, Apache hadoop, AWS Devops, Java spring framework, python. \n\nEntrepreneur, Innovator, Growth hacker and Apache Atlas PMC, Apache Hadoop committer, AI enthusiasts,\n\nBeing a Entrepreneur building innovative products with latest technologies like AI, Analytics and Machine learning to solve the real time problems. \n\nAs a Apache PMC, I have contributed to open source repository. \n\n**Comapnies I associated with** :\n \n- [**Belgian Post Group**](https://en.wikipedia.org/wiki/Bpost)\n- [**Hortonworks parent company**](https://www.cloudera.com/)\n- TCS \n- SHEM.sk\n- 01 people \n- Jingle Chat Bots\n- Sycamore \n- ephicacy \n- Hashtaag\n- paperboy\n- Apache \n- MPR global Solutions \n- Sourceasy\n- Isolcell Italia\n- Larsen & Turbo technology services \n- AmazingH\n- raiffeisen bank\n\n**Pride of being a part of product innovation team**\n\n- paperboy\n- Sycamore\n- apache atlas \n- apache falcon \n- Bpost retail \n\n**Contact Details \n\n- Slovakia : 33 KPT RASU, Bratislava 84101, Slovakia. Ph: +421 905 288 190\n- Belgium : Avenue de Tervueren 266B, 1150 Woluwe-Saint-Pierre, Brussels. Ph: +32 465183127\n- India : 38, Surya, Subramanyapurapost, bsk 3rd stage, Bangalore 560061. Ph: +91 9900568729\n\n\n\n",
         "type": "MarkdownRemark",
-        "contentDigest": "195339bc9028e895dd715d9b20e03eba",
+        "contentDigest": "10bb12e83473987beefc1f3a5790d6bb",
         "owner": "gatsby-transformer-remark"
       },
       "frontmatter": {
@@ -3352,7 +3352,7 @@
         "path": "/about"
       },
       "excerpt": "",
-      "rawMarkdownBody": "\n## Hi there\n\nMy name is Darshan Kumar / DK and I'm an entrepreneur by passion. I am a Technical consultant, Cloud Architect, Startup enthusiast, Apache PMC, DevOps Engineer, Full stack engineer, Big data and AI. \n\nI am a Founder of [**Mozayc**](https://mozayc.net) Blockchain Based E-commerce platform, [**KernAdler**](https://kernadler.net). CTO of TRIPA, [**Frogfish**](https://frogfish.io), Appcandy.\n\ncheck me out on [**GITHUB**](https://github.com/darshankumar89) [**Twitter**](https://twitter.com/darshaneldorado) [**Linkedin**](https://www.linkedin.com/in/darshankumar/) \n\nMy expertise are with technologies like JS ♥️ ReactJS, Nodejs, AngularJS, Apache hadoop, AWS Devops, Java spring framework, python. \n\nEntrepreneur, Innovator, Growth hacker and Apache Atlas PMC, Apache Hadoop committer, AI enthusiasts,\n\nBeing a Entrepreneur building innovative products with latest technologies like AI, Analytics and Machine learning to solve the real time problems. \n\nAs a Apache PMC, I have contributed to open source repository. \n\n**Comapnies I associated with** :\n \n- [**Belgian Post Group**](https://en.wikipedia.org/wiki/Bpost)\n- [**Hortonworks parent company**] (https://www.cloudera.com/)\n- TCS \n- SHEM.sk\n- 01 people \n- Jingle Chat Bots\n- Sycamore \n- ephicacy \n- Hashtaag\n- paperboy\n- Apache \n- MPR global Solutions \n- Sourceasy\n- Isolcell Italia\n- Larsen & Turbo technology services \n- AmazingH\n- raiffeisen bank\n\n**Pride of being a part of product innovation team**\n\n- paperboy\n- Sycamore\n- apache atlas \n- apache falcon \n- Bpost retail \n\n**Contact Details \n\n- Slovakia : 33 KPT RASU, Bratislava 84101, Slovakia. Ph: +421 905 288 190\n- Belgium : Avenue de Tervueren 266B, 1150 Woluwe-Saint-Pierre, Brussels. Ph: +32 465183127\n- India : 38, Surya, Subramanyapurapost, bsk 3rd stage, Bangalore 560061. Ph: +91 9900568729\n\n\n\n",
+      "rawMarkdownBody": "\n## Hi there\n\nMy name is Darshan Kumar / DK and I'm an entrepreneur by passion. I am a Technical consultant, Cloud Architect, Startup enthusiast, Apache PMC, DevOps Engineer, Full stack engineer, Big data and AI. \n\nI am a Founder of [**Mozayc**](https://mozayc.net) Blockchain Based E-commerce platform, [**KernAdler**](https://kernadler.net). CTO of TRIPA, [**Frogfish**](https://frogfish.io), Appcandy.\n\ncheck me out on [**GITHUB**](https://github.com/darshankumar89) [**Twitter**](https://twitter.com/darshaneldorado) [**Linkedin**](https://www.linkedin.com/in/darshankumar/) \n\nMy expertise are with technologies like JS ♥️ ReactJS, Nodejs, AngularJS, Apache hadoop, AWS Devops, Java spring framework, python. \n\nEntrepreneur, Innovator, Growth hacker and Apache Atlas PMC, Apache Hadoop committer, AI enthusiasts,\n\nBeing a Entrepreneur building innovative products with latest technologies like AI, Analytics and Machine learning to solve the real time problems. \n\nAs a Apache PMC, I have contributed to open source repository. \n\n**Comapnies I associated with** :\n \n- [**Belgian Post Group**](https://en.wikipedia.org/wiki/Bpost)\n- [**Hortonworks parent company**](https://www.cloudera.com/)\n- TCS \n- SHEM.sk\n- 01 people \n- Jingle Chat Bots\n- Sycamore \n- ephicacy \n- Hashtaag\n- paperboy\n- Apache \n- MPR global Solutions \n- Sourceasy\n- Isolcell Italia\n- Larsen & Turbo technology services \n- AmazingH\n- raiffeisen bank\n\n**Pride of being a part of product innovation team**\n\n- paperboy\n- Sycamore\n- apache atlas \n- apache falcon \n- Bpost retail \n\n**Contact Details \n\n- Slovakia : 33 KPT RASU, Bratislava 84101, Slovakia. Ph: +421 905 288 190\n- Belgium : Avenue de Tervueren 266B, 1150 Woluwe-Saint-Pierre, Brussels. Ph: +32 465183127\n- India : 38, Surya, Subramanyapurapost, bsk 3rd stage, Bangalore 560061. Ph: +91 9900568729\n\n\n\n",
       "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/about.md"
     }
   },
@@ -3433,7 +3433,7 @@
     "sq--src-components-layout-js": 2892404432,
     "sq--src-components-seo-js": 1582510487,
     "sq--src-components-image-js": 492526033,
-    "about-771": "233/path---about-771-2fe-Z7PnYsbyvIex9wKZhjb6uphuFI",
+    "about-771": "145/path---about-771-2fe-Qsu8gCI116da4MIvHVtidqYCUik",
     "showcase-d23": "349/path---showcase-d-23-738-x4knnOSUA8nBPTjG7b81aY",
     "index": "195/path---index-6a9-Ak4ghrRxgAvHhGjZKNRqsZHW7XE",
     "tag-rob-ot-348": "361/path---tag-rob-ot-348-285-EyjKCo7by763e8Oabh1vBxp6LK0",
