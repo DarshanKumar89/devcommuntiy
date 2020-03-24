@@ -25,29 +25,50 @@ As a Apache PMC, I have contributed to open source repository.
 **Comapnies I associated with** :
  
 - [**Belgian Post Group**](https://en.wikipedia.org/wiki/Bpost)
-- [**Hortonworks parent company**](https://www.cloudera.com/)
-- TCS 
+- [**Hortonworks / Cloudera**](https://www.cloudera.com/)
+- TCS  https://www.tcs.com/
 - SHEM.sk
-- 01 people 
-- Jingle Chat Bots
-- Sycamore 
-- ephicacy 
-- Hashtaag
-- paperboy
-- Apache 
-- MPR global Solutions 
-- Sourceasy
-- Isolcell Italia
-- Larsen & Turbo technology services 
+- 01 people  https://www.01people.com/
+- Jingle Chat Bots 
+- Sycamore https://www.sycamoreinformatics.com/
+- ephicacy http://www.ephicacy.com/
+- Hashtaag https://hashtaag.com
+- paperboy https://www.paperboy.com/
+- Apache software foundation https://www.apache.org/
+- MPR global Solutions  mprhost.com
+- Sourceasy https://angel.co/company/sourceeasy
+- Isolcell Italia https://isolcell.com/
+- Larsen & Turbo technology services  https://www.ltts.com/
 - AmazingH
-- raiffeisen bank
+- raiffeisen bank https://www.rcb.at/en/the-bank/
+- odfarmara https://odfarmara.sk
+- unity https://unity.sk
+- https://www.finscreener.com/
+- https://www.allianzsp.sk/
+- Januscloud
+- logamic https://www.logamic.com/
+- https://www.slovakodata.sk/en/
+- http://pavilionfoods.com/
+- https://granperformance.com/index.html
+- Raiffeisen bank https://www.rcb.at/sk/o-banke/
+- https://platonfinance.com/
+- Kompact services slovakia 
+
+
+**Partners 
+- SBA  http://www.sbagency.sk/
+- NPC bratsialva https://www.npc.sk/sk/
+- NTH mobile https://www.nth-mobile.com/
+- MPR global Solutions mprhost.com
+- KernAdler KernAdler.com
+
 
 **Pride of being a part of product innovation team**
 
 - paperboy
 - Sycamore
-- apache atlas 
-- apache falcon 
+- apache atlas https://atlas.apache.org/
+- apache falcon https://falcon.apache.org/
 - Bpost retail 
 
 **Contact Details 
