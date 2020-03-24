@@ -2939,15 +2939,15 @@
       "isCreatedByStatefulCreatePages": false,
       "context": {
         "type": "posts",
-        "next": {
+        "next": null,
+        "previous": {
           "frontmatter": {
             "path": "/entrepreneur",
-            "title": "Darshan with entrepreneurship mindset and Technical consultant",
+            "title": "Passion of programming",
             "tags": null
           },
           "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/entrepreneur.md"
-        },
-        "previous": null
+        }
       },
       "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
@@ -2957,7 +2957,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8ebad4b86b61c515890e2a0d98b75f1f",
+        "contentDigest": "f733c12bdc23166476ba4255d9e26889",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -3539,7 +3539,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "a337b4e0d82bdd9ef099ae8d127c2092",
+        "contentDigest": "7b56341d6838e6c25e1350717cf87647",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"src/posts/entrepreneur.md\"",
@@ -3549,11 +3549,11 @@
       "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/entrepreneur.md",
       "relativePath": "entrepreneur.md",
       "extension": "md",
-      "size": 1551,
-      "prettySize": "1.55 kB",
-      "modifiedTime": "2020-03-24T14:47:17.149Z",
-      "accessTime": "2020-03-24T14:47:17.149Z",
-      "changeTime": "2020-03-24T14:47:17.149Z",
+      "size": 1435,
+      "prettySize": "1.44 kB",
+      "modifiedTime": "2020-03-24T15:03:07.024Z",
+      "accessTime": "2020-03-24T15:03:07.087Z",
+      "changeTime": "2020-03-24T15:03:07.024Z",
       "birthTime": "2020-03-10T12:15:13.358Z",
       "root": "/",
       "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts",
@@ -3570,13 +3570,13 @@
       "blksize": 4096,
       "ino": 23497140,
       "blocks": 8,
-      "atimeMs": 1585061237148.7498,
-      "mtimeMs": 1585061237149.2307,
-      "ctimeMs": 1585061237149.2307,
+      "atimeMs": 1585062187087.096,
+      "mtimeMs": 1585062187023.5332,
+      "ctimeMs": 1585062187023.5332,
       "birthtimeMs": 1583842513357.8389,
-      "atime": "2020-03-24T14:47:17.149Z",
-      "mtime": "2020-03-24T14:47:17.149Z",
-      "ctime": "2020-03-24T14:47:17.149Z",
+      "atime": "2020-03-24T15:03:07.087Z",
+      "mtime": "2020-03-24T15:03:07.024Z",
+      "ctime": "2020-03-24T15:03:07.024Z",
       "birthtime": "2020-03-10T12:15:13.358Z"
     },
     "SitePage /entrepreneur": {
@@ -3588,8 +3588,7 @@
       "isCreatedByStatefulCreatePages": false,
       "context": {
         "type": "posts",
-        "next": null,
-        "previous": {
+        "next": {
           "frontmatter": {
             "path": "/hello",
             "title": "Hello Folks",
@@ -3616,7 +3615,8 @@
             ]
           },
           "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/hello.md"
-        }
+        },
+        "previous": null
       },
       "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
@@ -3626,31 +3626,10 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "abbf1093d26f5c7b3eb3f764d0bbd681",
+        "contentDigest": "dec0d0bb628806dd98dea9959ea4f181",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
-    },
-    "44870062-0054-51e7-999a-34a23233d5a1": {
-      "id": "44870062-0054-51e7-999a-34a23233d5a1",
-      "children": [],
-      "parent": "ed1e2b1c-c18c-5eba-b2b0-90feb230d5fa",
-      "internal": {
-        "content": "\n\n###Executive / Entrepreneurship Experience :\n\n •\tTechnical Product Development\n\n •\tLeadership and Team building \n\n •\tClient outreach \n\n •\tProduct development \n\n •\tResearch and development \n\n •\tCustomer engagement \n\n •\tICT and Business relation for product development \n\n •\tStartup mentor \n\n •\tMVP builder \n\n •\tLifecycle management \n\n •\tTechnical architecture \n\n •\tIt service management and delivery \n\n •\tAgile methodologies \n\n •\tStake holder management \n\n •\tRisk management \n\n •\tSoftware development lifecycle \n\n>As a passionate Co-founder & CTO role in Mozayc, FrogFish, DelRio consulting is to create and innovate product development. Being a technology pioneer responsible for ensuring a company is making great products for their customers. Also the driver behind the commercialization of technology.\n>Develop coherent platforms backed up with useful features on a variety of digital channels. Importance in these companies is rising due to the fact that users are demanding increasingly sophisticated products. A business intuitive and contribute cost-effective solutions with creative architectures.\n\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "7ef6e0219b4ae56940e285f4511bb5a4",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "Darshan with entrepreneurship mindset and Technical consultant",
-        "date": "2020-03-23",
-        "path": "/entrepreneur",
-        "author": "Darshan Kumar",
-        "excerpt": "As a passionate Co-founder & CTO of Mozayc, FrogFish, DelRio consulting is to create, innovate product development and help startups in building MVP. Being a technology enthusiast i love to work as contractor as solution designer / Full stack developer."
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\n\n###Executive / Entrepreneurship Experience :\n\n •\tTechnical Product Development\n\n •\tLeadership and Team building \n\n •\tClient outreach \n\n •\tProduct development \n\n •\tResearch and development \n\n •\tCustomer engagement \n\n •\tICT and Business relation for product development \n\n •\tStartup mentor \n\n •\tMVP builder \n\n •\tLifecycle management \n\n •\tTechnical architecture \n\n •\tIt service management and delivery \n\n •\tAgile methodologies \n\n •\tStake holder management \n\n •\tRisk management \n\n •\tSoftware development lifecycle \n\n>As a passionate Co-founder & CTO role in Mozayc, FrogFish, DelRio consulting is to create and innovate product development. Being a technology pioneer responsible for ensuring a company is making great products for their customers. Also the driver behind the commercialization of technology.\n>Develop coherent platforms backed up with useful features on a variety of digital channels. Importance in these companies is rising due to the fact that users are demanding increasingly sophisticated products. A business intuitive and contribute cost-effective solutions with creative architectures.\n\n",
-      "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/entrepreneur.md"
     },
     "66b77a2e-a497-5fbb-91b5-82c6b7d7454b": {
       "id": "66b77a2e-a497-5fbb-91b5-82c6b7d7454b",
@@ -3672,6 +3651,27 @@
       "excerpt": "",
       "rawMarkdownBody": "\n## Hi there\n\nMy name is Darshan Kumar / DK and I'm an entrepreneur by passion. I am a Technical consultant, Cloud Architect, Startup enthusiast, Apache PMC, DevOps Engineer, Full stack engineer, Big data and AI. \n\nI am a Founder of [**Mozayc**](https://mozayc.net) Blockchain Based E-commerce platform, [**KernAdler**](https://kernadler.net). CTO of TRIPA, [**Frogfish**](https://frogfish.io), Appcandy.\n\ncheck me out on [**GITHUB**](https://github.com/darshankumar89) [**Twitter**](https://twitter.com/darshaneldorado) [**Linkedin**](https://www.linkedin.com/in/darshankumar/) \n\nMy expertise are with technologies like JS ♥️ ReactJS, Nodejs, AngularJS, Apache hadoop, AWS Devops, Java spring framework, python. \n\nEntrepreneur, Innovator, Growth hacker and Apache Atlas PMC, Apache Hadoop committer, AI enthusiasts,\n\nBeing a Entrepreneur building innovative products with latest technologies like AI, Analytics and Machine learning to solve the real time problems. \n\nAs a Apache PMC, I have contributed to open source repository. \n\n**Comapnies I associated with** :\n \n- [**Belgian Post Group**](https://en.wikipedia.org/wiki/Bpost)\n- [**Hortonworks/Cloudera**](https://www.cloudera.com/)\n- [**TCS**](https://www.tcs.com)\n- [**Shem**](https://shem.sk)\n- [**01 people**](https://www.01people.com)\n- Jingle Chat Bots \n- Sycamore https://www.sycamoreinformatics.com/\n- ephicacy http://www.ephicacy.com/\n- Hashtaag https://hashtaag.com\n- paperboy https://www.paperboy.com/\n- Apache software foundation https://www.apache.org/\n- MPR global Solutions  mprhost.com\n- Sourceasy https://angel.co/company/sourceeasy\n- Isolcell Italia https://isolcell.com/\n- Larsen & Turbo technology services  https://www.ltts.com/\n- AmazingH\n- raiffeisen bank https://www.rcb.at/en/the-bank/\n- odfarmara https://odfarmara.sk\n- unity https://unity.sk\n- https://www.finscreener.com/\n- https://www.allianzsp.sk/\n- Januscloud\n- logamic https://www.logamic.com/\n- https://www.slovakodata.sk/en/\n- http://pavilionfoods.com/\n- https://granperformance.com/index.html\n- Raiffeisen bank https://www.rcb.at/sk/o-banke/\n- https://platonfinance.com/\n- Kompact services slovakia \n\n\n**Partners** \n- SBA  http://www.sbagency.sk/\n- NPC bratsialva https://www.npc.sk/sk/\n- NTH mobile https://www.nth-mobile.com/\n- Conservation International https://www.conservation.org/\n- Fondy fondy.eu\n\n\n\n**Founder & CTO** \n- Mozayc mozayc.net\n- FrogFish Frogfish.io\n- TRIPA https://delrio-consulting.com/\n- KernAdler KernAdler.com\n- MPR global Solutions mprhost.com\n\n**Pride of being a part of product innovation team**\n\n- paperboy\n- Sycamore\n- apache atlas https://atlas.apache.org/\n- apache falcon https://falcon.apache.org/\n- Bpost retail \n\n**Contact Details** \n\n- Slovakia : Svrcia, Bratislava 84101, Slovakia. Ph: +421 905 288 190\n- Belgium : Avenue de Tervueren, 1150  Brussels. Ph: +32 465183127\n- India :   BSK 3rd stage, Subramanyapurapost, Bangalore 560061. Ph: +91 9900568729\n\n\n\n",
       "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/about.md"
+    },
+    "44870062-0054-51e7-999a-34a23233d5a1": {
+      "id": "44870062-0054-51e7-999a-34a23233d5a1",
+      "children": [],
+      "parent": "ed1e2b1c-c18c-5eba-b2b0-90feb230d5fa",
+      "internal": {
+        "content": "\n\n###Executive / Entrepreneurship Experience :\n\n •\tTechnical Product Development\n\n •\tLeadership and Team building \n\n •\tClient outreach \n\n •\tProduct development \n\n •\tResearch and development \n\n •\tCustomer engagement \n\n •\tICT and Business relation for product development \n\n •\tStartup mentor \n\n •\tMVP builder \n\n •\tLifecycle management \n\n •\tTechnical architecture \n\n •\tIt service management and delivery \n\n •\tAgile methodologies \n\n •\tStake holder management \n\n •\tRisk management \n\n •\tSoftware development lifecycle \n\n>As a passionate Co-founder & CTO role in Mozayc, FrogFish, DelRio consulting is to create and innovate product development. Being a technology pioneer responsible for ensuring a company is making great products for their customers. Also the driver behind the commercialization of technology.\n>Develop coherent platforms backed up with useful features on a variety of digital channels. Importance in these companies is rising due to the fact that users are demanding increasingly sophisticated products. A business intuitive and contribute cost-effective solutions with creative architectures.\n\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "d18ff350f9c92fc6af0f2709d1b3613c",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Passion of programming",
+        "date": "2020-03-24",
+        "path": "/entrepreneur",
+        "author": "Darshan Kumar",
+        "excerpt": "As a passionate engineer and Being a technology enthusiast i love to work on contract basis as solution designer/Full stack developer/UI Lead/Lead Backend engineer/Devops engineer"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n\n###Executive / Entrepreneurship Experience :\n\n •\tTechnical Product Development\n\n •\tLeadership and Team building \n\n •\tClient outreach \n\n •\tProduct development \n\n •\tResearch and development \n\n •\tCustomer engagement \n\n •\tICT and Business relation for product development \n\n •\tStartup mentor \n\n •\tMVP builder \n\n •\tLifecycle management \n\n •\tTechnical architecture \n\n •\tIt service management and delivery \n\n •\tAgile methodologies \n\n •\tStake holder management \n\n •\tRisk management \n\n •\tSoftware development lifecycle \n\n>As a passionate Co-founder & CTO role in Mozayc, FrogFish, DelRio consulting is to create and innovate product development. Being a technology pioneer responsible for ensuring a company is making great products for their customers. Also the driver behind the commercialization of technology.\n>Develop coherent platforms backed up with useful features on a variety of digital channels. Importance in these companies is rising due to the fact that users are demanding increasingly sophisticated products. A business intuitive and contribute cost-effective solutions with creative architectures.\n\n",
+      "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/entrepreneur.md"
     }
   },
   "status": {
@@ -3793,7 +3793,7 @@
     "sq--src-components-image-js": 492526033,
     "about-771": "881/path---about-771-2fe-RbRAVIuzRRtR6JrpGGYAT6N4oE",
     "showcase-d23": "182/path---showcase-d-23-738-PKhSOWidBMMYtdyqISG3tk1wKks",
-    "index": "529/path---index-6a9-u7sQ86fVZSSZzQWlFAR83CzfIwc",
+    "index": "323/path---index-6a9-DI7FhDDpDT9whIDKL7mcT8EcUOA",
     "tag-rob-ot-348": "361/path---tag-rob-ot-348-285-EyjKCo7by763e8Oabh1vBxp6LK0",
     "example-d5b": "664/path---example-d-5-b-455-OlVVhCuWHKL3oZCLRNbyNLojMmM",
     "dev-404-page-5f9": "386/path---dev-404-page-5-f-9-fab-0SUcWyAf8ecbYDsMhQkEfPzV8",
@@ -3831,7 +3831,7 @@
     "tag-hadoop-148": "422/path---tag-hadoop-148-0de-i4JAl92td2EhfgjqgcTp4AP5EI",
     "tag-artificialintelligence-71d": "77/path---tag-artificialintelligence-71-d-e44-fSssN7rc6gVgWBptMyEem9m9j4",
     "tag-heroku-547": "594/path---tag-heroku-547-58c-qaOvtjKRHADuddJlLGKHShgNwa0",
-    "entrepreneur-8f3": "27/path---entrepreneur-8-f-3-579-Ap8VDQYgmqcWeAwGtfKGZo61k"
+    "entrepreneur-8f3": "301/path---entrepreneur-8-f-3-579-f4lgKFVst0AOckF5YGSKu0bItpI"
   },
   "components": {
     "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/index.js": {
