@@ -121,6 +121,21 @@
     },
     {
         "componentChunkName": "component---src-templates-tags-js",
+        "jsonName": "tag-hire-freelance-web-developer-d3f",
+        "path": "/tag/hire-freelance-web-developer"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "jsonName": "tag-hire-full-stack-developer-ee5",
+        "path": "/tag/hire-full-stack-developer"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "jsonName": "tag-hire-nodejs-developer-d33",
+        "path": "/tag/hire-nodejs-developer"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
         "jsonName": "tag-nodejs-0ec",
         "path": "/tag/nodejs"
     },
