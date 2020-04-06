@@ -38,9 +38,9 @@ Find me [**GITHUB**](https://github.com/darshankumar89) [**Twitter**](https://tw
 - Vagrant
  ```
 
-Entrepreneur, Innovator, Growth hacker and Apache Atlas PMC, Apache Hadoop committer, AI enthusiasts,
-Being a Entrepreneur building innovative products with latest technologies like AI, Analytics and Machine learning to solve the real time problems.
-As a Apache PMC, I have contributed to open source repository.
+Entrepreneur, Innovator, Growth hacker and Apache Atlas PMC, Apache Hadoop committer, AI enthusiasts.
+Being a Entrepreneur building innovative products to solve the real time problems.
+As a Apache PMC, I have contributed to open source projects.
 
 **Open source contribution and COVID-19 Support** :
 - [**Coronaviruseurope**](http://coronaviruseurope.org/)
