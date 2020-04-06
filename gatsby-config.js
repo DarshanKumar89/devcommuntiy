@@ -8,9 +8,9 @@ const postCSSMixins = require('postcss-mixins');
 module.exports = {
 	siteMetadata: {
 		title: `Darshan Kumar`,
-		description: `full stack developer`,
+		description: `full stack engineer`,
 		copyrights: '2020',
-		author: `@panr`,
+		author: `@pdarshankumar`,
 		logo: {
 			src: '',
 			alt: ''
@@ -126,7 +126,7 @@ module.exports = {
 		{
 			resolve: 'gatsby-plugin-whatshelp',
 			options: {
-				facebook: 'darshankumar89', // Facebook page ID
+				facebook: 'https://www.facebook.com/darshankumar89', // Facebook page ID
 				whatsapp: '+32 465183127', // WhatsApp number
 				email: 'darshankumar38@gmail.com', // Email
 				call: '+32 465183127', // Call phone number

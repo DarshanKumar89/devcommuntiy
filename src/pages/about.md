@@ -101,5 +101,6 @@ As a Apache PMC, I have contributed to open source projects.
 - [**Bpost retail**](https://en.wikipedia.org/wiki/Bpost)
 
 **Contact Details**
- Slovakia : SBA, Twin City Offices B, Karadzicova 2, 811 09 Bratislava, Slovakia. Ph: +421 905 288 190
-  Belgium : Avenue de Tervueren, 1150 Woluwe-Saint-Pierre, Brussels. Ph: +32 465183127
+
+ > - Slovakia : SBA, Twin City Offices B, Karadzicova 2, 811 09 Bratislava, Slovakia. Ph: +421 905 288 190
+ > - Belgium : Avenue de Tervueren, 1150 Woluwe-Saint-Pierre, Brussels. Ph: +32 465183127
