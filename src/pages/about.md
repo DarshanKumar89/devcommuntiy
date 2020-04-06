@@ -48,7 +48,6 @@ As a Apache PMC, I have contributed to open source projects.
 - [**Apache Falcon**](https://falcon.apache.org/)
 
 **Comapnies I associated while working on projects** :
-
 - [**Belgian Post Group**](https://en.wikipedia.org/wiki/Bpost)
 - [**Hortonworks/Cloudera**](https://www.cloudera.com/)
 - [**TCS**](https://www.tcs.com)
@@ -87,8 +86,6 @@ As a Apache PMC, I have contributed to open source projects.
 - [**Conservation International**](https://www.conservation.org/)
 - [**Fondy**](https://fondy.eu)
 
-
-
 **Founder & CTO**
 - [**Mozayc Platform**](https://mozayc.net)
 - [**FrogFish**](https://Frogfish.io)
@@ -97,7 +94,6 @@ As a Apache PMC, I have contributed to open source projects.
 - [**MPR global Solutions**](http://mprhost.com)
 
 **Pride of being a part of product innovation team**
-
 - [**Paperboy**](https://www.paperboy.com/)
 - [**Sycamore**](https://www.sycamoreinformatics.com/)
 - [**Apache Atlas**](https://atlas.apache.org/)
@@ -105,4 +101,5 @@ As a Apache PMC, I have contributed to open source projects.
 - [**Bpost retail**](https://en.wikipedia.org/wiki/Bpost)
 
 **Contact Details**
-- Belgium : Avenue de Tervueren 266B, 1150 Woluwe-Saint-Pierre, Brussels. Ph: +32 465183127
+ Slovakia : SBA, Twin City Offices B, Karadzicova 2, 811 09 Bratislava, Slovakia. Ph: +421 905 288 190
+  Belgium : Avenue de Tervueren, 1150 Woluwe-Saint-Pierre, Brussels. Ph: +32 465183127
