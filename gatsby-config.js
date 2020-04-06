@@ -32,6 +32,10 @@ module.exports = {
 			{
 				title: 'entrepreneur',
 				path: '/entrepreneur'
+			},
+			{
+				title: 'coronavirus',
+				path: '/coronavirus'
 			}
 		]
 	},
