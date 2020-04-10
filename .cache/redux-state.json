@@ -1653,14 +1653,14 @@
         "owner": "internal-data-bridge"
       }
     },
-    "2026fd70-b8fa-504c-8403-d736e3da47b7": {
+    "f08fd136-a2c4-5094-8162-162bedc6e2d5": {
       "resolve": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby-plugin-whatshelp",
-      "id": "2026fd70-b8fa-504c-8403-d736e3da47b7",
+      "id": "f08fd136-a2c4-5094-8162-162bedc6e2d5",
       "name": "gatsby-plugin-whatshelp",
       "version": "1.0.0",
       "pluginOptions": {
         "plugins": [],
-        "facebook": "darshankumar89",
+        "facebook": "https://www.facebook.com/darshankumar89",
         "whatsapp": "+32 465183127",
         "email": "darshankumar38@gmail.com",
         "call": "+32 465183127",
@@ -1732,7 +1732,7 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "326176eae08dce231927f93e3dbc40db",
+        "contentDigest": "93767670192148dd7347bf2ba9e6b735",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -1916,7 +1916,7 @@
       "resolve": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io",
       "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "name": "default-site-plugin",
-      "version": "324bb8cddb7275c4c5931892acb6a3ab",
+      "version": "e0134617db7a616b48ebcc36f04f1bab",
       "pluginOptions": {
         "plugins": []
       },
@@ -2122,7 +2122,7 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "8406fd4404a78c66cf151087589f789e",
+        "contentDigest": "0fa14d000b424e52ca3e85d514064cad",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -2227,7 +2227,7 @@
         "title": "Darshan Kumar",
         "description": "full stack engineer",
         "copyrights": "2020",
-        "author": "@pdarshankumar",
+        "author": "@darshankumar",
         "logo": {
           "src": "",
           "alt": ""
@@ -2258,12 +2258,14 @@
       },
       "port": "8000",
       "host": "localhost",
-      "buildTime": "2020-04-06T15:22:13.992Z",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2020-04-10T19:10:35.747Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "9c889a612dce41e04f97a72cd86a34f6",
+        "contentDigest": "23ac31c42993076715a2198b0a99250f",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -2273,7 +2275,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "2d2dd4aae4fd45300e25a8a0fc856cdf",
+        "contentDigest": "117a7cfa3bdb47c6c414d2bc99c1f255",
         "type": "Directory",
         "description": "Directory \"src/images\"",
         "owner": "gatsby-source-filesystem"
@@ -2282,11 +2284,11 @@
       "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/images",
       "relativePath": "",
       "extension": "",
-      "size": 192,
-      "prettySize": "192 B",
-      "modifiedTime": "2020-03-18T14:54:21.819Z",
-      "accessTime": "2020-04-06T15:22:21.702Z",
-      "changeTime": "2020-03-18T14:54:21.819Z",
+      "size": 256,
+      "prettySize": "256 B",
+      "modifiedTime": "2020-04-06T21:19:39.388Z",
+      "accessTime": "2020-04-10T19:10:44.417Z",
+      "changeTime": "2020-04-06T21:19:39.388Z",
       "birthTime": "2020-03-10T12:15:13.352Z",
       "root": "/",
       "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src",
@@ -2294,22 +2296,22 @@
       "ext": "",
       "name": "images",
       "relativeDirectory": "..",
-      "dev": 16777221,
+      "dev": 16777222,
       "mode": 16877,
-      "nlink": 6,
+      "nlink": 8,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
       "ino": 23497142,
       "blocks": 0,
-      "atimeMs": 1586186541701.9111,
-      "mtimeMs": 1584543261818.6897,
-      "ctimeMs": 1584543261818.6897,
+      "atimeMs": 1586545844416.6252,
+      "mtimeMs": 1586207979387.929,
+      "ctimeMs": 1586207979387.929,
       "birthtimeMs": 1583842513352.2805,
-      "atime": "2020-04-06T15:22:21.702Z",
-      "mtime": "2020-03-18T14:54:21.819Z",
-      "ctime": "2020-03-18T14:54:21.819Z",
+      "atime": "2020-04-10T19:10:44.417Z",
+      "mtime": "2020-04-06T21:19:39.388Z",
+      "ctime": "2020-04-06T21:19:39.388Z",
       "birthtime": "2020-03-10T12:15:13.352Z"
     },
     "b9ff85b0-48b8-5c93-9d2a-6526ba08f73a": {
@@ -2369,34 +2371,34 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "3ae16bab-f3ea-578b-ae2b-ba8c8e7139aa": {
-      "id": "3ae16bab-f3ea-578b-ae2b-ba8c8e7139aa",
+    "319c6e85-0077-5894-a516-8027d26073e3": {
+      "id": "319c6e85-0077-5894-a516-8027d26073e3",
       "children": [
-        "c2639869-3fde-5bbc-9625-800dcd8939ed"
+        "02357e1f-71f5-5d1e-8c2e-fc4f88ec2f76"
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "d8f58db2bf33b02d816c03418e6d9cca",
+        "contentDigest": "0700110fa7816c4582ba0eb74f8cecbe",
         "type": "File",
-        "mediaType": "image/jpeg",
-        "description": "File \"src/images/apachecon.jpg\"",
+        "mediaType": "image/png",
+        "description": "File \"src/images/logo-coronavirus.png\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/images/apachecon.jpg",
-      "relativePath": "apachecon.jpg",
-      "extension": "jpg",
-      "size": 94527,
-      "prettySize": "94.5 kB",
-      "modifiedTime": "2020-03-18T14:53:11.384Z",
-      "accessTime": "2020-03-18T15:46:27.668Z",
-      "changeTime": "2020-03-18T14:53:41.097Z",
-      "birthTime": "2020-03-18T14:53:11.372Z",
+      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/images/logo-coronavirus.png",
+      "relativePath": "logo-coronavirus.png",
+      "extension": "png",
+      "size": 18012,
+      "prettySize": "18 kB",
+      "modifiedTime": "2020-04-06T21:09:13.125Z",
+      "accessTime": "2020-04-06T21:19:41.493Z",
+      "changeTime": "2020-04-06T21:19:39.393Z",
+      "birthTime": "2020-04-06T21:09:13.124Z",
       "root": "/",
       "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/images",
-      "base": "apachecon.jpg",
-      "ext": ".jpg",
-      "name": "apachecon",
+      "base": "logo-coronavirus.png",
+      "ext": ".png",
+      "name": "logo-coronavirus",
       "relativeDirectory": "",
       "dev": 16777222,
       "mode": 33188,
@@ -2405,16 +2407,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 23648092,
-      "blocks": 192,
-      "atimeMs": 1584546387667.5305,
-      "mtimeMs": 1584543191383.6418,
-      "ctimeMs": 1584543221097.4646,
-      "birthtimeMs": 1584543191371.8367,
-      "atime": "2020-03-18T15:46:27.668Z",
-      "mtime": "2020-03-18T14:53:11.384Z",
-      "ctime": "2020-03-18T14:53:41.097Z",
-      "birthtime": "2020-03-18T14:53:11.372Z"
+      "ino": 26218925,
+      "blocks": 40,
+      "atimeMs": 1586207981493.324,
+      "mtimeMs": 1586207353124.8242,
+      "ctimeMs": 1586207979393.4224,
+      "birthtimeMs": 1586207353124.4937,
+      "atime": "2020-04-06T21:19:41.493Z",
+      "mtime": "2020-04-06T21:09:13.125Z",
+      "ctime": "2020-04-06T21:19:39.393Z",
+      "birthtime": "2020-04-06T21:09:13.124Z"
     },
     "f11fc279-a310-57f8-816d-04975c1ee5ef": {
       "id": "f11fc279-a310-57f8-816d-04975c1ee5ef",
@@ -2463,12 +2465,12 @@
       "ctime": "2020-03-18T14:43:11.524Z",
       "birthtime": "2020-03-10T12:15:13.354Z"
     },
-    "c2639869-3fde-5bbc-9625-800dcd8939ed": {
-      "id": "c2639869-3fde-5bbc-9625-800dcd8939ed",
+    "02357e1f-71f5-5d1e-8c2e-fc4f88ec2f76": {
+      "id": "02357e1f-71f5-5d1e-8c2e-fc4f88ec2f76",
       "children": [],
-      "parent": "3ae16bab-f3ea-578b-ae2b-ba8c8e7139aa",
+      "parent": "319c6e85-0077-5894-a516-8027d26073e3",
       "internal": {
-        "contentDigest": "d8f58db2bf33b02d816c03418e6d9cca",
+        "contentDigest": "0700110fa7816c4582ba0eb74f8cecbe",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
@@ -2479,6 +2481,120 @@
       "parent": "f11fc279-a310-57f8-816d-04975c1ee5ef",
       "internal": {
         "contentDigest": "6871f6b27b75646eb567bc25cd7d7d24",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "3ae16bab-f3ea-578b-ae2b-ba8c8e7139aa": {
+      "id": "3ae16bab-f3ea-578b-ae2b-ba8c8e7139aa",
+      "children": [
+        "c2639869-3fde-5bbc-9625-800dcd8939ed"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "d8f58db2bf33b02d816c03418e6d9cca",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"src/images/apachecon.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/images/apachecon.jpg",
+      "relativePath": "apachecon.jpg",
+      "extension": "jpg",
+      "size": 94527,
+      "prettySize": "94.5 kB",
+      "modifiedTime": "2020-03-18T14:53:11.384Z",
+      "accessTime": "2020-03-18T15:46:27.668Z",
+      "changeTime": "2020-03-18T14:53:41.097Z",
+      "birthTime": "2020-03-18T14:53:11.372Z",
+      "root": "/",
+      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/images",
+      "base": "apachecon.jpg",
+      "ext": ".jpg",
+      "name": "apachecon",
+      "relativeDirectory": "",
+      "dev": 16777222,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 23648092,
+      "blocks": 192,
+      "atimeMs": 1584546387667.5305,
+      "mtimeMs": 1584543191383.6418,
+      "ctimeMs": 1584543221097.4646,
+      "birthtimeMs": 1584543191371.8367,
+      "atime": "2020-03-18T15:46:27.668Z",
+      "mtime": "2020-03-18T14:53:11.384Z",
+      "ctime": "2020-03-18T14:53:41.097Z",
+      "birthtime": "2020-03-18T14:53:11.372Z"
+    },
+    "c2639869-3fde-5bbc-9625-800dcd8939ed": {
+      "id": "c2639869-3fde-5bbc-9625-800dcd8939ed",
+      "children": [],
+      "parent": "3ae16bab-f3ea-578b-ae2b-ba8c8e7139aa",
+      "internal": {
+        "contentDigest": "d8f58db2bf33b02d816c03418e6d9cca",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "d6954693-1b1a-57ca-8054-c931c75c9eac": {
+      "id": "d6954693-1b1a-57ca-8054-c931c75c9eac",
+      "children": [
+        "3a1f6cdc-c46e-504e-9ea5-0f21c35ee757"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "7523562059ac81303624085dba1660c4",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/coronavirus.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/images/coronavirus.png",
+      "relativePath": "coronavirus.png",
+      "extension": "png",
+      "size": 380951,
+      "prettySize": "381 kB",
+      "modifiedTime": "2020-04-06T21:00:26.671Z",
+      "accessTime": "2020-04-06T21:15:31.011Z",
+      "changeTime": "2020-04-06T21:02:11.872Z",
+      "birthTime": "2020-04-06T21:00:26.329Z",
+      "root": "/",
+      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/images",
+      "base": "coronavirus.png",
+      "ext": ".png",
+      "name": "coronavirus",
+      "relativeDirectory": "",
+      "dev": 16777222,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 26214339,
+      "blocks": 752,
+      "atimeMs": 1586207731010.5286,
+      "mtimeMs": 1586206826671.262,
+      "ctimeMs": 1586206931872.117,
+      "birthtimeMs": 1586206826329.3245,
+      "atime": "2020-04-06T21:15:31.011Z",
+      "mtime": "2020-04-06T21:00:26.671Z",
+      "ctime": "2020-04-06T21:02:11.872Z",
+      "birthtime": "2020-04-06T21:00:26.329Z"
+    },
+    "3a1f6cdc-c46e-504e-9ea5-0f21c35ee757": {
+      "id": "3a1f6cdc-c46e-504e-9ea5-0f21c35ee757",
+      "children": [],
+      "parent": "d6954693-1b1a-57ca-8054-c931c75c9eac",
+      "internal": {
+        "contentDigest": "7523562059ac81303624085dba1660c4",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
@@ -2545,7 +2661,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "5bb0ba796701159c027d00e4783d2b2f",
+        "contentDigest": "d9978466ed4dd127bd96f80fe2d127e3",
         "type": "Directory",
         "description": "Directory \"src/posts\"",
         "owner": "gatsby-source-filesystem"
@@ -2554,11 +2670,11 @@
       "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts",
       "relativePath": "",
       "extension": "",
-      "size": 128,
-      "prettySize": "128 B",
-      "modifiedTime": "2020-03-24T14:43:58.800Z",
-      "accessTime": "2020-04-06T15:22:21.716Z",
-      "changeTime": "2020-03-24T14:43:58.800Z",
+      "size": 160,
+      "prettySize": "160 B",
+      "modifiedTime": "2020-04-06T20:54:10.702Z",
+      "accessTime": "2020-04-10T19:10:44.454Z",
+      "changeTime": "2020-04-06T20:54:10.702Z",
       "birthTime": "2020-03-10T12:15:13.358Z",
       "root": "/",
       "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src",
@@ -2566,22 +2682,116 @@
       "ext": "",
       "name": "posts",
       "relativeDirectory": "..",
-      "dev": 16777221,
+      "dev": 16777222,
       "mode": 16877,
-      "nlink": 4,
+      "nlink": 5,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
       "ino": 23497139,
       "blocks": 0,
-      "atimeMs": 1586186541716.406,
-      "mtimeMs": 1585061038799.532,
-      "ctimeMs": 1585061038799.532,
+      "atimeMs": 1586545844454.4226,
+      "mtimeMs": 1586206450701.755,
+      "ctimeMs": 1586206450701.755,
       "birthtimeMs": 1583842513357.7473,
-      "atime": "2020-04-06T15:22:21.716Z",
-      "mtime": "2020-03-24T14:43:58.800Z",
-      "ctime": "2020-03-24T14:43:58.800Z",
+      "atime": "2020-04-10T19:10:44.454Z",
+      "mtime": "2020-04-06T20:54:10.702Z",
+      "ctime": "2020-04-06T20:54:10.702Z",
+      "birthtime": "2020-03-10T12:15:13.358Z"
+    },
+    "e7fb0b44-cd7e-5d20-805f-881b898a9c47": {
+      "id": "e7fb0b44-cd7e-5d20-805f-881b898a9c47",
+      "children": [
+        "431b498c-b754-5b55-bda3-5e82eabffb6b"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "28227599a829b61c2bac1260acf25b54",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/posts/coronavirus.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/coronavirus.md",
+      "relativePath": "coronavirus.md",
+      "extension": "md",
+      "size": 874,
+      "prettySize": "874 B",
+      "modifiedTime": "2020-04-06T21:13:01.618Z",
+      "accessTime": "2020-04-10T19:08:51.364Z",
+      "changeTime": "2020-04-06T21:13:01.618Z",
+      "birthTime": "2020-04-06T20:54:10.702Z",
+      "root": "/",
+      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts",
+      "base": "coronavirus.md",
+      "ext": ".md",
+      "name": "coronavirus",
+      "relativeDirectory": "",
+      "dev": 16777222,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 26213176,
+      "blocks": 8,
+      "atimeMs": 1586545731363.502,
+      "mtimeMs": 1586207581618.1545,
+      "ctimeMs": 1586207581618.1545,
+      "birthtimeMs": 1586206450701.7188,
+      "atime": "2020-04-10T19:08:51.364Z",
+      "mtime": "2020-04-06T21:13:01.618Z",
+      "ctime": "2020-04-06T21:13:01.618Z",
+      "birthtime": "2020-04-06T20:54:10.702Z"
+    },
+    "ed1e2b1c-c18c-5eba-b2b0-90feb230d5fa": {
+      "id": "ed1e2b1c-c18c-5eba-b2b0-90feb230d5fa",
+      "children": [
+        "44870062-0054-51e7-999a-34a23233d5a1"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "fed12501532127fb211460b282b35392",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/posts/entrepreneur.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/entrepreneur.md",
+      "relativePath": "entrepreneur.md",
+      "extension": "md",
+      "size": 1465,
+      "prettySize": "1.47 kB",
+      "modifiedTime": "2020-03-24T15:05:30.114Z",
+      "accessTime": "2020-04-10T19:08:51.364Z",
+      "changeTime": "2020-03-24T15:05:30.114Z",
+      "birthTime": "2020-03-10T12:15:13.358Z",
+      "root": "/",
+      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts",
+      "base": "entrepreneur.md",
+      "ext": ".md",
+      "name": "entrepreneur",
+      "relativeDirectory": "",
+      "dev": 16777222,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 23497140,
+      "blocks": 8,
+      "atimeMs": 1586545731363.505,
+      "mtimeMs": 1585062330113.579,
+      "ctimeMs": 1585062330113.579,
+      "birthtimeMs": 1583842513357.8389,
+      "atime": "2020-04-10T19:08:51.364Z",
+      "mtime": "2020-03-24T15:05:30.114Z",
+      "ctime": "2020-03-24T15:05:30.114Z",
       "birthtime": "2020-03-10T12:15:13.358Z"
     },
     "677d53b6-10a0-5256-877c-13757aa4001f": {
@@ -2604,7 +2814,7 @@
       "size": 1030,
       "prettySize": "1.03 kB",
       "modifiedTime": "2020-03-26T12:04:08.774Z",
-      "accessTime": "2020-03-26T21:15:13.403Z",
+      "accessTime": "2020-04-10T19:08:51.364Z",
       "changeTime": "2020-03-26T12:04:08.774Z",
       "birthTime": "2020-03-10T12:15:13.358Z",
       "root": "/",
@@ -2622,61 +2832,57 @@
       "blksize": 4096,
       "ino": 23497141,
       "blocks": 8,
-      "atimeMs": 1585257313402.8062,
+      "atimeMs": 1586545731363.5078,
       "mtimeMs": 1585224248773.9724,
       "ctimeMs": 1585224248773.9724,
       "birthtimeMs": 1583842513358.0396,
-      "atime": "2020-03-26T21:15:13.403Z",
+      "atime": "2020-04-10T19:08:51.364Z",
       "mtime": "2020-03-26T12:04:08.774Z",
       "ctime": "2020-03-26T12:04:08.774Z",
       "birthtime": "2020-03-10T12:15:13.358Z"
     },
-    "ed1e2b1c-c18c-5eba-b2b0-90feb230d5fa": {
-      "id": "ed1e2b1c-c18c-5eba-b2b0-90feb230d5fa",
-      "children": [
-        "44870062-0054-51e7-999a-34a23233d5a1"
-      ],
-      "parent": null,
+    "431b498c-b754-5b55-bda3-5e82eabffb6b": {
+      "id": "431b498c-b754-5b55-bda3-5e82eabffb6b",
+      "children": [],
+      "parent": "e7fb0b44-cd7e-5d20-805f-881b898a9c47",
       "internal": {
-        "contentDigest": "fed12501532127fb211460b282b35392",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/posts/entrepreneur.md\"",
-        "owner": "gatsby-source-filesystem"
+        "content": "\nCoronavirus Symptoms (COVID-19)\nReported illnesses have ranged from people with mild symptoms to people being severely ill and dying.\n\n```\nSymptoms can include:\n- Fever\n- Cough\n- Shortness of breath\n```\n\n###Useful links\n- [**europe spread in map**](http://coronaviruseurope.org/)\n- [**coronavirus symptoms**](https://www.worldometers.info/coronavirus/coronavirus-symptoms/)\n- [**coronavirus incubation period**](https://www.worldometers.info/coronavirus/coronavirus-incubation-period/)\n- [**india spread in map**](https://www.covid19india.org/)\n\n###Contributions\n[**GITHUB**](https://github.com/Mozaycs/coronaviruseurope.org)",
+        "type": "MarkdownRemark",
+        "contentDigest": "58dd655a87b06d44716a860d3cce7926",
+        "owner": "gatsby-transformer-remark"
       },
-      "sourceInstanceName": "posts",
-      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/entrepreneur.md",
-      "relativePath": "entrepreneur.md",
-      "extension": "md",
-      "size": 1465,
-      "prettySize": "1.47 kB",
-      "modifiedTime": "2020-03-24T15:05:30.114Z",
-      "accessTime": "2020-03-24T15:05:47.506Z",
-      "changeTime": "2020-03-24T15:05:30.114Z",
-      "birthTime": "2020-03-10T12:15:13.358Z",
-      "root": "/",
-      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts",
-      "base": "entrepreneur.md",
-      "ext": ".md",
-      "name": "entrepreneur",
-      "relativeDirectory": "",
-      "dev": 16777222,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 23497140,
-      "blocks": 8,
-      "atimeMs": 1585062347505.7544,
-      "mtimeMs": 1585062330113.579,
-      "ctimeMs": 1585062330113.579,
-      "birthtimeMs": 1583842513357.8389,
-      "atime": "2020-03-24T15:05:47.506Z",
-      "mtime": "2020-03-24T15:05:30.114Z",
-      "ctime": "2020-03-24T15:05:30.114Z",
-      "birthtime": "2020-03-10T12:15:13.358Z"
+      "frontmatter": {
+        "title": "Coronavirus updates",
+        "date": "2020-04-06",
+        "path": "/coronavirus",
+        "author": "Darshan Kumar",
+        "excerpt": "As a support to COVID-19 and helping the community with updates of https://coronaviruseurope.org ",
+        "coverImage": "../images/coronavirus.png"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nCoronavirus Symptoms (COVID-19)\nReported illnesses have ranged from people with mild symptoms to people being severely ill and dying.\n\n```\nSymptoms can include:\n- Fever\n- Cough\n- Shortness of breath\n```\n\n###Useful links\n- [**europe spread in map**](http://coronaviruseurope.org/)\n- [**coronavirus symptoms**](https://www.worldometers.info/coronavirus/coronavirus-symptoms/)\n- [**coronavirus incubation period**](https://www.worldometers.info/coronavirus/coronavirus-incubation-period/)\n- [**india spread in map**](https://www.covid19india.org/)\n\n###Contributions\n[**GITHUB**](https://github.com/Mozaycs/coronaviruseurope.org)",
+      "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/coronavirus.md"
+    },
+    "44870062-0054-51e7-999a-34a23233d5a1": {
+      "id": "44870062-0054-51e7-999a-34a23233d5a1",
+      "children": [],
+      "parent": "ed1e2b1c-c18c-5eba-b2b0-90feb230d5fa",
+      "internal": {
+        "content": "\n\n###Executive / Entrepreneurship Experience :\n\n •\tTechnical Product Development\n\n •\tLeadership and Team building \n\n •\tClient outreach \n\n •\tProduct development \n\n •\tResearch and development \n\n •\tCustomer engagement \n\n •\tICT and Business relation for product development \n\n •\tStartup mentor \n\n •\tMVP builder \n\n •\tLifecycle management \n\n •\tTechnical architecture \n\n •\tIt service management and delivery \n\n •\tAgile methodologies \n\n •\tStake holder management \n\n •\tRisk management \n\n •\tSoftware development lifecycle \n\n>As a passionate Co-founder & CTO role in Mozayc, FrogFish, DelRio consulting is to create and innovate product development. Being a technology pioneer responsible for ensuring a company is making great products for their customers. Also the driver behind the commercialization of technology.\n>Develop coherent platforms backed up with useful features on a variety of digital channels. Importance in these companies is rising due to the fact that users are demanding increasingly sophisticated products. A business intuitive and contribute cost-effective solutions with creative architectures.\n\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "0d4189d53e624941a47fe0faecf8582b",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Passion of programming with Entrepreneurship mindset",
+        "date": "2020-03-24",
+        "path": "/entrepreneur",
+        "author": "Darshan Kumar",
+        "excerpt": "As a passionate engineer and Being a technology enthusiast i love to work on contract basis as solution designer/Full stack developer/UI Lead/Lead Backend engineer/Devops engineer"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n\n###Executive / Entrepreneurship Experience :\n\n •\tTechnical Product Development\n\n •\tLeadership and Team building \n\n •\tClient outreach \n\n •\tProduct development \n\n •\tResearch and development \n\n •\tCustomer engagement \n\n •\tICT and Business relation for product development \n\n •\tStartup mentor \n\n •\tMVP builder \n\n •\tLifecycle management \n\n •\tTechnical architecture \n\n •\tIt service management and delivery \n\n •\tAgile methodologies \n\n •\tStake holder management \n\n •\tRisk management \n\n •\tSoftware development lifecycle \n\n>As a passionate Co-founder & CTO role in Mozayc, FrogFish, DelRio consulting is to create and innovate product development. Being a technology pioneer responsible for ensuring a company is making great products for their customers. Also the driver behind the commercialization of technology.\n>Develop coherent platforms backed up with useful features on a variety of digital channels. Importance in these companies is rising due to the fact that users are demanding increasingly sophisticated products. A business intuitive and contribute cost-effective solutions with creative architectures.\n\n",
+      "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/entrepreneur.md"
     },
     "8864d128-c7cb-575d-98f5-a01b99790431": {
       "id": "8864d128-c7cb-575d-98f5-a01b99790431",
@@ -2725,33 +2931,12 @@
       "rawMarkdownBody": "\n> \"Hello, friend?\" I'm Darshan living in Belgium. Gald to meet you...\\\n> I am interested in Freelance/Contract basis, startup mentor + collaboration.\\\n> Love to do solution design along with DevOps and full stack development.\\\n> We have to remember that...\\\n> Oh Yeah!!.\\\n> It's actually happened.\\\n> I'm talking to you now :).\n>\n> **— Mr. Dan  S01E01**\n",
       "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/hello.md"
     },
-    "44870062-0054-51e7-999a-34a23233d5a1": {
-      "id": "44870062-0054-51e7-999a-34a23233d5a1",
-      "children": [],
-      "parent": "ed1e2b1c-c18c-5eba-b2b0-90feb230d5fa",
-      "internal": {
-        "content": "\n\n###Executive / Entrepreneurship Experience :\n\n •\tTechnical Product Development\n\n •\tLeadership and Team building \n\n •\tClient outreach \n\n •\tProduct development \n\n •\tResearch and development \n\n •\tCustomer engagement \n\n •\tICT and Business relation for product development \n\n •\tStartup mentor \n\n •\tMVP builder \n\n •\tLifecycle management \n\n •\tTechnical architecture \n\n •\tIt service management and delivery \n\n •\tAgile methodologies \n\n •\tStake holder management \n\n •\tRisk management \n\n •\tSoftware development lifecycle \n\n>As a passionate Co-founder & CTO role in Mozayc, FrogFish, DelRio consulting is to create and innovate product development. Being a technology pioneer responsible for ensuring a company is making great products for their customers. Also the driver behind the commercialization of technology.\n>Develop coherent platforms backed up with useful features on a variety of digital channels. Importance in these companies is rising due to the fact that users are demanding increasingly sophisticated products. A business intuitive and contribute cost-effective solutions with creative architectures.\n\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "0d4189d53e624941a47fe0faecf8582b",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "Passion of programming with Entrepreneurship mindset",
-        "date": "2020-03-24",
-        "path": "/entrepreneur",
-        "author": "Darshan Kumar",
-        "excerpt": "As a passionate engineer and Being a technology enthusiast i love to work on contract basis as solution designer/Full stack developer/UI Lead/Lead Backend engineer/Devops engineer"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\n\n###Executive / Entrepreneurship Experience :\n\n •\tTechnical Product Development\n\n •\tLeadership and Team building \n\n •\tClient outreach \n\n •\tProduct development \n\n •\tResearch and development \n\n •\tCustomer engagement \n\n •\tICT and Business relation for product development \n\n •\tStartup mentor \n\n •\tMVP builder \n\n •\tLifecycle management \n\n •\tTechnical architecture \n\n •\tIt service management and delivery \n\n •\tAgile methodologies \n\n •\tStake holder management \n\n •\tRisk management \n\n •\tSoftware development lifecycle \n\n>As a passionate Co-founder & CTO role in Mozayc, FrogFish, DelRio consulting is to create and innovate product development. Being a technology pioneer responsible for ensuring a company is making great products for their customers. Also the driver behind the commercialization of technology.\n>Develop coherent platforms backed up with useful features on a variety of digital channels. Importance in these companies is rising due to the fact that users are demanding increasingly sophisticated products. A business intuitive and contribute cost-effective solutions with creative architectures.\n\n",
-      "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/entrepreneur.md"
-    },
     "03add71b-a87d-57a2-a85a-0d062e494d24": {
       "id": "03add71b-a87d-57a2-a85a-0d062e494d24",
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "59cb0fe1caf1422b5db44093e471573f",
+        "contentDigest": "a8c683dc0186cec160e2880dee689835",
         "type": "Directory",
         "description": "Directory \"src/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -2763,7 +2948,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2020-03-10T12:15:13.358Z",
-      "accessTime": "2020-04-06T15:22:21.721Z",
+      "accessTime": "2020-04-10T19:10:44.512Z",
       "changeTime": "2020-03-18T14:43:11.536Z",
       "birthTime": "2020-03-10T12:15:13.357Z",
       "root": "/",
@@ -2772,7 +2957,7 @@
       "ext": "",
       "name": "pages",
       "relativeDirectory": "..",
-      "dev": 16777221,
+      "dev": 16777222,
       "mode": 16877,
       "nlink": 5,
       "uid": 501,
@@ -2781,13 +2966,60 @@
       "blksize": 4096,
       "ino": 23497169,
       "blocks": 0,
-      "atimeMs": 1586186541720.607,
+      "atimeMs": 1586545844511.8938,
       "mtimeMs": 1583842513357.5461,
       "ctimeMs": 1584542591535.5718,
       "birthtimeMs": 1583842513356.7083,
-      "atime": "2020-04-06T15:22:21.721Z",
+      "atime": "2020-04-10T19:10:44.512Z",
       "mtime": "2020-03-10T12:15:13.358Z",
       "ctime": "2020-03-18T14:43:11.536Z",
+      "birthtime": "2020-03-10T12:15:13.357Z"
+    },
+    "fb3fc354-1d0c-55fe-84d5-98b57d118ed8": {
+      "id": "fb3fc354-1d0c-55fe-84d5-98b57d118ed8",
+      "children": [
+        "66b77a2e-a497-5fbb-91b5-82c6b7d7454b"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "0cbce41e925c483e11935a9eb2c5b661",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/about.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/about.md",
+      "relativePath": "about.md",
+      "extension": "md",
+      "size": 4955,
+      "prettySize": "4.96 kB",
+      "modifiedTime": "2020-04-10T19:16:33.293Z",
+      "accessTime": "2020-04-10T19:16:33.490Z",
+      "changeTime": "2020-04-10T19:16:33.293Z",
+      "birthTime": "2020-03-10T12:15:13.357Z",
+      "root": "/",
+      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages",
+      "base": "about.md",
+      "ext": ".md",
+      "name": "about",
+      "relativeDirectory": "",
+      "dev": 16777222,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 23497172,
+      "blocks": 16,
+      "atimeMs": 1586546193489.6245,
+      "mtimeMs": 1586546193292.8655,
+      "ctimeMs": 1586546193292.8655,
+      "birthtimeMs": 1583842513357.155,
+      "atime": "2020-04-10T19:16:33.490Z",
+      "mtime": "2020-04-10T19:16:33.293Z",
+      "ctime": "2020-04-10T19:16:33.293Z",
       "birthtime": "2020-03-10T12:15:13.357Z"
     },
     "50894b6d-17c8-5508-8578-534b48b3d696": {
@@ -2835,53 +3067,6 @@
       "ctime": "2020-03-18T14:43:11.534Z",
       "birthtime": "2020-03-10T12:15:13.357Z"
     },
-    "fb3fc354-1d0c-55fe-84d5-98b57d118ed8": {
-      "id": "fb3fc354-1d0c-55fe-84d5-98b57d118ed8",
-      "children": [
-        "66b77a2e-a497-5fbb-91b5-82c6b7d7454b"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "c020a20dba727f1b9b4ed2e719d16d2d",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/pages/about.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/about.md",
-      "relativePath": "about.md",
-      "extension": "md",
-      "size": 4574,
-      "prettySize": "4.57 kB",
-      "modifiedTime": "2020-04-06T20:38:20.405Z",
-      "accessTime": "2020-04-06T20:38:20.466Z",
-      "changeTime": "2020-04-06T20:38:20.405Z",
-      "birthTime": "2020-03-10T12:15:13.357Z",
-      "root": "/",
-      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages",
-      "base": "about.md",
-      "ext": ".md",
-      "name": "about",
-      "relativeDirectory": "",
-      "dev": 16777221,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 23497172,
-      "blocks": 16,
-      "atimeMs": 1586205500466.1003,
-      "mtimeMs": 1586205500404.8928,
-      "ctimeMs": 1586205500404.8928,
-      "birthtimeMs": 1583842513357.155,
-      "atime": "2020-04-06T20:38:20.466Z",
-      "mtime": "2020-04-06T20:38:20.405Z",
-      "ctime": "2020-04-06T20:38:20.405Z",
-      "birthtime": "2020-03-10T12:15:13.357Z"
-    },
     "2a841927-8eee-5ab1-8e09-90df6a1a4cc6": {
       "id": "2a841927-8eee-5ab1-8e09-90df6a1a4cc6",
       "children": [
@@ -2902,7 +3087,7 @@
       "size": 15949,
       "prettySize": "15.9 kB",
       "modifiedTime": "2020-03-24T14:11:42.650Z",
-      "accessTime": "2020-03-24T14:43:03.140Z",
+      "accessTime": "2020-04-10T19:08:51.363Z",
       "changeTime": "2020-03-24T14:11:42.650Z",
       "birthTime": "2020-03-10T12:15:13.358Z",
       "root": "/",
@@ -2920,11 +3105,11 @@
       "blksize": 4096,
       "ino": 23497170,
       "blocks": 32,
-      "atimeMs": 1585060983139.7524,
+      "atimeMs": 1586545731363.4956,
       "mtimeMs": 1585059102649.7844,
       "ctimeMs": 1585059102649.7844,
       "birthtimeMs": 1583842513357.5403,
-      "atime": "2020-03-24T14:43:03.140Z",
+      "atime": "2020-04-10T19:08:51.363Z",
       "mtime": "2020-03-24T14:11:42.650Z",
       "ctime": "2020-03-24T14:11:42.650Z",
       "birthtime": "2020-03-10T12:15:13.358Z"
@@ -2948,116 +3133,6 @@
       "excerpt": "",
       "rawMarkdownBody": "\n## Achievement : \n- Apache Big Data committer since 2015 contributing to projects like atlas, falcon, Kona. \n- Startup mentor for technology companies like TRIPA, Gify studio, pavilion foods D&F various startups globally.\n- Member of Slovak Business Agency helping startups to grow and build MVP for startups.\n- Successfully build MVP for Belgium Post for the automation of post office with retail team.\n- Part of ReactEurope and Apache conference in Europe.\n\n## Professional Experience \n\n1. ####Client:  TCS(end client : Bpost)  (April 2019 -December 2019)\n    ####Project : NERO\n    ####Role: Solution Designer | Technical Architect \n   \n  >  Working the product of Client for handling the couriers, parcel and letters in the post office in an automated as a part of cloud solution. It is more of focusing on Nodejs and AWS cloud services. There major components that technically handle the automation for managing the customers who send/receive letters, parcel and make some financial transactions. \n\n    Responsibilities:\n      •\tManaging the Sprints - agile Scrum and planning story and work with product owners \n      •\tTechnical specification and planning architecture of Backend and frontend\n      •\tDB schema and cloud solution architecture and its implementations and building micro service \t\t\tarchitecture .\n      I manage the AWS cloud formation,S3,ECS, EC2, Cluster , ECR, Lamda, Cloudwatch and            many more AWS components                       \n      \n    Environment:\n      •\tAngularjs, Webpack, NodeJS, AWS,  Mirco service architecture\n\n2. ####Client:  Shem (Jan 2018 -December 2018)\n    ###Role: Solution Designer\n   > Shem is an e-commerce based shop selling authentic designer jewellery. For now selling online, managing the B2c and B2b market with managing the orders, inventory, stocks, logistics and payment gateway integration and also crept wallets with admin panel and consumer UI with components of vue.js for re-using those managing components and stitched to build the UI structure and integrating API for those vue js components. \n\n\n    Responsibilities:\n      •\tManaging the Sprints - agile Scrum and planning story and work with product owners \n      •\tTechnical specification and planning architecture of Backend and frontend\n      •\tDB schema and cloud solution architecture and its implementations and building micro service \t\t\tarchitecture .\n      •\tmongo DB transactions\n      \n    Environment:\n      •\tReactJS, Webpack, NodeJS, AWS, mongoDB, Mirco service architecture\n\n3. ####Client:Delicious and Fresh (Jan 2017 -December 2018)\n    #####Role: Technical Architect\n    >D&F is an e-commerce solution like a food delivery application from different restaurants. selling online and also at big market place where you can buy in stores and also managing the B2c and B2b market. The Application manages orders, inventory, stocks, logistics with dispatcher management and managing the delivery of hot food at right time in and around UAE / middle east. Also cryptocurrency wallets with admin panel. Consumer UI with components of ReactJS for re-using those managing components and stitched to build the UI structure.\n\n\n    Responsibilities:\n      •\tBuilding and motivating team to build the product and guide them to solve complexities in the project implementation \n      •\tAgile Scrum manager / Technical lead to delegate task and help in development stages \n      •\tDB schema and cloud solution architecture and its implementations and building micro service architecture .\n\t\n    Environment:\n      •\tReactJS, Webpack, NodeJS, AWS, mongoDB, postgres, apache hadoop, Micro service architecture\n\n\n4. ####Client: 01 people (December 2018 -March 2019)\n      #####Role: Blockchain Consultant \n\n      >01Younited is betting platform using crypto currency is build etherium and using a trading platform.We YOUnite all players within the truly fair, decentralised betting and gaming platform. Our unique Solution based on native blockchain technology is completely changing the betting and gaming industry. YOUnited players always bet and play against each other with no house or any third-party interaction. This means that 100% prize pool is distributed to the winner(s). Our ultimate solution provides 100% return to player (RTP), zero house edge, and no house fees.\n\n      Responsibilities :\n        •\tUsing ReactJS to build the front end and API integration\n        •\tBackend is building using Node\n        •\tPostrges SQL DB transactions\n        \n      Environment:\n        •\tBootstrap, ReactJS, Webpack, Postgres, NodeJS, AWS, GCP\n\n5. ####Client:  Jingle Chat Bots (Feb 2018 -December 2018)\n    #####Role: UI Lead\n\n    >Jingle Bot based chatting system for users to look for local shopping and restaurants. The project is  about asking bot for searching some product or nearby shops user is looking for. Bot internally analyses the chats and does pattern matching on details and used google AI based systems and some google analytics, to analyse the chat messages and making the bot more intelligent.\n\n\n    Responsibilities:\n      •\tBuilding and motivating team to build the product and guide them to solve complexities  \t      \n      •\tAgile Scrum manager / Technical lead to delegate task and help in development stages \n      •\tDB schema and cloud solution architecture and its implementations and building micro service \t\t\tarchitecture. Also solve if any hurdles in the project implementation with the team.\n      \n    Environment:\n      •\tBootstrap, React-JS, Webpack, Postgres, Java-SPRING, NodeJS, AWS, GCP , Micro service architecture\n\n\n\n6. ####Client: Sycamore - MDR, SSD  (April 2017 -June 2018)\n    #####Role:Senior UI Developer\n\n    >The project is about health care solution, it has features to maintain data for drugs manufacture like phases of drug compositions, from clinical research , site analysis for drug validations, so the complete software handles verification and validation of drug which is required for FDA drug approvals.\n\n\n    Responsibilities:\n      •\tUsing React JS to build the front end and API integration\n      •\tBackend is building using ROR\n      •\tBlockchain technology for health care domain\n      •\tAPI based connecting to banking structure \n\n    Environment:\n      •\tBootstrap, React-JS, Webpack, Postgres, Ruby, Micro service architecture\n\n\n7. ####Client: Hashtaag (April 2016 -April 2018)\n    #####Project : Krazy meals \n    #####Role: Technical Architect\n\n    >The project is about a e-commerce solution, it has features like add to cart, product description, product management, product ordering and tracking of product shipping and integrated payment gateway for checkout process and the admin panel to manage vendors and also product uploading.\n\n    Responsibilities:\n      •\tUsing React - Redux JS to build the front end and API integration\n      •\tBackend is building using NodeJS and MongoDB\n      •\tPayment Gateway integration like paypal, payumoney, payatm, direct-payEU, g2pay\n      •\tBlock chain technology for payment gateways through bitcoins \n\n    Environment:\n      •\tBootstrap, ReactJS, Webpack, NodeJS, Mongo DB\n\n\n8. ####Client: Hashtaag (April 2016 -April 2018)\n    #####Project : PaperBoy\n    #####Role: Full Stack Developer\n\n    >The project is about managing the news papers online and upon location and language we can select paper, there is an option to select papers and provide subscription of papers.The payment gateway is integrated for subscribing and also subscribed users can view the papers.The project is a developing as per iteration of product design changes of the developing concepts of consumer experience.\n\n\n    Responsibilities:\n      •\tAngularJS for rendering API\n      •\tUI designs using React-Bootstrap\n      •\tPayment gateway integration \n\n    Environment:\n      •\tBootstrap, AngularJS, JS, Gulp, NodeJS, Mongo DB, Java\n\n\n\n9. ###Client: Hashtaag (April 2016 -April 2018)\n    #####Client: Doors\n    #####Role: Full Stack Developer\n\n    >The project is about aggregating all the real estate builder details and it has admin panel to manage properties of different levels like broker, owners and property builder and its similar to common floor but its high level aggregator and compete management of properties available, floor plan and complete details.\n\n\n    Responsibilities:\n      •\tAngularJS for rendering API\n      •\tUI designs using React-Bootstrap\n\n    Environment:\n      •\tBootstrap, AngularJS, JS, Gulp\n\n10. ####Client: HortonWorks / Hadoop data platform / Cloudera (Nov 2014 - April 2016)\n    #####Project: Apache Falcon (Big data layer)\n    #####Role: Full Stack Developer\n\n    >Falcon is a data processing and management solution for Hadoop designed for data motion, coordination of data pipelines, lifecycle management, and data discovery. Falcon enables end consumers to quickly onboard their data and its associated processing and management tasks on Hadoop clusters.\n\n    Responsibilities:\n      •\tAngularJS for rendering API\n      •\tD3JS for lineage graph\n      •\tHandling API in Java\n      •\tAngularJS and D3JS developer.\n      •\tGruntJS, NodeJS used for developing schema \n      •\tJava spring framework for building API \n\n    Environment:\n      •\tBootstrap, AngularJS, D3JS, Java spring framework and GruntJS\n\n11. ####Client: HortonWorks / Hadoop data platform / Cloudera (Nov 2014 - April 2016)\n    #####Project: Apache Atlas (Big Data Layer)\n    #####Role: Developer\n\n    >The project is about data governance initiative, DGI will develop an extensible foundation that addresses enterprise requirements for comprehensive data governance. Enterprises adopting modern data architecture must address certain realities when legacy and new data from disparate platforms are brought under management. It will also feature deep integration with Apache Falcon. It focuses on building user interface for the DGI metadata with the visualisation of the data.\n\n    Responsibilities:\n      •\tAngularJS for rendering API\n      •\tD3JS for lineage graph\n      •\tHandling API in Java\n      •\tWorking on metadata for managing API\n      •\tAngularJS and D3JS developer\n\n    Environment:\n      •\tBootstrap, AngularJS, D3JS, Java spring framework and GruntJS, Java\n\n12. ####Client: MPR Global Solutions (Nov 2014 - Jan 2014)\n    #####Project : S4S \n    #####Role: Developer\n\n   > The project is about providing services and its basically startup for services like accounting services,management services,consulting and financial services. Its a app which all users in US based on location you can look for service and each service will have multiple vendors or service providers and on their review and quality of service provided user can choose service .Application provides a platform for all the service of different category and help user to look for service on their requirement. \n\n    Responsibilities:\n      •\tAngularJS for rendering API\n      •\tHandling API using Parse.\n      •\tUsed firebase to store \n      •\tAngular UI Bootstrap for the responsive UI  .\n      •\tAPI based connecting to wallets \n\n    Environment:\n      •\tBootstrap, AngularJS, GruntJS, Firbase\n\n13. ###Client: MPR Global Solutions (Nov 2014 - Jan 2014)\n    #####Project: SeatHero \n    #####Role: Developer\n\n    >The project is about i an exclusive club that provides movie lovers with deep discount seats on last-minute unsold movie tickets. Membership module give the user three month of validity to choose movies.\n\n    Responsibilities:\n      •\tDeveloped using Laravel 5\n      •\tAngular UI Bootstrap for the responsive UI\n\n    Environment:\n      •\tBootstrap, Laravel PHP, MySQL\n\n14. ###Client: Isolcell Italia(Aug 2014 - Jan 2015)\n    #####Project: Isolcell Italia\n    #####Role: Developer\n\n    >The Isolcell project is about controlling the temperature of the rooms. The rooms are equipped with thermometers, the room contains fruits that have to be in a controlled temperature and the web based application used to control the room and handle the cooling and ventilation of the room. The alarms used to alert by measuring the high and low temperature threshold.\n\n    Responsibilities:\n      •\tDeveloped the room diagram using Canvas.JS API\n      •\tImplemented REST API using JavaScript to communicate with the can bus\n      •\tImplemented the JSON playload for loading the data from the device\n      •\tThe room diagram is generic and able to control from GUI and is made as library\n    Environment:\n      •\tBootstrap, Embedded C, JavaScript, REST API, Canvas.JS, JQuery\n\n\n15. ###Client: Cralina\n    #####Role: Developer\n\n    >The Cralina website is build using CMS system using Wordpress framework. The website is about the services and training provided by Cralina. The website is made mobile responsive.\n\n    Responsibilities:\n      •\tFront end developer\n\n    Environment:\n      •\tBootstrap 3.0, Wordpress, Canvas.JS, JQuery\n\n\n16. ###Client: Sourceasy (July 2014 - Oct 2014)\n    #####Role: Developer\n\n    >The Sourceasy is software product that builds an interface between the vendors and clothing manufacturers or clients. This is a web application which maintains the details of customers and handles the trading of clothes and maintains the information of bulk order of clothes with the communication of orders according to vendors.\n\n    Responsibilities:\n      •\tDeveloped the Worker Server using Iron.IO\n      •\tImplemented Pusher API for chat application\n      •\tDeveloped UI using AngularJS\n      •\tDeveloped scheme manager using REST API in Laravel\n      •\tDeveloped the AngularJS REST API client to communicate with API server\n      •\tDeveloped API using Laravel for the for worker server and CRUD operations\n      •\tDeveloped Static website using AngularJS\n      •\tDeveloped Checklist APP\n      •\tImplemented Codeception for API testing\n      •\tImplemented Guzzle implementation for API performance\n\n    Environment:\n      •\tLaravel 4.0, PHP, AngularJS, LAMP, Amazon EC2, Bootstrap 3.0\n\n17. ####Client : Larsen & Turbo technology services (Jan 2014 - Sep 2014)\n    #####Project: Remote control and access of devices\n    #####Role: Developer\n\n    >The remote control and access of devices is operated through cloud services. Mobile application consumes the WCF service, which is hosted on Amazon Cloud. The WCF service will receive data from the device and the EPC Mod parser will parse command and send to the WCF service. The data from device is also updated in RDS database for generating health report or track the previous history of the device.\n\n    Responsibilities:\n      •\tDeveloped asynchronous TCP socket server\n      •\tImplemented WCF REST API for the services\n      •\tDeployed services on cloud\n      •\tWorked on AMAZON EC2 and RDS instance\n      •\tImplemented MSMQ for fetching data\n      •\tDeveloped push notification for Android and iOS\n      •\tFramed the architecture by using Signal-R open source technology\n      •\tFramed WCF services\n\n    Environment:\n      •\tNET 4.0, SQL Server, Amazon Cloud Service\n\n\n18. ####Client: AMCEC College Management (Oct 2013 - Dec 2013)\n    #####Role: Developer\n\n    >The administration & accounting system aims in managing the accounts and also manages the examination sections. My key role in this project is designing and development using PHP and having MySQL as the database. Accounts module involves in managing the admission and fee structure, once the fee is paid, a copy of receipt is sent via E-mail to the student.\n\n    Responsibilities:\n      •\tDesigned the accounts, student information and examination modules\n      •\tDesigned database\n      •\tIntegrated E-mail service for sending fee receipts\n      •\tGenerating reports for academics report\n\n    Environment:\n      •\tPHP5, MySQL, Windows 7\n\n",
       "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/showcase.md"
-    },
-    "SitePage /404/": {
-      "jsonName": "404-22d",
-      "internalComponentName": "Component404",
-      "path": "/404/",
-      "component": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/404.js",
-      "componentChunkName": "component---src-pages-404-js",
-      "isCreatedByStatefulCreatePages": true,
-      "context": {},
-      "pluginCreator___NODE": "d3a8ae0e-f225-5f55-a752-afb0fa8d4e1e",
-      "pluginCreatorId": "d3a8ae0e-f225-5f55-a752-afb0fa8d4e1e",
-      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/404.js",
-      "id": "SitePage /404/",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "5058993140950c30529dfde379e9fd6a",
-        "description": "d3a8ae0e-f225-5f55-a752-afb0fa8d4e1e",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /404.html": {
-      "jsonName": "404-html-516",
-      "internalComponentName": "Component404Html",
-      "path": "/404.html",
-      "component": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/404.js",
-      "componentChunkName": "component---src-pages-404-js",
-      "isCreatedByStatefulCreatePages": true,
-      "context": {},
-      "pluginCreator___NODE": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
-      "pluginCreatorId": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
-      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/404.js",
-      "id": "SitePage /404.html",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "64d53e6bcfdaa223e849243d3115dd6e",
-        "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "66b77a2e-a497-5fbb-91b5-82c6b7d7454b": {
-      "id": "66b77a2e-a497-5fbb-91b5-82c6b7d7454b",
-      "children": [],
-      "parent": "fb3fc354-1d0c-55fe-84d5-98b57d118ed8",
-      "internal": {
-        "content": "\n## Hi there\n\nMy name is Darshan Kumar / DK and I'm an entrepreneur by passion. I am a Technical consultant, Cloud Architect, Startup enthusiast, Apache PMC, DevOps Engineer, Full stack engineer, Big data and AI.\nI am a Founder of [**Mozayc**](https://mozayc.net) Blockchain Based E-commerce platform, [**KernAdler**](https://kernadler.net). CTO of TRIPA, [**Frogfish**](https://frogfish.io), Appcandy.\nFind me [**GITHUB**](https://github.com/darshankumar89) [**Twitter**](https://twitter.com/darshaneldorado) [**Linkedin**](https://www.linkedin.com/in/darshankumar/)\n\n```My expertise are with technologies :\n- Frontend: JS Frameworks♥️ReactJS,AngularJS,Gatsby,GraphQL\n- UI/CSS:  HTML5,CSS,SCSS,LESS,Style components, Bootstrap\n- Devops: AWS,GCP, Digital ocean,Docker, kubernetes, GITLAB/GITHUB/BitBucket pipelines,Cloud Formation,Terraform\n- AWS Devops: Lamda,ECS,ECR,CloudFront,EC2,Serverless architecture,S3 bucket,SNS,DynamoDB,Cloudwatch,Code Pipeline\n- Backend: NodeJS,PHP frameworks,Python,C#,Java Spring.\n- Data platform: Apache hadoop, , Java spring framework, python.\n```\n```Other\n- Responsive Web Design (RWD), Single Page Applications (SPA), Progressive Web Application (PWA)\n- HTTPS, HTTP/2, SSL\n- Cross Platform/Hybrid App Development - Phone Gap, React Native, Ionic, Flutter\n- Test cases: Unit Testing, End to End Testing, Phantom JS\n ```\n ```Devtools\n===== Dev, Build Tools ====\n- Webpack\n- Gulp\n- Yarn\n- Yeomen\n- Chrome Dev Tools\n- Oh My Zsh\n- CSS Preprocessors (SASS)\n- Vagrant\n ```\n\nEntrepreneur, Innovator, Growth hacker and Apache Atlas PMC, Apache Hadoop committer, AI enthusiasts.\nBeing a Entrepreneur building innovative products to solve the real time problems.\nAs a Apache PMC, I have contributed to open source projects.\n\n**Open source contribution and COVID-19 Support** :\n- [**Coronaviruseurope**](http://coronaviruseurope.org/)\n- [**Apache Atlas**](https://atlas.apache.org/)\n- [**Apache Falcon**](https://falcon.apache.org/)\n\n**Comapnies I associated while working on projects** :\n- [**Belgian Post Group**](https://en.wikipedia.org/wiki/Bpost)\n- [**Hortonworks/Cloudera**](https://www.cloudera.com/)\n- [**TCS**](https://www.tcs.com)\n- [**Shem**](https://shem.sk)\n- [**01 people**](https://www.01people.com)\n- [**Jingle Chat Bots**](https://www.linkedin.com/company/jingle.market/)\n- [**Sycamore**](https://www.sycamoreinformatics.com/)\n- [**Ephicacy**](http://www.ephicacy.com/)\n- [**Hashtaag**](https://hashtaag.com)\n- [**paperboy**](https://www.paperboy.com/)\n- [**Apache software foundation**](https://www.apache.org/)\n- [**MPR global Solutions**](http://mprhost.com)\n- [**Sourceasy**](https://angel.co/company/sourceeasy)\n- [**Isolcell Italia**](https://isolcell.com/)\n- [**Larsen & Turbo technology services**](https://www.ltts.com/)\n- [**AmazingH**](https://amazingh.shop/)\n- [**Raiffeisen bank**](https://www.rcb.at/en/the-bank/)\n- [**Odfarmara**](https://odfarmara.sk)\n- [**Unity**](https://unity.sk)\n- [**SlovakoData**](https://www.finscreener.com)\n- [**Allianz**](https://www.allianzsp.sk/)\n- [**Januscloud**](https://janus.cloud/)\n- [**logamic**](https://www.logamic.com/)\n- [**Slovakodata**](https://www.slovakodata.sk/en/)\n- [**Pavilionfoods**](http://pavilionfoods.com/)\n- [**Granperformance**](https://granperformance.com/index.html)\n- [**PlatonFinance**](https://platonfinance.com/)\n- [**Kompact services slovakia**](https://sk.kompass.com/)\n- [**Offero**](https://offero.sk/)\n\n\n**Partners**\n- [**SBA**](http://www.sbagency.sk/)\n- [**NPC bratsialva**](https://www.npc.sk/sk/)\n- [**NTH mobile**](https://www.nth-mobile.com/)\n- [**Conservation International**](https://www.conservation.org/)\n- [**Fondy**](https://fondy.eu)\n\n**Founder & CTO**\n- [**Mozayc Platform**](https://mozayc.net)\n- [**FrogFish**](https://Frogfish.io)\n- [**DelRio**](https://delrio-consulting.com/)\n- [**KernAdler**](https://www.kernadler.com/)\n- [**MPR global Solutions**](http://mprhost.com)\n\n**Pride of being a part of product innovation team**\n- [**Paperboy**](https://www.paperboy.com/)\n- [**Sycamore**](https://www.sycamoreinformatics.com/)\n- [**Apache Atlas**](https://atlas.apache.org/)\n- [**Apache Falcon**](https://falcon.apache.org/)\n- [**Bpost retail**](https://en.wikipedia.org/wiki/Bpost)\n\n**Contact Details**\n\n > - Slovakia : SBA, Twin City Offices B, Karadzicova 2, 811 09 Bratislava, Slovakia. Ph: +421 905 288 190\n > - Belgium : Avenue de Tervueren, 1150 Woluwe-Saint-Pierre, Brussels. Ph: +32 465183127\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "c6b9db7f740ec233510a12a23f2c4e5f",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "My Introduction",
-        "date": "2020-03-18",
-        "author": "Darshan Kumar",
-        "coverImage": "../images/apachecon.jpg",
-        "path": "/about"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\n## Hi there\n\nMy name is Darshan Kumar / DK and I'm an entrepreneur by passion. I am a Technical consultant, Cloud Architect, Startup enthusiast, Apache PMC, DevOps Engineer, Full stack engineer, Big data and AI.\nI am a Founder of [**Mozayc**](https://mozayc.net) Blockchain Based E-commerce platform, [**KernAdler**](https://kernadler.net). CTO of TRIPA, [**Frogfish**](https://frogfish.io), Appcandy.\nFind me [**GITHUB**](https://github.com/darshankumar89) [**Twitter**](https://twitter.com/darshaneldorado) [**Linkedin**](https://www.linkedin.com/in/darshankumar/)\n\n```My expertise are with technologies :\n- Frontend: JS Frameworks♥️ReactJS,AngularJS,Gatsby,GraphQL\n- UI/CSS:  HTML5,CSS,SCSS,LESS,Style components, Bootstrap\n- Devops: AWS,GCP, Digital ocean,Docker, kubernetes, GITLAB/GITHUB/BitBucket pipelines,Cloud Formation,Terraform\n- AWS Devops: Lamda,ECS,ECR,CloudFront,EC2,Serverless architecture,S3 bucket,SNS,DynamoDB,Cloudwatch,Code Pipeline\n- Backend: NodeJS,PHP frameworks,Python,C#,Java Spring.\n- Data platform: Apache hadoop, , Java spring framework, python.\n```\n```Other\n- Responsive Web Design (RWD), Single Page Applications (SPA), Progressive Web Application (PWA)\n- HTTPS, HTTP/2, SSL\n- Cross Platform/Hybrid App Development - Phone Gap, React Native, Ionic, Flutter\n- Test cases: Unit Testing, End to End Testing, Phantom JS\n ```\n ```Devtools\n===== Dev, Build Tools ====\n- Webpack\n- Gulp\n- Yarn\n- Yeomen\n- Chrome Dev Tools\n- Oh My Zsh\n- CSS Preprocessors (SASS)\n- Vagrant\n ```\n\nEntrepreneur, Innovator, Growth hacker and Apache Atlas PMC, Apache Hadoop committer, AI enthusiasts.\nBeing a Entrepreneur building innovative products to solve the real time problems.\nAs a Apache PMC, I have contributed to open source projects.\n\n**Open source contribution and COVID-19 Support** :\n- [**Coronaviruseurope**](http://coronaviruseurope.org/)\n- [**Apache Atlas**](https://atlas.apache.org/)\n- [**Apache Falcon**](https://falcon.apache.org/)\n\n**Comapnies I associated while working on projects** :\n- [**Belgian Post Group**](https://en.wikipedia.org/wiki/Bpost)\n- [**Hortonworks/Cloudera**](https://www.cloudera.com/)\n- [**TCS**](https://www.tcs.com)\n- [**Shem**](https://shem.sk)\n- [**01 people**](https://www.01people.com)\n- [**Jingle Chat Bots**](https://www.linkedin.com/company/jingle.market/)\n- [**Sycamore**](https://www.sycamoreinformatics.com/)\n- [**Ephicacy**](http://www.ephicacy.com/)\n- [**Hashtaag**](https://hashtaag.com)\n- [**paperboy**](https://www.paperboy.com/)\n- [**Apache software foundation**](https://www.apache.org/)\n- [**MPR global Solutions**](http://mprhost.com)\n- [**Sourceasy**](https://angel.co/company/sourceeasy)\n- [**Isolcell Italia**](https://isolcell.com/)\n- [**Larsen & Turbo technology services**](https://www.ltts.com/)\n- [**AmazingH**](https://amazingh.shop/)\n- [**Raiffeisen bank**](https://www.rcb.at/en/the-bank/)\n- [**Odfarmara**](https://odfarmara.sk)\n- [**Unity**](https://unity.sk)\n- [**SlovakoData**](https://www.finscreener.com)\n- [**Allianz**](https://www.allianzsp.sk/)\n- [**Januscloud**](https://janus.cloud/)\n- [**logamic**](https://www.logamic.com/)\n- [**Slovakodata**](https://www.slovakodata.sk/en/)\n- [**Pavilionfoods**](http://pavilionfoods.com/)\n- [**Granperformance**](https://granperformance.com/index.html)\n- [**PlatonFinance**](https://platonfinance.com/)\n- [**Kompact services slovakia**](https://sk.kompass.com/)\n- [**Offero**](https://offero.sk/)\n\n\n**Partners**\n- [**SBA**](http://www.sbagency.sk/)\n- [**NPC bratsialva**](https://www.npc.sk/sk/)\n- [**NTH mobile**](https://www.nth-mobile.com/)\n- [**Conservation International**](https://www.conservation.org/)\n- [**Fondy**](https://fondy.eu)\n\n**Founder & CTO**\n- [**Mozayc Platform**](https://mozayc.net)\n- [**FrogFish**](https://Frogfish.io)\n- [**DelRio**](https://delrio-consulting.com/)\n- [**KernAdler**](https://www.kernadler.com/)\n- [**MPR global Solutions**](http://mprhost.com)\n\n**Pride of being a part of product innovation team**\n- [**Paperboy**](https://www.paperboy.com/)\n- [**Sycamore**](https://www.sycamoreinformatics.com/)\n- [**Apache Atlas**](https://atlas.apache.org/)\n- [**Apache Falcon**](https://falcon.apache.org/)\n- [**Bpost retail**](https://en.wikipedia.org/wiki/Bpost)\n\n**Contact Details**\n\n > - Slovakia : SBA, Twin City Offices B, Karadzicova 2, 811 09 Bratislava, Slovakia. Ph: +421 905 288 190\n > - Belgium : Avenue de Tervueren, 1150 Woluwe-Saint-Pierre, Brussels. Ph: +32 465183127\n",
-      "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/about.md"
-    },
-    "e7fb0b44-cd7e-5d20-805f-881b898a9c47": {
-      "id": "e7fb0b44-cd7e-5d20-805f-881b898a9c47",
-      "children": [
-        "431b498c-b754-5b55-bda3-5e82eabffb6b"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "28227599a829b61c2bac1260acf25b54",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/posts/coronavirus.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "posts",
-      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/coronavirus.md",
-      "relativePath": "coronavirus.md",
-      "extension": "md",
-      "size": 874,
-      "prettySize": "874 B",
-      "modifiedTime": "2020-04-06T21:12:51.390Z",
-      "accessTime": "2020-04-06T21:12:51.384Z",
-      "changeTime": "2020-04-06T21:12:51.390Z",
-      "birthTime": "2020-04-06T20:54:10.702Z",
-      "root": "/",
-      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts",
-      "base": "coronavirus.md",
-      "ext": ".md",
-      "name": "coronavirus",
-      "relativeDirectory": "",
-      "dev": 16777221,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 26213176,
-      "blocks": 8,
-      "atimeMs": 1586207571383.757,
-      "mtimeMs": 1586207571390.0916,
-      "ctimeMs": 1586207571390.0916,
-      "birthtimeMs": 1586206450701.7188,
-      "atime": "2020-04-06T21:12:51.384Z",
-      "mtime": "2020-04-06T21:12:51.390Z",
-      "ctime": "2020-04-06T21:12:51.390Z",
-      "birthtime": "2020-04-06T20:54:10.702Z"
     },
     "SitePage /": {
       "jsonName": "index",
@@ -3152,6 +3227,38 @@
         "owner": "internal-data-bridge"
       }
     },
+    "SitePage /coronavirus": {
+      "jsonName": "coronavirus-463",
+      "internalComponentName": "ComponentCoronavirus",
+      "path": "/coronavirus",
+      "component": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/page.js",
+      "componentChunkName": "component---src-templates-page-js",
+      "isCreatedByStatefulCreatePages": false,
+      "context": {
+        "type": "posts",
+        "next": {
+          "frontmatter": {
+            "path": "/entrepreneur",
+            "title": "Passion of programming with Entrepreneurship mindset",
+            "tags": null
+          },
+          "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/entrepreneur.md"
+        },
+        "previous": null
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/page.js",
+      "id": "SitePage /coronavirus",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "71a06823c2b0fb3f75e339047aa40eb7",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
     "SitePage /entrepreneur": {
       "jsonName": "entrepreneur-8f3",
       "internalComponentName": "ComponentEntrepreneur",
@@ -3211,38 +3318,6 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "20a18462b67768e02dbc5f18f74f4fdb",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /coronavirus": {
-      "jsonName": "coronavirus-463",
-      "internalComponentName": "ComponentCoronavirus",
-      "path": "/coronavirus",
-      "component": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/page.js",
-      "componentChunkName": "component---src-templates-page-js",
-      "isCreatedByStatefulCreatePages": false,
-      "context": {
-        "type": "posts",
-        "next": {
-          "frontmatter": {
-            "path": "/entrepreneur",
-            "title": "Passion of programming with Entrepreneurship mindset",
-            "tags": null
-          },
-          "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/entrepreneur.md"
-        },
-        "previous": null
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/page.js",
-      "id": "SitePage /coronavirus",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "71a06823c2b0fb3f75e339047aa40eb7",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -3939,89 +4014,73 @@
         "owner": "internal-data-bridge"
       }
     },
-    "d6954693-1b1a-57ca-8054-c931c75c9eac": {
-      "id": "d6954693-1b1a-57ca-8054-c931c75c9eac",
-      "children": [
-        "3a1f6cdc-c46e-504e-9ea5-0f21c35ee757"
-      ],
+    "SitePage /404/": {
+      "jsonName": "404-22d",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "d3a8ae0e-f225-5f55-a752-afb0fa8d4e1e",
+      "pluginCreatorId": "d3a8ae0e-f225-5f55-a752-afb0fa8d4e1e",
+      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/404.js",
+      "id": "SitePage /404/",
       "parent": null,
-      "internal": {
-        "contentDigest": "7523562059ac81303624085dba1660c4",
-        "type": "File",
-        "mediaType": "image/png",
-        "description": "File \"src/images/coronavirus.png\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/images/coronavirus.png",
-      "relativePath": "coronavirus.png",
-      "extension": "png",
-      "size": 380951,
-      "prettySize": "381 kB",
-      "modifiedTime": "2020-04-06T21:00:26.671Z",
-      "accessTime": "2020-04-06T21:02:10.664Z",
-      "changeTime": "2020-04-06T21:02:11.872Z",
-      "birthTime": "2020-04-06T21:00:26.329Z",
-      "root": "/",
-      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/images",
-      "base": "coronavirus.png",
-      "ext": ".png",
-      "name": "coronavirus",
-      "relativeDirectory": "",
-      "dev": 16777221,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 26214339,
-      "blocks": 752,
-      "atimeMs": 1586206930664.153,
-      "mtimeMs": 1586206826671.262,
-      "ctimeMs": 1586206931872.117,
-      "birthtimeMs": 1586206826329.3245,
-      "atime": "2020-04-06T21:02:10.664Z",
-      "mtime": "2020-04-06T21:00:26.671Z",
-      "ctime": "2020-04-06T21:02:11.872Z",
-      "birthtime": "2020-04-06T21:00:26.329Z"
-    },
-    "3a1f6cdc-c46e-504e-9ea5-0f21c35ee757": {
-      "id": "3a1f6cdc-c46e-504e-9ea5-0f21c35ee757",
       "children": [],
-      "parent": "d6954693-1b1a-57ca-8054-c931c75c9eac",
       "internal": {
-        "contentDigest": "7523562059ac81303624085dba1660c4",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
+        "type": "SitePage",
+        "contentDigest": "5058993140950c30529dfde379e9fd6a",
+        "description": "d3a8ae0e-f225-5f55-a752-afb0fa8d4e1e",
+        "owner": "internal-data-bridge"
       }
     },
-    "431b498c-b754-5b55-bda3-5e82eabffb6b": {
-      "id": "431b498c-b754-5b55-bda3-5e82eabffb6b",
+    "SitePage /404.html": {
+      "jsonName": "404-html-516",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "pluginCreatorId": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": null,
       "children": [],
-      "parent": "e7fb0b44-cd7e-5d20-805f-881b898a9c47",
       "internal": {
-        "content": "\nCoronavirus Symptoms (COVID-19)\nReported illnesses have ranged from people with mild symptoms to people being severely ill and dying.\n\n```\nSymptoms can include:\n- Fever\n- Cough\n- Shortness of breath\n```\n\n###Useful links\n- [**europe spread in map**](http://coronaviruseurope.org/)\n- [**coronavirus symptoms**](https://www.worldometers.info/coronavirus/coronavirus-symptoms/)\n- [**coronavirus incubation period**](https://www.worldometers.info/coronavirus/coronavirus-incubation-period/)\n- [**india spread in map**](https://www.covid19india.org/)\n\n###Contributions\n[**GITHUB**](https://github.com/Mozaycs/coronaviruseurope.org)",
+        "type": "SitePage",
+        "contentDigest": "64d53e6bcfdaa223e849243d3115dd6e",
+        "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "66b77a2e-a497-5fbb-91b5-82c6b7d7454b": {
+      "id": "66b77a2e-a497-5fbb-91b5-82c6b7d7454b",
+      "children": [],
+      "parent": "fb3fc354-1d0c-55fe-84d5-98b57d118ed8",
+      "internal": {
+        "content": "\n## Hi there\n\nMy name is Darshan Kumar / DK and I'm an entrepreneur by passion. I am a Technical consultant, Cloud Architect, Startup enthusiast, Apache PMC, DevOps Engineer, Full stack engineer, Big data and AI.\nI am a Founder of [**Mozayc**](https://mozayc.net) Blockchain Based E-commerce platform, [**KernAdler**](https://kernadler.net). CTO of TRIPA, [**Frogfish**](https://frogfish.io), Appcandy.\nFind me [**GITHUB**](https://github.com/darshankumar89) [**Twitter**](https://twitter.com/darshaneldorado) [**Linkedin**](https://www.linkedin.com/in/darshankumar/)\n\n```My expertise are with technologies :\n- Frontend: JS Frameworks♥️ReactJS,AngularJS,VueJS,Gatsby,GraphQL\n- UI/CSS:  HTML5,CSS,SCSS,LESS,Style components, Bootstrap\n- Devops: AWS,GCP, Digital ocean,Docker, kubernetes, GITLAB/GITHUB/BitBucket pipelines,Cloud Formation,Terraform\n- AWS Devops: Lamda,ECS,ECR,CloudFront,EC2,Serverless architecture,S3 bucket,SNS,DynamoDB,Cloudwatch,Code Pipeline\n- Backend: NodeJS,PHP frameworks(Laravel, CodeIgniter),Python,C#,Java Spring.\n- Data platform: Apache hadoop, Apache Spark, Apache Atlas.\n```\n\n```Devops\n===Devops===\nCI/CD - Jenkins, Circle CI, Travis\nProvisioning infrastructure - Terraform, CloudFormation\nConfiguration Management - Ansible, Puppet, Chef\nMonitoring & alerting - Prometheus, Nagios\nLogging - Logstash, Graylog, Fluentd\nCode review - Gerrit, Review Board\nCode coverage - Cobertura, Clover, JaCoCo\nTests - Robot, Serenity, Gauge\n```\n\n```Other\n- Responsive Web Design (RWD), Single Page Applications (SPA), Progressive Web Application (PWA)\n- HTTPS, HTTP/2, SSL\n- Cross Platform/Hybrid App Development - Phone Gap, React Native, Ionic, Flutter\n- Test cases: Unit Testing, End to End Testing, Phantom JS\n ```\n\n ```Devtools\n===== Dev, Build Tools ====\n- Webpack\n- Gulp\n- Yarn\n- Yeomen\n- Chrome Dev Tools\n- Oh My Zsh\n- CSS Preprocessors (SASS)\n- Vagrant\n ```\n\nEntrepreneur, Innovator, Growth hacker and Apache Atlas PMC, Apache Hadoop committer, AI enthusiasts.\nBeing a Entrepreneur building innovative products to solve the real time problems.\nAs a Apache PMC, I have contributed to open source projects.\n\n**Open source contribution and COVID-19 Support** :\n- [**Coronaviruseurope**](http://coronaviruseurope.org/)\n- [**Apache Atlas**](https://atlas.apache.org/)\n- [**Apache Falcon**](https://falcon.apache.org/)\n\n**Comapnies I associated while working on projects** :\n- [**Belgian Post Group**](https://en.wikipedia.org/wiki/Bpost)\n- [**Hortonworks/Cloudera**](https://www.cloudera.com/)\n- [**TCS**](https://www.tcs.com)\n- [**Shem**](https://shem.sk)\n- [**01 people**](https://www.01people.com)\n- [**Jingle Chat Bots**](https://www.linkedin.com/company/jingle.market/)\n- [**Sycamore**](https://www.sycamoreinformatics.com/)\n- [**Ephicacy**](http://www.ephicacy.com/)\n- [**Hashtaag**](https://hashtaag.com)\n- [**paperboy**](https://www.paperboy.com/)\n- [**Apache software foundation**](https://www.apache.org/)\n- [**MPR global Solutions**](http://mprhost.com)\n- [**Sourceasy**](https://angel.co/company/sourceeasy)\n- [**Isolcell Italia**](https://isolcell.com/)\n- [**Larsen & Turbo technology services**](https://www.ltts.com/)\n- [**AmazingH**](https://amazingh.shop/)\n- [**Raiffeisen bank**](https://www.rcb.at/en/the-bank/)\n- [**Odfarmara**](https://odfarmara.sk)\n- [**Unity**](https://unity.sk)\n- [**SlovakoData**](https://www.finscreener.com)\n- [**Allianz**](https://www.allianzsp.sk/)\n- [**Januscloud**](https://janus.cloud/)\n- [**logamic**](https://www.logamic.com/)\n- [**Slovakodata**](https://www.slovakodata.sk/en/)\n- [**Pavilionfoods**](http://pavilionfoods.com/)\n- [**Granperformance**](https://granperformance.com/index.html)\n- [**PlatonFinance**](https://platonfinance.com/)\n- [**Kompact services slovakia**](https://sk.kompass.com/)\n- [**Offero**](https://offero.sk/)\n\n\n**Partners**\n- [**SBA**](http://www.sbagency.sk/)\n- [**NPC bratsialva**](https://www.npc.sk/sk/)\n- [**NTH mobile**](https://www.nth-mobile.com/)\n- [**Conservation International**](https://www.conservation.org/)\n- [**Fondy**](https://fondy.eu)\n\n**Founder & CTO**\n- [**Mozayc Platform**](https://mozayc.net)\n- [**FrogFish**](https://Frogfish.io)\n- [**DelRio**](https://delrio-consulting.com/)\n- [**KernAdler**](https://www.kernadler.com/)\n- [**MPR global Solutions**](http://mprhost.com)\n\n**Pride of being a part of product innovation team**\n- [**Paperboy**](https://www.paperboy.com/)\n- [**Sycamore**](https://www.sycamoreinformatics.com/)\n- [**Apache Atlas**](https://atlas.apache.org/)\n- [**Apache Falcon**](https://falcon.apache.org/)\n- [**Bpost retail**](https://en.wikipedia.org/wiki/Bpost)\n\n**Contact Details**\n\n > - Slovakia : SBA, Twin City Offices B, Karadzicova 2, 811 09 Bratislava, Slovakia. Ph: +421 905 288 190\n > - Belgium : Avenue de Tervueren, 1150 Woluwe-Saint-Pierre, Brussels. Ph: +32 465183127\n",
         "type": "MarkdownRemark",
-        "contentDigest": "58dd655a87b06d44716a860d3cce7926",
+        "contentDigest": "747479f1fcf8fac810c9c6c72888fe90",
         "owner": "gatsby-transformer-remark"
       },
       "frontmatter": {
-        "title": "Coronavirus updates",
-        "date": "2020-04-06",
-        "path": "/coronavirus",
+        "title": "My Introduction",
+        "date": "2020-03-18",
         "author": "Darshan Kumar",
-        "excerpt": "As a support to COVID-19 and helping the community with updates of https://coronaviruseurope.org ",
-        "coverImage": "../images/coronavirus.png"
+        "coverImage": "../images/apachecon.jpg",
+        "path": "/about"
       },
       "excerpt": "",
-      "rawMarkdownBody": "\nCoronavirus Symptoms (COVID-19)\nReported illnesses have ranged from people with mild symptoms to people being severely ill and dying.\n\n```\nSymptoms can include:\n- Fever\n- Cough\n- Shortness of breath\n```\n\n###Useful links\n- [**europe spread in map**](http://coronaviruseurope.org/)\n- [**coronavirus symptoms**](https://www.worldometers.info/coronavirus/coronavirus-symptoms/)\n- [**coronavirus incubation period**](https://www.worldometers.info/coronavirus/coronavirus-incubation-period/)\n- [**india spread in map**](https://www.covid19india.org/)\n\n###Contributions\n[**GITHUB**](https://github.com/Mozaycs/coronaviruseurope.org)",
-      "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/coronavirus.md"
+      "rawMarkdownBody": "\n## Hi there\n\nMy name is Darshan Kumar / DK and I'm an entrepreneur by passion. I am a Technical consultant, Cloud Architect, Startup enthusiast, Apache PMC, DevOps Engineer, Full stack engineer, Big data and AI.\nI am a Founder of [**Mozayc**](https://mozayc.net) Blockchain Based E-commerce platform, [**KernAdler**](https://kernadler.net). CTO of TRIPA, [**Frogfish**](https://frogfish.io), Appcandy.\nFind me [**GITHUB**](https://github.com/darshankumar89) [**Twitter**](https://twitter.com/darshaneldorado) [**Linkedin**](https://www.linkedin.com/in/darshankumar/)\n\n```My expertise are with technologies :\n- Frontend: JS Frameworks♥️ReactJS,AngularJS,VueJS,Gatsby,GraphQL\n- UI/CSS:  HTML5,CSS,SCSS,LESS,Style components, Bootstrap\n- Devops: AWS,GCP, Digital ocean,Docker, kubernetes, GITLAB/GITHUB/BitBucket pipelines,Cloud Formation,Terraform\n- AWS Devops: Lamda,ECS,ECR,CloudFront,EC2,Serverless architecture,S3 bucket,SNS,DynamoDB,Cloudwatch,Code Pipeline\n- Backend: NodeJS,PHP frameworks(Laravel, CodeIgniter),Python,C#,Java Spring.\n- Data platform: Apache hadoop, Apache Spark, Apache Atlas.\n```\n\n```Devops\n===Devops===\nCI/CD - Jenkins, Circle CI, Travis\nProvisioning infrastructure - Terraform, CloudFormation\nConfiguration Management - Ansible, Puppet, Chef\nMonitoring & alerting - Prometheus, Nagios\nLogging - Logstash, Graylog, Fluentd\nCode review - Gerrit, Review Board\nCode coverage - Cobertura, Clover, JaCoCo\nTests - Robot, Serenity, Gauge\n```\n\n```Other\n- Responsive Web Design (RWD), Single Page Applications (SPA), Progressive Web Application (PWA)\n- HTTPS, HTTP/2, SSL\n- Cross Platform/Hybrid App Development - Phone Gap, React Native, Ionic, Flutter\n- Test cases: Unit Testing, End to End Testing, Phantom JS\n ```\n\n ```Devtools\n===== Dev, Build Tools ====\n- Webpack\n- Gulp\n- Yarn\n- Yeomen\n- Chrome Dev Tools\n- Oh My Zsh\n- CSS Preprocessors (SASS)\n- Vagrant\n ```\n\nEntrepreneur, Innovator, Growth hacker and Apache Atlas PMC, Apache Hadoop committer, AI enthusiasts.\nBeing a Entrepreneur building innovative products to solve the real time problems.\nAs a Apache PMC, I have contributed to open source projects.\n\n**Open source contribution and COVID-19 Support** :\n- [**Coronaviruseurope**](http://coronaviruseurope.org/)\n- [**Apache Atlas**](https://atlas.apache.org/)\n- [**Apache Falcon**](https://falcon.apache.org/)\n\n**Comapnies I associated while working on projects** :\n- [**Belgian Post Group**](https://en.wikipedia.org/wiki/Bpost)\n- [**Hortonworks/Cloudera**](https://www.cloudera.com/)\n- [**TCS**](https://www.tcs.com)\n- [**Shem**](https://shem.sk)\n- [**01 people**](https://www.01people.com)\n- [**Jingle Chat Bots**](https://www.linkedin.com/company/jingle.market/)\n- [**Sycamore**](https://www.sycamoreinformatics.com/)\n- [**Ephicacy**](http://www.ephicacy.com/)\n- [**Hashtaag**](https://hashtaag.com)\n- [**paperboy**](https://www.paperboy.com/)\n- [**Apache software foundation**](https://www.apache.org/)\n- [**MPR global Solutions**](http://mprhost.com)\n- [**Sourceasy**](https://angel.co/company/sourceeasy)\n- [**Isolcell Italia**](https://isolcell.com/)\n- [**Larsen & Turbo technology services**](https://www.ltts.com/)\n- [**AmazingH**](https://amazingh.shop/)\n- [**Raiffeisen bank**](https://www.rcb.at/en/the-bank/)\n- [**Odfarmara**](https://odfarmara.sk)\n- [**Unity**](https://unity.sk)\n- [**SlovakoData**](https://www.finscreener.com)\n- [**Allianz**](https://www.allianzsp.sk/)\n- [**Januscloud**](https://janus.cloud/)\n- [**logamic**](https://www.logamic.com/)\n- [**Slovakodata**](https://www.slovakodata.sk/en/)\n- [**Pavilionfoods**](http://pavilionfoods.com/)\n- [**Granperformance**](https://granperformance.com/index.html)\n- [**PlatonFinance**](https://platonfinance.com/)\n- [**Kompact services slovakia**](https://sk.kompass.com/)\n- [**Offero**](https://offero.sk/)\n\n\n**Partners**\n- [**SBA**](http://www.sbagency.sk/)\n- [**NPC bratsialva**](https://www.npc.sk/sk/)\n- [**NTH mobile**](https://www.nth-mobile.com/)\n- [**Conservation International**](https://www.conservation.org/)\n- [**Fondy**](https://fondy.eu)\n\n**Founder & CTO**\n- [**Mozayc Platform**](https://mozayc.net)\n- [**FrogFish**](https://Frogfish.io)\n- [**DelRio**](https://delrio-consulting.com/)\n- [**KernAdler**](https://www.kernadler.com/)\n- [**MPR global Solutions**](http://mprhost.com)\n\n**Pride of being a part of product innovation team**\n- [**Paperboy**](https://www.paperboy.com/)\n- [**Sycamore**](https://www.sycamoreinformatics.com/)\n- [**Apache Atlas**](https://atlas.apache.org/)\n- [**Apache Falcon**](https://falcon.apache.org/)\n- [**Bpost retail**](https://en.wikipedia.org/wiki/Bpost)\n\n**Contact Details**\n\n > - Slovakia : SBA, Twin City Offices B, Karadzicova 2, 811 09 Bratislava, Slovakia. Ph: +421 905 288 190\n > - Belgium : Avenue de Tervueren, 1150 Woluwe-Saint-Pierre, Brussels. Ph: +32 465183127\n",
+      "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/about.md"
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "76d2af73dcb476cfd51b9d9346b78162"
+    "PLUGINS_HASH": "a2c5a3c9adbaa98bc3aa47c3bf9bab37"
   },
   "componentDataDependencies": {
     "nodes": {
@@ -4029,7 +4088,13 @@
         "sq--src-components-layout-js",
         "sq--src-components-seo-js"
       ],
+      "3a1f6cdc-c46e-504e-9ea5-0f21c35ee757": [
+        "/",
+        "/coronavirus"
+      ],
       "75e47675-a295-5916-ae49-b139de6f4663": [
+        "/",
+        "/hello",
         "/tag/aws",
         "/tag/devops",
         "/tag/bigdata",
@@ -4051,11 +4116,15 @@
         "/tag/heroku",
         "/tag/hire-nodejs-developer",
         "/tag/hire-full-stack-developer",
-        "/tag/hire-freelance-web-developer",
+        "/tag/hire-freelance-web-developer"
+      ],
+      "d6954693-1b1a-57ca-8054-c931c75c9eac": [
         "/",
-        "/hello"
+        "/coronavirus"
       ],
       "f11fc279-a310-57f8-816d-04975c1ee5ef": [
+        "/",
+        "/hello",
         "/tag/aws",
         "/tag/devops",
         "/tag/bigdata",
@@ -4077,9 +4146,7 @@
         "/tag/heroku",
         "/tag/hire-nodejs-developer",
         "/tag/hire-full-stack-developer",
-        "/tag/hire-freelance-web-developer",
-        "/",
-        "/hello"
+        "/tag/hire-freelance-web-developer"
       ],
       "e58fc77a-21af-5819-a464-2eda9b87edd1": [
         "/showcase"
@@ -4087,32 +4154,20 @@
       "66b77a2e-a497-5fbb-91b5-82c6b7d7454b": [
         "/about"
       ],
-      "44870062-0054-51e7-999a-34a23233d5a1": [
-        "/entrepreneur"
-      ],
-      "c2639869-3fde-5bbc-9625-800dcd8939ed": [
-        "/about",
-        "/",
-        "/coronavirus"
-      ],
-      "3ae16bab-f3ea-578b-ae2b-ba8c8e7139aa": [
-        "/about",
-        "/",
-        "/coronavirus"
-      ],
-      "8864d128-c7cb-575d-98f5-a01b99790431": [
-        "/hello"
-      ],
       "431b498c-b754-5b55-bda3-5e82eabffb6b": [
         "/coronavirus"
       ],
-      "3a1f6cdc-c46e-504e-9ea5-0f21c35ee757": [
-        "/",
-        "/coronavirus"
+      "c2639869-3fde-5bbc-9625-800dcd8939ed": [
+        "/about"
       ],
-      "d6954693-1b1a-57ca-8054-c931c75c9eac": [
-        "/",
-        "/coronavirus"
+      "3ae16bab-f3ea-578b-ae2b-ba8c8e7139aa": [
+        "/about"
+      ],
+      "44870062-0054-51e7-999a-34a23233d5a1": [
+        "/entrepreneur"
+      ],
+      "8864d128-c7cb-575d-98f5-a01b99790431": [
+        "/hello"
       ]
     },
     "connections": {
@@ -4147,7 +4202,7 @@
     "sq--src-components-layout-js": 2892404432,
     "sq--src-components-seo-js": 1582510487,
     "sq--src-components-image-js": 492526033,
-    "about-771": "471/path---about-771-2fe-kyyxtHbkkMH7pYwXXookl8mGyh4",
+    "about-771": "992/path---about-771-2fe-39oVi423fhhZZOeRArCf1unCFg",
     "showcase-d23": "182/path---showcase-d-23-738-PKhSOWidBMMYtdyqISG3tk1wKks",
     "index": "14/path---index-6a9-LcvF48xAqZWdKakJjh04ugPkg",
     "tag-rob-ot-348": "361/path---tag-rob-ot-348-285-EyjKCo7by763e8Oabh1vBxp6LK0",
@@ -4156,7 +4211,7 @@
     "404-22d": "820/path---404-22-d-bce-0SUcWyAf8ecbYDsMhQkEfPzV8",
     "tag-hello-friend-69a": "706/path---tag-hello-friend-69-a-f65-xJrVze2c1acUeTgijKjdNPIrtU",
     "404-html-516": "285/path---404-html-516-62a-0SUcWyAf8ecbYDsMhQkEfPzV8",
-    "hello-3ed": "940/path---hello-3-ed-283-5ZQPbktPmxAS8oZzweZO2urXd40",
+    "hello-3ed": "480/path---hello-3-ed-283-sEhYMAqdOZE9sTS19Ic3xreHh0",
     "entrepreneur-a31": "676/path---entrepreneur-a-31-6f4-ANW80Ij7XAc5J5WrADagMZ26vHY",
     "tag-full-stack-development-8d6": "509/path---tag-full-stack-development-8-d-6-ac8-0xpYiRmFyKhMDYH7YVofSJJQY",
     "tag-dev-ops-ebd": "44/path---tag-dev-ops-ebd-50c-eKke6mq4TTfx8zlknYDGAOQK8",
@@ -4187,30 +4242,13 @@
     "tag-hadoop-148": "993/path---tag-hadoop-148-0de-62jnjh6gXejIRTJe7uJb8PCh08M",
     "tag-artificialintelligence-71d": "830/path---tag-artificialintelligence-71-d-e44-MGJeyWcCuwuOwu3AozbAYmO78k",
     "tag-heroku-547": "177/path---tag-heroku-547-58c-fkUsrdTTRH1VwC4XAvwglcA5fVY",
-    "entrepreneur-8f3": "304/path---entrepreneur-8-f-3-579-1Ooe33lDNYyIKj0zVAFNdRQChc",
+    "entrepreneur-8f3": "627/path---entrepreneur-8-f-3-579-oY83oR49JtctHt3zQhNFAGwH2Gc",
     "tag-hire-nodejs-developer-d33": "302/path---tag-hire-nodejs-developer-d-33-5bd-rU6Vayb6mdt0xH0k1KrqCPoJsQM",
     "tag-hire-full-stack-developer-ee5": "197/path---tag-hire-full-stack-developer-ee-5-8c6-B7pUpaA0Hi4zViwUpciTKCtJeXc",
     "tag-hire-freelance-web-developer-d3f": "221/path---tag-hire-freelance-web-developer-d-3-f-63a-fVjhww2cKrlB1VZrqpKFmprQU",
     "coronavirus-463": "561/path---coronavirus-463-cb7-3YquVYThkbPC9QvQPPmfgGjPao"
   },
   "components": {
-    "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/.cache/dev-404-page.js": {
-      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/.cache/dev-404-page.js",
-      "query": "",
-      "pages": [
-        "/dev-404-page/"
-      ],
-      "isInBootstrap": true
-    },
-    "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/404.js": {
-      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/404.js",
-      "query": "",
-      "pages": [
-        "/404/",
-        "/404.html"
-      ],
-      "isInBootstrap": true
-    },
     "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/index.js": {
       "query": "query usersDarshankumarDgodDarshankumarComDarshankumarIoSrcTemplatesIndexJs157487334(\n  $limit: Int!\n  $skip: Int!\n) {\n  allMarkdownRemark(filter: {fileAbsolutePath: {regex: \"//posts//\"}}, sort: {fields: [frontmatter___date], order: DESC}, limit: $limit, skip: $skip) {\n    edges {\n      node {\n        id\n        excerpt\n        frontmatter {\n          title\n          date(formatString: \"DD MMMM YYYY\")\n          path\n          author\n          excerpt\n          tags\n          coverImage {\n            childImageSharp {\n              fluid(maxWidth: 800) {\n                ...GatsbyImageSharpFluid\n              }\n            }\n          }\n        }\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
       "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/index.js",
@@ -4225,8 +4263,8 @@
       "pages": [
         "/showcase",
         "/about",
-        "/entrepreneur",
         "/coronavirus",
+        "/entrepreneur",
         "/hello"
       ],
       "isInBootstrap": false
@@ -4259,17 +4297,26 @@
         "/tag/hire-freelance-web-developer"
       ],
       "isInBootstrap": false
+    },
+    "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/.cache/dev-404-page.js": {
+      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/.cache/dev-404-page.js",
+      "query": "",
+      "pages": [
+        "/dev-404-page/"
+      ],
+      "isInBootstrap": true
+    },
+    "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/404.js": {
+      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/404.js",
+      "query": "",
+      "pages": [
+        "/404/",
+        "/404.html"
+      ],
+      "isInBootstrap": true
     }
   },
   "staticQueryComponents": {
-    "sq--src-components-layout-js": {
-      "name": "SiteTitleQuery",
-      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/components/layout.js",
-      "id": "sq--src-components-layout-js",
-      "jsonName": "sq--src-components-layout-js",
-      "query": "query SiteTitleQuery {\n  site {\n    siteMetadata {\n      title\n      logo {\n        src\n        alt\n      }\n      logoText\n      defaultTheme\n      copyrights\n      mainMenu {\n        title\n        path\n      }\n      showMenuItems\n      menuMoreText\n    }\n  }\n}\n",
-      "hash": 2892404432
-    },
     "sq--src-components-image-js": {
       "name": "usersDarshankumarDgodDarshankumarComDarshankumarIoSrcComponentsImageJs492526033",
       "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/components/image.js",
@@ -4277,6 +4324,14 @@
       "jsonName": "sq--src-components-image-js",
       "query": "query usersDarshankumarDgodDarshankumarComDarshankumarIoSrcComponentsImageJs492526033 {\n  placeholderImage: file(relativePath: {eq: \"images\"}) {\n    childImageSharp {\n      fluid(maxWidth: 800) {\n        ...GatsbyImageSharpFluid\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
       "hash": 492526033
+    },
+    "sq--src-components-layout-js": {
+      "name": "SiteTitleQuery",
+      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/components/layout.js",
+      "id": "sq--src-components-layout-js",
+      "jsonName": "sq--src-components-layout-js",
+      "query": "query SiteTitleQuery {\n  site {\n    siteMetadata {\n      title\n      logo {\n        src\n        alt\n      }\n      logoText\n      defaultTheme\n      copyrights\n      mainMenu {\n        title\n        path\n      }\n      showMenuItems\n      menuMoreText\n    }\n  }\n}\n",
+      "hash": 2892404432
     },
     "sq--src-components-seo-js": {
       "name": "DefaultSEOQuery",

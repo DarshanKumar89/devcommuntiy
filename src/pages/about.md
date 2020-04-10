@@ -13,19 +13,33 @@ I am a Founder of [**Mozayc**](https://mozayc.net) Blockchain Based E-commerce p
 Find me [**GITHUB**](https://github.com/darshankumar89) [**Twitter**](https://twitter.com/darshaneldorado) [**Linkedin**](https://www.linkedin.com/in/darshankumar/)
 
 ```My expertise are with technologies :
-- Frontend: JS Frameworks♥️ReactJS,AngularJS,Gatsby,GraphQL
+- Frontend: JS Frameworks♥️ReactJS,AngularJS,VueJS,Gatsby,GraphQL
 - UI/CSS:  HTML5,CSS,SCSS,LESS,Style components, Bootstrap
 - Devops: AWS,GCP, Digital ocean,Docker, kubernetes, GITLAB/GITHUB/BitBucket pipelines,Cloud Formation,Terraform
 - AWS Devops: Lamda,ECS,ECR,CloudFront,EC2,Serverless architecture,S3 bucket,SNS,DynamoDB,Cloudwatch,Code Pipeline
-- Backend: NodeJS,PHP frameworks,Python,C#,Java Spring.
-- Data platform: Apache hadoop, , Java spring framework, python.
+- Backend: NodeJS,PHP frameworks(Laravel, CodeIgniter),Python,C#,Java Spring.
+- Data platform: Apache hadoop, Apache Spark, Apache Atlas.
 ```
+
+```Devops
+===Devops===
+CI/CD - Jenkins, Circle CI, Travis
+Provisioning infrastructure - Terraform, CloudFormation
+Configuration Management - Ansible, Puppet, Chef
+Monitoring & alerting - Prometheus, Nagios
+Logging - Logstash, Graylog, Fluentd
+Code review - Gerrit, Review Board
+Code coverage - Cobertura, Clover, JaCoCo
+Tests - Robot, Serenity, Gauge
+```
+
 ```Other
 - Responsive Web Design (RWD), Single Page Applications (SPA), Progressive Web Application (PWA)
 - HTTPS, HTTP/2, SSL
 - Cross Platform/Hybrid App Development - Phone Gap, React Native, Ionic, Flutter
 - Test cases: Unit Testing, End to End Testing, Phantom JS
  ```
+
  ```Devtools
 ===== Dev, Build Tools ====
 - Webpack

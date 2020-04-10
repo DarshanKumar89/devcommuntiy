@@ -10,7 +10,7 @@ module.exports = {
 		title: `Darshan Kumar`,
 		description: `full stack engineer`,
 		copyrights: '2020',
-		author: `@pdarshankumar`,
+		author: `@darshankumar`,
 		logo: {
 			src: '',
 			alt: ''
