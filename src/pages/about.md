@@ -3,7 +3,7 @@ title: "My Introduction"
 date: "2020-03-18"
 author: "Darshan Kumar"
 coverImage: "../images/apachecon.jpg"
-path: "/about"
+path: "/full-stack-developer"
 ---
 
 ## Hi there

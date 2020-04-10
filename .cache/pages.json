@@ -16,11 +16,6 @@
     },
     {
         "componentChunkName": "component---src-templates-page-js",
-        "jsonName": "about-771",
-        "path": "/about"
-    },
-    {
-        "componentChunkName": "component---src-templates-page-js",
         "jsonName": "coronavirus-463",
         "path": "/coronavirus"
     },
@@ -33,6 +28,11 @@
         "componentChunkName": "component---src-templates-page-js",
         "jsonName": "entrepreneur-8f3",
         "path": "/entrepreneur"
+    },
+    {
+        "componentChunkName": "component---src-templates-page-js",
+        "jsonName": "full-stack-developer-c2a",
+        "path": "/full-stack-developer"
     },
     {
         "componentChunkName": "component---src-templates-page-js",

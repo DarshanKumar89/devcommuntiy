@@ -23,7 +23,7 @@ module.exports = {
 		mainMenu: [
 			{
 				title: 'About',
-				path: '/about'
+				path: '/full-stack-developer'
 			},
 			{
 				title: 'Showcase',
@@ -119,8 +119,8 @@ module.exports = {
 			resolve: `gatsby-plugin-manifest`,
 			options: {
 				name: `darshan kumar`,
-				short_name: `hello-world`,
-				start_url: `/`,
+				short_name: `full-stack-engineer`,
+				start_url: `/hello`,
 				background_color: `#292a2d`,
 				theme_color: `#292a2d`,
 				display: `minimal-ui`,
