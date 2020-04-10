@@ -119,8 +119,8 @@ module.exports = {
 			resolve: `gatsby-plugin-manifest`,
 			options: {
 				name: `darshan kumar`,
-				short_name: `full-stack-engineer`,
-				start_url: `/hello`,
+				short_name: `full-stack-developer`,
+				start_url: `/full-stack-developer`,
 				background_color: `#292a2d`,
 				theme_color: `#292a2d`,
 				display: `minimal-ui`,
