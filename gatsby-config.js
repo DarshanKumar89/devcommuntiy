@@ -36,6 +36,10 @@ module.exports = {
 			{
 				title: 'coronavirus',
 				path: '/coronavirus'
+			},
+			{
+				title: 'how-to-install-and-use-postgresql-on-ubuntu-18-04',
+				path: '/how-to-install-and-use-postgresql-on-ubuntu-18-04'
 			}
 		]
 	},

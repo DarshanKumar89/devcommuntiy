@@ -3,7 +3,7 @@ var plugins = [{
       options: {"plugins":[]},
     },{
       plugin: require('/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"darshan kumar","short_name":"hello-world","start_url":"/","background_color":"#292a2d","theme_color":"#292a2d","display":"minimal-ui","icon":"src/images/hello-icon.png"},
+      options: {"plugins":[],"name":"darshan kumar","short_name":"full-stack-developer","start_url":"/full-stack-developer","background_color":"#292a2d","theme_color":"#292a2d","display":"minimal-ui","icon":"src/images/hello-icon.png"},
     },{
       plugin: require('/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/node_modules/gatsby-plugin-whatshelp/gatsby-ssr'),
       options: {"plugins":[],"facebook":"https://www.facebook.com/darshankumar89","whatsapp":"+32 465183127","email":"darshankumar38@gmail.com","call":"+32 465183127","company_logo_url":"//storage.whatshelp.io/widget/xx/xxxx/xxxxxx/logo.jpg","greeting_message":"Hello","call_to_action":"Call to Action","button_color":"#b02030","position":"right","order":"facebook,whatsapp,call,email","ga":true,"branding":false,"mobile":true,"desktop":true,"greeting":true,"shift_vertical":0,"shift_horizontal":0,"domain":"https://darshankumar.netlify.com","key":"xxx"},

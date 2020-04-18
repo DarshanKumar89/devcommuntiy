@@ -41,6 +41,11 @@
     },
     {
         "componentChunkName": "component---src-templates-page-js",
+        "jsonName": "how-to-install-and-use-postgresql-on-ubuntu-18-04-423",
+        "path": "/how-to-install-and-use-postgresql-on-ubuntu-18-04"
+    },
+    {
+        "componentChunkName": "component---src-templates-page-js",
         "jsonName": "showcase-d23",
         "path": "/showcase"
     },
