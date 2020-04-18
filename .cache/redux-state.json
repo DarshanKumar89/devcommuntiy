@@ -1916,7 +1916,7 @@
       "resolve": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io",
       "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "name": "default-site-plugin",
-      "version": "ad1027120918874506958a6bce018c11",
+      "version": "857457d5643d853faa703c661f64d879",
       "pluginOptions": {
         "plugins": []
       },
@@ -2122,7 +2122,7 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "d1bbb4ccc9c34410774c972fdeb5391f",
+        "contentDigest": "c8306237e1cf635e47c4712d047dadde",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -2262,12 +2262,14 @@
       },
       "port": "8000",
       "host": "localhost",
-      "buildTime": "2020-04-18T19:44:39.534Z",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2020-04-18T20:40:29.448Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "7e84326170d40033eb25d8a61935b324",
+        "contentDigest": "a73a04707f529d8b650fc6c12044b537",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -2277,7 +2279,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "fc3d0ae1f606d751031e8af80f27245b",
+        "contentDigest": "61789114d923bc40652a5a298cf4d26a",
         "type": "Directory",
         "description": "Directory \"src/images\"",
         "owner": "gatsby-source-filesystem"
@@ -2286,11 +2288,11 @@
       "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/images",
       "relativePath": "",
       "extension": "",
-      "size": 256,
-      "prettySize": "256 B",
-      "modifiedTime": "2020-04-06T21:19:39.388Z",
-      "accessTime": "2020-04-18T19:44:47.608Z",
-      "changeTime": "2020-04-06T21:19:39.388Z",
+      "size": 288,
+      "prettySize": "288 B",
+      "modifiedTime": "2020-04-18T19:50:39.994Z",
+      "accessTime": "2020-04-18T20:40:36.761Z",
+      "changeTime": "2020-04-18T19:50:39.994Z",
       "birthTime": "2020-03-10T12:15:13.352Z",
       "root": "/",
       "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src",
@@ -2300,20 +2302,20 @@
       "relativeDirectory": "..",
       "dev": 16777221,
       "mode": 16877,
-      "nlink": 8,
+      "nlink": 9,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
       "ino": 23497142,
       "blocks": 0,
-      "atimeMs": 1587239087608.4033,
-      "mtimeMs": 1586207979387.929,
-      "ctimeMs": 1586207979387.929,
+      "atimeMs": 1587242436761.002,
+      "mtimeMs": 1587239439994.1987,
+      "ctimeMs": 1587239439994.1987,
       "birthtimeMs": 1583842513352.2805,
-      "atime": "2020-04-18T19:44:47.608Z",
-      "mtime": "2020-04-06T21:19:39.388Z",
-      "ctime": "2020-04-06T21:19:39.388Z",
+      "atime": "2020-04-18T20:40:36.761Z",
+      "mtime": "2020-04-18T19:50:39.994Z",
+      "ctime": "2020-04-18T19:50:39.994Z",
       "birthtime": "2020-03-10T12:15:13.352Z"
     },
     "b9ff85b0-48b8-5c93-9d2a-6526ba08f73a": {
@@ -2336,7 +2338,7 @@
       "size": 8622,
       "prettySize": "8.62 kB",
       "modifiedTime": "2020-03-10T12:15:13.354Z",
-      "accessTime": "2020-03-18T15:13:50.873Z",
+      "accessTime": "2020-04-18T19:44:53.306Z",
       "changeTime": "2020-03-18T14:43:11.524Z",
       "birthTime": "2020-03-10T12:15:13.353Z",
       "root": "/",
@@ -2354,24 +2356,14 @@
       "blksize": 4096,
       "ino": 23497144,
       "blocks": 24,
-      "atimeMs": 1584544430872.6685,
+      "atimeMs": 1587239093306.4644,
       "mtimeMs": 1583842513353.8252,
       "ctimeMs": 1584542591524.4731,
       "birthtimeMs": 1583842513353.0342,
-      "atime": "2020-03-18T15:13:50.873Z",
+      "atime": "2020-04-18T19:44:53.306Z",
       "mtime": "2020-03-10T12:15:13.354Z",
       "ctime": "2020-03-18T14:43:11.524Z",
       "birthtime": "2020-03-10T12:15:13.353Z"
-    },
-    "93ac1f1a-65de-5610-9868-e6ffd384e9d8": {
-      "id": "93ac1f1a-65de-5610-9868-e6ffd384e9d8",
-      "children": [],
-      "parent": "b9ff85b0-48b8-5c93-9d2a-6526ba08f73a",
-      "internal": {
-        "contentDigest": "20d2ef53a71d2dd13985c679b0f8e708",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
     },
     "319c6e85-0077-5894-a516-8027d26073e3": {
       "id": "319c6e85-0077-5894-a516-8027d26073e3",
@@ -2393,7 +2385,7 @@
       "size": 18012,
       "prettySize": "18 kB",
       "modifiedTime": "2020-04-06T21:09:13.125Z",
-      "accessTime": "2020-04-10T19:22:58.859Z",
+      "accessTime": "2020-04-18T19:44:48.163Z",
       "changeTime": "2020-04-06T21:19:39.393Z",
       "birthTime": "2020-04-06T21:09:13.124Z",
       "root": "/",
@@ -2411,61 +2403,34 @@
       "blksize": 4096,
       "ino": 26218925,
       "blocks": 40,
-      "atimeMs": 1586546578859.0728,
+      "atimeMs": 1587239088163.1357,
       "mtimeMs": 1586207353124.8242,
       "ctimeMs": 1586207979393.4224,
       "birthtimeMs": 1586207353124.4937,
-      "atime": "2020-04-10T19:22:58.859Z",
+      "atime": "2020-04-18T19:44:48.163Z",
       "mtime": "2020-04-06T21:09:13.125Z",
       "ctime": "2020-04-06T21:19:39.393Z",
       "birthtime": "2020-04-06T21:09:13.124Z"
     },
-    "f11fc279-a310-57f8-816d-04975c1ee5ef": {
-      "id": "f11fc279-a310-57f8-816d-04975c1ee5ef",
-      "children": [
-        "75e47675-a295-5916-ae49-b139de6f4663"
-      ],
-      "parent": null,
+    "93ac1f1a-65de-5610-9868-e6ffd384e9d8": {
+      "id": "93ac1f1a-65de-5610-9868-e6ffd384e9d8",
+      "children": [],
+      "parent": "b9ff85b0-48b8-5c93-9d2a-6526ba08f73a",
       "internal": {
-        "contentDigest": "6871f6b27b75646eb567bc25cd7d7d24",
-        "type": "File",
-        "mediaType": "image/jpeg",
-        "description": "File \"src/images/hello.jpg\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/images/hello.jpg",
-      "relativePath": "hello.jpg",
-      "extension": "jpg",
-      "size": 77622,
-      "prettySize": "77.6 kB",
-      "modifiedTime": "2020-03-10T12:15:13.356Z",
-      "accessTime": "2020-03-18T15:13:50.873Z",
-      "changeTime": "2020-03-18T14:43:11.524Z",
-      "birthTime": "2020-03-10T12:15:13.354Z",
-      "root": "/",
-      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/images",
-      "base": "hello.jpg",
-      "ext": ".jpg",
-      "name": "hello",
-      "relativeDirectory": "",
-      "dev": 16777221,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 23497143,
-      "blocks": 152,
-      "atimeMs": 1584544430872.688,
-      "mtimeMs": 1583842513355.7498,
-      "ctimeMs": 1584542591524.033,
-      "birthtimeMs": 1583842513354.4292,
-      "atime": "2020-03-18T15:13:50.873Z",
-      "mtime": "2020-03-10T12:15:13.356Z",
-      "ctime": "2020-03-18T14:43:11.524Z",
-      "birthtime": "2020-03-10T12:15:13.354Z"
+        "contentDigest": "20d2ef53a71d2dd13985c679b0f8e708",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "02357e1f-71f5-5d1e-8c2e-fc4f88ec2f76": {
+      "id": "02357e1f-71f5-5d1e-8c2e-fc4f88ec2f76",
+      "children": [],
+      "parent": "319c6e85-0077-5894-a516-8027d26073e3",
+      "internal": {
+        "contentDigest": "0700110fa7816c4582ba0eb74f8cecbe",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
     },
     "3ae16bab-f3ea-578b-ae2b-ba8c8e7139aa": {
       "id": "3ae16bab-f3ea-578b-ae2b-ba8c8e7139aa",
@@ -2487,7 +2452,7 @@
       "size": 94527,
       "prettySize": "94.5 kB",
       "modifiedTime": "2020-03-18T14:53:11.384Z",
-      "accessTime": "2020-03-18T15:46:27.668Z",
+      "accessTime": "2020-04-18T19:51:44.911Z",
       "changeTime": "2020-03-18T14:53:41.097Z",
       "birthTime": "2020-03-18T14:53:11.372Z",
       "root": "/",
@@ -2505,21 +2470,68 @@
       "blksize": 4096,
       "ino": 23648092,
       "blocks": 192,
-      "atimeMs": 1584546387667.5305,
+      "atimeMs": 1587239504910.5647,
       "mtimeMs": 1584543191383.6418,
       "ctimeMs": 1584543221097.4646,
       "birthtimeMs": 1584543191371.8367,
-      "atime": "2020-03-18T15:46:27.668Z",
+      "atime": "2020-04-18T19:51:44.911Z",
       "mtime": "2020-03-18T14:53:11.384Z",
       "ctime": "2020-03-18T14:53:41.097Z",
       "birthtime": "2020-03-18T14:53:11.372Z"
     },
-    "02357e1f-71f5-5d1e-8c2e-fc4f88ec2f76": {
-      "id": "02357e1f-71f5-5d1e-8c2e-fc4f88ec2f76",
-      "children": [],
-      "parent": "319c6e85-0077-5894-a516-8027d26073e3",
+    "f11fc279-a310-57f8-816d-04975c1ee5ef": {
+      "id": "f11fc279-a310-57f8-816d-04975c1ee5ef",
+      "children": [
+        "75e47675-a295-5916-ae49-b139de6f4663"
+      ],
+      "parent": null,
       "internal": {
-        "contentDigest": "0700110fa7816c4582ba0eb74f8cecbe",
+        "contentDigest": "6871f6b27b75646eb567bc25cd7d7d24",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"src/images/hello.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/images/hello.jpg",
+      "relativePath": "hello.jpg",
+      "extension": "jpg",
+      "size": 77622,
+      "prettySize": "77.6 kB",
+      "modifiedTime": "2020-03-10T12:15:13.356Z",
+      "accessTime": "2020-04-12T09:41:36.287Z",
+      "changeTime": "2020-03-18T14:43:11.524Z",
+      "birthTime": "2020-03-10T12:15:13.354Z",
+      "root": "/",
+      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/images",
+      "base": "hello.jpg",
+      "ext": ".jpg",
+      "name": "hello",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 23497143,
+      "blocks": 152,
+      "atimeMs": 1586684496286.5454,
+      "mtimeMs": 1583842513355.7498,
+      "ctimeMs": 1584542591524.033,
+      "birthtimeMs": 1583842513354.4292,
+      "atime": "2020-04-12T09:41:36.287Z",
+      "mtime": "2020-03-10T12:15:13.356Z",
+      "ctime": "2020-03-18T14:43:11.524Z",
+      "birthtime": "2020-03-10T12:15:13.354Z"
+    },
+    "c2639869-3fde-5bbc-9625-800dcd8939ed": {
+      "id": "c2639869-3fde-5bbc-9625-800dcd8939ed",
+      "children": [],
+      "parent": "3ae16bab-f3ea-578b-ae2b-ba8c8e7139aa",
+      "internal": {
+        "contentDigest": "d8f58db2bf33b02d816c03418e6d9cca",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
@@ -2534,12 +2546,59 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "c2639869-3fde-5bbc-9625-800dcd8939ed": {
-      "id": "c2639869-3fde-5bbc-9625-800dcd8939ed",
-      "children": [],
-      "parent": "3ae16bab-f3ea-578b-ae2b-ba8c8e7139aa",
+    "53a1d786-123f-52b4-8059-9619478b56b9": {
+      "id": "53a1d786-123f-52b4-8059-9619478b56b9",
+      "children": [
+        "baff9b04-d3fa-5923-aea8-a592a7145bbb"
+      ],
+      "parent": null,
       "internal": {
-        "contentDigest": "d8f58db2bf33b02d816c03418e6d9cca",
+        "contentDigest": "66efc5f5efa93348ce14681617614c72",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/PostGRESQL_newlogo.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/images/PostGRESQL_newlogo.png",
+      "relativePath": "PostGRESQL_newlogo.png",
+      "extension": "png",
+      "size": 138164,
+      "prettySize": "138 kB",
+      "modifiedTime": "2020-04-18T19:50:20.726Z",
+      "accessTime": "2020-04-18T20:16:16.740Z",
+      "changeTime": "2020-04-18T19:50:40.054Z",
+      "birthTime": "2020-04-18T19:50:20.715Z",
+      "root": "/",
+      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/images",
+      "base": "PostGRESQL_newlogo.png",
+      "ext": ".png",
+      "name": "PostGRESQL_newlogo",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 28308972,
+      "blocks": 272,
+      "atimeMs": 1587240976739.8818,
+      "mtimeMs": 1587239420726.2869,
+      "ctimeMs": 1587239440054.1487,
+      "birthtimeMs": 1587239420715.1934,
+      "atime": "2020-04-18T20:16:16.740Z",
+      "mtime": "2020-04-18T19:50:20.726Z",
+      "ctime": "2020-04-18T19:50:40.054Z",
+      "birthtime": "2020-04-18T19:50:20.715Z"
+    },
+    "baff9b04-d3fa-5923-aea8-a592a7145bbb": {
+      "id": "baff9b04-d3fa-5923-aea8-a592a7145bbb",
+      "children": [],
+      "parent": "53a1d786-123f-52b4-8059-9619478b56b9",
+      "internal": {
+        "contentDigest": "66efc5f5efa93348ce14681617614c72",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
@@ -2564,7 +2623,7 @@
       "size": 380951,
       "prettySize": "381 kB",
       "modifiedTime": "2020-04-06T21:00:26.671Z",
-      "accessTime": "2020-04-06T21:15:31.011Z",
+      "accessTime": "2020-04-18T20:15:46.500Z",
       "changeTime": "2020-04-06T21:02:11.872Z",
       "birthTime": "2020-04-06T21:00:26.329Z",
       "root": "/",
@@ -2582,11 +2641,11 @@
       "blksize": 4096,
       "ino": 26214339,
       "blocks": 752,
-      "atimeMs": 1586207731010.5286,
+      "atimeMs": 1587240946499.869,
       "mtimeMs": 1586206826671.262,
       "ctimeMs": 1586206931872.117,
       "birthtimeMs": 1586206826329.3245,
-      "atime": "2020-04-06T21:15:31.011Z",
+      "atime": "2020-04-18T20:15:46.500Z",
       "mtime": "2020-04-06T21:00:26.671Z",
       "ctime": "2020-04-06T21:02:11.872Z",
       "birthtime": "2020-04-06T21:00:26.329Z"
@@ -2621,7 +2680,7 @@
       "size": 784297,
       "prettySize": "784 kB",
       "modifiedTime": "2020-03-18T14:49:13.856Z",
-      "accessTime": "2020-03-18T15:46:26.936Z",
+      "accessTime": "2020-04-18T19:44:48.163Z",
       "changeTime": "2020-03-18T14:54:21.821Z",
       "birthTime": "2020-03-18T14:49:13.828Z",
       "root": "/",
@@ -2639,11 +2698,11 @@
       "blksize": 4096,
       "ino": 23648336,
       "blocks": 1536,
-      "atimeMs": 1584546386936.0625,
+      "atimeMs": 1587239088163.1172,
       "mtimeMs": 1584542953856.0396,
       "ctimeMs": 1584543261821.3186,
       "birthtimeMs": 1584542953827.972,
-      "atime": "2020-03-18T15:46:26.936Z",
+      "atime": "2020-04-18T19:44:48.163Z",
       "mtime": "2020-03-18T14:49:13.856Z",
       "ctime": "2020-03-18T14:54:21.821Z",
       "birthtime": "2020-03-18T14:49:13.828Z"
@@ -2663,7 +2722,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "5f04453cf07ac3fba7a391af1f43c3ce",
+        "contentDigest": "1602a7c1174c7966b0a9e79f39e30172",
         "type": "Directory",
         "description": "Directory \"src/posts\"",
         "owner": "gatsby-source-filesystem"
@@ -2672,11 +2731,11 @@
       "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts",
       "relativePath": "",
       "extension": "",
-      "size": 160,
-      "prettySize": "160 B",
-      "modifiedTime": "2020-04-06T20:54:10.702Z",
-      "accessTime": "2020-04-18T19:44:47.631Z",
-      "changeTime": "2020-04-06T20:54:10.702Z",
+      "size": 192,
+      "prettySize": "192 B",
+      "modifiedTime": "2020-04-18T19:48:39.565Z",
+      "accessTime": "2020-04-18T20:40:36.798Z",
+      "changeTime": "2020-04-18T19:48:39.565Z",
       "birthTime": "2020-03-10T12:15:13.358Z",
       "root": "/",
       "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src",
@@ -2686,114 +2745,20 @@
       "relativeDirectory": "..",
       "dev": 16777221,
       "mode": 16877,
-      "nlink": 5,
+      "nlink": 6,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
       "ino": 23497139,
       "blocks": 0,
-      "atimeMs": 1587239087631.325,
-      "mtimeMs": 1586206450701.755,
-      "ctimeMs": 1586206450701.755,
+      "atimeMs": 1587242436797.7427,
+      "mtimeMs": 1587239319564.95,
+      "ctimeMs": 1587239319564.95,
       "birthtimeMs": 1583842513357.7473,
-      "atime": "2020-04-18T19:44:47.631Z",
-      "mtime": "2020-04-06T20:54:10.702Z",
-      "ctime": "2020-04-06T20:54:10.702Z",
-      "birthtime": "2020-03-10T12:15:13.358Z"
-    },
-    "e7fb0b44-cd7e-5d20-805f-881b898a9c47": {
-      "id": "e7fb0b44-cd7e-5d20-805f-881b898a9c47",
-      "children": [
-        "431b498c-b754-5b55-bda3-5e82eabffb6b"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "28227599a829b61c2bac1260acf25b54",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/posts/coronavirus.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "posts",
-      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/coronavirus.md",
-      "relativePath": "coronavirus.md",
-      "extension": "md",
-      "size": 874,
-      "prettySize": "874 B",
-      "modifiedTime": "2020-04-06T21:13:01.618Z",
-      "accessTime": "2020-04-06T21:15:31.011Z",
-      "changeTime": "2020-04-06T21:13:01.618Z",
-      "birthTime": "2020-04-06T20:54:10.702Z",
-      "root": "/",
-      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts",
-      "base": "coronavirus.md",
-      "ext": ".md",
-      "name": "coronavirus",
-      "relativeDirectory": "",
-      "dev": 16777221,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 26213176,
-      "blocks": 8,
-      "atimeMs": 1586207731010.5588,
-      "mtimeMs": 1586207581618.1545,
-      "ctimeMs": 1586207581618.1545,
-      "birthtimeMs": 1586206450701.7188,
-      "atime": "2020-04-06T21:15:31.011Z",
-      "mtime": "2020-04-06T21:13:01.618Z",
-      "ctime": "2020-04-06T21:13:01.618Z",
-      "birthtime": "2020-04-06T20:54:10.702Z"
-    },
-    "ed1e2b1c-c18c-5eba-b2b0-90feb230d5fa": {
-      "id": "ed1e2b1c-c18c-5eba-b2b0-90feb230d5fa",
-      "children": [
-        "44870062-0054-51e7-999a-34a23233d5a1"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "fed12501532127fb211460b282b35392",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/posts/entrepreneur.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "posts",
-      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/entrepreneur.md",
-      "relativePath": "entrepreneur.md",
-      "extension": "md",
-      "size": 1465,
-      "prettySize": "1.47 kB",
-      "modifiedTime": "2020-03-24T15:05:30.114Z",
-      "accessTime": "2020-03-24T15:05:47.506Z",
-      "changeTime": "2020-03-24T15:05:30.114Z",
-      "birthTime": "2020-03-10T12:15:13.358Z",
-      "root": "/",
-      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts",
-      "base": "entrepreneur.md",
-      "ext": ".md",
-      "name": "entrepreneur",
-      "relativeDirectory": "",
-      "dev": 16777221,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 23497140,
-      "blocks": 8,
-      "atimeMs": 1585062347505.7544,
-      "mtimeMs": 1585062330113.579,
-      "ctimeMs": 1585062330113.579,
-      "birthtimeMs": 1583842513357.8389,
-      "atime": "2020-03-24T15:05:47.506Z",
-      "mtime": "2020-03-24T15:05:30.114Z",
-      "ctime": "2020-03-24T15:05:30.114Z",
+      "atime": "2020-04-18T20:40:36.798Z",
+      "mtime": "2020-04-18T19:48:39.565Z",
+      "ctime": "2020-04-18T19:48:39.565Z",
       "birthtime": "2020-03-10T12:15:13.358Z"
     },
     "677d53b6-10a0-5256-877c-13757aa4001f": {
@@ -2843,27 +2808,146 @@
       "ctime": "2020-03-26T12:04:08.774Z",
       "birthtime": "2020-03-10T12:15:13.358Z"
     },
-    "431b498c-b754-5b55-bda3-5e82eabffb6b": {
-      "id": "431b498c-b754-5b55-bda3-5e82eabffb6b",
-      "children": [],
-      "parent": "e7fb0b44-cd7e-5d20-805f-881b898a9c47",
+    "ed1e2b1c-c18c-5eba-b2b0-90feb230d5fa": {
+      "id": "ed1e2b1c-c18c-5eba-b2b0-90feb230d5fa",
+      "children": [
+        "44870062-0054-51e7-999a-34a23233d5a1"
+      ],
+      "parent": null,
       "internal": {
-        "content": "\nCoronavirus Symptoms (COVID-19)\nReported illnesses have ranged from people with mild symptoms to people being severely ill and dying.\n\n```\nSymptoms can include:\n- Fever\n- Cough\n- Shortness of breath\n```\n\n###Useful links\n- [**europe spread in map**](http://coronaviruseurope.org/)\n- [**coronavirus symptoms**](https://www.worldometers.info/coronavirus/coronavirus-symptoms/)\n- [**coronavirus incubation period**](https://www.worldometers.info/coronavirus/coronavirus-incubation-period/)\n- [**india spread in map**](https://www.covid19india.org/)\n\n###Contributions\n[**GITHUB**](https://github.com/Mozaycs/coronaviruseurope.org)",
-        "type": "MarkdownRemark",
-        "contentDigest": "58dd655a87b06d44716a860d3cce7926",
-        "owner": "gatsby-transformer-remark"
+        "contentDigest": "fed12501532127fb211460b282b35392",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/posts/entrepreneur.md\"",
+        "owner": "gatsby-source-filesystem"
       },
-      "frontmatter": {
-        "title": "Coronavirus updates",
-        "date": "2020-04-06",
-        "path": "/coronavirus",
-        "author": "Darshan Kumar",
-        "excerpt": "As a support to COVID-19 and helping the community with updates of https://coronaviruseurope.org ",
-        "coverImage": "../images/coronavirus.png"
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/entrepreneur.md",
+      "relativePath": "entrepreneur.md",
+      "extension": "md",
+      "size": 1465,
+      "prettySize": "1.47 kB",
+      "modifiedTime": "2020-03-24T15:05:30.114Z",
+      "accessTime": "2020-03-24T15:05:47.506Z",
+      "changeTime": "2020-03-24T15:05:30.114Z",
+      "birthTime": "2020-03-10T12:15:13.358Z",
+      "root": "/",
+      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts",
+      "base": "entrepreneur.md",
+      "ext": ".md",
+      "name": "entrepreneur",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 23497140,
+      "blocks": 8,
+      "atimeMs": 1585062347505.7544,
+      "mtimeMs": 1585062330113.579,
+      "ctimeMs": 1585062330113.579,
+      "birthtimeMs": 1583842513357.8389,
+      "atime": "2020-03-24T15:05:47.506Z",
+      "mtime": "2020-03-24T15:05:30.114Z",
+      "ctime": "2020-03-24T15:05:30.114Z",
+      "birthtime": "2020-03-10T12:15:13.358Z"
+    },
+    "e7fb0b44-cd7e-5d20-805f-881b898a9c47": {
+      "id": "e7fb0b44-cd7e-5d20-805f-881b898a9c47",
+      "children": [
+        "431b498c-b754-5b55-bda3-5e82eabffb6b"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "28227599a829b61c2bac1260acf25b54",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/posts/coronavirus.md\"",
+        "owner": "gatsby-source-filesystem"
       },
-      "excerpt": "",
-      "rawMarkdownBody": "\nCoronavirus Symptoms (COVID-19)\nReported illnesses have ranged from people with mild symptoms to people being severely ill and dying.\n\n```\nSymptoms can include:\n- Fever\n- Cough\n- Shortness of breath\n```\n\n###Useful links\n- [**europe spread in map**](http://coronaviruseurope.org/)\n- [**coronavirus symptoms**](https://www.worldometers.info/coronavirus/coronavirus-symptoms/)\n- [**coronavirus incubation period**](https://www.worldometers.info/coronavirus/coronavirus-incubation-period/)\n- [**india spread in map**](https://www.covid19india.org/)\n\n###Contributions\n[**GITHUB**](https://github.com/Mozaycs/coronaviruseurope.org)",
-      "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/coronavirus.md"
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/coronavirus.md",
+      "relativePath": "coronavirus.md",
+      "extension": "md",
+      "size": 874,
+      "prettySize": "874 B",
+      "modifiedTime": "2020-04-06T21:13:01.618Z",
+      "accessTime": "2020-04-18T19:53:38.026Z",
+      "changeTime": "2020-04-06T21:13:01.618Z",
+      "birthTime": "2020-04-06T20:54:10.702Z",
+      "root": "/",
+      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts",
+      "base": "coronavirus.md",
+      "ext": ".md",
+      "name": "coronavirus",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 26213176,
+      "blocks": 8,
+      "atimeMs": 1587239618025.6353,
+      "mtimeMs": 1586207581618.1545,
+      "ctimeMs": 1586207581618.1545,
+      "birthtimeMs": 1586206450701.7188,
+      "atime": "2020-04-18T19:53:38.026Z",
+      "mtime": "2020-04-06T21:13:01.618Z",
+      "ctime": "2020-04-06T21:13:01.618Z",
+      "birthtime": "2020-04-06T20:54:10.702Z"
+    },
+    "a51253c4-f731-5a2c-8081-8a0630870918": {
+      "id": "a51253c4-f731-5a2c-8081-8a0630870918",
+      "children": [
+        "fe70240e-0ab3-5f03-a7a4-5ac736604a2a"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "8087829ec8e0e55f97d58226226cd205",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/posts/how-to-install-and-use-postgresql-on-ubuntu-18-04.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/how-to-install-and-use-postgresql-on-ubuntu-18-04.md",
+      "relativePath": "how-to-install-and-use-postgresql-on-ubuntu-18-04.md",
+      "extension": "md",
+      "size": 2903,
+      "prettySize": "2.9 kB",
+      "modifiedTime": "2020-04-18T20:47:43.979Z",
+      "accessTime": "2020-04-18T20:47:43.978Z",
+      "changeTime": "2020-04-18T20:47:43.979Z",
+      "birthTime": "2020-04-18T19:48:39.565Z",
+      "root": "/",
+      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts",
+      "base": "how-to-install-and-use-postgresql-on-ubuntu-18-04.md",
+      "ext": ".md",
+      "name": "how-to-install-and-use-postgresql-on-ubuntu-18-04",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 28308787,
+      "blocks": 8,
+      "atimeMs": 1587242863978.2375,
+      "mtimeMs": 1587242863978.8796,
+      "ctimeMs": 1587242863978.8796,
+      "birthtimeMs": 1587239319564.9167,
+      "atime": "2020-04-18T20:47:43.978Z",
+      "mtime": "2020-04-18T20:47:43.979Z",
+      "ctime": "2020-04-18T20:47:43.979Z",
+      "birthtime": "2020-04-18T19:48:39.565Z"
     },
     "44870062-0054-51e7-999a-34a23233d5a1": {
       "id": "44870062-0054-51e7-999a-34a23233d5a1",
@@ -2885,6 +2969,28 @@
       "excerpt": "",
       "rawMarkdownBody": "\n\n###Executive / Entrepreneurship Experience :\n\n •\tTechnical Product Development\n\n •\tLeadership and Team building \n\n •\tClient outreach \n\n •\tProduct development \n\n •\tResearch and development \n\n •\tCustomer engagement \n\n •\tICT and Business relation for product development \n\n •\tStartup mentor \n\n •\tMVP builder \n\n •\tLifecycle management \n\n •\tTechnical architecture \n\n •\tIt service management and delivery \n\n •\tAgile methodologies \n\n •\tStake holder management \n\n •\tRisk management \n\n •\tSoftware development lifecycle \n\n>As a passionate Co-founder & CTO role in Mozayc, FrogFish, DelRio consulting is to create and innovate product development. Being a technology pioneer responsible for ensuring a company is making great products for their customers. Also the driver behind the commercialization of technology.\n>Develop coherent platforms backed up with useful features on a variety of digital channels. Importance in these companies is rising due to the fact that users are demanding increasingly sophisticated products. A business intuitive and contribute cost-effective solutions with creative architectures.\n\n",
       "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/entrepreneur.md"
+    },
+    "431b498c-b754-5b55-bda3-5e82eabffb6b": {
+      "id": "431b498c-b754-5b55-bda3-5e82eabffb6b",
+      "children": [],
+      "parent": "e7fb0b44-cd7e-5d20-805f-881b898a9c47",
+      "internal": {
+        "content": "\nCoronavirus Symptoms (COVID-19)\nReported illnesses have ranged from people with mild symptoms to people being severely ill and dying.\n\n```\nSymptoms can include:\n- Fever\n- Cough\n- Shortness of breath\n```\n\n###Useful links\n- [**europe spread in map**](http://coronaviruseurope.org/)\n- [**coronavirus symptoms**](https://www.worldometers.info/coronavirus/coronavirus-symptoms/)\n- [**coronavirus incubation period**](https://www.worldometers.info/coronavirus/coronavirus-incubation-period/)\n- [**india spread in map**](https://www.covid19india.org/)\n\n###Contributions\n[**GITHUB**](https://github.com/Mozaycs/coronaviruseurope.org)",
+        "type": "MarkdownRemark",
+        "contentDigest": "58dd655a87b06d44716a860d3cce7926",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Coronavirus updates",
+        "date": "2020-04-06",
+        "path": "/coronavirus",
+        "author": "Darshan Kumar",
+        "excerpt": "As a support to COVID-19 and helping the community with updates of https://coronaviruseurope.org ",
+        "coverImage": "../images/coronavirus.png"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nCoronavirus Symptoms (COVID-19)\nReported illnesses have ranged from people with mild symptoms to people being severely ill and dying.\n\n```\nSymptoms can include:\n- Fever\n- Cough\n- Shortness of breath\n```\n\n###Useful links\n- [**europe spread in map**](http://coronaviruseurope.org/)\n- [**coronavirus symptoms**](https://www.worldometers.info/coronavirus/coronavirus-symptoms/)\n- [**coronavirus incubation period**](https://www.worldometers.info/coronavirus/coronavirus-incubation-period/)\n- [**india spread in map**](https://www.covid19india.org/)\n\n###Contributions\n[**GITHUB**](https://github.com/Mozaycs/coronaviruseurope.org)",
+      "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/coronavirus.md"
     },
     "8864d128-c7cb-575d-98f5-a01b99790431": {
       "id": "8864d128-c7cb-575d-98f5-a01b99790431",
@@ -2938,7 +3044,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "89b8804e8f9021c485dd5c3299d5e4b1",
+        "contentDigest": "68903add9129d4bb2aad53554855c1d7",
         "type": "Directory",
         "description": "Directory \"src/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -2950,7 +3056,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2020-03-10T12:15:13.358Z",
-      "accessTime": "2020-04-18T19:44:47.637Z",
+      "accessTime": "2020-04-18T20:40:36.855Z",
       "changeTime": "2020-03-18T14:43:11.536Z",
       "birthTime": "2020-03-10T12:15:13.357Z",
       "root": "/",
@@ -2968,11 +3074,11 @@
       "blksize": 4096,
       "ino": 23497169,
       "blocks": 0,
-      "atimeMs": 1587239087637.0525,
+      "atimeMs": 1587242436855.251,
       "mtimeMs": 1583842513357.5461,
       "ctimeMs": 1584542591535.5718,
       "birthtimeMs": 1583842513356.7083,
-      "atime": "2020-04-18T19:44:47.637Z",
+      "atime": "2020-04-18T20:40:36.855Z",
       "mtime": "2020-03-10T12:15:13.358Z",
       "ctime": "2020-03-18T14:43:11.536Z",
       "birthtime": "2020-03-10T12:15:13.357Z"
@@ -2995,7 +3101,7 @@
       "size": 318,
       "prettySize": "318 B",
       "modifiedTime": "2020-03-10T12:15:13.357Z",
-      "accessTime": "2020-03-18T15:13:50.873Z",
+      "accessTime": "2020-04-18T19:44:53.341Z",
       "changeTime": "2020-03-18T14:43:11.534Z",
       "birthTime": "2020-03-10T12:15:13.357Z",
       "root": "/",
@@ -3013,13 +3119,60 @@
       "blksize": 4096,
       "ino": 23497171,
       "blocks": 8,
-      "atimeMs": 1584544430872.7725,
+      "atimeMs": 1587239093341.3733,
       "mtimeMs": 1583842513357.032,
       "ctimeMs": 1584542591534.4924,
       "birthtimeMs": 1583842513356.8452,
-      "atime": "2020-03-18T15:13:50.873Z",
+      "atime": "2020-04-18T19:44:53.341Z",
       "mtime": "2020-03-10T12:15:13.357Z",
       "ctime": "2020-03-18T14:43:11.534Z",
+      "birthtime": "2020-03-10T12:15:13.357Z"
+    },
+    "fb3fc354-1d0c-55fe-84d5-98b57d118ed8": {
+      "id": "fb3fc354-1d0c-55fe-84d5-98b57d118ed8",
+      "children": [
+        "66b77a2e-a497-5fbb-91b5-82c6b7d7454b"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "62803219c540d61d7d61c5d665bd8248",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/about.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/about.md",
+      "relativePath": "about.md",
+      "extension": "md",
+      "size": 4970,
+      "prettySize": "4.97 kB",
+      "modifiedTime": "2020-04-10T19:50:22.342Z",
+      "accessTime": "2020-04-18T19:44:48.093Z",
+      "changeTime": "2020-04-10T19:50:22.342Z",
+      "birthTime": "2020-03-10T12:15:13.357Z",
+      "root": "/",
+      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages",
+      "base": "about.md",
+      "ext": ".md",
+      "name": "about",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 23497172,
+      "blocks": 16,
+      "atimeMs": 1587239088092.547,
+      "mtimeMs": 1586548222342.3376,
+      "ctimeMs": 1586548222342.3376,
+      "birthtimeMs": 1583842513357.155,
+      "atime": "2020-04-18T19:44:48.093Z",
+      "mtime": "2020-04-10T19:50:22.342Z",
+      "ctime": "2020-04-10T19:50:22.342Z",
       "birthtime": "2020-03-10T12:15:13.357Z"
     },
     "2a841927-8eee-5ab1-8e09-90df6a1a4cc6": {
@@ -3042,7 +3195,7 @@
       "size": 15949,
       "prettySize": "15.9 kB",
       "modifiedTime": "2020-03-24T14:11:42.650Z",
-      "accessTime": "2020-03-24T14:43:03.140Z",
+      "accessTime": "2020-04-18T19:44:48.093Z",
       "changeTime": "2020-03-24T14:11:42.650Z",
       "birthTime": "2020-03-10T12:15:13.358Z",
       "root": "/",
@@ -3060,81 +3213,14 @@
       "blksize": 4096,
       "ino": 23497170,
       "blocks": 32,
-      "atimeMs": 1585060983139.7524,
+      "atimeMs": 1587239088092.553,
       "mtimeMs": 1585059102649.7844,
       "ctimeMs": 1585059102649.7844,
       "birthtimeMs": 1583842513357.5403,
-      "atime": "2020-03-24T14:43:03.140Z",
+      "atime": "2020-04-18T19:44:48.093Z",
       "mtime": "2020-03-24T14:11:42.650Z",
       "ctime": "2020-03-24T14:11:42.650Z",
       "birthtime": "2020-03-10T12:15:13.358Z"
-    },
-    "fb3fc354-1d0c-55fe-84d5-98b57d118ed8": {
-      "id": "fb3fc354-1d0c-55fe-84d5-98b57d118ed8",
-      "children": [
-        "66b77a2e-a497-5fbb-91b5-82c6b7d7454b"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "62803219c540d61d7d61c5d665bd8248",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/pages/about.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/about.md",
-      "relativePath": "about.md",
-      "extension": "md",
-      "size": 4970,
-      "prettySize": "4.97 kB",
-      "modifiedTime": "2020-04-10T19:50:22.342Z",
-      "accessTime": "2020-04-10T19:51:16.140Z",
-      "changeTime": "2020-04-10T19:50:22.342Z",
-      "birthTime": "2020-03-10T12:15:13.357Z",
-      "root": "/",
-      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages",
-      "base": "about.md",
-      "ext": ".md",
-      "name": "about",
-      "relativeDirectory": "",
-      "dev": 16777221,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 23497172,
-      "blocks": 16,
-      "atimeMs": 1586548276140.0935,
-      "mtimeMs": 1586548222342.3376,
-      "ctimeMs": 1586548222342.3376,
-      "birthtimeMs": 1583842513357.155,
-      "atime": "2020-04-10T19:51:16.140Z",
-      "mtime": "2020-04-10T19:50:22.342Z",
-      "ctime": "2020-04-10T19:50:22.342Z",
-      "birthtime": "2020-03-10T12:15:13.357Z"
-    },
-    "e58fc77a-21af-5819-a464-2eda9b87edd1": {
-      "id": "e58fc77a-21af-5819-a464-2eda9b87edd1",
-      "children": [],
-      "parent": "2a841927-8eee-5ab1-8e09-90df6a1a4cc6",
-      "internal": {
-        "content": "\n## Achievement : \n- Apache Big Data committer since 2015 contributing to projects like atlas, falcon, Kona. \n- Startup mentor for technology companies like TRIPA, Gify studio, pavilion foods D&F various startups globally.\n- Member of Slovak Business Agency helping startups to grow and build MVP for startups.\n- Successfully build MVP for Belgium Post for the automation of post office with retail team.\n- Part of ReactEurope and Apache conference in Europe.\n\n## Professional Experience \n\n1. ####Client:  TCS(end client : Bpost)  (April 2019 -December 2019)\n    ####Project : NERO\n    ####Role: Solution Designer | Technical Architect \n   \n  >  Working the product of Client for handling the couriers, parcel and letters in the post office in an automated as a part of cloud solution. It is more of focusing on Nodejs and AWS cloud services. There major components that technically handle the automation for managing the customers who send/receive letters, parcel and make some financial transactions. \n\n    Responsibilities:\n      •\tManaging the Sprints - agile Scrum and planning story and work with product owners \n      •\tTechnical specification and planning architecture of Backend and frontend\n      •\tDB schema and cloud solution architecture and its implementations and building micro service \t\t\tarchitecture .\n      I manage the AWS cloud formation,S3,ECS, EC2, Cluster , ECR, Lamda, Cloudwatch and            many more AWS components                       \n      \n    Environment:\n      •\tAngularjs, Webpack, NodeJS, AWS,  Mirco service architecture\n\n2. ####Client:  Shem (Jan 2018 -December 2018)\n    ###Role: Solution Designer\n   > Shem is an e-commerce based shop selling authentic designer jewellery. For now selling online, managing the B2c and B2b market with managing the orders, inventory, stocks, logistics and payment gateway integration and also crept wallets with admin panel and consumer UI with components of vue.js for re-using those managing components and stitched to build the UI structure and integrating API for those vue js components. \n\n\n    Responsibilities:\n      •\tManaging the Sprints - agile Scrum and planning story and work with product owners \n      •\tTechnical specification and planning architecture of Backend and frontend\n      •\tDB schema and cloud solution architecture and its implementations and building micro service \t\t\tarchitecture .\n      •\tmongo DB transactions\n      \n    Environment:\n      •\tReactJS, Webpack, NodeJS, AWS, mongoDB, Mirco service architecture\n\n3. ####Client:Delicious and Fresh (Jan 2017 -December 2018)\n    #####Role: Technical Architect\n    >D&F is an e-commerce solution like a food delivery application from different restaurants. selling online and also at big market place where you can buy in stores and also managing the B2c and B2b market. The Application manages orders, inventory, stocks, logistics with dispatcher management and managing the delivery of hot food at right time in and around UAE / middle east. Also cryptocurrency wallets with admin panel. Consumer UI with components of ReactJS for re-using those managing components and stitched to build the UI structure.\n\n\n    Responsibilities:\n      •\tBuilding and motivating team to build the product and guide them to solve complexities in the project implementation \n      •\tAgile Scrum manager / Technical lead to delegate task and help in development stages \n      •\tDB schema and cloud solution architecture and its implementations and building micro service architecture .\n\t\n    Environment:\n      •\tReactJS, Webpack, NodeJS, AWS, mongoDB, postgres, apache hadoop, Micro service architecture\n\n\n4. ####Client: 01 people (December 2018 -March 2019)\n      #####Role: Blockchain Consultant \n\n      >01Younited is betting platform using crypto currency is build etherium and using a trading platform.We YOUnite all players within the truly fair, decentralised betting and gaming platform. Our unique Solution based on native blockchain technology is completely changing the betting and gaming industry. YOUnited players always bet and play against each other with no house or any third-party interaction. This means that 100% prize pool is distributed to the winner(s). Our ultimate solution provides 100% return to player (RTP), zero house edge, and no house fees.\n\n      Responsibilities :\n        •\tUsing ReactJS to build the front end and API integration\n        •\tBackend is building using Node\n        •\tPostrges SQL DB transactions\n        \n      Environment:\n        •\tBootstrap, ReactJS, Webpack, Postgres, NodeJS, AWS, GCP\n\n5. ####Client:  Jingle Chat Bots (Feb 2018 -December 2018)\n    #####Role: UI Lead\n\n    >Jingle Bot based chatting system for users to look for local shopping and restaurants. The project is  about asking bot for searching some product or nearby shops user is looking for. Bot internally analyses the chats and does pattern matching on details and used google AI based systems and some google analytics, to analyse the chat messages and making the bot more intelligent.\n\n\n    Responsibilities:\n      •\tBuilding and motivating team to build the product and guide them to solve complexities  \t      \n      •\tAgile Scrum manager / Technical lead to delegate task and help in development stages \n      •\tDB schema and cloud solution architecture and its implementations and building micro service \t\t\tarchitecture. Also solve if any hurdles in the project implementation with the team.\n      \n    Environment:\n      •\tBootstrap, React-JS, Webpack, Postgres, Java-SPRING, NodeJS, AWS, GCP , Micro service architecture\n\n\n\n6. ####Client: Sycamore - MDR, SSD  (April 2017 -June 2018)\n    #####Role:Senior UI Developer\n\n    >The project is about health care solution, it has features to maintain data for drugs manufacture like phases of drug compositions, from clinical research , site analysis for drug validations, so the complete software handles verification and validation of drug which is required for FDA drug approvals.\n\n\n    Responsibilities:\n      •\tUsing React JS to build the front end and API integration\n      •\tBackend is building using ROR\n      •\tBlockchain technology for health care domain\n      •\tAPI based connecting to banking structure \n\n    Environment:\n      •\tBootstrap, React-JS, Webpack, Postgres, Ruby, Micro service architecture\n\n\n7. ####Client: Hashtaag (April 2016 -April 2018)\n    #####Project : Krazy meals \n    #####Role: Technical Architect\n\n    >The project is about a e-commerce solution, it has features like add to cart, product description, product management, product ordering and tracking of product shipping and integrated payment gateway for checkout process and the admin panel to manage vendors and also product uploading.\n\n    Responsibilities:\n      •\tUsing React - Redux JS to build the front end and API integration\n      •\tBackend is building using NodeJS and MongoDB\n      •\tPayment Gateway integration like paypal, payumoney, payatm, direct-payEU, g2pay\n      •\tBlock chain technology for payment gateways through bitcoins \n\n    Environment:\n      •\tBootstrap, ReactJS, Webpack, NodeJS, Mongo DB\n\n\n8. ####Client: Hashtaag (April 2016 -April 2018)\n    #####Project : PaperBoy\n    #####Role: Full Stack Developer\n\n    >The project is about managing the news papers online and upon location and language we can select paper, there is an option to select papers and provide subscription of papers.The payment gateway is integrated for subscribing and also subscribed users can view the papers.The project is a developing as per iteration of product design changes of the developing concepts of consumer experience.\n\n\n    Responsibilities:\n      •\tAngularJS for rendering API\n      •\tUI designs using React-Bootstrap\n      •\tPayment gateway integration \n\n    Environment:\n      •\tBootstrap, AngularJS, JS, Gulp, NodeJS, Mongo DB, Java\n\n\n\n9. ###Client: Hashtaag (April 2016 -April 2018)\n    #####Client: Doors\n    #####Role: Full Stack Developer\n\n    >The project is about aggregating all the real estate builder details and it has admin panel to manage properties of different levels like broker, owners and property builder and its similar to common floor but its high level aggregator and compete management of properties available, floor plan and complete details.\n\n\n    Responsibilities:\n      •\tAngularJS for rendering API\n      •\tUI designs using React-Bootstrap\n\n    Environment:\n      •\tBootstrap, AngularJS, JS, Gulp\n\n10. ####Client: HortonWorks / Hadoop data platform / Cloudera (Nov 2014 - April 2016)\n    #####Project: Apache Falcon (Big data layer)\n    #####Role: Full Stack Developer\n\n    >Falcon is a data processing and management solution for Hadoop designed for data motion, coordination of data pipelines, lifecycle management, and data discovery. Falcon enables end consumers to quickly onboard their data and its associated processing and management tasks on Hadoop clusters.\n\n    Responsibilities:\n      •\tAngularJS for rendering API\n      •\tD3JS for lineage graph\n      •\tHandling API in Java\n      •\tAngularJS and D3JS developer.\n      •\tGruntJS, NodeJS used for developing schema \n      •\tJava spring framework for building API \n\n    Environment:\n      •\tBootstrap, AngularJS, D3JS, Java spring framework and GruntJS\n\n11. ####Client: HortonWorks / Hadoop data platform / Cloudera (Nov 2014 - April 2016)\n    #####Project: Apache Atlas (Big Data Layer)\n    #####Role: Developer\n\n    >The project is about data governance initiative, DGI will develop an extensible foundation that addresses enterprise requirements for comprehensive data governance. Enterprises adopting modern data architecture must address certain realities when legacy and new data from disparate platforms are brought under management. It will also feature deep integration with Apache Falcon. It focuses on building user interface for the DGI metadata with the visualisation of the data.\n\n    Responsibilities:\n      •\tAngularJS for rendering API\n      •\tD3JS for lineage graph\n      •\tHandling API in Java\n      •\tWorking on metadata for managing API\n      •\tAngularJS and D3JS developer\n\n    Environment:\n      •\tBootstrap, AngularJS, D3JS, Java spring framework and GruntJS, Java\n\n12. ####Client: MPR Global Solutions (Nov 2014 - Jan 2014)\n    #####Project : S4S \n    #####Role: Developer\n\n   > The project is about providing services and its basically startup for services like accounting services,management services,consulting and financial services. Its a app which all users in US based on location you can look for service and each service will have multiple vendors or service providers and on their review and quality of service provided user can choose service .Application provides a platform for all the service of different category and help user to look for service on their requirement. \n\n    Responsibilities:\n      •\tAngularJS for rendering API\n      •\tHandling API using Parse.\n      •\tUsed firebase to store \n      •\tAngular UI Bootstrap for the responsive UI  .\n      •\tAPI based connecting to wallets \n\n    Environment:\n      •\tBootstrap, AngularJS, GruntJS, Firbase\n\n13. ###Client: MPR Global Solutions (Nov 2014 - Jan 2014)\n    #####Project: SeatHero \n    #####Role: Developer\n\n    >The project is about i an exclusive club that provides movie lovers with deep discount seats on last-minute unsold movie tickets. Membership module give the user three month of validity to choose movies.\n\n    Responsibilities:\n      •\tDeveloped using Laravel 5\n      •\tAngular UI Bootstrap for the responsive UI\n\n    Environment:\n      •\tBootstrap, Laravel PHP, MySQL\n\n14. ###Client: Isolcell Italia(Aug 2014 - Jan 2015)\n    #####Project: Isolcell Italia\n    #####Role: Developer\n\n    >The Isolcell project is about controlling the temperature of the rooms. The rooms are equipped with thermometers, the room contains fruits that have to be in a controlled temperature and the web based application used to control the room and handle the cooling and ventilation of the room. The alarms used to alert by measuring the high and low temperature threshold.\n\n    Responsibilities:\n      •\tDeveloped the room diagram using Canvas.JS API\n      •\tImplemented REST API using JavaScript to communicate with the can bus\n      •\tImplemented the JSON playload for loading the data from the device\n      •\tThe room diagram is generic and able to control from GUI and is made as library\n    Environment:\n      •\tBootstrap, Embedded C, JavaScript, REST API, Canvas.JS, JQuery\n\n\n15. ###Client: Cralina\n    #####Role: Developer\n\n    >The Cralina website is build using CMS system using Wordpress framework. The website is about the services and training provided by Cralina. The website is made mobile responsive.\n\n    Responsibilities:\n      •\tFront end developer\n\n    Environment:\n      •\tBootstrap 3.0, Wordpress, Canvas.JS, JQuery\n\n\n16. ###Client: Sourceasy (July 2014 - Oct 2014)\n    #####Role: Developer\n\n    >The Sourceasy is software product that builds an interface between the vendors and clothing manufacturers or clients. This is a web application which maintains the details of customers and handles the trading of clothes and maintains the information of bulk order of clothes with the communication of orders according to vendors.\n\n    Responsibilities:\n      •\tDeveloped the Worker Server using Iron.IO\n      •\tImplemented Pusher API for chat application\n      •\tDeveloped UI using AngularJS\n      •\tDeveloped scheme manager using REST API in Laravel\n      •\tDeveloped the AngularJS REST API client to communicate with API server\n      •\tDeveloped API using Laravel for the for worker server and CRUD operations\n      •\tDeveloped Static website using AngularJS\n      •\tDeveloped Checklist APP\n      •\tImplemented Codeception for API testing\n      •\tImplemented Guzzle implementation for API performance\n\n    Environment:\n      •\tLaravel 4.0, PHP, AngularJS, LAMP, Amazon EC2, Bootstrap 3.0\n\n17. ####Client : Larsen & Turbo technology services (Jan 2014 - Sep 2014)\n    #####Project: Remote control and access of devices\n    #####Role: Developer\n\n    >The remote control and access of devices is operated through cloud services. Mobile application consumes the WCF service, which is hosted on Amazon Cloud. The WCF service will receive data from the device and the EPC Mod parser will parse command and send to the WCF service. The data from device is also updated in RDS database for generating health report or track the previous history of the device.\n\n    Responsibilities:\n      •\tDeveloped asynchronous TCP socket server\n      •\tImplemented WCF REST API for the services\n      •\tDeployed services on cloud\n      •\tWorked on AMAZON EC2 and RDS instance\n      •\tImplemented MSMQ for fetching data\n      •\tDeveloped push notification for Android and iOS\n      •\tFramed the architecture by using Signal-R open source technology\n      •\tFramed WCF services\n\n    Environment:\n      •\tNET 4.0, SQL Server, Amazon Cloud Service\n\n\n18. ####Client: AMCEC College Management (Oct 2013 - Dec 2013)\n    #####Role: Developer\n\n    >The administration & accounting system aims in managing the accounts and also manages the examination sections. My key role in this project is designing and development using PHP and having MySQL as the database. Accounts module involves in managing the admission and fee structure, once the fee is paid, a copy of receipt is sent via E-mail to the student.\n\n    Responsibilities:\n      •\tDesigned the accounts, student information and examination modules\n      •\tDesigned database\n      •\tIntegrated E-mail service for sending fee receipts\n      •\tGenerating reports for academics report\n\n    Environment:\n      •\tPHP5, MySQL, Windows 7\n\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "1ac493f0f2f2df2cd3845f3693c70f58",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "Showcase",
-        "date": "2020-03-23",
-        "author": "Darshan Kumar",
-        "path": "/showcase"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\n## Achievement : \n- Apache Big Data committer since 2015 contributing to projects like atlas, falcon, Kona. \n- Startup mentor for technology companies like TRIPA, Gify studio, pavilion foods D&F various startups globally.\n- Member of Slovak Business Agency helping startups to grow and build MVP for startups.\n- Successfully build MVP for Belgium Post for the automation of post office with retail team.\n- Part of ReactEurope and Apache conference in Europe.\n\n## Professional Experience \n\n1. ####Client:  TCS(end client : Bpost)  (April 2019 -December 2019)\n    ####Project : NERO\n    ####Role: Solution Designer | Technical Architect \n   \n  >  Working the product of Client for handling the couriers, parcel and letters in the post office in an automated as a part of cloud solution. It is more of focusing on Nodejs and AWS cloud services. There major components that technically handle the automation for managing the customers who send/receive letters, parcel and make some financial transactions. \n\n    Responsibilities:\n      •\tManaging the Sprints - agile Scrum and planning story and work with product owners \n      •\tTechnical specification and planning architecture of Backend and frontend\n      •\tDB schema and cloud solution architecture and its implementations and building micro service \t\t\tarchitecture .\n      I manage the AWS cloud formation,S3,ECS, EC2, Cluster , ECR, Lamda, Cloudwatch and            many more AWS components                       \n      \n    Environment:\n      •\tAngularjs, Webpack, NodeJS, AWS,  Mirco service architecture\n\n2. ####Client:  Shem (Jan 2018 -December 2018)\n    ###Role: Solution Designer\n   > Shem is an e-commerce based shop selling authentic designer jewellery. For now selling online, managing the B2c and B2b market with managing the orders, inventory, stocks, logistics and payment gateway integration and also crept wallets with admin panel and consumer UI with components of vue.js for re-using those managing components and stitched to build the UI structure and integrating API for those vue js components. \n\n\n    Responsibilities:\n      •\tManaging the Sprints - agile Scrum and planning story and work with product owners \n      •\tTechnical specification and planning architecture of Backend and frontend\n      •\tDB schema and cloud solution architecture and its implementations and building micro service \t\t\tarchitecture .\n      •\tmongo DB transactions\n      \n    Environment:\n      •\tReactJS, Webpack, NodeJS, AWS, mongoDB, Mirco service architecture\n\n3. ####Client:Delicious and Fresh (Jan 2017 -December 2018)\n    #####Role: Technical Architect\n    >D&F is an e-commerce solution like a food delivery application from different restaurants. selling online and also at big market place where you can buy in stores and also managing the B2c and B2b market. The Application manages orders, inventory, stocks, logistics with dispatcher management and managing the delivery of hot food at right time in and around UAE / middle east. Also cryptocurrency wallets with admin panel. Consumer UI with components of ReactJS for re-using those managing components and stitched to build the UI structure.\n\n\n    Responsibilities:\n      •\tBuilding and motivating team to build the product and guide them to solve complexities in the project implementation \n      •\tAgile Scrum manager / Technical lead to delegate task and help in development stages \n      •\tDB schema and cloud solution architecture and its implementations and building micro service architecture .\n\t\n    Environment:\n      •\tReactJS, Webpack, NodeJS, AWS, mongoDB, postgres, apache hadoop, Micro service architecture\n\n\n4. ####Client: 01 people (December 2018 -March 2019)\n      #####Role: Blockchain Consultant \n\n      >01Younited is betting platform using crypto currency is build etherium and using a trading platform.We YOUnite all players within the truly fair, decentralised betting and gaming platform. Our unique Solution based on native blockchain technology is completely changing the betting and gaming industry. YOUnited players always bet and play against each other with no house or any third-party interaction. This means that 100% prize pool is distributed to the winner(s). Our ultimate solution provides 100% return to player (RTP), zero house edge, and no house fees.\n\n      Responsibilities :\n        •\tUsing ReactJS to build the front end and API integration\n        •\tBackend is building using Node\n        •\tPostrges SQL DB transactions\n        \n      Environment:\n        •\tBootstrap, ReactJS, Webpack, Postgres, NodeJS, AWS, GCP\n\n5. ####Client:  Jingle Chat Bots (Feb 2018 -December 2018)\n    #####Role: UI Lead\n\n    >Jingle Bot based chatting system for users to look for local shopping and restaurants. The project is  about asking bot for searching some product or nearby shops user is looking for. Bot internally analyses the chats and does pattern matching on details and used google AI based systems and some google analytics, to analyse the chat messages and making the bot more intelligent.\n\n\n    Responsibilities:\n      •\tBuilding and motivating team to build the product and guide them to solve complexities  \t      \n      •\tAgile Scrum manager / Technical lead to delegate task and help in development stages \n      •\tDB schema and cloud solution architecture and its implementations and building micro service \t\t\tarchitecture. Also solve if any hurdles in the project implementation with the team.\n      \n    Environment:\n      •\tBootstrap, React-JS, Webpack, Postgres, Java-SPRING, NodeJS, AWS, GCP , Micro service architecture\n\n\n\n6. ####Client: Sycamore - MDR, SSD  (April 2017 -June 2018)\n    #####Role:Senior UI Developer\n\n    >The project is about health care solution, it has features to maintain data for drugs manufacture like phases of drug compositions, from clinical research , site analysis for drug validations, so the complete software handles verification and validation of drug which is required for FDA drug approvals.\n\n\n    Responsibilities:\n      •\tUsing React JS to build the front end and API integration\n      •\tBackend is building using ROR\n      •\tBlockchain technology for health care domain\n      •\tAPI based connecting to banking structure \n\n    Environment:\n      •\tBootstrap, React-JS, Webpack, Postgres, Ruby, Micro service architecture\n\n\n7. ####Client: Hashtaag (April 2016 -April 2018)\n    #####Project : Krazy meals \n    #####Role: Technical Architect\n\n    >The project is about a e-commerce solution, it has features like add to cart, product description, product management, product ordering and tracking of product shipping and integrated payment gateway for checkout process and the admin panel to manage vendors and also product uploading.\n\n    Responsibilities:\n      •\tUsing React - Redux JS to build the front end and API integration\n      •\tBackend is building using NodeJS and MongoDB\n      •\tPayment Gateway integration like paypal, payumoney, payatm, direct-payEU, g2pay\n      •\tBlock chain technology for payment gateways through bitcoins \n\n    Environment:\n      •\tBootstrap, ReactJS, Webpack, NodeJS, Mongo DB\n\n\n8. ####Client: Hashtaag (April 2016 -April 2018)\n    #####Project : PaperBoy\n    #####Role: Full Stack Developer\n\n    >The project is about managing the news papers online and upon location and language we can select paper, there is an option to select papers and provide subscription of papers.The payment gateway is integrated for subscribing and also subscribed users can view the papers.The project is a developing as per iteration of product design changes of the developing concepts of consumer experience.\n\n\n    Responsibilities:\n      •\tAngularJS for rendering API\n      •\tUI designs using React-Bootstrap\n      •\tPayment gateway integration \n\n    Environment:\n      •\tBootstrap, AngularJS, JS, Gulp, NodeJS, Mongo DB, Java\n\n\n\n9. ###Client: Hashtaag (April 2016 -April 2018)\n    #####Client: Doors\n    #####Role: Full Stack Developer\n\n    >The project is about aggregating all the real estate builder details and it has admin panel to manage properties of different levels like broker, owners and property builder and its similar to common floor but its high level aggregator and compete management of properties available, floor plan and complete details.\n\n\n    Responsibilities:\n      •\tAngularJS for rendering API\n      •\tUI designs using React-Bootstrap\n\n    Environment:\n      •\tBootstrap, AngularJS, JS, Gulp\n\n10. ####Client: HortonWorks / Hadoop data platform / Cloudera (Nov 2014 - April 2016)\n    #####Project: Apache Falcon (Big data layer)\n    #####Role: Full Stack Developer\n\n    >Falcon is a data processing and management solution for Hadoop designed for data motion, coordination of data pipelines, lifecycle management, and data discovery. Falcon enables end consumers to quickly onboard their data and its associated processing and management tasks on Hadoop clusters.\n\n    Responsibilities:\n      •\tAngularJS for rendering API\n      •\tD3JS for lineage graph\n      •\tHandling API in Java\n      •\tAngularJS and D3JS developer.\n      •\tGruntJS, NodeJS used for developing schema \n      •\tJava spring framework for building API \n\n    Environment:\n      •\tBootstrap, AngularJS, D3JS, Java spring framework and GruntJS\n\n11. ####Client: HortonWorks / Hadoop data platform / Cloudera (Nov 2014 - April 2016)\n    #####Project: Apache Atlas (Big Data Layer)\n    #####Role: Developer\n\n    >The project is about data governance initiative, DGI will develop an extensible foundation that addresses enterprise requirements for comprehensive data governance. Enterprises adopting modern data architecture must address certain realities when legacy and new data from disparate platforms are brought under management. It will also feature deep integration with Apache Falcon. It focuses on building user interface for the DGI metadata with the visualisation of the data.\n\n    Responsibilities:\n      •\tAngularJS for rendering API\n      •\tD3JS for lineage graph\n      •\tHandling API in Java\n      •\tWorking on metadata for managing API\n      •\tAngularJS and D3JS developer\n\n    Environment:\n      •\tBootstrap, AngularJS, D3JS, Java spring framework and GruntJS, Java\n\n12. ####Client: MPR Global Solutions (Nov 2014 - Jan 2014)\n    #####Project : S4S \n    #####Role: Developer\n\n   > The project is about providing services and its basically startup for services like accounting services,management services,consulting and financial services. Its a app which all users in US based on location you can look for service and each service will have multiple vendors or service providers and on their review and quality of service provided user can choose service .Application provides a platform for all the service of different category and help user to look for service on their requirement. \n\n    Responsibilities:\n      •\tAngularJS for rendering API\n      •\tHandling API using Parse.\n      •\tUsed firebase to store \n      •\tAngular UI Bootstrap for the responsive UI  .\n      •\tAPI based connecting to wallets \n\n    Environment:\n      •\tBootstrap, AngularJS, GruntJS, Firbase\n\n13. ###Client: MPR Global Solutions (Nov 2014 - Jan 2014)\n    #####Project: SeatHero \n    #####Role: Developer\n\n    >The project is about i an exclusive club that provides movie lovers with deep discount seats on last-minute unsold movie tickets. Membership module give the user three month of validity to choose movies.\n\n    Responsibilities:\n      •\tDeveloped using Laravel 5\n      •\tAngular UI Bootstrap for the responsive UI\n\n    Environment:\n      •\tBootstrap, Laravel PHP, MySQL\n\n14. ###Client: Isolcell Italia(Aug 2014 - Jan 2015)\n    #####Project: Isolcell Italia\n    #####Role: Developer\n\n    >The Isolcell project is about controlling the temperature of the rooms. The rooms are equipped with thermometers, the room contains fruits that have to be in a controlled temperature and the web based application used to control the room and handle the cooling and ventilation of the room. The alarms used to alert by measuring the high and low temperature threshold.\n\n    Responsibilities:\n      •\tDeveloped the room diagram using Canvas.JS API\n      •\tImplemented REST API using JavaScript to communicate with the can bus\n      •\tImplemented the JSON playload for loading the data from the device\n      •\tThe room diagram is generic and able to control from GUI and is made as library\n    Environment:\n      •\tBootstrap, Embedded C, JavaScript, REST API, Canvas.JS, JQuery\n\n\n15. ###Client: Cralina\n    #####Role: Developer\n\n    >The Cralina website is build using CMS system using Wordpress framework. The website is about the services and training provided by Cralina. The website is made mobile responsive.\n\n    Responsibilities:\n      •\tFront end developer\n\n    Environment:\n      •\tBootstrap 3.0, Wordpress, Canvas.JS, JQuery\n\n\n16. ###Client: Sourceasy (July 2014 - Oct 2014)\n    #####Role: Developer\n\n    >The Sourceasy is software product that builds an interface between the vendors and clothing manufacturers or clients. This is a web application which maintains the details of customers and handles the trading of clothes and maintains the information of bulk order of clothes with the communication of orders according to vendors.\n\n    Responsibilities:\n      •\tDeveloped the Worker Server using Iron.IO\n      •\tImplemented Pusher API for chat application\n      •\tDeveloped UI using AngularJS\n      •\tDeveloped scheme manager using REST API in Laravel\n      •\tDeveloped the AngularJS REST API client to communicate with API server\n      •\tDeveloped API using Laravel for the for worker server and CRUD operations\n      •\tDeveloped Static website using AngularJS\n      •\tDeveloped Checklist APP\n      •\tImplemented Codeception for API testing\n      •\tImplemented Guzzle implementation for API performance\n\n    Environment:\n      •\tLaravel 4.0, PHP, AngularJS, LAMP, Amazon EC2, Bootstrap 3.0\n\n17. ####Client : Larsen & Turbo technology services (Jan 2014 - Sep 2014)\n    #####Project: Remote control and access of devices\n    #####Role: Developer\n\n    >The remote control and access of devices is operated through cloud services. Mobile application consumes the WCF service, which is hosted on Amazon Cloud. The WCF service will receive data from the device and the EPC Mod parser will parse command and send to the WCF service. The data from device is also updated in RDS database for generating health report or track the previous history of the device.\n\n    Responsibilities:\n      •\tDeveloped asynchronous TCP socket server\n      •\tImplemented WCF REST API for the services\n      •\tDeployed services on cloud\n      •\tWorked on AMAZON EC2 and RDS instance\n      •\tImplemented MSMQ for fetching data\n      •\tDeveloped push notification for Android and iOS\n      •\tFramed the architecture by using Signal-R open source technology\n      •\tFramed WCF services\n\n    Environment:\n      •\tNET 4.0, SQL Server, Amazon Cloud Service\n\n\n18. ####Client: AMCEC College Management (Oct 2013 - Dec 2013)\n    #####Role: Developer\n\n    >The administration & accounting system aims in managing the accounts and also manages the examination sections. My key role in this project is designing and development using PHP and having MySQL as the database. Accounts module involves in managing the admission and fee structure, once the fee is paid, a copy of receipt is sent via E-mail to the student.\n\n    Responsibilities:\n      •\tDesigned the accounts, student information and examination modules\n      •\tDesigned database\n      •\tIntegrated E-mail service for sending fee receipts\n      •\tGenerating reports for academics report\n\n    Environment:\n      •\tPHP5, MySQL, Windows 7\n\n",
-      "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/showcase.md"
     },
     "66b77a2e-a497-5fbb-91b5-82c6b7d7454b": {
       "id": "66b77a2e-a497-5fbb-91b5-82c6b7d7454b",
@@ -3157,151 +3243,25 @@
       "rawMarkdownBody": "\n## Hi there\n\nMy name is Darshan Kumar / DK and I'm an entrepreneur by passion. I am a Technical consultant, Cloud Architect, Startup enthusiast, Apache PMC, DevOps Engineer, Full stack engineer, Big data and AI.\nI am a Founder of [**Mozayc**](https://mozayc.net) Blockchain Based E-commerce platform, [**KernAdler**](https://kernadler.net). CTO of TRIPA, [**Frogfish**](https://frogfish.io), Appcandy.\nFind me [**GITHUB**](https://github.com/darshankumar89) [**Twitter**](https://twitter.com/darshaneldorado) [**Linkedin**](https://www.linkedin.com/in/darshankumar/)\n\n```My expertise are with technologies :\n- Frontend: JS Frameworks♥️ReactJS,AngularJS,VueJS,Gatsby,GraphQL\n- UI/CSS:  HTML5,CSS,SCSS,LESS,Style components, Bootstrap\n- Devops: AWS,GCP, Digital ocean,Docker, kubernetes, GITLAB/GITHUB/BitBucket pipelines,Cloud Formation,Terraform\n- AWS Devops: Lamda,ECS,ECR,CloudFront,EC2,Serverless architecture,S3 bucket,SNS,DynamoDB,Cloudwatch,Code Pipeline\n- Backend: NodeJS,PHP frameworks(Laravel, CodeIgniter),Python,C#,Java Spring.\n- Data platform: Apache hadoop, Apache Spark, Apache Atlas.\n```\n\n```Devops\n===Devops===\nCI/CD - Jenkins, Circle CI, Travis\nProvisioning infrastructure - Terraform, CloudFormation\nConfiguration Management - Ansible, Puppet, Chef\nMonitoring & alerting - Prometheus, Nagios\nLogging - Logstash, Graylog, Fluentd\nCode review - Gerrit, Review Board\nCode coverage - Cobertura, Clover, JaCoCo\nTests - Robot, Serenity, Gauge\n```\n\n```Other\n- Responsive Web Design (RWD), Single Page Applications (SPA), Progressive Web Application (PWA)\n- HTTPS, HTTP/2, SSL\n- Cross Platform/Hybrid App Development - Phone Gap, React Native, Ionic, Flutter\n- Test cases: Unit Testing, End to End Testing, Phantom JS\n ```\n\n ```Devtools\n===== Dev, Build Tools ====\n- Webpack\n- Gulp\n- Yarn\n- Yeomen\n- Chrome Dev Tools\n- Oh My Zsh\n- CSS Preprocessors (SASS)\n- Vagrant\n ```\n\nEntrepreneur, Innovator, Growth hacker and Apache Atlas PMC, Apache Hadoop committer, AI enthusiasts.\nBeing a Entrepreneur building innovative products to solve the real time problems.\nAs a Apache PMC, I have contributed to open source projects.\n\n**Open source contribution and COVID-19 Support** :\n- [**Coronaviruseurope**](http://coronaviruseurope.org/)\n- [**Apache Atlas**](https://atlas.apache.org/)\n- [**Apache Falcon**](https://falcon.apache.org/)\n\n**Comapnies I associated while working on projects** :\n- [**Belgian Post Group**](https://en.wikipedia.org/wiki/Bpost)\n- [**Hortonworks/Cloudera**](https://www.cloudera.com/)\n- [**TCS**](https://www.tcs.com)\n- [**Shem**](https://shem.sk)\n- [**01 people**](https://www.01people.com)\n- [**Jingle Chat Bots**](https://www.linkedin.com/company/jingle.market/)\n- [**Sycamore**](https://www.sycamoreinformatics.com/)\n- [**Ephicacy**](http://www.ephicacy.com/)\n- [**Hashtaag**](https://hashtaag.com)\n- [**paperboy**](https://www.paperboy.com/)\n- [**Apache software foundation**](https://www.apache.org/)\n- [**MPR global Solutions**](http://mprhost.com)\n- [**Sourceasy**](https://angel.co/company/sourceeasy)\n- [**Isolcell Italia**](https://isolcell.com/)\n- [**Larsen & Turbo technology services**](https://www.ltts.com/)\n- [**AmazingH**](https://amazingh.shop/)\n- [**Raiffeisen bank**](https://www.rcb.at/en/the-bank/)\n- [**Odfarmara**](https://odfarmara.sk)\n- [**Unity**](https://unity.sk)\n- [**SlovakoData**](https://www.finscreener.com)\n- [**Allianz**](https://www.allianzsp.sk/)\n- [**Januscloud**](https://janus.cloud/)\n- [**logamic**](https://www.logamic.com/)\n- [**Slovakodata**](https://www.slovakodata.sk/en/)\n- [**Pavilionfoods**](http://pavilionfoods.com/)\n- [**Granperformance**](https://granperformance.com/index.html)\n- [**PlatonFinance**](https://platonfinance.com/)\n- [**Kompact services slovakia**](https://sk.kompass.com/)\n- [**Offero**](https://offero.sk/)\n\n\n**Partners**\n- [**SBA**](http://www.sbagency.sk/)\n- [**NPC bratsialva**](https://www.npc.sk/sk/)\n- [**NTH mobile**](https://www.nth-mobile.com/)\n- [**Conservation International**](https://www.conservation.org/)\n- [**Fondy**](https://fondy.eu)\n\n**Founder & CTO**\n- [**Mozayc Platform**](https://mozayc.net)\n- [**FrogFish**](https://Frogfish.io)\n- [**DelRio**](https://delrio-consulting.com/)\n- [**KernAdler**](https://www.kernadler.com/)\n- [**MPR global Solutions**](http://mprhost.com)\n\n**Pride of being a part of product innovation team**\n- [**Paperboy**](https://www.paperboy.com/)\n- [**Sycamore**](https://www.sycamoreinformatics.com/)\n- [**Apache Atlas**](https://atlas.apache.org/)\n- [**Apache Falcon**](https://falcon.apache.org/)\n- [**Bpost retail**](https://en.wikipedia.org/wiki/Bpost)\n\n**Contact Details**\n\n > - Slovakia : SBA, Twin City Offices B, Karadzicova 2, 811 09 Bratislava, Slovakia. Ph: +421 905 288 190\n > - Belgium : Avenue de Tervueren, 1150 Woluwe-Saint-Pierre, Brussels. Ph: +32 465183127\n",
       "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/about.md"
     },
-    "SitePage /404/": {
-      "jsonName": "404-22d",
-      "internalComponentName": "Component404",
-      "path": "/404/",
-      "component": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/404.js",
-      "componentChunkName": "component---src-pages-404-js",
-      "isCreatedByStatefulCreatePages": true,
-      "context": {},
-      "pluginCreator___NODE": "d3a8ae0e-f225-5f55-a752-afb0fa8d4e1e",
-      "pluginCreatorId": "d3a8ae0e-f225-5f55-a752-afb0fa8d4e1e",
-      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/404.js",
-      "id": "SitePage /404/",
-      "parent": null,
+    "e58fc77a-21af-5819-a464-2eda9b87edd1": {
+      "id": "e58fc77a-21af-5819-a464-2eda9b87edd1",
       "children": [],
+      "parent": "2a841927-8eee-5ab1-8e09-90df6a1a4cc6",
       "internal": {
-        "type": "SitePage",
-        "contentDigest": "5058993140950c30529dfde379e9fd6a",
-        "description": "d3a8ae0e-f225-5f55-a752-afb0fa8d4e1e",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /404.html": {
-      "jsonName": "404-html-516",
-      "internalComponentName": "Component404Html",
-      "path": "/404.html",
-      "component": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/404.js",
-      "componentChunkName": "component---src-pages-404-js",
-      "isCreatedByStatefulCreatePages": true,
-      "context": {},
-      "pluginCreator___NODE": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
-      "pluginCreatorId": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
-      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/404.js",
-      "id": "SitePage /404.html",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "64d53e6bcfdaa223e849243d3115dd6e",
-        "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "a51253c4-f731-5a2c-8081-8a0630870918": {
-      "id": "a51253c4-f731-5a2c-8081-8a0630870918",
-      "children": [
-        "fe70240e-0ab3-5f03-a7a4-5ac736604a2a"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "944bde827dd20aa7cfe36fa9cdb3916a",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/posts/how-to-install-and-use-postgresql-on-ubuntu-18-04.md\"",
-        "owner": "gatsby-source-filesystem"
+        "content": "\n## Achievement : \n- Apache Big Data committer since 2015 contributing to projects like atlas, falcon, Kona. \n- Startup mentor for technology companies like TRIPA, Gify studio, pavilion foods D&F various startups globally.\n- Member of Slovak Business Agency helping startups to grow and build MVP for startups.\n- Successfully build MVP for Belgium Post for the automation of post office with retail team.\n- Part of ReactEurope and Apache conference in Europe.\n\n## Professional Experience \n\n1. ####Client:  TCS(end client : Bpost)  (April 2019 -December 2019)\n    ####Project : NERO\n    ####Role: Solution Designer | Technical Architect \n   \n  >  Working the product of Client for handling the couriers, parcel and letters in the post office in an automated as a part of cloud solution. It is more of focusing on Nodejs and AWS cloud services. There major components that technically handle the automation for managing the customers who send/receive letters, parcel and make some financial transactions. \n\n    Responsibilities:\n      •\tManaging the Sprints - agile Scrum and planning story and work with product owners \n      •\tTechnical specification and planning architecture of Backend and frontend\n      •\tDB schema and cloud solution architecture and its implementations and building micro service \t\t\tarchitecture .\n      I manage the AWS cloud formation,S3,ECS, EC2, Cluster , ECR, Lamda, Cloudwatch and            many more AWS components                       \n      \n    Environment:\n      •\tAngularjs, Webpack, NodeJS, AWS,  Mirco service architecture\n\n2. ####Client:  Shem (Jan 2018 -December 2018)\n    ###Role: Solution Designer\n   > Shem is an e-commerce based shop selling authentic designer jewellery. For now selling online, managing the B2c and B2b market with managing the orders, inventory, stocks, logistics and payment gateway integration and also crept wallets with admin panel and consumer UI with components of vue.js for re-using those managing components and stitched to build the UI structure and integrating API for those vue js components. \n\n\n    Responsibilities:\n      •\tManaging the Sprints - agile Scrum and planning story and work with product owners \n      •\tTechnical specification and planning architecture of Backend and frontend\n      •\tDB schema and cloud solution architecture and its implementations and building micro service \t\t\tarchitecture .\n      •\tmongo DB transactions\n      \n    Environment:\n      •\tReactJS, Webpack, NodeJS, AWS, mongoDB, Mirco service architecture\n\n3. ####Client:Delicious and Fresh (Jan 2017 -December 2018)\n    #####Role: Technical Architect\n    >D&F is an e-commerce solution like a food delivery application from different restaurants. selling online and also at big market place where you can buy in stores and also managing the B2c and B2b market. The Application manages orders, inventory, stocks, logistics with dispatcher management and managing the delivery of hot food at right time in and around UAE / middle east. Also cryptocurrency wallets with admin panel. Consumer UI with components of ReactJS for re-using those managing components and stitched to build the UI structure.\n\n\n    Responsibilities:\n      •\tBuilding and motivating team to build the product and guide them to solve complexities in the project implementation \n      •\tAgile Scrum manager / Technical lead to delegate task and help in development stages \n      •\tDB schema and cloud solution architecture and its implementations and building micro service architecture .\n\t\n    Environment:\n      •\tReactJS, Webpack, NodeJS, AWS, mongoDB, postgres, apache hadoop, Micro service architecture\n\n\n4. ####Client: 01 people (December 2018 -March 2019)\n      #####Role: Blockchain Consultant \n\n      >01Younited is betting platform using crypto currency is build etherium and using a trading platform.We YOUnite all players within the truly fair, decentralised betting and gaming platform. Our unique Solution based on native blockchain technology is completely changing the betting and gaming industry. YOUnited players always bet and play against each other with no house or any third-party interaction. This means that 100% prize pool is distributed to the winner(s). Our ultimate solution provides 100% return to player (RTP), zero house edge, and no house fees.\n\n      Responsibilities :\n        •\tUsing ReactJS to build the front end and API integration\n        •\tBackend is building using Node\n        •\tPostrges SQL DB transactions\n        \n      Environment:\n        •\tBootstrap, ReactJS, Webpack, Postgres, NodeJS, AWS, GCP\n\n5. ####Client:  Jingle Chat Bots (Feb 2018 -December 2018)\n    #####Role: UI Lead\n\n    >Jingle Bot based chatting system for users to look for local shopping and restaurants. The project is  about asking bot for searching some product or nearby shops user is looking for. Bot internally analyses the chats and does pattern matching on details and used google AI based systems and some google analytics, to analyse the chat messages and making the bot more intelligent.\n\n\n    Responsibilities:\n      •\tBuilding and motivating team to build the product and guide them to solve complexities  \t      \n      •\tAgile Scrum manager / Technical lead to delegate task and help in development stages \n      •\tDB schema and cloud solution architecture and its implementations and building micro service \t\t\tarchitecture. Also solve if any hurdles in the project implementation with the team.\n      \n    Environment:\n      •\tBootstrap, React-JS, Webpack, Postgres, Java-SPRING, NodeJS, AWS, GCP , Micro service architecture\n\n\n\n6. ####Client: Sycamore - MDR, SSD  (April 2017 -June 2018)\n    #####Role:Senior UI Developer\n\n    >The project is about health care solution, it has features to maintain data for drugs manufacture like phases of drug compositions, from clinical research , site analysis for drug validations, so the complete software handles verification and validation of drug which is required for FDA drug approvals.\n\n\n    Responsibilities:\n      •\tUsing React JS to build the front end and API integration\n      •\tBackend is building using ROR\n      •\tBlockchain technology for health care domain\n      •\tAPI based connecting to banking structure \n\n    Environment:\n      •\tBootstrap, React-JS, Webpack, Postgres, Ruby, Micro service architecture\n\n\n7. ####Client: Hashtaag (April 2016 -April 2018)\n    #####Project : Krazy meals \n    #####Role: Technical Architect\n\n    >The project is about a e-commerce solution, it has features like add to cart, product description, product management, product ordering and tracking of product shipping and integrated payment gateway for checkout process and the admin panel to manage vendors and also product uploading.\n\n    Responsibilities:\n      •\tUsing React - Redux JS to build the front end and API integration\n      •\tBackend is building using NodeJS and MongoDB\n      •\tPayment Gateway integration like paypal, payumoney, payatm, direct-payEU, g2pay\n      •\tBlock chain technology for payment gateways through bitcoins \n\n    Environment:\n      •\tBootstrap, ReactJS, Webpack, NodeJS, Mongo DB\n\n\n8. ####Client: Hashtaag (April 2016 -April 2018)\n    #####Project : PaperBoy\n    #####Role: Full Stack Developer\n\n    >The project is about managing the news papers online and upon location and language we can select paper, there is an option to select papers and provide subscription of papers.The payment gateway is integrated for subscribing and also subscribed users can view the papers.The project is a developing as per iteration of product design changes of the developing concepts of consumer experience.\n\n\n    Responsibilities:\n      •\tAngularJS for rendering API\n      •\tUI designs using React-Bootstrap\n      •\tPayment gateway integration \n\n    Environment:\n      •\tBootstrap, AngularJS, JS, Gulp, NodeJS, Mongo DB, Java\n\n\n\n9. ###Client: Hashtaag (April 2016 -April 2018)\n    #####Client: Doors\n    #####Role: Full Stack Developer\n\n    >The project is about aggregating all the real estate builder details and it has admin panel to manage properties of different levels like broker, owners and property builder and its similar to common floor but its high level aggregator and compete management of properties available, floor plan and complete details.\n\n\n    Responsibilities:\n      •\tAngularJS for rendering API\n      •\tUI designs using React-Bootstrap\n\n    Environment:\n      •\tBootstrap, AngularJS, JS, Gulp\n\n10. ####Client: HortonWorks / Hadoop data platform / Cloudera (Nov 2014 - April 2016)\n    #####Project: Apache Falcon (Big data layer)\n    #####Role: Full Stack Developer\n\n    >Falcon is a data processing and management solution for Hadoop designed for data motion, coordination of data pipelines, lifecycle management, and data discovery. Falcon enables end consumers to quickly onboard their data and its associated processing and management tasks on Hadoop clusters.\n\n    Responsibilities:\n      •\tAngularJS for rendering API\n      •\tD3JS for lineage graph\n      •\tHandling API in Java\n      •\tAngularJS and D3JS developer.\n      •\tGruntJS, NodeJS used for developing schema \n      •\tJava spring framework for building API \n\n    Environment:\n      •\tBootstrap, AngularJS, D3JS, Java spring framework and GruntJS\n\n11. ####Client: HortonWorks / Hadoop data platform / Cloudera (Nov 2014 - April 2016)\n    #####Project: Apache Atlas (Big Data Layer)\n    #####Role: Developer\n\n    >The project is about data governance initiative, DGI will develop an extensible foundation that addresses enterprise requirements for comprehensive data governance. Enterprises adopting modern data architecture must address certain realities when legacy and new data from disparate platforms are brought under management. It will also feature deep integration with Apache Falcon. It focuses on building user interface for the DGI metadata with the visualisation of the data.\n\n    Responsibilities:\n      •\tAngularJS for rendering API\n      •\tD3JS for lineage graph\n      •\tHandling API in Java\n      •\tWorking on metadata for managing API\n      •\tAngularJS and D3JS developer\n\n    Environment:\n      •\tBootstrap, AngularJS, D3JS, Java spring framework and GruntJS, Java\n\n12. ####Client: MPR Global Solutions (Nov 2014 - Jan 2014)\n    #####Project : S4S \n    #####Role: Developer\n\n   > The project is about providing services and its basically startup for services like accounting services,management services,consulting and financial services. Its a app which all users in US based on location you can look for service and each service will have multiple vendors or service providers and on their review and quality of service provided user can choose service .Application provides a platform for all the service of different category and help user to look for service on their requirement. \n\n    Responsibilities:\n      •\tAngularJS for rendering API\n      •\tHandling API using Parse.\n      •\tUsed firebase to store \n      •\tAngular UI Bootstrap for the responsive UI  .\n      •\tAPI based connecting to wallets \n\n    Environment:\n      •\tBootstrap, AngularJS, GruntJS, Firbase\n\n13. ###Client: MPR Global Solutions (Nov 2014 - Jan 2014)\n    #####Project: SeatHero \n    #####Role: Developer\n\n    >The project is about i an exclusive club that provides movie lovers with deep discount seats on last-minute unsold movie tickets. Membership module give the user three month of validity to choose movies.\n\n    Responsibilities:\n      •\tDeveloped using Laravel 5\n      •\tAngular UI Bootstrap for the responsive UI\n\n    Environment:\n      •\tBootstrap, Laravel PHP, MySQL\n\n14. ###Client: Isolcell Italia(Aug 2014 - Jan 2015)\n    #####Project: Isolcell Italia\n    #####Role: Developer\n\n    >The Isolcell project is about controlling the temperature of the rooms. The rooms are equipped with thermometers, the room contains fruits that have to be in a controlled temperature and the web based application used to control the room and handle the cooling and ventilation of the room. The alarms used to alert by measuring the high and low temperature threshold.\n\n    Responsibilities:\n      •\tDeveloped the room diagram using Canvas.JS API\n      •\tImplemented REST API using JavaScript to communicate with the can bus\n      •\tImplemented the JSON playload for loading the data from the device\n      •\tThe room diagram is generic and able to control from GUI and is made as library\n    Environment:\n      •\tBootstrap, Embedded C, JavaScript, REST API, Canvas.JS, JQuery\n\n\n15. ###Client: Cralina\n    #####Role: Developer\n\n    >The Cralina website is build using CMS system using Wordpress framework. The website is about the services and training provided by Cralina. The website is made mobile responsive.\n\n    Responsibilities:\n      •\tFront end developer\n\n    Environment:\n      •\tBootstrap 3.0, Wordpress, Canvas.JS, JQuery\n\n\n16. ###Client: Sourceasy (July 2014 - Oct 2014)\n    #####Role: Developer\n\n    >The Sourceasy is software product that builds an interface between the vendors and clothing manufacturers or clients. This is a web application which maintains the details of customers and handles the trading of clothes and maintains the information of bulk order of clothes with the communication of orders according to vendors.\n\n    Responsibilities:\n      •\tDeveloped the Worker Server using Iron.IO\n      •\tImplemented Pusher API for chat application\n      •\tDeveloped UI using AngularJS\n      •\tDeveloped scheme manager using REST API in Laravel\n      •\tDeveloped the AngularJS REST API client to communicate with API server\n      •\tDeveloped API using Laravel for the for worker server and CRUD operations\n      •\tDeveloped Static website using AngularJS\n      •\tDeveloped Checklist APP\n      •\tImplemented Codeception for API testing\n      •\tImplemented Guzzle implementation for API performance\n\n    Environment:\n      •\tLaravel 4.0, PHP, AngularJS, LAMP, Amazon EC2, Bootstrap 3.0\n\n17. ####Client : Larsen & Turbo technology services (Jan 2014 - Sep 2014)\n    #####Project: Remote control and access of devices\n    #####Role: Developer\n\n    >The remote control and access of devices is operated through cloud services. Mobile application consumes the WCF service, which is hosted on Amazon Cloud. The WCF service will receive data from the device and the EPC Mod parser will parse command and send to the WCF service. The data from device is also updated in RDS database for generating health report or track the previous history of the device.\n\n    Responsibilities:\n      •\tDeveloped asynchronous TCP socket server\n      •\tImplemented WCF REST API for the services\n      •\tDeployed services on cloud\n      •\tWorked on AMAZON EC2 and RDS instance\n      •\tImplemented MSMQ for fetching data\n      •\tDeveloped push notification for Android and iOS\n      •\tFramed the architecture by using Signal-R open source technology\n      •\tFramed WCF services\n\n    Environment:\n      •\tNET 4.0, SQL Server, Amazon Cloud Service\n\n\n18. ####Client: AMCEC College Management (Oct 2013 - Dec 2013)\n    #####Role: Developer\n\n    >The administration & accounting system aims in managing the accounts and also manages the examination sections. My key role in this project is designing and development using PHP and having MySQL as the database. Accounts module involves in managing the admission and fee structure, once the fee is paid, a copy of receipt is sent via E-mail to the student.\n\n    Responsibilities:\n      •\tDesigned the accounts, student information and examination modules\n      •\tDesigned database\n      •\tIntegrated E-mail service for sending fee receipts\n      •\tGenerating reports for academics report\n\n    Environment:\n      •\tPHP5, MySQL, Windows 7\n\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "1ac493f0f2f2df2cd3845f3693c70f58",
+        "owner": "gatsby-transformer-remark"
       },
-      "sourceInstanceName": "posts",
-      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/how-to-install-and-use-postgresql-on-ubuntu-18-04.md",
-      "relativePath": "how-to-install-and-use-postgresql-on-ubuntu-18-04.md",
-      "extension": "md",
-      "size": 2614,
-      "prettySize": "2.61 kB",
-      "modifiedTime": "2020-04-18T20:15:43.917Z",
-      "accessTime": "2020-04-18T20:15:43.917Z",
-      "changeTime": "2020-04-18T20:15:43.917Z",
-      "birthTime": "2020-04-18T19:48:39.565Z",
-      "root": "/",
-      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts",
-      "base": "how-to-install-and-use-postgresql-on-ubuntu-18-04.md",
-      "ext": ".md",
-      "name": "how-to-install-and-use-postgresql-on-ubuntu-18-04",
-      "relativeDirectory": "",
-      "dev": 16777221,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 28308787,
-      "blocks": 8,
-      "atimeMs": 1587240943916.7654,
-      "mtimeMs": 1587240943917.4272,
-      "ctimeMs": 1587240943917.4272,
-      "birthtimeMs": 1587239319564.9167,
-      "atime": "2020-04-18T20:15:43.917Z",
-      "mtime": "2020-04-18T20:15:43.917Z",
-      "ctime": "2020-04-18T20:15:43.917Z",
-      "birthtime": "2020-04-18T19:48:39.565Z"
-    },
-    "53a1d786-123f-52b4-8059-9619478b56b9": {
-      "id": "53a1d786-123f-52b4-8059-9619478b56b9",
-      "children": [
-        "baff9b04-d3fa-5923-aea8-a592a7145bbb"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "66efc5f5efa93348ce14681617614c72",
-        "type": "File",
-        "mediaType": "image/png",
-        "description": "File \"src/images/PostGRESQL_newlogo.png\"",
-        "owner": "gatsby-source-filesystem"
+      "frontmatter": {
+        "title": "Showcase",
+        "date": "2020-03-23",
+        "author": "Darshan Kumar",
+        "path": "/showcase"
       },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/images/PostGRESQL_newlogo.png",
-      "relativePath": "PostGRESQL_newlogo.png",
-      "extension": "png",
-      "size": 138164,
-      "prettySize": "138 kB",
-      "modifiedTime": "2020-04-18T19:50:20.726Z",
-      "accessTime": "2020-04-18T19:50:39.994Z",
-      "changeTime": "2020-04-18T19:50:40.054Z",
-      "birthTime": "2020-04-18T19:50:20.715Z",
-      "root": "/",
-      "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/images",
-      "base": "PostGRESQL_newlogo.png",
-      "ext": ".png",
-      "name": "PostGRESQL_newlogo",
-      "relativeDirectory": "",
-      "dev": 16777221,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 28308972,
-      "blocks": 272,
-      "atimeMs": 1587239439994.0325,
-      "mtimeMs": 1587239420726.2869,
-      "ctimeMs": 1587239440054.1487,
-      "birthtimeMs": 1587239420715.1934,
-      "atime": "2020-04-18T19:50:39.994Z",
-      "mtime": "2020-04-18T19:50:20.726Z",
-      "ctime": "2020-04-18T19:50:40.054Z",
-      "birthtime": "2020-04-18T19:50:20.715Z"
-    },
-    "baff9b04-d3fa-5923-aea8-a592a7145bbb": {
-      "id": "baff9b04-d3fa-5923-aea8-a592a7145bbb",
-      "children": [],
-      "parent": "53a1d786-123f-52b4-8059-9619478b56b9",
-      "internal": {
-        "contentDigest": "66efc5f5efa93348ce14681617614c72",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
+      "excerpt": "",
+      "rawMarkdownBody": "\n## Achievement : \n- Apache Big Data committer since 2015 contributing to projects like atlas, falcon, Kona. \n- Startup mentor for technology companies like TRIPA, Gify studio, pavilion foods D&F various startups globally.\n- Member of Slovak Business Agency helping startups to grow and build MVP for startups.\n- Successfully build MVP for Belgium Post for the automation of post office with retail team.\n- Part of ReactEurope and Apache conference in Europe.\n\n## Professional Experience \n\n1. ####Client:  TCS(end client : Bpost)  (April 2019 -December 2019)\n    ####Project : NERO\n    ####Role: Solution Designer | Technical Architect \n   \n  >  Working the product of Client for handling the couriers, parcel and letters in the post office in an automated as a part of cloud solution. It is more of focusing on Nodejs and AWS cloud services. There major components that technically handle the automation for managing the customers who send/receive letters, parcel and make some financial transactions. \n\n    Responsibilities:\n      •\tManaging the Sprints - agile Scrum and planning story and work with product owners \n      •\tTechnical specification and planning architecture of Backend and frontend\n      •\tDB schema and cloud solution architecture and its implementations and building micro service \t\t\tarchitecture .\n      I manage the AWS cloud formation,S3,ECS, EC2, Cluster , ECR, Lamda, Cloudwatch and            many more AWS components                       \n      \n    Environment:\n      •\tAngularjs, Webpack, NodeJS, AWS,  Mirco service architecture\n\n2. ####Client:  Shem (Jan 2018 -December 2018)\n    ###Role: Solution Designer\n   > Shem is an e-commerce based shop selling authentic designer jewellery. For now selling online, managing the B2c and B2b market with managing the orders, inventory, stocks, logistics and payment gateway integration and also crept wallets with admin panel and consumer UI with components of vue.js for re-using those managing components and stitched to build the UI structure and integrating API for those vue js components. \n\n\n    Responsibilities:\n      •\tManaging the Sprints - agile Scrum and planning story and work with product owners \n      •\tTechnical specification and planning architecture of Backend and frontend\n      •\tDB schema and cloud solution architecture and its implementations and building micro service \t\t\tarchitecture .\n      •\tmongo DB transactions\n      \n    Environment:\n      •\tReactJS, Webpack, NodeJS, AWS, mongoDB, Mirco service architecture\n\n3. ####Client:Delicious and Fresh (Jan 2017 -December 2018)\n    #####Role: Technical Architect\n    >D&F is an e-commerce solution like a food delivery application from different restaurants. selling online and also at big market place where you can buy in stores and also managing the B2c and B2b market. The Application manages orders, inventory, stocks, logistics with dispatcher management and managing the delivery of hot food at right time in and around UAE / middle east. Also cryptocurrency wallets with admin panel. Consumer UI with components of ReactJS for re-using those managing components and stitched to build the UI structure.\n\n\n    Responsibilities:\n      •\tBuilding and motivating team to build the product and guide them to solve complexities in the project implementation \n      •\tAgile Scrum manager / Technical lead to delegate task and help in development stages \n      •\tDB schema and cloud solution architecture and its implementations and building micro service architecture .\n\t\n    Environment:\n      •\tReactJS, Webpack, NodeJS, AWS, mongoDB, postgres, apache hadoop, Micro service architecture\n\n\n4. ####Client: 01 people (December 2018 -March 2019)\n      #####Role: Blockchain Consultant \n\n      >01Younited is betting platform using crypto currency is build etherium and using a trading platform.We YOUnite all players within the truly fair, decentralised betting and gaming platform. Our unique Solution based on native blockchain technology is completely changing the betting and gaming industry. YOUnited players always bet and play against each other with no house or any third-party interaction. This means that 100% prize pool is distributed to the winner(s). Our ultimate solution provides 100% return to player (RTP), zero house edge, and no house fees.\n\n      Responsibilities :\n        •\tUsing ReactJS to build the front end and API integration\n        •\tBackend is building using Node\n        •\tPostrges SQL DB transactions\n        \n      Environment:\n        •\tBootstrap, ReactJS, Webpack, Postgres, NodeJS, AWS, GCP\n\n5. ####Client:  Jingle Chat Bots (Feb 2018 -December 2018)\n    #####Role: UI Lead\n\n    >Jingle Bot based chatting system for users to look for local shopping and restaurants. The project is  about asking bot for searching some product or nearby shops user is looking for. Bot internally analyses the chats and does pattern matching on details and used google AI based systems and some google analytics, to analyse the chat messages and making the bot more intelligent.\n\n\n    Responsibilities:\n      •\tBuilding and motivating team to build the product and guide them to solve complexities  \t      \n      •\tAgile Scrum manager / Technical lead to delegate task and help in development stages \n      •\tDB schema and cloud solution architecture and its implementations and building micro service \t\t\tarchitecture. Also solve if any hurdles in the project implementation with the team.\n      \n    Environment:\n      •\tBootstrap, React-JS, Webpack, Postgres, Java-SPRING, NodeJS, AWS, GCP , Micro service architecture\n\n\n\n6. ####Client: Sycamore - MDR, SSD  (April 2017 -June 2018)\n    #####Role:Senior UI Developer\n\n    >The project is about health care solution, it has features to maintain data for drugs manufacture like phases of drug compositions, from clinical research , site analysis for drug validations, so the complete software handles verification and validation of drug which is required for FDA drug approvals.\n\n\n    Responsibilities:\n      •\tUsing React JS to build the front end and API integration\n      •\tBackend is building using ROR\n      •\tBlockchain technology for health care domain\n      •\tAPI based connecting to banking structure \n\n    Environment:\n      •\tBootstrap, React-JS, Webpack, Postgres, Ruby, Micro service architecture\n\n\n7. ####Client: Hashtaag (April 2016 -April 2018)\n    #####Project : Krazy meals \n    #####Role: Technical Architect\n\n    >The project is about a e-commerce solution, it has features like add to cart, product description, product management, product ordering and tracking of product shipping and integrated payment gateway for checkout process and the admin panel to manage vendors and also product uploading.\n\n    Responsibilities:\n      •\tUsing React - Redux JS to build the front end and API integration\n      •\tBackend is building using NodeJS and MongoDB\n      •\tPayment Gateway integration like paypal, payumoney, payatm, direct-payEU, g2pay\n      •\tBlock chain technology for payment gateways through bitcoins \n\n    Environment:\n      •\tBootstrap, ReactJS, Webpack, NodeJS, Mongo DB\n\n\n8. ####Client: Hashtaag (April 2016 -April 2018)\n    #####Project : PaperBoy\n    #####Role: Full Stack Developer\n\n    >The project is about managing the news papers online and upon location and language we can select paper, there is an option to select papers and provide subscription of papers.The payment gateway is integrated for subscribing and also subscribed users can view the papers.The project is a developing as per iteration of product design changes of the developing concepts of consumer experience.\n\n\n    Responsibilities:\n      •\tAngularJS for rendering API\n      •\tUI designs using React-Bootstrap\n      •\tPayment gateway integration \n\n    Environment:\n      •\tBootstrap, AngularJS, JS, Gulp, NodeJS, Mongo DB, Java\n\n\n\n9. ###Client: Hashtaag (April 2016 -April 2018)\n    #####Client: Doors\n    #####Role: Full Stack Developer\n\n    >The project is about aggregating all the real estate builder details and it has admin panel to manage properties of different levels like broker, owners and property builder and its similar to common floor but its high level aggregator and compete management of properties available, floor plan and complete details.\n\n\n    Responsibilities:\n      •\tAngularJS for rendering API\n      •\tUI designs using React-Bootstrap\n\n    Environment:\n      •\tBootstrap, AngularJS, JS, Gulp\n\n10. ####Client: HortonWorks / Hadoop data platform / Cloudera (Nov 2014 - April 2016)\n    #####Project: Apache Falcon (Big data layer)\n    #####Role: Full Stack Developer\n\n    >Falcon is a data processing and management solution for Hadoop designed for data motion, coordination of data pipelines, lifecycle management, and data discovery. Falcon enables end consumers to quickly onboard their data and its associated processing and management tasks on Hadoop clusters.\n\n    Responsibilities:\n      •\tAngularJS for rendering API\n      •\tD3JS for lineage graph\n      •\tHandling API in Java\n      •\tAngularJS and D3JS developer.\n      •\tGruntJS, NodeJS used for developing schema \n      •\tJava spring framework for building API \n\n    Environment:\n      •\tBootstrap, AngularJS, D3JS, Java spring framework and GruntJS\n\n11. ####Client: HortonWorks / Hadoop data platform / Cloudera (Nov 2014 - April 2016)\n    #####Project: Apache Atlas (Big Data Layer)\n    #####Role: Developer\n\n    >The project is about data governance initiative, DGI will develop an extensible foundation that addresses enterprise requirements for comprehensive data governance. Enterprises adopting modern data architecture must address certain realities when legacy and new data from disparate platforms are brought under management. It will also feature deep integration with Apache Falcon. It focuses on building user interface for the DGI metadata with the visualisation of the data.\n\n    Responsibilities:\n      •\tAngularJS for rendering API\n      •\tD3JS for lineage graph\n      •\tHandling API in Java\n      •\tWorking on metadata for managing API\n      •\tAngularJS and D3JS developer\n\n    Environment:\n      •\tBootstrap, AngularJS, D3JS, Java spring framework and GruntJS, Java\n\n12. ####Client: MPR Global Solutions (Nov 2014 - Jan 2014)\n    #####Project : S4S \n    #####Role: Developer\n\n   > The project is about providing services and its basically startup for services like accounting services,management services,consulting and financial services. Its a app which all users in US based on location you can look for service and each service will have multiple vendors or service providers and on their review and quality of service provided user can choose service .Application provides a platform for all the service of different category and help user to look for service on their requirement. \n\n    Responsibilities:\n      •\tAngularJS for rendering API\n      •\tHandling API using Parse.\n      •\tUsed firebase to store \n      •\tAngular UI Bootstrap for the responsive UI  .\n      •\tAPI based connecting to wallets \n\n    Environment:\n      •\tBootstrap, AngularJS, GruntJS, Firbase\n\n13. ###Client: MPR Global Solutions (Nov 2014 - Jan 2014)\n    #####Project: SeatHero \n    #####Role: Developer\n\n    >The project is about i an exclusive club that provides movie lovers with deep discount seats on last-minute unsold movie tickets. Membership module give the user three month of validity to choose movies.\n\n    Responsibilities:\n      •\tDeveloped using Laravel 5\n      •\tAngular UI Bootstrap for the responsive UI\n\n    Environment:\n      •\tBootstrap, Laravel PHP, MySQL\n\n14. ###Client: Isolcell Italia(Aug 2014 - Jan 2015)\n    #####Project: Isolcell Italia\n    #####Role: Developer\n\n    >The Isolcell project is about controlling the temperature of the rooms. The rooms are equipped with thermometers, the room contains fruits that have to be in a controlled temperature and the web based application used to control the room and handle the cooling and ventilation of the room. The alarms used to alert by measuring the high and low temperature threshold.\n\n    Responsibilities:\n      •\tDeveloped the room diagram using Canvas.JS API\n      •\tImplemented REST API using JavaScript to communicate with the can bus\n      •\tImplemented the JSON playload for loading the data from the device\n      •\tThe room diagram is generic and able to control from GUI and is made as library\n    Environment:\n      •\tBootstrap, Embedded C, JavaScript, REST API, Canvas.JS, JQuery\n\n\n15. ###Client: Cralina\n    #####Role: Developer\n\n    >The Cralina website is build using CMS system using Wordpress framework. The website is about the services and training provided by Cralina. The website is made mobile responsive.\n\n    Responsibilities:\n      •\tFront end developer\n\n    Environment:\n      •\tBootstrap 3.0, Wordpress, Canvas.JS, JQuery\n\n\n16. ###Client: Sourceasy (July 2014 - Oct 2014)\n    #####Role: Developer\n\n    >The Sourceasy is software product that builds an interface between the vendors and clothing manufacturers or clients. This is a web application which maintains the details of customers and handles the trading of clothes and maintains the information of bulk order of clothes with the communication of orders according to vendors.\n\n    Responsibilities:\n      •\tDeveloped the Worker Server using Iron.IO\n      •\tImplemented Pusher API for chat application\n      •\tDeveloped UI using AngularJS\n      •\tDeveloped scheme manager using REST API in Laravel\n      •\tDeveloped the AngularJS REST API client to communicate with API server\n      •\tDeveloped API using Laravel for the for worker server and CRUD operations\n      •\tDeveloped Static website using AngularJS\n      •\tDeveloped Checklist APP\n      •\tImplemented Codeception for API testing\n      •\tImplemented Guzzle implementation for API performance\n\n    Environment:\n      •\tLaravel 4.0, PHP, AngularJS, LAMP, Amazon EC2, Bootstrap 3.0\n\n17. ####Client : Larsen & Turbo technology services (Jan 2014 - Sep 2014)\n    #####Project: Remote control and access of devices\n    #####Role: Developer\n\n    >The remote control and access of devices is operated through cloud services. Mobile application consumes the WCF service, which is hosted on Amazon Cloud. The WCF service will receive data from the device and the EPC Mod parser will parse command and send to the WCF service. The data from device is also updated in RDS database for generating health report or track the previous history of the device.\n\n    Responsibilities:\n      •\tDeveloped asynchronous TCP socket server\n      •\tImplemented WCF REST API for the services\n      •\tDeployed services on cloud\n      •\tWorked on AMAZON EC2 and RDS instance\n      •\tImplemented MSMQ for fetching data\n      •\tDeveloped push notification for Android and iOS\n      •\tFramed the architecture by using Signal-R open source technology\n      •\tFramed WCF services\n\n    Environment:\n      •\tNET 4.0, SQL Server, Amazon Cloud Service\n\n\n18. ####Client: AMCEC College Management (Oct 2013 - Dec 2013)\n    #####Role: Developer\n\n    >The administration & accounting system aims in managing the accounts and also manages the examination sections. My key role in this project is designing and development using PHP and having MySQL as the database. Accounts module involves in managing the admission and fee structure, once the fee is paid, a copy of receipt is sent via E-mail to the student.\n\n    Responsibilities:\n      •\tDesigned the accounts, student information and examination modules\n      •\tDesigned database\n      •\tIntegrated E-mail service for sending fee receipts\n      •\tGenerating reports for academics report\n\n    Environment:\n      •\tPHP5, MySQL, Windows 7\n\n",
+      "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/showcase.md"
     },
     "SitePage /": {
       "jsonName": "index",
@@ -4222,14 +4182,56 @@
         "owner": "internal-data-bridge"
       }
     },
+    "SitePage /404/": {
+      "jsonName": "404-22d",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "d3a8ae0e-f225-5f55-a752-afb0fa8d4e1e",
+      "pluginCreatorId": "d3a8ae0e-f225-5f55-a752-afb0fa8d4e1e",
+      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "5058993140950c30529dfde379e9fd6a",
+        "description": "d3a8ae0e-f225-5f55-a752-afb0fa8d4e1e",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "jsonName": "404-html-516",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "pluginCreatorId": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "64d53e6bcfdaa223e849243d3115dd6e",
+        "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+        "owner": "internal-data-bridge"
+      }
+    },
     "fe70240e-0ab3-5f03-a7a4-5ac736604a2a": {
       "id": "fe70240e-0ab3-5f03-a7a4-5ac736604a2a",
       "children": [],
       "parent": "a51253c4-f731-5a2c-8081-8a0630870918",
       "internal": {
-        "content": "\n\n###Prerequisites\nBefore continuing with this tutorial, make sure you are logged in as a user with sudo privileges.\n\n###Install PostgreSQL on Ubuntu\n\nAt the time of writing this article, the latest version of PostgreSQL available from the official Ubuntu repositories is PostgreSQL version 10.4.\n\n###To install PostgreSQL on your Ubuntu server follow the steps below:\n##Step 1:\n\n>sudo apt update\n\n>sudo apt install postgresql postgresql-contrib\n\n\n##Step 2 — Using PostgreSQL Roles and Databases:\n\n>sudo -i -u postgres\n\n>psql\n\n>sudo -u postgres psql\n\n##Step 3 — exit from postgres promt:\n>\\q\n\n##Step 4 — Create a new PostgreSQL Role:\n>sudo su - postgres -c \"createuser darshan\"\n\n##Step 5 — Create a new PostgreSQL Database:\n>sudo su - postgres -c \"createdb darshanDB\"\n\n##Step 5 — Now login back to postgres prmot and Grant privileges:\n>sudo -u postgres psql\n>grant all privileges on database darshanDB to darshan;\n\n##Step 6 — If you want to set a password:\n>ALTER USER user_name WITH PASSWORD 'new_password';\n>example : ALTER USER darshan WITH PASSWORD 'new_password';\n\n##Step 7 — Enable remote access to PostgreSQL server:\n>sudo vim /etc/postgresql/10/main/postgresql.conf\n ```changes in /etc/postgresql/10/main/postgresql.conf\n#------------------------------------------------------------------------------\n# CONNECTIONS AND AUTHENTICATION\n#------------------------------------------------------------------------------\n\n# - Connection Settings -\n\nlisten_addresses = '*'     # what IP address(es) to listen on;\n ```\n\n ##Step 8 — Now restart the postgres:\n >sudo service postgresql restart\n\n ###Step 9 - Verify the changes with the ss utility:\n >ss -nlt | grep 5432\n```\nLISTEN   0         128                 0.0.0.0:5432             0.0.0.0:*\nLISTEN   0         128                    [::]:5432                [::]:*\n```\n\n#All SET TO WORK!!!\n\n\n###Tools for postgres mac client\n- [**Postico**](https://eggerapps.at/postico/)\n- [**PostgresApp](https://postgresapp.com/)\n\n##Refrence and inspirations\n- https://linuxize.com/post/how-to-install-postgresql-on-ubuntu-18-04/\n- https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-18-04\n- https://stackoverflow.com/questions/12720967/how-to-change-postgresql-user-password\n\n",
+        "content": "\n\n###Prerequisites\nBefore continuing with this tutorial, make sure you are logged in as a user with sudo privileges.\n\n###Install PostgreSQL on Ubuntu\n\nAt the time of writing this article, the latest version of PostgreSQL available from the official Ubuntu repositories is PostgreSQL version 10.4.\n\n###To install PostgreSQL on your Ubuntu server follow the steps below:\n##Step 1:\n\n>sudo apt update\n\n>sudo apt install postgresql postgresql-contrib\n\n\n##Step 2 — Using PostgreSQL Roles and Databases:\n\n>sudo -i -u postgres\n\n>psql\n\n>sudo -u postgres psql\n\n##Step 3 — exit from postgres promt:\n>\\q\n\n##Step 4 — Create a new PostgreSQL Role:\n>sudo su - postgres -c \"createuser darshan\"\n\n##Step 5 — Create a new PostgreSQL Database:\n>sudo su - postgres -c \"createdb darshanDB\"\n\n##Step 5 — Now login back to postgres prmot and Grant privileges:\n>sudo -u postgres psql\n>grant all privileges on database darshanDB to darshan;\n\n##Step 6 — If you want to set a password:\n>ALTER USER user_name WITH PASSWORD 'new_password';\n>example : ALTER USER darshan WITH PASSWORD 'new_password';\n\n##Step 7 — Enable remote access to PostgreSQL server:\n>sudo vim /etc/postgresql/10/main/postgresql.conf\n ```changes in /etc/postgresql/10/main/postgresql.conf\n#------------------------------------------------------------------------------\n# CONNECTIONS AND AUTHENTICATION\n#------------------------------------------------------------------------------\n\n# - Connection Settings -\n\nlisten_addresses = '*'     # what IP address(es) to listen on;\n ```\n\n ##Step 8 — Now restart the postgres:\n >sudo service postgresql restart\n\n ###Step 9 - Verify the changes with the ss utility:\n >ss -nlt | grep 5432\n```\nLISTEN   0         128                 0.0.0.0:5432             0.0.0.0:*\nLISTEN   0         128                    [::]:5432                [::]:*\n```\n----------------------------------------------------------------\n-----------------------------------------------------------------\n<div align=\"center\">\n#All SET TO WORK!!!\n<div>\n\n-----------------------------------------------------------------\n-----------------------------------------------------------------\n\n###Tools for postgres mac client\n- [**Postico**](https://eggerapps.at/postico/)\n- [**PostgresApp](https://postgresapp.com/)\n\n##Refrence and inspirations\n- https://linuxize.com/post/how-to-install-postgresql-on-ubuntu-18-04/\n- https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-18-04\n- https://stackoverflow.com/questions/12720967/how-to-change-postgresql-user-password\n\n",
         "type": "MarkdownRemark",
-        "contentDigest": "d2588929d9808b96a1cee47231ab4cde",
+        "contentDigest": "14bf812cab5038c8b765b1eff6a405f7",
         "owner": "gatsby-transformer-remark"
       },
       "frontmatter": {
@@ -4241,13 +4243,13 @@
         "coverImage": "../images/PostGRESQL_newlogo.png"
       },
       "excerpt": "",
-      "rawMarkdownBody": "\n\n###Prerequisites\nBefore continuing with this tutorial, make sure you are logged in as a user with sudo privileges.\n\n###Install PostgreSQL on Ubuntu\n\nAt the time of writing this article, the latest version of PostgreSQL available from the official Ubuntu repositories is PostgreSQL version 10.4.\n\n###To install PostgreSQL on your Ubuntu server follow the steps below:\n##Step 1:\n\n>sudo apt update\n\n>sudo apt install postgresql postgresql-contrib\n\n\n##Step 2 — Using PostgreSQL Roles and Databases:\n\n>sudo -i -u postgres\n\n>psql\n\n>sudo -u postgres psql\n\n##Step 3 — exit from postgres promt:\n>\\q\n\n##Step 4 — Create a new PostgreSQL Role:\n>sudo su - postgres -c \"createuser darshan\"\n\n##Step 5 — Create a new PostgreSQL Database:\n>sudo su - postgres -c \"createdb darshanDB\"\n\n##Step 5 — Now login back to postgres prmot and Grant privileges:\n>sudo -u postgres psql\n>grant all privileges on database darshanDB to darshan;\n\n##Step 6 — If you want to set a password:\n>ALTER USER user_name WITH PASSWORD 'new_password';\n>example : ALTER USER darshan WITH PASSWORD 'new_password';\n\n##Step 7 — Enable remote access to PostgreSQL server:\n>sudo vim /etc/postgresql/10/main/postgresql.conf\n ```changes in /etc/postgresql/10/main/postgresql.conf\n#------------------------------------------------------------------------------\n# CONNECTIONS AND AUTHENTICATION\n#------------------------------------------------------------------------------\n\n# - Connection Settings -\n\nlisten_addresses = '*'     # what IP address(es) to listen on;\n ```\n\n ##Step 8 — Now restart the postgres:\n >sudo service postgresql restart\n\n ###Step 9 - Verify the changes with the ss utility:\n >ss -nlt | grep 5432\n```\nLISTEN   0         128                 0.0.0.0:5432             0.0.0.0:*\nLISTEN   0         128                    [::]:5432                [::]:*\n```\n\n#All SET TO WORK!!!\n\n\n###Tools for postgres mac client\n- [**Postico**](https://eggerapps.at/postico/)\n- [**PostgresApp](https://postgresapp.com/)\n\n##Refrence and inspirations\n- https://linuxize.com/post/how-to-install-postgresql-on-ubuntu-18-04/\n- https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-18-04\n- https://stackoverflow.com/questions/12720967/how-to-change-postgresql-user-password\n\n",
+      "rawMarkdownBody": "\n\n###Prerequisites\nBefore continuing with this tutorial, make sure you are logged in as a user with sudo privileges.\n\n###Install PostgreSQL on Ubuntu\n\nAt the time of writing this article, the latest version of PostgreSQL available from the official Ubuntu repositories is PostgreSQL version 10.4.\n\n###To install PostgreSQL on your Ubuntu server follow the steps below:\n##Step 1:\n\n>sudo apt update\n\n>sudo apt install postgresql postgresql-contrib\n\n\n##Step 2 — Using PostgreSQL Roles and Databases:\n\n>sudo -i -u postgres\n\n>psql\n\n>sudo -u postgres psql\n\n##Step 3 — exit from postgres promt:\n>\\q\n\n##Step 4 — Create a new PostgreSQL Role:\n>sudo su - postgres -c \"createuser darshan\"\n\n##Step 5 — Create a new PostgreSQL Database:\n>sudo su - postgres -c \"createdb darshanDB\"\n\n##Step 5 — Now login back to postgres prmot and Grant privileges:\n>sudo -u postgres psql\n>grant all privileges on database darshanDB to darshan;\n\n##Step 6 — If you want to set a password:\n>ALTER USER user_name WITH PASSWORD 'new_password';\n>example : ALTER USER darshan WITH PASSWORD 'new_password';\n\n##Step 7 — Enable remote access to PostgreSQL server:\n>sudo vim /etc/postgresql/10/main/postgresql.conf\n ```changes in /etc/postgresql/10/main/postgresql.conf\n#------------------------------------------------------------------------------\n# CONNECTIONS AND AUTHENTICATION\n#------------------------------------------------------------------------------\n\n# - Connection Settings -\n\nlisten_addresses = '*'     # what IP address(es) to listen on;\n ```\n\n ##Step 8 — Now restart the postgres:\n >sudo service postgresql restart\n\n ###Step 9 - Verify the changes with the ss utility:\n >ss -nlt | grep 5432\n```\nLISTEN   0         128                 0.0.0.0:5432             0.0.0.0:*\nLISTEN   0         128                    [::]:5432                [::]:*\n```\n----------------------------------------------------------------\n-----------------------------------------------------------------\n<div align=\"center\">\n#All SET TO WORK!!!\n<div>\n\n-----------------------------------------------------------------\n-----------------------------------------------------------------\n\n###Tools for postgres mac client\n- [**Postico**](https://eggerapps.at/postico/)\n- [**PostgresApp](https://postgresapp.com/)\n\n##Refrence and inspirations\n- https://linuxize.com/post/how-to-install-postgresql-on-ubuntu-18-04/\n- https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-18-04\n- https://stackoverflow.com/questions/12720967/how-to-change-postgresql-user-password\n\n",
       "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/how-to-install-and-use-postgresql-on-ubuntu-18-04.md"
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "0cea0c4463f20e0f6b96127ba3ecfeb5"
+    "PLUGINS_HASH": "b234b36ad12e2eedfd4bc00e5b7374f6"
   },
   "componentDataDependencies": {
     "nodes": {
@@ -4255,11 +4257,17 @@
         "sq--src-components-layout-js",
         "sq--src-components-seo-js"
       ],
+      "baff9b04-d3fa-5923-aea8-a592a7145bbb": [
+        "/",
+        "/how-to-install-and-use-postgresql-on-ubuntu-18-04"
+      ],
       "3a1f6cdc-c46e-504e-9ea5-0f21c35ee757": [
         "/",
         "/coronavirus"
       ],
       "75e47675-a295-5916-ae49-b139de6f4663": [
+        "/",
+        "/hello",
         "/tag/aws",
         "/tag/devops",
         "/tag/bigdata",
@@ -4281,15 +4289,19 @@
         "/tag/heroku",
         "/tag/hire-nodejs-developer",
         "/tag/hire-full-stack-developer",
-        "/tag/hire-freelance-web-developer",
+        "/tag/hire-freelance-web-developer"
+      ],
+      "53a1d786-123f-52b4-8059-9619478b56b9": [
         "/",
-        "/hello"
+        "/how-to-install-and-use-postgresql-on-ubuntu-18-04"
       ],
       "d6954693-1b1a-57ca-8054-c931c75c9eac": [
         "/",
         "/coronavirus"
       ],
       "f11fc279-a310-57f8-816d-04975c1ee5ef": [
+        "/",
+        "/hello",
         "/tag/aws",
         "/tag/devops",
         "/tag/bigdata",
@@ -4311,9 +4323,7 @@
         "/tag/heroku",
         "/tag/hire-nodejs-developer",
         "/tag/hire-full-stack-developer",
-        "/tag/hire-freelance-web-developer",
-        "/",
-        "/hello"
+        "/tag/hire-freelance-web-developer"
       ],
       "e58fc77a-21af-5819-a464-2eda9b87edd1": [
         "/showcase"
@@ -4321,8 +4331,8 @@
       "66b77a2e-a497-5fbb-91b5-82c6b7d7454b": [
         "/full-stack-developer"
       ],
-      "431b498c-b754-5b55-bda3-5e82eabffb6b": [
-        "/coronavirus"
+      "fe70240e-0ab3-5f03-a7a4-5ac736604a2a": [
+        "/how-to-install-and-use-postgresql-on-ubuntu-18-04"
       ],
       "c2639869-3fde-5bbc-9625-800dcd8939ed": [
         "/full-stack-developer"
@@ -4330,22 +4340,14 @@
       "3ae16bab-f3ea-578b-ae2b-ba8c8e7139aa": [
         "/full-stack-developer"
       ],
+      "431b498c-b754-5b55-bda3-5e82eabffb6b": [
+        "/coronavirus"
+      ],
       "44870062-0054-51e7-999a-34a23233d5a1": [
         "/entrepreneur"
       ],
       "8864d128-c7cb-575d-98f5-a01b99790431": [
         "/hello"
-      ],
-      "baff9b04-d3fa-5923-aea8-a592a7145bbb": [
-        "/",
-        "/how-to-install-and-use-postgresql-on-ubuntu-18-04"
-      ],
-      "53a1d786-123f-52b4-8059-9619478b56b9": [
-        "/",
-        "/how-to-install-and-use-postgresql-on-ubuntu-18-04"
-      ],
-      "fe70240e-0ab3-5f03-a7a4-5ac736604a2a": [
-        "/how-to-install-and-use-postgresql-on-ubuntu-18-04"
       ]
     },
     "connections": {
@@ -4427,26 +4429,9 @@
     "coronavirus-463": "9/path---coronavirus-463-cb7-YNNBI5mImQFj7dgwKZ8BdZU7LQ",
     "full-stack-engineer-f41": "852/path---full-stack-engineer-f-41-4b1-QWBLqJ22Ca5JopE66tK3Z0lU",
     "full-stack-developer-c2a": "759/path---full-stack-developer-c-2-a-86d-ioQN65JJbGImrxvT9h2VGka7dY",
-    "how-to-install-and-use-postgresql-on-ubuntu-18-04-423": "185/path---how-to-install-and-use-postgresql-on-ubuntu-18-04-423-313-v1APOZlpcRJTRLkoT6VGf6NPqGE"
+    "how-to-install-and-use-postgresql-on-ubuntu-18-04-423": "363/path---how-to-install-and-use-postgresql-on-ubuntu-18-04-423-313-tCJFFzvFPCnU60E0z2MdFHgo1I"
   },
   "components": {
-    "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/.cache/dev-404-page.js": {
-      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/.cache/dev-404-page.js",
-      "query": "",
-      "pages": [
-        "/dev-404-page/"
-      ],
-      "isInBootstrap": true
-    },
-    "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/404.js": {
-      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/404.js",
-      "query": "",
-      "pages": [
-        "/404/",
-        "/404.html"
-      ],
-      "isInBootstrap": true
-    },
     "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/index.js": {
       "query": "query usersDarshankumarDgodDarshankumarComDarshankumarIoSrcTemplatesIndexJs157487334(\n  $limit: Int!\n  $skip: Int!\n) {\n  allMarkdownRemark(filter: {fileAbsolutePath: {regex: \"//posts//\"}}, sort: {fields: [frontmatter___date], order: DESC}, limit: $limit, skip: $skip) {\n    edges {\n      node {\n        id\n        excerpt\n        frontmatter {\n          title\n          date(formatString: \"DD MMMM YYYY\")\n          path\n          author\n          excerpt\n          tags\n          coverImage {\n            childImageSharp {\n              fluid(maxWidth: 800) {\n                ...GatsbyImageSharpFluid\n              }\n            }\n          }\n        }\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
       "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/index.js",
@@ -4496,17 +4481,26 @@
         "/tag/hire-freelance-web-developer"
       ],
       "isInBootstrap": false
+    },
+    "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/.cache/dev-404-page.js": {
+      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/.cache/dev-404-page.js",
+      "query": "",
+      "pages": [
+        "/dev-404-page/"
+      ],
+      "isInBootstrap": true
+    },
+    "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/404.js": {
+      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/pages/404.js",
+      "query": "",
+      "pages": [
+        "/404/",
+        "/404.html"
+      ],
+      "isInBootstrap": true
     }
   },
   "staticQueryComponents": {
-    "sq--src-components-layout-js": {
-      "name": "SiteTitleQuery",
-      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/components/layout.js",
-      "id": "sq--src-components-layout-js",
-      "jsonName": "sq--src-components-layout-js",
-      "query": "query SiteTitleQuery {\n  site {\n    siteMetadata {\n      title\n      logo {\n        src\n        alt\n      }\n      logoText\n      defaultTheme\n      copyrights\n      mainMenu {\n        title\n        path\n      }\n      showMenuItems\n      menuMoreText\n    }\n  }\n}\n",
-      "hash": 2892404432
-    },
     "sq--src-components-image-js": {
       "name": "usersDarshankumarDgodDarshankumarComDarshankumarIoSrcComponentsImageJs492526033",
       "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/components/image.js",
@@ -4514,6 +4508,14 @@
       "jsonName": "sq--src-components-image-js",
       "query": "query usersDarshankumarDgodDarshankumarComDarshankumarIoSrcComponentsImageJs492526033 {\n  placeholderImage: file(relativePath: {eq: \"images\"}) {\n    childImageSharp {\n      fluid(maxWidth: 800) {\n        ...GatsbyImageSharpFluid\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
       "hash": 492526033
+    },
+    "sq--src-components-layout-js": {
+      "name": "SiteTitleQuery",
+      "componentPath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/components/layout.js",
+      "id": "sq--src-components-layout-js",
+      "jsonName": "sq--src-components-layout-js",
+      "query": "query SiteTitleQuery {\n  site {\n    siteMetadata {\n      title\n      logo {\n        src\n        alt\n      }\n      logoText\n      defaultTheme\n      copyrights\n      mainMenu {\n        title\n        path\n      }\n      showMenuItems\n      menuMoreText\n    }\n  }\n}\n",
+      "hash": 2892404432
     },
     "sq--src-components-seo-js": {
       "name": "DefaultSEOQuery",
