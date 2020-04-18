@@ -2909,7 +2909,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "8087829ec8e0e55f97d58226226cd205",
+        "contentDigest": "0eece5b92bed6dc271e6d73f59686ea5",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"src/posts/how-to-install-and-use-postgresql-on-ubuntu-18-04.md\"",
@@ -2919,11 +2919,11 @@
       "absolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/how-to-install-and-use-postgresql-on-ubuntu-18-04.md",
       "relativePath": "how-to-install-and-use-postgresql-on-ubuntu-18-04.md",
       "extension": "md",
-      "size": 2903,
-      "prettySize": "2.9 kB",
-      "modifiedTime": "2020-04-18T20:47:43.979Z",
-      "accessTime": "2020-04-18T20:47:43.978Z",
-      "changeTime": "2020-04-18T20:47:43.979Z",
+      "size": 2879,
+      "prettySize": "2.88 kB",
+      "modifiedTime": "2020-04-18T20:51:36.487Z",
+      "accessTime": "2020-04-18T20:51:36.598Z",
+      "changeTime": "2020-04-18T20:51:36.487Z",
       "birthTime": "2020-04-18T19:48:39.565Z",
       "root": "/",
       "dir": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts",
@@ -2940,13 +2940,13 @@
       "blksize": 4096,
       "ino": 28308787,
       "blocks": 8,
-      "atimeMs": 1587242863978.2375,
-      "mtimeMs": 1587242863978.8796,
-      "ctimeMs": 1587242863978.8796,
+      "atimeMs": 1587243096598.1128,
+      "mtimeMs": 1587243096486.9373,
+      "ctimeMs": 1587243096486.9373,
       "birthtimeMs": 1587239319564.9167,
-      "atime": "2020-04-18T20:47:43.978Z",
-      "mtime": "2020-04-18T20:47:43.979Z",
-      "ctime": "2020-04-18T20:47:43.979Z",
+      "atime": "2020-04-18T20:51:36.598Z",
+      "mtime": "2020-04-18T20:51:36.487Z",
+      "ctime": "2020-04-18T20:51:36.487Z",
       "birthtime": "2020-04-18T19:48:39.565Z"
     },
     "44870062-0054-51e7-999a-34a23233d5a1": {
@@ -4229,9 +4229,9 @@
       "children": [],
       "parent": "a51253c4-f731-5a2c-8081-8a0630870918",
       "internal": {
-        "content": "\n\n###Prerequisites\nBefore continuing with this tutorial, make sure you are logged in as a user with sudo privileges.\n\n###Install PostgreSQL on Ubuntu\n\nAt the time of writing this article, the latest version of PostgreSQL available from the official Ubuntu repositories is PostgreSQL version 10.4.\n\n###To install PostgreSQL on your Ubuntu server follow the steps below:\n##Step 1:\n\n>sudo apt update\n\n>sudo apt install postgresql postgresql-contrib\n\n\n##Step 2 — Using PostgreSQL Roles and Databases:\n\n>sudo -i -u postgres\n\n>psql\n\n>sudo -u postgres psql\n\n##Step 3 — exit from postgres promt:\n>\\q\n\n##Step 4 — Create a new PostgreSQL Role:\n>sudo su - postgres -c \"createuser darshan\"\n\n##Step 5 — Create a new PostgreSQL Database:\n>sudo su - postgres -c \"createdb darshanDB\"\n\n##Step 5 — Now login back to postgres prmot and Grant privileges:\n>sudo -u postgres psql\n>grant all privileges on database darshanDB to darshan;\n\n##Step 6 — If you want to set a password:\n>ALTER USER user_name WITH PASSWORD 'new_password';\n>example : ALTER USER darshan WITH PASSWORD 'new_password';\n\n##Step 7 — Enable remote access to PostgreSQL server:\n>sudo vim /etc/postgresql/10/main/postgresql.conf\n ```changes in /etc/postgresql/10/main/postgresql.conf\n#------------------------------------------------------------------------------\n# CONNECTIONS AND AUTHENTICATION\n#------------------------------------------------------------------------------\n\n# - Connection Settings -\n\nlisten_addresses = '*'     # what IP address(es) to listen on;\n ```\n\n ##Step 8 — Now restart the postgres:\n >sudo service postgresql restart\n\n ###Step 9 - Verify the changes with the ss utility:\n >ss -nlt | grep 5432\n```\nLISTEN   0         128                 0.0.0.0:5432             0.0.0.0:*\nLISTEN   0         128                    [::]:5432                [::]:*\n```\n----------------------------------------------------------------\n-----------------------------------------------------------------\n<div align=\"center\">\n#All SET TO WORK!!!\n<div>\n\n-----------------------------------------------------------------\n-----------------------------------------------------------------\n\n###Tools for postgres mac client\n- [**Postico**](https://eggerapps.at/postico/)\n- [**PostgresApp](https://postgresapp.com/)\n\n##Refrence and inspirations\n- https://linuxize.com/post/how-to-install-postgresql-on-ubuntu-18-04/\n- https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-18-04\n- https://stackoverflow.com/questions/12720967/how-to-change-postgresql-user-password\n\n",
+        "content": "\n\n###Prerequisites\nBefore continuing with this tutorial, make sure you are logged in as a user with sudo privileges.\n\n###Install PostgreSQL on Ubuntu\n\nAt the time of writing this article, the latest version of PostgreSQL available from the official Ubuntu repositories is PostgreSQL version 10.4.\n\n###To install PostgreSQL on your Ubuntu server follow the steps below:\n##Step 1:\n\n>sudo apt update\n\n>sudo apt install postgresql postgresql-contrib\n\n\n##Step 2 — Using PostgreSQL Roles and Databases:\n\n>sudo -i -u postgres\n\n>psql\n\n>sudo -u postgres psql\n\n##Step 3 — exit from postgres promt:\n>\\q\n\n##Step 4 — Create a new PostgreSQL Role:\n>sudo su - postgres -c \"createuser darshan\"\n\n##Step 5 — Create a new PostgreSQL Database:\n>sudo su - postgres -c \"createdb darshanDB\"\n\n##Step 5 — Now login back to postgres prmot and Grant privileges:\n>sudo -u postgres psql\n>grant all privileges on database darshanDB to darshan;\n\n##Step 6 — If you want to set a password:\n>ALTER USER user_name WITH PASSWORD 'new_password';\n>example : ALTER USER darshan WITH PASSWORD 'new_password';\n\n##Step 7 — Enable remote access to PostgreSQL server:\n>sudo vim /etc/postgresql/10/main/postgresql.conf\n ```changes in /etc/postgresql/10/main/postgresql.conf\n#------------------------------------------------------------------------------\n# CONNECTIONS AND AUTHENTICATION\n#------------------------------------------------------------------------------\n\n# - Connection Settings -\n\nlisten_addresses = '*'     # what IP address(es) to listen on;\n ```\n\n ##Step 8 — Now restart the postgres:\n >sudo service postgresql restart\n\n ###Step 9 - Verify the changes with the ss utility:\n >ss -nlt | grep 5432\n```\nLISTEN   0         128                 0.0.0.0:5432             0.0.0.0:*\nLISTEN   0         128                    [::]:5432                [::]:*\n```\n----------------------------------------------------------------\n-----------------------------------------------------------------\n#All SET TO WORK!!!\n\n-----------------------------------------------------------------\n-----------------------------------------------------------------\n\n\n###Tools for postgres mac client\n- [**Postico**](https://eggerapps.at/postico/)\n- [**PostgresApp**](https://postgresapp.com/)\n\n##Refrence and inspirations\n- https://linuxize.com/post/how-to-install-postgresql-on-ubuntu-18-04/\n- https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-18-04\n- https://stackoverflow.com/questions/12720967/how-to-change-postgresql-user-password\n\n",
         "type": "MarkdownRemark",
-        "contentDigest": "14bf812cab5038c8b765b1eff6a405f7",
+        "contentDigest": "e3695434a440bf2c6f75d64c4090d63c",
         "owner": "gatsby-transformer-remark"
       },
       "frontmatter": {
@@ -4243,7 +4243,7 @@
         "coverImage": "../images/PostGRESQL_newlogo.png"
       },
       "excerpt": "",
-      "rawMarkdownBody": "\n\n###Prerequisites\nBefore continuing with this tutorial, make sure you are logged in as a user with sudo privileges.\n\n###Install PostgreSQL on Ubuntu\n\nAt the time of writing this article, the latest version of PostgreSQL available from the official Ubuntu repositories is PostgreSQL version 10.4.\n\n###To install PostgreSQL on your Ubuntu server follow the steps below:\n##Step 1:\n\n>sudo apt update\n\n>sudo apt install postgresql postgresql-contrib\n\n\n##Step 2 — Using PostgreSQL Roles and Databases:\n\n>sudo -i -u postgres\n\n>psql\n\n>sudo -u postgres psql\n\n##Step 3 — exit from postgres promt:\n>\\q\n\n##Step 4 — Create a new PostgreSQL Role:\n>sudo su - postgres -c \"createuser darshan\"\n\n##Step 5 — Create a new PostgreSQL Database:\n>sudo su - postgres -c \"createdb darshanDB\"\n\n##Step 5 — Now login back to postgres prmot and Grant privileges:\n>sudo -u postgres psql\n>grant all privileges on database darshanDB to darshan;\n\n##Step 6 — If you want to set a password:\n>ALTER USER user_name WITH PASSWORD 'new_password';\n>example : ALTER USER darshan WITH PASSWORD 'new_password';\n\n##Step 7 — Enable remote access to PostgreSQL server:\n>sudo vim /etc/postgresql/10/main/postgresql.conf\n ```changes in /etc/postgresql/10/main/postgresql.conf\n#------------------------------------------------------------------------------\n# CONNECTIONS AND AUTHENTICATION\n#------------------------------------------------------------------------------\n\n# - Connection Settings -\n\nlisten_addresses = '*'     # what IP address(es) to listen on;\n ```\n\n ##Step 8 — Now restart the postgres:\n >sudo service postgresql restart\n\n ###Step 9 - Verify the changes with the ss utility:\n >ss -nlt | grep 5432\n```\nLISTEN   0         128                 0.0.0.0:5432             0.0.0.0:*\nLISTEN   0         128                    [::]:5432                [::]:*\n```\n----------------------------------------------------------------\n-----------------------------------------------------------------\n<div align=\"center\">\n#All SET TO WORK!!!\n<div>\n\n-----------------------------------------------------------------\n-----------------------------------------------------------------\n\n###Tools for postgres mac client\n- [**Postico**](https://eggerapps.at/postico/)\n- [**PostgresApp](https://postgresapp.com/)\n\n##Refrence and inspirations\n- https://linuxize.com/post/how-to-install-postgresql-on-ubuntu-18-04/\n- https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-18-04\n- https://stackoverflow.com/questions/12720967/how-to-change-postgresql-user-password\n\n",
+      "rawMarkdownBody": "\n\n###Prerequisites\nBefore continuing with this tutorial, make sure you are logged in as a user with sudo privileges.\n\n###Install PostgreSQL on Ubuntu\n\nAt the time of writing this article, the latest version of PostgreSQL available from the official Ubuntu repositories is PostgreSQL version 10.4.\n\n###To install PostgreSQL on your Ubuntu server follow the steps below:\n##Step 1:\n\n>sudo apt update\n\n>sudo apt install postgresql postgresql-contrib\n\n\n##Step 2 — Using PostgreSQL Roles and Databases:\n\n>sudo -i -u postgres\n\n>psql\n\n>sudo -u postgres psql\n\n##Step 3 — exit from postgres promt:\n>\\q\n\n##Step 4 — Create a new PostgreSQL Role:\n>sudo su - postgres -c \"createuser darshan\"\n\n##Step 5 — Create a new PostgreSQL Database:\n>sudo su - postgres -c \"createdb darshanDB\"\n\n##Step 5 — Now login back to postgres prmot and Grant privileges:\n>sudo -u postgres psql\n>grant all privileges on database darshanDB to darshan;\n\n##Step 6 — If you want to set a password:\n>ALTER USER user_name WITH PASSWORD 'new_password';\n>example : ALTER USER darshan WITH PASSWORD 'new_password';\n\n##Step 7 — Enable remote access to PostgreSQL server:\n>sudo vim /etc/postgresql/10/main/postgresql.conf\n ```changes in /etc/postgresql/10/main/postgresql.conf\n#------------------------------------------------------------------------------\n# CONNECTIONS AND AUTHENTICATION\n#------------------------------------------------------------------------------\n\n# - Connection Settings -\n\nlisten_addresses = '*'     # what IP address(es) to listen on;\n ```\n\n ##Step 8 — Now restart the postgres:\n >sudo service postgresql restart\n\n ###Step 9 - Verify the changes with the ss utility:\n >ss -nlt | grep 5432\n```\nLISTEN   0         128                 0.0.0.0:5432             0.0.0.0:*\nLISTEN   0         128                    [::]:5432                [::]:*\n```\n----------------------------------------------------------------\n-----------------------------------------------------------------\n#All SET TO WORK!!!\n\n-----------------------------------------------------------------\n-----------------------------------------------------------------\n\n\n###Tools for postgres mac client\n- [**Postico**](https://eggerapps.at/postico/)\n- [**PostgresApp**](https://postgresapp.com/)\n\n##Refrence and inspirations\n- https://linuxize.com/post/how-to-install-postgresql-on-ubuntu-18-04/\n- https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-18-04\n- https://stackoverflow.com/questions/12720967/how-to-change-postgresql-user-password\n\n",
       "fileAbsolutePath": "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/posts/how-to-install-and-use-postgresql-on-ubuntu-18-04.md"
     }
   },
@@ -4429,7 +4429,7 @@
     "coronavirus-463": "9/path---coronavirus-463-cb7-YNNBI5mImQFj7dgwKZ8BdZU7LQ",
     "full-stack-engineer-f41": "852/path---full-stack-engineer-f-41-4b1-QWBLqJ22Ca5JopE66tK3Z0lU",
     "full-stack-developer-c2a": "759/path---full-stack-developer-c-2-a-86d-ioQN65JJbGImrxvT9h2VGka7dY",
-    "how-to-install-and-use-postgresql-on-ubuntu-18-04-423": "363/path---how-to-install-and-use-postgresql-on-ubuntu-18-04-423-313-tCJFFzvFPCnU60E0z2MdFHgo1I"
+    "how-to-install-and-use-postgresql-on-ubuntu-18-04-423": "84/path---how-to-install-and-use-postgresql-on-ubuntu-18-04-423-313-EaSx8I9tmhPME7Qx0DyLApvmX8"
   },
   "components": {
     "/Users/darshankumar/dgod/darshankumar.com/darshankumar.io/src/templates/index.js": {

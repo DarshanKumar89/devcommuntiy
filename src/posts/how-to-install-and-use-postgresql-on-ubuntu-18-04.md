@@ -71,16 +71,15 @@ LISTEN   0         128                    [::]:5432                [::]:*
 ```
 ----------------------------------------------------------------
 -----------------------------------------------------------------
-<div align="center">
 #All SET TO WORK!!!
-<div>
 
 -----------------------------------------------------------------
 -----------------------------------------------------------------
+
 
 ###Tools for postgres mac client
 - [**Postico**](https://eggerapps.at/postico/)
-- [**PostgresApp](https://postgresapp.com/)
+- [**PostgresApp**](https://postgresapp.com/)
 
 ##Refrence and inspirations
 - https://linuxize.com/post/how-to-install-postgresql-on-ubuntu-18-04/
