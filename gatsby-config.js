@@ -9,7 +9,7 @@ module.exports = {
 	siteMetadata: {
 		title: `Dev Community`,
 		description: `devcommunity`,
-		copyrights: 'copyright 2020 @ devcommunity',
+		copyrights: 'copyright 2020 @darshaneldorado',
 		author: `@darshankumar`,
 		logo: {
 			src: '',
