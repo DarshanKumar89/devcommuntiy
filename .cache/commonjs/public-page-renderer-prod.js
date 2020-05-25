@@ -11,17 +11,19 @@ var _propTypes = _interopRequireDefault(require("prop-types"));
 
 var _pageRenderer = _interopRequireDefault(require("./page-renderer"));
 
-var _loader = _interopRequireDefault(require("./loader"));
-
 const ProdPageRenderer = ({
-  location
+  location,
+  pageResources
 }) => {
-  const pageResources = _loader.default.getResourcesForPathnameSync(location.pathname);
+  if (!pageResources) {
+    return null;
+  }
 
-  return _react.default.createElement(_pageRenderer.default, Object.assign({
+  return _react.default.createElement(_pageRenderer.default, {
     location,
-    pageResources
-  }, pageResources.json));
+    pageResources,
+    ...pageResources.json
+  });
 };
 
 ProdPageRenderer.propTypes = {
