@@ -36,6 +36,11 @@
     },
     {
         "componentChunkName": "component---src-templates-page-js",
+        "jsonName": "full-stack-developer-old-736",
+        "path": "/full-stack-developer-old"
+    },
+    {
+        "componentChunkName": "component---src-templates-page-js",
         "jsonName": "hello-3ed",
         "path": "/hello"
     },

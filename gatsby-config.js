@@ -7,15 +7,15 @@ const postCSSMixins = require('postcss-mixins');
 
 module.exports = {
 	siteMetadata: {
-		title: `Darshan Kumar`,
-		description: `full stack engineer`,
-		copyrights: '2020',
+		title: `Dev Community`,
+		description: `devcommunity`,
+		copyrights: 'copyright 2020 @ devcommunity',
 		author: `@darshankumar`,
 		logo: {
 			src: '',
 			alt: ''
 		},
-		logoText: 'Darshan Kumar',
+		logoText: 'Dev Community',
 		defaultTheme: 'dark',
 		postsPerPage: 5,
 		showMenuItems: 2,
@@ -25,20 +25,20 @@ module.exports = {
 				title: 'About',
 				path: '/full-stack-developer'
 			},
+			// {
+			// 	title: 'Showcase',
+			// 	path: '/showcase'
+			// },
 			{
-				title: 'Showcase',
-				path: '/showcase'
-			},
-			{
-				title: 'entrepreneur',
+				title: 'Entrepreneur',
 				path: '/entrepreneur'
 			},
 			{
-				title: 'coronavirus',
+				title: 'Coronavirus',
 				path: '/coronavirus'
 			},
 			{
-				title: 'how-to-install-and-use-postgresql-on-ubuntu-18-04',
+				title: 'Postgresql in ubuntu',
 				path: '/how-to-install-and-use-postgresql-on-ubuntu-18-04'
 			}
 		]
