@@ -10,7 +10,7 @@ tags: ["aws", "devops", "bigdata","architect","founder","startup", "reactjs","an
 
 > "Hello, friend?" I'm Darshan living in Belgium. Gald to meet you...\
 > I am interested in Freelance/Contract basis, startup mentor + collaboration.\
-> Love to do solution design along with DevOps and full stack development.\
+> Love to do solution design along with DevOps and full stack engineer.\
 > We have to remember that...\
 > Oh Yeah!!.\
 > It's actually happened.\
