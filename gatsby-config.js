@@ -25,10 +25,6 @@ module.exports = {
 				title: 'About',
 				path: '/full-stack-developer'
 			},
-			// {
-			// 	title: 'Showcase',
-			// 	path: '/showcase'
-			// },
 			{
 				title: 'Entrepreneur',
 				path: '/entrepreneur'
